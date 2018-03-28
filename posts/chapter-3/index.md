@@ -80,14 +80,14 @@ Charts, such as the one above, were used to bring together all of these elements
 -->
 
 ## Tracing Periods of Expectation
-<!-- 
+
 ![**Figure 3.**: ](/images/topic-45.png)
 
 ![**Figure 3.**: ](/images/topic-130.png)
 
 ![**Figure 3.**: ](/images/topic-215.png)
 
-*Note: To avoid too many graphs, this will be an aggregation of all three topic areas*
+<!-- *Note: To avoid too many graphs, this will be an aggregation of all three topic areas*
 
 ![**Figure 3.**: ](/images/allData_aggregatedProphecyTopics.png)
 
