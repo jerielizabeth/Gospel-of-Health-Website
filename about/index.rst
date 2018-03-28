@@ -1,0 +1,60 @@
+.. title: Creating the Digital Dissertation
+.. date: 2017-11-07
+.. slug: about
+
+Here I set out to answer the proverbial questions asked of digital projects: why digital, how was it made, and what does "the digital" enable that would not be possible through another medium?
+
+First, what is a "digital dissertation" and how does it differ from an "electronic dissertation?" This is a useful clarification in terms of university infrastructure set up around the handling of dissertations and theses. An "electronic thesis or dissertation," frequently now accepted as the version of record for graduate students, is the electronic file used to produce a traditionally formatted, print dissertation. Typically in PDF format, this file is a book without the paper, structured for print, even though distributed in a digital format. The electronic dissertation, while representing a significant shift in the production and handling of the dissertation and thesis objects produced wihtin a university, conforms to the standard form and format of a printed final product.
+
+By contrast, a "digital dissertation" refers to a completed scholarly work that utilizes a medium other than a book to communicate, and one that is dependent upon a computational interface for its existence. This can take a wide variety of forms, from a website to a virtual world, and focus on variety of different types of computational mediation, from large data analysis to interface design to digital art. In fact, one productive analogy for the digital dissertation is a performance or choreographical work produced as part of a degree in the performing arts -- the intellectual, scholarly product is something that can never be "compressed" into a PDF or a book because it fundamentally relys on a different medium.
+
+However, crafting a more narrow definition of a digital dissertation is difficult because the medium that digital dissertations share can be used in a variety of different ways to produce a variety of different scholarly objects. [quick overview of major digital dissertations, include Kuhn; Visconti; Sharpe; Matt Lincoln; Heppler; Blevins]
+
+
+.. contents:: Sections
+   :depth: 2
+
+
+*******************
+Project Overview
+*******************
+
+*A Gospel of Health and Salvation* offers a methodological case study for application of computational algorithms to the study of history and religious culture. As a digital dissertation completed for the Department of History and Art History at George Mason University, I have designed the project to fit a number of different criteria. First, the history department has published guidelines for digital dissertation projects, publicly available at https://historyarthistory.gmu.edu/graduate/phd-history/digital-dissertation-guidelines. These stipulate that a digital dissertation include this framing introduction, which situates the project within its historiographical context, a [process statement](), [bibliography](), and the core modules, described in the next paragraph. In addition, for submission to the University Library, the project must include a properly formatted [PDF document]() and an archived version of the digital elements of the project for inclusion in the institutional repository. 
+
+Structure
+=========
+
+The primary module at the center of the dissertation is the [interactive model browser](), which enables the reader to explore the model through to the PDF scans and to filter the patterns based on different metadata criteria. Modified from Andrew Goldstone's [dfr-browser](http://agoldst.github.io/dfr-browser/), the browser brings together the model data from [Mallet]() together with the metadata I curated on the periodicals included in the study. Surrounding the browser are two interpretive essays based on the model of the Seventh-day Adventist periodical literature and one essay focused on methodology. The first interpretive essay argues that the recurring cycles of millennial expectation within the developing Seventh-day Adventist tradition kept the power structure of the denomination in a degree of flux, enabling Ellen White to retain her prophet role in the development of the denomination. The second essay argues that, despite a push for domesticity and respectability on the part of women, because of the ongoing on leadership of Ellen White, the domestic became integrated into the religious culture of Seventh-day Adventism ... 
+
+
+How to Read
+===========
+
+As you read *A Gospel of Health and Salvation*, I invite you to spend some time with the browser and to use the various filters to explore the patterns that I highlight in the interpretive essays and also to explore other patterns of interest. If you wish to build on this work for your own analysis, be sure to read the essay on methodology in order to evaluate whether the documents selected, the strategies for cleaning, and the strategies for modeling are appropriate for your desired questions. For readers who are interested in using similar techniques on different data sets, I have also released [a series of Jupyter Notebooks]() that document the computational processes I used throughout the project. 
+
+
+************************************
+Literate Code; Reproducible Research
+************************************
+
+As computational methods are increasingly embraced across various academic disciplines, there is a growing concern about how those computational methods are used and the need for processes where by those methods can be documented and reproduced. These efforts, 
+
+
+Digital Sources
+===============
+
+As with any digital project, *A Gospel of Health and Salvation* is dependent upon digital sources upon which to operate. The digital sources for *GoHS* were produced by 
+
+Computational Analysis
+======================
+
+
+
+Digital Publishing
+==================
+
+
+******************
+Build Instructions
+******************
+
