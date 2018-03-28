@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2018-02-13T07:35:00Z</lastmod>
+  <lastmod>2018-03-28T21:55:00Z</lastmod>
  </url>
  <url>
   <loc>/2018/</loc>
@@ -171,95 +171,19 @@
  </url>
  <url>
   <loc>/notebooks/</loc>
-  <lastmod>2018-02-13T07:35:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/</loc>
-  <lastmod>2018-02-15T01:07:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/corpus-description/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/create-US-places-wordlist/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/create-base-wordlist/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/create-bible-wordlist/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/create-sda-people-places-lists/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/download-corpus-files/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/example_OCR_cleaning/</loc>
-  <lastmod>2018-02-12T22:18:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-corpus/extract-text/</loc>
-  <lastmod>2018-02-12T22:19:00Z</lastmod>
+  <lastmod>2018-03-28T21:55:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/1-gather/</loc>
-  <lastmod>2018-02-13T07:36:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-gather/download-corpus-files/</loc>
-  <lastmod>2018-02-13T07:09:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/1-gather/extract-text/</loc>
-  <lastmod>2018-02-13T07:09:00Z</lastmod>
+  <lastmod>2018-03-28T21:55:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/2-clean/</loc>
-  <lastmod>2018-02-15T01:07:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/calculate-error-rates/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/create-US-places-wordlist/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/create-base-wordlist/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/create-bible-wordlist/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/create-sda-people-places-lists/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/example_OCR_cleaning/</loc>
-  <lastmod>2018-02-13T07:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/2-clean/vocabulary-report/</loc>
-  <lastmod>2018-02-13T07:09:00Z</lastmod>
+  <lastmod>2018-03-28T21:55:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/3-describe/</loc>
   <lastmod>2018-02-13T07:10:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/3-describe/corpus-description/</loc>
-  <lastmod>2018-02-13T07:09:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/4-preprocess/</loc>
@@ -272,22 +196,6 @@
  <url>
   <loc>/notebooks/6-analyze/</loc>
   <lastmod>2018-02-13T07:11:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/chapter-2/</loc>
-  <lastmod>2018-01-22T18:09:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/chapter-2/example_OCR_cleaning/</loc>
-  <lastmod>2018-01-22T18:09:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/corpus/</loc>
-  <lastmod>2018-02-15T01:07:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/corpus/example_OCR_cleaning/</loc>
-  <lastmod>2018-02-12T22:16:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/data/</loc>
