@@ -1,0 +1,24 @@
+why topic modeling
+- unsupervised: works on the texts without the operator assigning categories. Useful when working with a large collection of unknown things.
+- modeling of collocations based on the document (in this case the page): focus on the documents, rather than the words; also provides flexibility when working with problematic texts.
+- provides more general summary of the documents by using percentage of words that tend to occur together.
+
+
+For this project, I chose to use the MALLET implementation of LDA. 
+- see what is possible with a generic modeling of topics
+- the original implementation is agnostic with regard to time. 
+- comparison to results from correlated topic models or from multiple corpora models may prove instructive.
+-   
+
+ - LDA
+    - advantages:
+        - words can belong to multiple topics
+        - documents are composed of multiple topics
+        - well supported implementations
+    - Varieties
+        - correlated topic models
+        - dynamic topic models
+        - multiple corpora topic models
+    
+
+    - why plain LDA?

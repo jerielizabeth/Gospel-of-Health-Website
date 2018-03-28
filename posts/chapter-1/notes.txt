@@ -1,0 +1,62 @@
+## Seventh-day Adventism & American Millennialism
+(outline of denominational history) | (lit review section)
+
+### 19th Century Revivals and the Millerites
+
+### The Rise of Ellen G. White 
+
+### Organization and Health Reform
+
+### The Denomination Matures
+
+
+---
+
+## Thoughts in Process
+
+Seventh-day Adventism developed over the nineteenth century as a dispersed 
+. Convinced that the second coming was at hand, they were reluctant in their creation of institutions, focusing primarily on those elements that would best help them address whatever challenge was seen as holding the second coming at bay. 
+
+While the leadership of the denomination was primarily guided by Ellen White and twelve male "patriarchs," the 
+
+
+examine the end-times beliefs of Seventh-day Adventism and the resulting religious culture as a case study for the application of computational analysis, visualization, and interactive modes of publication to the study of history. This dissertation
+
+One of the reoccurring feature of American religious life and practice has been the revival and millennial anticipation. From the Puritan's dream of a "City on a Hill" to the Left Behind series and the May 21st movement of the current day, American Protestants have sought to understand themselves and their history in terms of redemptive history, as living in the "last days" of God's redemptive plan for humanity.
+
+However, while this undercurrent of millennialism, closely tied to American exceptionalism, has a robust presence in US history, the particular formulations have changed and shifted over time, reflecting the cultural and social realities of believers. 
+
+Seventh-day Adventism offers a third option for understanding the religious and cultural trends of the nineteenth-century. For much of its early history, Seventh-day Adventism occupied a precarious space on the edges of "respectable" evangelical practice. Emphatic in distinguishing themselves from more radical groups such as Spiritualist and Later-day Saints, they also rejected the established churches as 
+
+"anti-ritualism presents a complex pattern: an initial conflation of female and male religious iconoclasm followed by the reassertion of ritual and order by male religious radicals, and its acceptance by some, though not all, women."^[@Smith-Rosenberg1986, p. 135]
+
+Exploring and offering an explanation for the waves of religious revival and innovation  that have occurred with regular frequency in US history has long been a topic for historical research. From Whitney Cross's *Burned Over District* to Nathan Hatch's *Democratization of American Christianity* and  ... [Mary Ryan; CSR]
+Often, however, these studies have looked at the movements as a whole, across religious traditions, and at particular points in times and places, with the so-called "Second Great Awakening" of the early nineteenth-century looming large in the historical materials. These studies help us to see larger patterns of religious enthusiasm, and offer the useful insight into the links between economic upheaval and the appeal of radical religious expressions, particularly for women and for those on the margins of society.
+
+However, the study of nineteenth-century religion has tended toward the extremes
+
+While the early follower of William Miller came from young, displaced, and marginal identified by Carroll Smith-Rosenberg and others as likely to embrace the anti-ritualism of revival movements, their conversion was sincere. They truly believed that the Bible, properly understood, indicated October 21, 1844, as the date of Jesus' second coming and the start of the final judgment and the close of the history of redemption.
+
+Most of the work on nineteenth-century evangelicalism examines large patterns across evangelical traditions, pointing to the role of revivalism in the rise of the "middle class" or the contributions to empire and globalization.^[Cross (?); Bebbington/Hunter] Denominational studies of the nineteenth century have tended to focus either on the main evangelical denominations of the Baptists, Methodists, and Presbyterians or on those who broke entirely with traditional Protestantism, such as Latter-day Saints, Spiritualists, or the always fun Utopian movements such as Oneida.^[cite list] Less common are sustained studies of those Protestant movements which occupy spaces on the edges of Protestant orthodoxy, who 
+
+"Religious enthusiasm and religious ritual as liturgical forms constitute one of the symbolic languages individuals use to express social experiences ... Reading nineteenth-century women's religious responses -- women's espousal of anti-ritualism or, conversely, their renunciation of discord and reaffirmation of structure -- as a symbolic discourse, we will begin to hear ancient voices of women reflecting upon the social changes that transformed their lives, demanding new roles, resisting or acquiescing in the restoration of social order, talking | without stop through fifty years of religious enthusiasm about their emotional, economic, and institutional experiences."^[@Smith-Rosenberg1986, pp. 139-140]
+
+Ellen White creating rituals that embedded within Seventh-day Adventism a "counter-culture" of sorts, and one that provided additional avenues for female agency and religious activity than is found in other evangelical groups. While the types of activities are similar (health, domestic concerns/child-raising, correspondence, missions), White used her role as prophet to couple these ritual activities to theological understandings of salvation, and supported an "in the world but not of the world" culture for the developing denomination. Respectable but not urban; economic stability, but not capitalistic; pessimistic American exceptionalism; domestic but engaged. The reassertion of these rituals can be seen around periods of end-times expectation (I hope), as periods of unrest threatened to upset the balance of the denomination. After her death in 1915, the denomination struggled to maintain that balance ^[Vance], as women increasingly lost authority as the denomination began to align more closely with American fundamentalists. However, the rituals that White helped embed run deep, still seen in the dedication of lay members, the focus on education and health care, and the communal culture (?). 
+
+"Anti-ritualism, Douglas maintains, does not constitute a revolt against excessive structure. Rather, we must see it as an expressive medium possible only within societies or among social groups where institutional structure, hierarchical arrangements, and social control exert minimal pressure."^[@Smith-Rosenberg1986, p. 140]
+
+By and large, the founders of Seventh-day Adventism shared with a number of traits with those predominantly found among the converts of nineteenth-century revivals: they were young, they were mobile, and they were economically liminal.^[@Smith-Rosenberg1986, p. 147. Quoting Mary Ryan]
+
+"But, once carried away by revivalistic disorder, once swept up by millennialist efforts to remake their world and their neighbors, these women changed in ways neither they nor their male religious mentors had anticipated. By the time they had returned to bourgeois society, they had changed, and by changing they transformed the world around them."^[@Smith-Rosenberg1986, p. 155]
+
+"But in the hierarchically structured eighteenth century, this female inferiority was always relative to same-class men ... As egalitarian rhetoric came increasingly to characterize the political world and educational principles of this Era of the Common Man, women were transformed into the inferiors not only of same-class men but of all white men. Moreover, whereas the traditional world of the eighteenth century assumed inequality as man's natural lot, the nineteenth century condemned and denigrated it -- for all white men."^[@Smith-Rosenberg1986, p. 159]
+
+From billboards to radio spots, missions trips, and internet forums, 
+On May 21, 2011, following months of a media campaign that included billboards,  missions trips, and internet forums, 
+the followers of Harold Camping experienced a crisis of faith, one born out of the unfulfilled expectation of the second coming of Jesus and the launch of the next stage of human history. 
+^[Charles Sarno has collaborated on two recent sociological studies of Camping and the May 21 Movement. As noted by Sarno, this was not the first time Camping preached that the second coming was at hand, having earlier determined 1994 to be the indicated date of Jesus return. See @Sarno2015 and @Sarno2016]
+
+Such crises, a perhaps surprisingly regular feature of American Protestantism, have received much attention from scholars of American religious history and American culture. 
+* secondary lit on American Millennialism
+* major themes - what is missing?
+* 
