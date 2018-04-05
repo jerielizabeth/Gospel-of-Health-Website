@@ -739,9 +739,10 @@ body{
 }
 
 .post-text  {
-    max-width: 60%;
+    max-width: 730px;
     margin-left: auto;
     margin-right: auto;
+    padding:0 20px;
     font-family: 'Source Sans Pro', Arial, 'sans-serif';
     font-size: 17px;
     font-weight: 400;
@@ -773,7 +774,6 @@ figcaption {
     font-size: 1.4rem;
     line-height: 2rem;
     padding-bottom: 3rem;
-    font-style: italic;
 }
 
 pre {
@@ -796,4 +796,10 @@ h4 {
 
 table {
     margin-bottom: 20px;
+}
+
+.embedded-image {
+    float: left;
+    max-width: 45%;
+    padding-right: 1%;
 }

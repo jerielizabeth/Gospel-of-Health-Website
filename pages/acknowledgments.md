@@ -5,7 +5,7 @@
 
  -->
 
-A dissertation is a work of endurance that, although attributed to a single scholar, is a work only possible because of an intellectual community around it. This is particularly true for in the case of digital work 
+<!-- A dissertation is a work of endurance that, although attributed to a single scholar, is a work only possible because of an intellectual community around it. This is particularly true for in the case of digital work 
 
 I have had the privilege of working with an exceptional dissertation committee who have been deeply supportive of my historical and digital work. 
 
@@ -31,4 +31,4 @@ Mom and Dad: value of education and the persistence of asking why. Lisa and Bob:
 
 And most of all, to Jason. You have been my constant companion and cheerleader through these past ten years of graduate work. Thank you for not letting me give up and for believing in me even when I didn't. I promise, no more degrees. At least not for awhile.
  
-Finally, this dissertation is dedicated to my mom, Paulina Meninga. You were the first to teach me to ask why, to get to the point, and to not stop until my arguments held water. This is for you.
+Finally, this dissertation is dedicated to my mom, Paulina Meninga. You were the first to teach me to ask why, to get to the point, and to not stop until my arguments held water. This is for you. -->

@@ -160,12 +160,13 @@ NAVIGATION_LINKS = {
         ),
         ("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
         # ("/topics/", "Topics"),
+        ("http://gospel-of-health-and-salvation.readthedocs.io/en/latest/", "GoH Documentation"),
         (
             (
-                # ("/about/", "Project Documentation"),
-                # ("/acknowledgements/", "Acknowledgements"),
+                ("/acknowledgments/", "Acknowledgments"),
+                ("/bibliography/", "Bibliography"),
+                ("/about/", "Project Documentation"),
                 ("/author/", "About the Author"),
-                # ("/bibliography/", "Bibliography"),
             ),
             "About"
         ),
@@ -239,6 +240,7 @@ PAGES = (
     ("pages/notebooks/*/*.md", "notebooks/", "page.tmpl"),
     ("pages/notebooks/*/*.ipynb", "notebooks/", "page.tmpl"),
     ("pages/notebooks/*/*.rst", "notebooks/", "page.tmpl"),
+    ("pages/docs/*.html", "", "page.tmpl"),
 )
 
 
