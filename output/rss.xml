@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A Gospel of Health and Salvation</title><link>/</link><description>Dissertation produced in partial completion of the requirements for the Doctor of Philosophy in History at George Mason University</description><atom:link href="/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:jeri.elizabeth@gmail.com"&gt;Jeri E. Wieringa&lt;/a&gt; </copyright><lastBuildDate>Thu, 05 Apr 2018 19:18:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Anticipating the End of Time</title><link>/essays/chapter-3/</link><dc:creator>Jeri E. Wieringa</dc:creator><description>&lt;!-- 
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A Gospel of Health and Salvation</title><link>/</link><description>Dissertation produced in partial completion of the requirements for the Doctor of Philosophy in History at George Mason University</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:jeri.elizabeth@gmail.com"&gt;Jeri E. Wieringa&lt;/a&gt; </copyright><lastBuildDate>Fri, 06 Apr 2018 17:56:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Anticipating the End of Time</title><link>/essays/chapter-3/</link><dc:creator>Jeri E. Wieringa</dc:creator><description>&lt;!-- 
 .. date: 2018-03-15
 .. title: Anticipating the End of Time
 .. slug: chapter-3
@@ -39,9 +39,9 @@
 &lt;table&gt;
 &lt;caption&gt;Topics Corresponding to the Explication of Prophetic Texts. Model Generated with Mallet, using 250 topics and random seed of 18497.&lt;/caption&gt;
 &lt;colgroup&gt;
-&lt;col style="width: 13%"&gt;
-&lt;col style="width: 64%"&gt;
-&lt;col style="width: 21%"&gt;
+&lt;col style="width: 10%"&gt;
+&lt;col style="width: 60%"&gt;
+&lt;col style="width: 28%"&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
@@ -80,6 +80,8 @@
 &lt;/figure&gt;
 &lt;/div&gt;
 &lt;p&gt;[ This section will be a discussion of how the different topics are used at different points in time - while the words are the same, the purposes shift and develop over time. ]&lt;/p&gt;
+&lt;p&gt;[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida gravida rutrum. Nulla maximus magna ac nisi egestas, a pharetra arcu sodales. In laoreet tortor et orci pellentesque, non laoreet tortor ornare. In convallis orci eget gravida placerat. Vivamus accumsan ex non justo sagittis tincidunt. Duis maximus ante sem, non malesuada urna tempor vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In mattis tempus velit quis suscipit. Nulla facilisi.&lt;/p&gt;
+&lt;p&gt;Suspendisse fringilla, erat sed ultricies fermentum, nisi eros faucibus nulla, in mollis dui est eget nibh. Cras imperdiet tellus quam, nec bibendum neque varius molestie. Donec placerat ex non velit semper, vitae molestie arcu dictum. Vivamus fermentum porttitor ex ut vestibulum. Pellentesque fringilla condimentum aliquet. Aenean ante ex, semper eu justo in, consequat sagittis massa. Vestibulum sit amet feugiat nulla, non pellentesque justo. Ut a convallis enim. Phasellus sollicitudin pretium pulvinar. Morbi facilisis nulla at mauris aliquam scelerisque. Donec et placerat arcu.]&lt;/p&gt;
 &lt;!-- Throughout the first ten years of their periodical writing, 
 
 Concern with the particulars of Miller's interpretation was particularly prevalent in the first five years of the denomination's publishing history, when the early denominational leaders sought to establish themselves as the true heirs of Miller and as they understood their message to be primarily for an adventist audience.^[] While the overall discussion declined, particularly after the 1870s, authors still returned to Daniel and Revelations to explain to readers ...  --&gt;
