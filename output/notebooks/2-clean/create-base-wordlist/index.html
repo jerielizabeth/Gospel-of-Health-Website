@@ -1,0 +1,2460 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1. Creating a Base Wordlist for OCR Evaluation | A Gospel of Health and Salvation</title>
+<link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href=".">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="../../../assets/css/bigfoot-number.css">
+<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<meta name="author" content="Jeri E. Wieringa">
+<meta property="og:site_name" content="A Gospel of Health and Salvation">
+<meta property="og:title" content="1. Creating a Base Wordlist for OCR Evaluation">
+<meta property="og:url" content="/notebooks/2-clean/create-base-wordlist/">
+<meta property="og:description" content="So far in this series I have discussed gathering a collection of texts, extracting the text, and identifying the coverage of the corpus. My next step is to assess the quality of the source base.
+Becau">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2017-08-23T00:00:00-07:00">
+<meta property="article:tag" content="cleaning">
+<meta property="article:tag" content="corpus_creation">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../../">
+
+                <span id="blog-title">A Gospel of Health and Salvation</span>
+            </a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+            <ul class="nav navbar-nav">
+<li>
+<a href="../../../overview/">Project Overview</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Essays <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../../essays/chapter-1/">1. The Emergence of Seventh-day Adventism</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-2/">2. Constructing Computational Models</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-3/">3. Anticipating the End of Time</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-4/">4. Domestic Authority through Health</a>
+            </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Notebooks <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../">Overview</a>
+                    </li>
+<li>
+<a href="../../1-gather/">1. Gather</a>
+                    </li>
+<li>
+<a href="../">2. Clean</a>
+                    </li>
+<li>
+<a href="../../3-describe/">3. Describe</a>
+                    </li>
+<li>
+<a href="../../4-preprocess/">4. Preprocess</a>
+                    </li>
+<li>
+<a href="../../5-model/">5. Model</a>
+                    </li>
+<li>
+<a href="../../6-analyze/">6. Analyze</a>
+                    </li>
+<li>
+<a href="../../data/">Data</a>
+            </li>
+</ul>
+</li>
+<li>
+<a href="http://browser.dissertation.jeriwieringa.com">Model Browser</a>
+                </li>
+<li>
+<a href="http://goh.readthedocs.io/en/latest/">GoH Documentation</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../../acknowledgments/">Acknowledgments</a>
+                    </li>
+<li>
+<a href="../../../bibliography/">Bibliography</a>
+                    </li>
+<li>
+<a href="../../../about/">Project Documentation</a>
+                    </li>
+<li>
+<a href="../../../author/">About the Author</a>
+            </li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+    <a href="index.ipynb" id="sourcelink">Source</a>
+    </li>
+
+                
+            </ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+            
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">1. Creating a Base Wordlist for OCR Evaluation</a></h1>
+
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div tabindex="-1" id="notebook" class="border-box-sizing">
+    <div class="container" id="notebook-container">
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>So far in this series I have discussed <a href="http://jeriwieringa.com/2017/04/25/gathering-sources/">gathering a collection of texts</a>, <a href="http://jeriwieringa.com/2017/04/27/Extract-Text-from-PDFs/">extracting the text</a>, and <a href="http://jeriwieringa.com/2017/05/05/know-your-sources-1/">identifying the coverage</a> of the corpus. My next step is to assess the quality of the source base.</p>
+<p>Because I am interested in problems of categorization and discourse, it is important that I have a mechanism to verify that the text layer provides a sufficiently accurate representation of the original print. While processes such as keyword search or computing document similarity can be performed so as to be resilient to OCR errors, an abundance of errors in the text used in topic modeling would make the topic models unreliable for identifying documents and for surfacing patterns of discourse.<sup class="footnote-ref" id="fnref-4"><a href="#fn-4" rel="footnote">1</a></sup> Without some external information against which to compare the text, it is impossible to know what the overall "health" of the corpus is, to identify what steps need to be taken to improve the quality of the text, and to determine whether the steps I take are effective.</p>
+<p>Unlike the newspapers digitized by the <em><a href="http://chroniclingamerica.loc.gov/">Chronicling America</a></em> project, which are encouraged to include "confidence level data" in the OCR data by the Library of Congress guidelines,<sup class="footnote-ref" id="fnref-1"><a href="#fn-1" rel="footnote">2</a></sup> the interface provided by the SDA provides very little information about the processes by which the periodicals were digitized and the expected quality of the OCR. As a result, the quality of the resulting text layers is obscured. A brief glance through the resulting text files suggests that OCR is of average quality -- good enough to be legible but with enough errors to raise concerns. At the same time, the age of the periodicals and the idiosyncrasies of 19th century typography and layout suggest that these documents contain sections that were likely a challenge for the OCR engine.</p>
+<p>There are two general methods for evaluating the accuracy of transcribed textual data: comparison of the generated text to some "ground truth" (text that is known to be accurate) or comparison of the generated text to a bank of known words.</p>
+<p>The first method is used by Simon Tanner, Trevor Muñoz, and Pich Hemy Ros in their evaluation of the OCR quality of the British Library's 19th Century Online Newspaper Archive. Working with a sample of 1% of the 2 million pages digitized by the British Library, the team calculated the highest rates of OCR accuracy achieved by comparing the generated XML text to a "double re-keyed" ground-truth version.<sup class="footnote-ref" id="fnref-2"><a href="#fn-2" rel="footnote">3</a></sup> Having a verified ground-truth document enabled the team to provide accurate results about the quality of generated texts (which were generally disappointing, particularly for proper nouns and "significant" or content words). Their approach, however, is labor and time intensive -- more than can be taken on by most individual scholars with limited financial resources.</p>
+<p>The second approach, which the <em><a href="http://mappingtexts.org/">Mapping Texts</a></em> team used for their analysis of the OCR accuracy of the Texas newspapers in <em><a href="http://chroniclingamerica.loc.gov/">Chronicling America</a></em>, is to compare the generated text to an authoritative wordlist and compute the number of words outside the approved set.<sup class="footnote-ref" id="fnref-6"><a href="#fn-6" rel="footnote">4</a></sup> This approach is easier to implement, as it takes much less time to compile a list of relevant words than to re-key even a 1% sample of the text. However, the results are less accurate. The method is blind to places where the OCR engine produced a word that, while in the wordlist, does not match the text on the page or where spelling variations that occur on the page are flagged as OCR errors because they are not included in the word list. Because of the possibility of both false positives and false negatives, the results are an approximate representation of the accuracy of the OCR.</p>
+<p>Weighing the disadvantages of both approaches, I chose to use the second method, comparing the generated OCR to an authoritative wordlist. This method was the most practical for me to implement within the constraints of the dissertation. In addition, a bank of subject appropriate words has utility for automated spelling correction, as is suggested in the research of Thomas Lasko and Susan Hauser on methods for OCR correction of the text from the National Library of Medicine.<sup class="footnote-ref" id="fnref-5"><a href="#fn-5" rel="footnote">5</a></sup> These factors shaped my decision to evaluate the quality of the extracted text by comparing it to an external word list.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-4"><p>Recent studies on text reuse have effectively used ngram comparison to find reuse despite differences attributable to errors in character recognition or minor editorial rephrasing. (See Mullen (2016), <a href="http://americaspublicbible.org/methods.html">http://americaspublicbible.org/methods.html</a> and Smith, Cordell, Dillon (2013), “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers,” <em>2013 IEEE International Conference on Big Data</em>. doi: <a href="http://dx.doi.org/10.1109/BigData.2013.6691675">http://dx.doi.org/10.1109/BigData.2013.6691675</a>) However, research in the field of information retrieval has found that algorithms that factor the relative prevalence of words in a corpus are negatively effected by high OCR rates. (See Taghva, Kazem, Thomas Nartker, and Julie Borsack. “Information Access in the Presence of OCR Errors.” <i>Proceedings of the 1st ACM workshop on Hardcopy document processing</i> the 1st ACM workshop (2004): 1–8. doi: <a href="http://dx.doi.org/10.1145/1031442.1031443">http://dx.doi.org/10.1145/1031442.1031443</a>).<a href="#fnref-4" rev="footnote">↩</a></p></li>
+<li id="fn-1"><p>“The National Digital Newspaper Program (NDNP) Technical Guidelines for Applicants.” <em>Library of Congress</em> (2016): p. 11. <a href="http://www.loc.gov/ndnp/guidelines/NDNP_201517TechNotes.pdf">http://www.loc.gov/ndnp/guidelines/NDNP_201517TechNotes.pdf</a><a href="#fnref-1" rev="footnote">↩</a></p></li>
+<li id="fn-2"><p>Tanner, Simon, Trevor Muñoz, and Pich Hemy Ros. “Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned From Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive.” <em>D-Lib Magazine</em> 15, no. 7/8 (2009): §5. doi: <a href="http://dx.doi.org/10.1045/july2009-munoz">http://dx.doi.org/10.1045/july2009-munoz</a><a href="#fnref-2" rev="footnote">↩</a></p></li>
+<li id="fn-6"><p>Torget, Andrew J., Mihalcea, Rada, Christensen, Jon, and McGhee, Geoff. “Mapping Texts: Combining Text-Mining and Geo-Visualization to Unlock the Research Potential of Historical Newspapers.” <i>Mapping Texts</i> (2011): Accessed March 29, 2017. <a href="http://mappingtexts.org/whitepaper/MappingTexts_WhitePaper.pdf">http://mappingtexts.org/whitepaper/MappingTexts_WhitePaper.pdf</a>.<a href="#fnref-6" rev="footnote">↩</a></p></li>
+<li id="fn-5"><p>Lasko, Thomas A., and Susan E. Hauser. “Approximate String Matching Algorithms for Limited-Vocabulary OCR Output Correction.” <i>Proceedings of SPIE</i> 4307 (2001): 232–40. doi: <a href="http://dx.doi.org/10.1117/12.410841">http://dx.doi.org/10.1117/12.410841</a><a href="#fnref-5" rev="footnote">↩</a></p></li>
+</ol>
+</div>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="NLTK-'words'-Corpus">NLTK 'words' Corpus<a class="anchor-link" href="#NLTK-'words'-Corpus">¶</a>
+</h2>
+<p>My first choice of wordlists was the NLTK <code>words.words</code> list, as this is a standard word bank used in many projects. The first stop for documentation on published datasets, including wordlists, is the included README file. The README file at the base of the NLTK words corpus contains the following sparse lines:</p>
+<blockquote>
+<p>Wordlists</p>
+<p>en: English, <a href="http://en.wikipedia.org/wiki/Words_(Unix">http://en.wikipedia.org/wiki/Words_(Unix</a>)
+en-basic: 850 English words: C.K. Ogden in The ABC of Basic English (1932)</p>
+</blockquote>
+<p>The linked Wikipedia article contains only a little more information:</p>
+<blockquote>
+<p>words is a standard file on all Unix and Unix-like operating systems, and is simply a newline-delimited list of dictionary words. It is used, for instance, by spell-checking programs.[1]</p>
+<p>The words file is usually stored in /usr/share/dict/words or /usr/dict/words.</p>
+<p>On Debian and Ubuntu, the words file is provided by the wordlist package, or its provider packages wbritish, wamerican, etc. On Fedora and Arch, the words file is provided by the words package.</p>
+</blockquote>
+<p>Fortunately, my personal computer runs on a "Unix-like" operating system, so I was able to gather the following additional information from the README in the suggested <code>/usr/dict/words</code> directory.</p>
+<blockquote>
+<p>Welcome to web2 (Webster's Second International) all 234,936 words worth.
+The 1934 copyright has lapsed, according to the supplier.  The
+supplemental 'web2a' list contains hyphenated terms as well as assorted
+noun and adverbial phrases.</p>
+</blockquote>
+<p>Here at last we have information about the source of the collection of words so frequently used for American English spell-checking programs. However, it is not clear whether or not this is the correct file, as the original link also referenced the wordlist packages in Debian and Ubuntu systems. To confirm that NLTK is using the list of words derived from Webster's Second International Dictionary, I used set comparison to identify the overlap between the two lists.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Comparing-NTLK-words-to-web2">Comparing NTLK <code>words</code> to <code>web2</code><a class="anchor-link" href="#Comparing-NTLK-words-to-web2">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [1]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="sd">''' You may receive an error message noting that you need to download the words corpus from NTLK. </span>
+<span class="sd">Follow the instructions in the error message and then rerun the cell.</span>
+<span class="sd">'''</span>
+<span class="kn">from</span> <span class="nn">nltk.corpus</span> <span class="k">import</span> <span class="n">words</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [2]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Function for pulling words from a txt file</span>
+<span class="k">def</span> <span class="nf">load_from_txt</span><span class="p">(</span><span class="n">file_name</span><span class="p">):</span>
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file_name</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="k">as</span> <span class="n">txt</span><span class="p">:</span>
+        <span class="n">words</span> <span class="o">=</span> <span class="n">txt</span><span class="o">.</span><span class="n">read</span><span class="p">()</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+    <span class="k">return</span><span class="p">(</span><span class="n">words</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [3]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">nltk_list</span> <span class="o">=</span> <span class="p">[</span><span class="n">w</span> <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">words</span><span class="o">.</span><span class="n">words</span><span class="p">()]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We can get an overview of the list by examining the number of words, and printing out the first 10.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [4]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">nltk_list</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[4]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>235892</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [5]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">nltk_list</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[5]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['A',
+ 'a',
+ 'aa',
+ 'aal',
+ 'aalii',
+ 'aam',
+ 'Aani',
+ 'aardvark',
+ 'aardwolf',
+ 'Aaron']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [6]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">web2_list</span> <span class="o">=</span> <span class="n">load_from_txt</span><span class="p">(</span><span class="s1">'/usr/share/dict/web2'</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">web2_list</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[7]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>235886</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [8]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">web2_list</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[8]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['A',
+ 'a',
+ 'aa',
+ 'aal',
+ 'aalii',
+ 'aam',
+ 'Aani',
+ 'aardvark',
+ 'aardwolf',
+ 'Aaron']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>At this point, it seems likely that the two lists are similar, though not quite identical. To identify the differences, I used set comparison to quickly reveal where the list do not overlap.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [9]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="sd">'''Use set().symmetric_difference(set()) to return the list of items that are in either list,</span>
+<span class="sd">but not in both lists. This provides a quick snapshot of the discontinuities between the two lists.</span>
+<span class="sd">See https://docs.python.org/3.5/library/stdtypes.html#set-types-set-frozenset for more details. </span>
+<span class="sd">'''</span>
+<span class="nb">set</span><span class="p">(</span><span class="n">nltk_list</span><span class="p">)</span><span class="o">.</span><span class="n">symmetric_difference</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">web2_list</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[9]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'behaviour', 'box', 'colour', 'harbour', 'humour', 'near'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>These results indicate that, with the exceptions of a few British spellings and the curious case of "box" and "near", the two lists are functionally identical.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Evaluate-Corpus-Docs-with-NLTK-'words'-(web2)">Evaluate Corpus Docs with NLTK 'words' (web2)<a class="anchor-link" href="#Evaluate-Corpus-Docs-with-NLTK-'words'-(web2)">¶</a>
+</h3>
+<p>Armed with the knowledge that the NLKT wordlist is, in fact, the words from Webster's Second International Dictionary, I moved next to evaluate how well the wordlist covers the vocabulary of our corpus. To do that, I read in one of the documents, did some minimal cleaning, and then found the disjoin between the corpus words and the NLTK wordlist.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [10]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">nltk</span> <span class="k">import</span> <span class="n">word_tokenize</span>
+<span class="kn">from</span> <span class="nn">nltk.tokenize</span> <span class="k">import</span> <span class="n">WhitespaceTokenizer</span>
+<span class="kn">from</span> <span class="nn">os</span> <span class="k">import</span> <span class="n">path</span>
+<span class="kn">import</span> <span class="nn">re</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [11]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">readfile</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span> <span class="p">):</span>
+    <span class="sd">"""Reads in file from directory and file name.</span>
+<span class="sd">    Returns the content of the file.</span>
+
+<span class="sd">    Usage::</span>
+
+<span class="sd">        &gt;&gt;&gt; text = readfile(input_dir, filename)</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        input_dir (str): Directory with the input file.</span>
+<span class="sd">        filename (str): Name of file to be read.</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        str: Returns the content of the file as a string.</span>
+
+<span class="sd">    """</span>
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">))</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+
+
+<span class="k">def</span> <span class="nf">strip_punct</span><span class="p">(</span> <span class="n">text</span> <span class="p">):</span>
+    <span class="sd">"""Remove punctuation and numbers.</span>
+<span class="sd">    Remove select punctuation marks and numbers from a text and replaces them with a space.</span>
+<span class="sd">    </span>
+<span class="sd">    Non-permanent changes for evaluation purposes only.</span>
+<span class="sd">    </span>
+<span class="sd">    Uses the :mod:`re` library.</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        text (str): Content to be evaluated.</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        str: Returns the content string without the following characters: 0-9,.!?$:;&amp;".</span>
+<span class="sd">    """</span>
+    <span class="n">text_cleaned</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"[0-9,.!?$:;&amp;</span><span class="se">\"</span><span class="s2">]"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
+    
+    <span class="k">return</span> <span class="n">text_cleaned</span>
+
+
+<span class="k">def</span> <span class="nf">tokenize_text</span><span class="p">(</span> <span class="n">text</span><span class="p">,</span> <span class="n">tokenizer</span><span class="o">=</span><span class="s1">'whitespace'</span> <span class="p">):</span>
+    <span class="sd">"""Converts file content to a list of tokens. </span>
+
+<span class="sd">    Uses :meth:`nltk.tokenize.regexp.WhitespaceTokenizer`.</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        text (str): Content to be tokenized.</span>
+<span class="sd">        tokenizer(str): option of tokenizer. Current options are 'whitespace' and</span>
+<span class="sd">            'word'.</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        list: Returns a list of the tokens in the text, separated by white space.</span>
+<span class="sd">    """</span>
+    <span class="k">if</span> <span class="n">tokenizer</span> <span class="o">==</span> <span class="s1">'whitespace'</span> <span class="ow">or</span> <span class="n">tokenizer</span> <span class="o">==</span> <span class="s1">'word'</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">tokenizer</span> <span class="o">==</span> <span class="s1">'whitespace'</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">WhitespaceTokenizer</span><span class="p">()</span><span class="o">.</span><span class="n">tokenize</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+        <span class="k">elif</span> <span class="n">tokenizer</span> <span class="o">==</span> <span class="s1">'word'</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">word_tokenize</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s1">'Tokenizer value </span><span class="si">{}</span><span class="s1"> is invalid. Must be "whitespace" or "word"'</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">tokenizer</span><span class="p">))</span>
+
+
+<span class="k">def</span> <span class="nf">to_lower</span><span class="p">(</span> <span class="n">tokens</span> <span class="p">):</span>
+    <span class="sd">"""Convert all tokens to lower case.</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        tokens (list): List of tokens generated using a tokenizer.</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        list: List of all tokens converted to lowercase.</span>
+<span class="sd">    """</span>
+    <span class="k">return</span> <span class="p">[</span><span class="n">w</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">tokens</span><span class="p">]</span>
+
+
+<span class="k">def</span> <span class="nf">identify_errors</span><span class="p">(</span> <span class="n">tokens</span><span class="p">,</span> <span class="n">dictionary</span> <span class="p">):</span>
+    <span class="sd">"""Compare words in documents to words in dictionary. </span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        tokens (list): List of all tokens in the document.</span>
+<span class="sd">        dictionary (set): The set of approved words.</span>
+<span class="sd">        </span>
+<span class="sd">    Returns:</span>
+<span class="sd">        set : Returns the set of tokens that are not </span>
+<span class="sd">            also dictionary words.</span>
+<span class="sd">    """</span>
+    <span class="k">return</span> <span class="nb">set</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span><span class="o">.</span><span class="n">difference</span><span class="p">(</span><span class="n">dictionary</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">create_spelling_dictionary</span><span class="p">(</span> <span class="n">directory</span><span class="p">,</span> <span class="n">wordlists</span> <span class="p">):</span>
+    <span class="sd">"""Compile a spelling dictionary.</span>
+<span class="sd">    Compiles a spelling dictionary from one or multiple</span>
+<span class="sd">    wordlist files. Returns results as a set.</span>
+
+<span class="sd">    Args:</span>
+<span class="sd">        directory (str): Location of the wordlist files.</span>
+<span class="sd">        wordlists (list): List of filenames for the wordlist files.</span>
+
+<span class="sd">    Returns:</span>
+<span class="sd">        set: List of unique words in all the compiled lists.</span>
+<span class="sd">    """</span>
+    <span class="n">spelling_dictionary</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">wordlist</span> <span class="ow">in</span> <span class="n">wordlists</span><span class="p">:</span>
+        <span class="n">words</span> <span class="o">=</span> <span class="n">readfile</span><span class="p">(</span><span class="n">directory</span><span class="p">,</span> <span class="n">wordlist</span><span class="p">)</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+        <span class="n">word_list</span> <span class="o">=</span> <span class="p">[</span><span class="n">w</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">words</span><span class="p">]</span>
+        <span class="k">for</span> <span class="n">each</span> <span class="ow">in</span> <span class="n">word_list</span><span class="p">:</span>
+            <span class="n">spelling_dictionary</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">each</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="nb">set</span><span class="p">(</span><span class="n">spelling_dictionary</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">get_doc_errors</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="n">dictionary</span> <span class="p">):</span>
+    <span class="sd">"""Identify words in text that are not in a dictionary set.</span>
+<span class="sd">    </span>
+<span class="sd">    Args:</span>
+<span class="sd">        input_dir (str): Directory containing text files</span>
+<span class="sd">        filename (str): Name of file to evaluate</span>
+<span class="sd">        dictionary (set): Set of verified words</span>
+<span class="sd">    Returns:</span>
+<span class="sd">        set: Returns set of words in doc that are not in the dictionary.</span>
+<span class="sd">    """</span>
+    <span class="n">text</span> <span class="o">=</span> <span class="n">strip_punct</span><span class="p">(</span><span class="n">readfile</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">))</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">to_lower</span><span class="p">(</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">tokenizer</span><span class="o">=</span><span class="s1">'whitespace'</span><span class="p">))</span>
+    <span class="k">return</span> <span class="n">identify_errors</span><span class="p">(</span><span class="n">tokens</span><span class="p">,</span> <span class="n">dictionary</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [12]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">input_dir</span> <span class="o">=</span> <span class="s2">"data/"</span>
+<span class="n">filename</span> <span class="o">=</span> <span class="s2">"HR18910601-V26-06-page34.txt"</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>First, because previewing early and often is key to evaluating the effectiveness of the code, I start by printing out the file content as well as the cleaned and tokenized version of the text. Overall, the OCR quality is good. There are a number of line-ending problems and some rogue characters, but the content and general message of the page is very legible.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [13]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">readfile</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[13]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>' THE LEGUMINOUS SEEDS.\nAbstract of a lesson in cookery given by Mrs. E. E. Kellogg, to the Health and Temperance Training Class.]\nTHE leguminous seeds, or legumes, are those foods better known as peas, beans, and lentils. They are usually served as vegetables, but are very different in their composition, as they contain in their mature state a large excess of the nitrogenous element, while the ordinary vegetables are quite lacking in this important element. In their immature state the legumes are more similar to vegetables. Dried peas are found in the market in two different forms, the green, or Scotch peas, and those which have been divided and the skins removed, called split peas. There are also several varieties of lentils to be found in market. Lentils are somewhat superior to peas or beans in nutritive value, but people usually dislike their taste until they have become used to them.\nThe different varieties of beans vary but little as to nutritive value. The Lima bean is more delicate in flavor, and is generally looked upon with most favor. The Chinese and Japanese make large use of the leguminous foods. They have a kind of bean known as soja, which is almost entirely composed of nitroge- nous material. Peas and beans contain caseine, which is similar in its characteristics to the caseine of milk. The Chinese take advantage of this fact, and manu- facture a kind of cheese from them.\nThe legumes are all extensively used in India, China, Japan, and other Eastern countries. Com- bined with rice, which is used as a staple article of diet in these countries, and which contains an excess of the carbonaceous element, they form an excellent food. In England, peas are largely used by persons who are in training as athletes, because they are con- sidered to be superior strength producers.,\nAlthough these seeds are in themselves such nutri- tious food, they are in this country commonly prepared in some manner which renders them indigestible. Beans, especially, are used in connec- tion with a large amount of fat, and are not, in\ngeneral, properly cooked. Peas and beans are covered with a tough skin, and require a prolonged cooking, in order to soften them. If, in cooking, this skin is left intact, and not broken afterward by careful mastication, the legume may pass through the di- gestive tract without being acted upon by the digestive fluids. Even prolonged cooking will not render the skin digestible. It is best that we prepare these seeds in such a manner that the skins may be rejected. When used with the skins a large per- centage of the nutritive material is wasted, since it is impossible for the digestive processes to free it from the skins.\nIn preparing them for cooking, it is generally best to soak them over night. The soaking aids the process of cooking, and to some extent does away with the strong flavor which to some people is very disagreeable. Soft water is best for cooking all dried seeds. If dry peas or beans are put into hard, boiling water, they will not soften, because the min- eral element of the water acts upon the caseine to harden it. As to the quantity needed, much depends upon the degree of heat used, but in general two quarts of soft water will be quite sufficient for one pint of seeds.\nMASHED PEAS.Ñ Cook one quart of dried Scotch peas until tender, simmering slowly at the last so that the water will be nearly or quite evaporated. Then rub them through a colander, or vegetable press. Add to the sifted peas one half cup of good sweet cream, and salt if desired. Pour into a granite or earthen dish, and put into the oven to brown. Some prefer it browned until mealy, some prefer it rather moist. This same dish can be made with split peas by simply mashing them.\nBrans may likewise be put through the same proc- ess. This is one of the most digestible forms in which they can be prepared.\n( I9o)\n'</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [14]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">to_lower</span><span class="p">(</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">strip_punct</span><span class="p">(</span><span class="n">readfile</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">))))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[14]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['the',
+ 'leguminous',
+ 'seeds',
+ 'abstract',
+ 'of',
+ 'a',
+ 'lesson',
+ 'in',
+ 'cookery',
+ 'given',
+ 'by',
+ 'mrs',
+ 'e',
+ 'e',
+ 'kellogg',
+ 'to',
+ 'the',
+ 'health',
+ 'and',
+ 'temperance',
+ 'training',
+ 'class',
+ ']',
+ 'the',
+ 'leguminous',
+ 'seeds',
+ 'or',
+ 'legumes',
+ 'are',
+ 'those',
+ 'foods',
+ 'better',
+ 'known',
+ 'as',
+ 'peas',
+ 'beans',
+ 'and',
+ 'lentils',
+ 'they',
+ 'are',
+ 'usually',
+ 'served',
+ 'as',
+ 'vegetables',
+ 'but',
+ 'are',
+ 'very',
+ 'different',
+ 'in',
+ 'their',
+ 'composition',
+ 'as',
+ 'they',
+ 'contain',
+ 'in',
+ 'their',
+ 'mature',
+ 'state',
+ 'a',
+ 'large',
+ 'excess',
+ 'of',
+ 'the',
+ 'nitrogenous',
+ 'element',
+ 'while',
+ 'the',
+ 'ordinary',
+ 'vegetables',
+ 'are',
+ 'quite',
+ 'lacking',
+ 'in',
+ 'this',
+ 'important',
+ 'element',
+ 'in',
+ 'their',
+ 'immature',
+ 'state',
+ 'the',
+ 'legumes',
+ 'are',
+ 'more',
+ 'similar',
+ 'to',
+ 'vegetables',
+ 'dried',
+ 'peas',
+ 'are',
+ 'found',
+ 'in',
+ 'the',
+ 'market',
+ 'in',
+ 'two',
+ 'different',
+ 'forms',
+ 'the',
+ 'green',
+ 'or',
+ 'scotch',
+ 'peas',
+ 'and',
+ 'those',
+ 'which',
+ 'have',
+ 'been',
+ 'divided',
+ 'and',
+ 'the',
+ 'skins',
+ 'removed',
+ 'called',
+ 'split',
+ 'peas',
+ 'there',
+ 'are',
+ 'also',
+ 'several',
+ 'varieties',
+ 'of',
+ 'lentils',
+ 'to',
+ 'be',
+ 'found',
+ 'in',
+ 'market',
+ 'lentils',
+ 'are',
+ 'somewhat',
+ 'superior',
+ 'to',
+ 'peas',
+ 'or',
+ 'beans',
+ 'in',
+ 'nutritive',
+ 'value',
+ 'but',
+ 'people',
+ 'usually',
+ 'dislike',
+ 'their',
+ 'taste',
+ 'until',
+ 'they',
+ 'have',
+ 'become',
+ 'used',
+ 'to',
+ 'them',
+ 'the',
+ 'different',
+ 'varieties',
+ 'of',
+ 'beans',
+ 'vary',
+ 'but',
+ 'little',
+ 'as',
+ 'to',
+ 'nutritive',
+ 'value',
+ 'the',
+ 'lima',
+ 'bean',
+ 'is',
+ 'more',
+ 'delicate',
+ 'in',
+ 'flavor',
+ 'and',
+ 'is',
+ 'generally',
+ 'looked',
+ 'upon',
+ 'with',
+ 'most',
+ 'favor',
+ 'the',
+ 'chinese',
+ 'and',
+ 'japanese',
+ 'make',
+ 'large',
+ 'use',
+ 'of',
+ 'the',
+ 'leguminous',
+ 'foods',
+ 'they',
+ 'have',
+ 'a',
+ 'kind',
+ 'of',
+ 'bean',
+ 'known',
+ 'as',
+ 'soja',
+ 'which',
+ 'is',
+ 'almost',
+ 'entirely',
+ 'composed',
+ 'of',
+ 'nitroge-',
+ 'nous',
+ 'material',
+ 'peas',
+ 'and',
+ 'beans',
+ 'contain',
+ 'caseine',
+ 'which',
+ 'is',
+ 'similar',
+ 'in',
+ 'its',
+ 'characteristics',
+ 'to',
+ 'the',
+ 'caseine',
+ 'of',
+ 'milk',
+ 'the',
+ 'chinese',
+ 'take',
+ 'advantage',
+ 'of',
+ 'this',
+ 'fact',
+ 'and',
+ 'manu-',
+ 'facture',
+ 'a',
+ 'kind',
+ 'of',
+ 'cheese',
+ 'from',
+ 'them',
+ 'the',
+ 'legumes',
+ 'are',
+ 'all',
+ 'extensively',
+ 'used',
+ 'in',
+ 'india',
+ 'china',
+ 'japan',
+ 'and',
+ 'other',
+ 'eastern',
+ 'countries',
+ 'com-',
+ 'bined',
+ 'with',
+ 'rice',
+ 'which',
+ 'is',
+ 'used',
+ 'as',
+ 'a',
+ 'staple',
+ 'article',
+ 'of',
+ 'diet',
+ 'in',
+ 'these',
+ 'countries',
+ 'and',
+ 'which',
+ 'contains',
+ 'an',
+ 'excess',
+ 'of',
+ 'the',
+ 'carbonaceous',
+ 'element',
+ 'they',
+ 'form',
+ 'an',
+ 'excellent',
+ 'food',
+ 'in',
+ 'england',
+ 'peas',
+ 'are',
+ 'largely',
+ 'used',
+ 'by',
+ 'persons',
+ 'who',
+ 'are',
+ 'in',
+ 'training',
+ 'as',
+ 'athletes',
+ 'because',
+ 'they',
+ 'are',
+ 'con-',
+ 'sidered',
+ 'to',
+ 'be',
+ 'superior',
+ 'strength',
+ 'producers',
+ 'although',
+ 'these',
+ 'seeds',
+ 'are',
+ 'in',
+ 'themselves',
+ 'such',
+ 'nutri-',
+ 'tious',
+ 'food',
+ 'they',
+ 'are',
+ 'in',
+ 'this',
+ 'country',
+ 'commonly',
+ 'prepared',
+ 'in',
+ 'some',
+ 'manner',
+ 'which',
+ 'renders',
+ 'them',
+ 'indigestible',
+ 'beans',
+ 'especially',
+ 'are',
+ 'used',
+ 'in',
+ 'connec-',
+ 'tion',
+ 'with',
+ 'a',
+ 'large',
+ 'amount',
+ 'of',
+ 'fat',
+ 'and',
+ 'are',
+ 'not',
+ 'in',
+ 'general',
+ 'properly',
+ 'cooked',
+ 'peas',
+ 'and',
+ 'beans',
+ 'are',
+ 'covered',
+ 'with',
+ 'a',
+ 'tough',
+ 'skin',
+ 'and',
+ 'require',
+ 'a',
+ 'prolonged',
+ 'cooking',
+ 'in',
+ 'order',
+ 'to',
+ 'soften',
+ 'them',
+ 'if',
+ 'in',
+ 'cooking',
+ 'this',
+ 'skin',
+ 'is',
+ 'left',
+ 'intact',
+ 'and',
+ 'not',
+ 'broken',
+ 'afterward',
+ 'by',
+ 'careful',
+ 'mastication',
+ 'the',
+ 'legume',
+ 'may',
+ 'pass',
+ 'through',
+ 'the',
+ 'di-',
+ 'gestive',
+ 'tract',
+ 'without',
+ 'being',
+ 'acted',
+ 'upon',
+ 'by',
+ 'the',
+ 'digestive',
+ 'fluids',
+ 'even',
+ 'prolonged',
+ 'cooking',
+ 'will',
+ 'not',
+ 'render',
+ 'the',
+ 'skin',
+ 'digestible',
+ 'it',
+ 'is',
+ 'best',
+ 'that',
+ 'we',
+ 'prepare',
+ 'these',
+ 'seeds',
+ 'in',
+ 'such',
+ 'a',
+ 'manner',
+ 'that',
+ 'the',
+ 'skins',
+ 'may',
+ 'be',
+ 'rejected',
+ 'when',
+ 'used',
+ 'with',
+ 'the',
+ 'skins',
+ 'a',
+ 'large',
+ 'per-',
+ 'centage',
+ 'of',
+ 'the',
+ 'nutritive',
+ 'material',
+ 'is',
+ 'wasted',
+ 'since',
+ 'it',
+ 'is',
+ 'impossible',
+ 'for',
+ 'the',
+ 'digestive',
+ 'processes',
+ 'to',
+ 'free',
+ 'it',
+ 'from',
+ 'the',
+ 'skins',
+ 'in',
+ 'preparing',
+ 'them',
+ 'for',
+ 'cooking',
+ 'it',
+ 'is',
+ 'generally',
+ 'best',
+ 'to',
+ 'soak',
+ 'them',
+ 'over',
+ 'night',
+ 'the',
+ 'soaking',
+ 'aids',
+ 'the',
+ 'process',
+ 'of',
+ 'cooking',
+ 'and',
+ 'to',
+ 'some',
+ 'extent',
+ 'does',
+ 'away',
+ 'with',
+ 'the',
+ 'strong',
+ 'flavor',
+ 'which',
+ 'to',
+ 'some',
+ 'people',
+ 'is',
+ 'very',
+ 'disagreeable',
+ 'soft',
+ 'water',
+ 'is',
+ 'best',
+ 'for',
+ 'cooking',
+ 'all',
+ 'dried',
+ 'seeds',
+ 'if',
+ 'dry',
+ 'peas',
+ 'or',
+ 'beans',
+ 'are',
+ 'put',
+ 'into',
+ 'hard',
+ 'boiling',
+ 'water',
+ 'they',
+ 'will',
+ 'not',
+ 'soften',
+ 'because',
+ 'the',
+ 'min-',
+ 'eral',
+ 'element',
+ 'of',
+ 'the',
+ 'water',
+ 'acts',
+ 'upon',
+ 'the',
+ 'caseine',
+ 'to',
+ 'harden',
+ 'it',
+ 'as',
+ 'to',
+ 'the',
+ 'quantity',
+ 'needed',
+ 'much',
+ 'depends',
+ 'upon',
+ 'the',
+ 'degree',
+ 'of',
+ 'heat',
+ 'used',
+ 'but',
+ 'in',
+ 'general',
+ 'two',
+ 'quarts',
+ 'of',
+ 'soft',
+ 'water',
+ 'will',
+ 'be',
+ 'quite',
+ 'sufficient',
+ 'for',
+ 'one',
+ 'pint',
+ 'of',
+ 'seeds',
+ 'mashed',
+ 'peas',
+ 'ñ',
+ 'cook',
+ 'one',
+ 'quart',
+ 'of',
+ 'dried',
+ 'scotch',
+ 'peas',
+ 'until',
+ 'tender',
+ 'simmering',
+ 'slowly',
+ 'at',
+ 'the',
+ 'last',
+ 'so',
+ 'that',
+ 'the',
+ 'water',
+ 'will',
+ 'be',
+ 'nearly',
+ 'or',
+ 'quite',
+ 'evaporated',
+ 'then',
+ 'rub',
+ 'them',
+ 'through',
+ 'a',
+ 'colander',
+ 'or',
+ 'vegetable',
+ 'press',
+ 'add',
+ 'to',
+ 'the',
+ 'sifted',
+ 'peas',
+ 'one',
+ 'half',
+ 'cup',
+ 'of',
+ 'good',
+ 'sweet',
+ 'cream',
+ 'and',
+ 'salt',
+ 'if',
+ 'desired',
+ 'pour',
+ 'into',
+ 'a',
+ 'granite',
+ 'or',
+ 'earthen',
+ 'dish',
+ 'and',
+ 'put',
+ 'into',
+ 'the',
+ 'oven',
+ 'to',
+ 'brown',
+ 'some',
+ 'prefer',
+ 'it',
+ 'browned',
+ 'until',
+ 'mealy',
+ 'some',
+ 'prefer',
+ 'it',
+ 'rather',
+ 'moist',
+ 'this',
+ 'same',
+ 'dish',
+ 'can',
+ 'be',
+ 'made',
+ 'with',
+ 'split',
+ 'peas',
+ 'by',
+ 'simply',
+ 'mashing',
+ 'them',
+ 'brans',
+ 'may',
+ 'likewise',
+ 'be',
+ 'put',
+ 'through',
+ 'the',
+ 'same',
+ 'proc-',
+ 'ess',
+ 'this',
+ 'is',
+ 'one',
+ 'of',
+ 'the',
+ 'most',
+ 'digestible',
+ 'forms',
+ 'in',
+ 'which',
+ 'they',
+ 'can',
+ 'be',
+ 'prepared',
+ '(',
+ 'i',
+ 'o)']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Comparing the text to the NLTK list, however, returns a number of "real" words identified as errors.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [15]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="nb">set</span><span class="p">(</span><span class="n">to_lower</span><span class="p">(</span><span class="n">nltk_list</span><span class="p">)))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[15]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'acted',
+ 'aids',
+ 'athletes',
+ 'beans',
+ 'bined',
+ 'brans',
+ 'browned',
+ 'called',
+ 'caseine',
+ 'characteristics',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'contains',
+ 'cooked',
+ 'countries',
+ 'depends',
+ 'di-',
+ 'england',
+ 'evaporated',
+ 'fluids',
+ 'foods',
+ 'forms',
+ 'gestive',
+ 'kellogg',
+ 'lacking',
+ 'legumes',
+ 'lentils',
+ 'looked',
+ 'manu-',
+ 'mashed',
+ 'min-',
+ 'needed',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'peas',
+ 'per-',
+ 'persons',
+ 'preparing',
+ 'proc-',
+ 'processes',
+ 'producers',
+ 'prolonged',
+ 'quarts',
+ 'rejected',
+ 'renders',
+ 'seeds',
+ 'served',
+ 'sidered',
+ 'simmering',
+ 'skins',
+ 'tion',
+ 'tious',
+ 'varieties',
+ 'vegetables',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>With words such as "vegetables" and "cooked" missing from the NLTK wordlist, it is clear that this list is insufficient for computing the ratio of words to errors in the documents.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="SCOWL-(Spell-Checker-Oriented-Word-Lists)">SCOWL (Spell Checker Oriented Word Lists)<a class="anchor-link" href="#SCOWL-(Spell-Checker-Oriented-Word-Lists)">¶</a>
+</h3>
+<p>With the default Unix wordlist insufficient as a base for evaluating the corpus, I looked next at the <a href="http://packages.ubuntu.com/precise/wamerican"><code>wordlist</code> package included with Ubuntu</a>, which is also mentioned in the Wikipedia entry for <a href="http://en.wikipedia.org/wiki/Words_(Unix"><code>words</code></a>). This package links out to the <a href="http://wordlist.aspell.net/">SCOWL (Spell Checker Oriented Word Lists) project</a>.<sup class="footnote-ref" id="fnref-3"><a href="#fn-3" rel="footnote">1</a></sup> Rather than use one of the provided word lists, I used the <a href="http://app.aspell.net/create">web application</a> to create a custom a list. I used the following parameters, as documented in the <a href="'data/SCOWL-wl/README'">README</a>:</p>
+<ul>
+<li>diacritic: keep</li>
+<li>max_size: 70</li>
+<li>max_variant: 1</li>
+<li>special: roman-numerals</li>
+<li>spelling: US GBs</li>
+</ul>
+<p>These parameters provide a wordlist that includes both American and British spellings, including common variant spellings. <code>max_size</code> of "70" refers to the "large" collection of words which are contained in most dictionaries, and which is, according to the author, the largest recommended set for spelling, while the larger "80" and "95" sets  contain obscure and questionable words.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-3"><p>Atkinson, Kevin. "Spell Checking Oriented Word Lists (Scowl)." (2016): Accessed Nov 18, 2016. <a href="http://wordlist.aspell.net/scowl-readme/">http://wordlist.aspell.net/scowl-readme/</a>.<a href="#fnref-3" rev="footnote">↩</a></p></li>
+</ol>
+</div>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [16]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">scowl</span> <span class="o">=</span> <span class="n">load_from_txt</span><span class="p">(</span><span class="s1">'data/SCOWL-wl/words.txt'</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [17]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">scowl</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[17]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>171131</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>When we compare the difference between the two lists, we can see that the majority of words in the SCOWL list are not in the NLTK words list.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [19]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">scowl</span><span class="p">)</span><span class="o">.</span><span class="n">difference</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">nltk_list</span><span class="p">)))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[19]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>104524</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>And when we can run the file content through our error checking function, we get results that are much closer to what we would expect.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [20]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="nb">set</span><span class="p">(</span><span class="n">to_lower</span><span class="p">(</span><span class="n">scowl</span><span class="p">)))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[20]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'bined',
+ 'brans',
+ 'caseine',
+ 'centage',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'di-',
+ 'eral',
+ 'ess',
+ 'gestive',
+ 'manu-',
+ 'min-',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'per-',
+ 'proc-',
+ 'sidered',
+ 'soja',
+ 'tion',
+ 'tious',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Filtering-the-SCOWL-List">Filtering the SCOWL List<a class="anchor-link" href="#Filtering-the-SCOWL-List">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>While it may seem valuable to have an all-encompassing list, one that contains all possible words, a list that is too expansive is actually detrimental to the task of identifying OCR errors. Unusual words, or single letters, are more likely to be the result of a transcription error than an intentional choice by the author or editor, but an overly expansive wordlist would capture these as "words," thus under-reporting the transcription errors. In constructing the word list, I am looking to strike a delicate balance between false negatives (words identified as errors, but are words) and false positives (words that are identified as words, but are errors).</p>
+<p>The SCOWL list contains a few elements that increase the risk of false positive identification. First, the list contains a collection of abbreviations, which are mostly 20th-century in origin and which, once converted to lowercase for comparison, are unlikely to match any of the content produced by the SDA authors.</p>
+<p>Second, one of the lists used in the SCOWL application includes the letter section headers as words, so instances of any single letter, such as "e", are identified as a word. Two of the most frequent problems in the OCR text are words that are "burst" words, or words where a space has been inserted between each of the letters (I N S T R U C T O R), and words that have been split due to line endings (di- gestion). As a result, a number of the errors will appear in the form of individual letters and two letter words. In order to capture these transcription errors, the wordlist needs to be particularly conservative with regard to single-letter and two-letter words.</p>
+<p>To improve my ability to capture these errors, I filtered out the acronyms and all words less than 3 characters in length from the SCOWL list. I added back common words, such as "I", "in", and "be," through the subject-specific lists, which I cover below.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [21]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Using regex to remove all abbreviations and their possessive forms</span>
+<span class="n">s_filtered</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">scowl</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s2">"\b[A-Z]{1,}'s\b|\b[A-Z]{1,}\b"</span><span class="p">,</span> <span class="n">x</span><span class="p">)]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [22]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">s_filtered</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[22]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['ABCs',
+ 'ABMs',
+ 'Aachen',
+ "Aachen's",
+ 'Aalborg',
+ 'Aalesund',
+ 'Aaliyah',
+ "Aaliyah's",
+ 'Aalst',
+ "Aalst's"]</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [23]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">s_filtered</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">s_filtered</span> <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">2</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To ensure that I have not removed too many words, I preview the error report once again.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [24]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="nb">set</span><span class="p">(</span><span class="n">to_lower</span><span class="p">(</span><span class="n">s_filtered</span><span class="p">)))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[24]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'a',
+ 'an',
+ 'as',
+ 'at',
+ 'be',
+ 'bined',
+ 'brans',
+ 'by',
+ 'caseine',
+ 'centage',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'di-',
+ 'e',
+ 'eral',
+ 'ess',
+ 'gestive',
+ 'i',
+ 'if',
+ 'in',
+ 'is',
+ 'it',
+ 'manu-',
+ 'min-',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'of',
+ 'or',
+ 'per-',
+ 'proc-',
+ 'sidered',
+ 'so',
+ 'soja',
+ 'tion',
+ 'tious',
+ 'to',
+ 'we',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>These results are what I expected. There are a number of additional two-letter "errors" but otherwise the list appears unchanged.</p>
+<p>I then saved the filtered word list to the data folder for later use.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Adding-subject-specific-words">Adding subject-specific words<a class="anchor-link" href="#Adding-subject-specific-words">¶</a>
+</h2>
+<p>The SCOWL wordlist provides a broad base of English language words against which to compare the words identified in the SDA periodicals. We could proceed with just this list, but that strategy would give us a high number of false negatives (words that identified as errors that are in fact words). Because my corpus is derived from a particular community with a particular set of concerns, it is possible to expand the wordlists to capture some of the specialized language of the community. I chose to store each specialized wordlist separately, and to pull all the lists together into a single list of unique values within the corpus processing steps. This enables me to use the lists modularly, and to isolate a particular subset if a problem arise.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="King-James-Bible">King James Bible<a class="anchor-link" href="#King-James-Bible">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>One of the most ubiquitous influences on the language of the SDA writers was the Bible, particularly in the King James translation. From scriptural quotations to references to individuals and use biblical of metaphors, the Bible saturated the consciousness of this nascent religious movement. To capture that language, and to reintroduce the relevant one and two letter words that I removed from the base SCOWL list, I (somewhat sacrilegiously) converted the text of the King James Bible from the <a href="https://www.ccel.org/ccel/bible/kjv.txt">Christian Classics Ethereal Library</a> into a list of unique words.</p>
+<p>The code I used to create the wordlist from the text file is included in <a href="../appendix/create-scriptural-wordlist.ipynb">module appendix</a>. Here I am previewing the results of that transformation.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [25]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">kjv</span> <span class="o">=</span> <span class="n">readfile</span><span class="p">(</span><span class="s1">'data/'</span><span class="p">,</span> <span class="s1">'2017-05-24-kjv-wordlist.txt'</span><span class="p">)</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [26]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">kjv</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[26]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>14238</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [27]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">kjv</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[27]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['spider',
+ 'rocks',
+ 'biatas',
+ 'apparently',
+ 'strip',
+ 'anchor',
+ 'dinaites',
+ 'entangled',
+ 'adida',
+ 'salchah']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [28]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">word_lists</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'2017-05-05-base-scowl-list.txt'</span><span class="p">,</span><span class="s1">'2017-05-24-kjv-wordlist.txt'</span><span class="p">]</span>
+<span class="n">compiled_dict</span> <span class="o">=</span> <span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="s1">'data'</span><span class="p">,</span> <span class="n">word_lists</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [29]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="n">compiled_dict</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[29]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'bined',
+ 'brans',
+ 'caseine',
+ 'centage',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'di-',
+ 'e',
+ 'eral',
+ 'ess',
+ 'gestive',
+ 'manu-',
+ 'min-',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'per-',
+ 'proc-',
+ 'sidered',
+ 'soja',
+ 'tion',
+ 'tious',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Seventh-day-Adventist-People-and-Places">Seventh-day Adventist People and Places<a class="anchor-link" href="#Seventh-day-Adventist-People-and-Places">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>A second set of subject specific language comes from within the SDA. Using the Yearbooks produced by the denomination starting in 1883, I have compiled lists of the people serving leadership roles within the denomination, from Sabbath School teachers to the President of the General Conference. Browsing through the reported errors, many are people and place names. Since I had the data available from earlier work, I compiled the SDA last names and place names into wordlists.</p>
+<p>The code for creating wordlists from my datafiles, which are in Google Docs, is documented in the <a href="../appendix/create-SDA-people-and-places-lists.ipynb">module appendix</a>.</p>
+<p>Note: There are duplicates in the list of people because I forgot to limit the list to the unique names before saving to a file. While unsightly, the only consequence of this is a little more computation work when I make the combined spelling dictionary.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [30]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sda_people</span> <span class="o">=</span> <span class="n">readfile</span><span class="p">(</span><span class="s1">'data/'</span><span class="p">,</span> <span class="s1">'2016-12-07-SDA-last-names.txt'</span><span class="p">)</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [31]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sda_people</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[31]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['Butler',
+ 'Haskell',
+ 'Henry',
+ 'Kellogg',
+ 'Kellogg',
+ 'Oyen',
+ 'Sisley',
+ 'Fargo',
+ 'Hall',
+ 'Hall']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [32]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sda_places</span> <span class="o">=</span> <span class="n">readfile</span><span class="p">(</span><span class="s1">'data/'</span><span class="p">,</span> <span class="s1">'2016-12-07-SDA-place-names.txt'</span><span class="p">)</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [33]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sda_places</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[33]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['Gray',
+ 'Oroville',
+ 'Shreveport',
+ 'Sāo',
+ 'Alto',
+ 'Central',
+ 'Castlereagh',
+ 'Warrenton',
+ 'Alexandria',
+ 'Cannelton']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [34]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">word_lists</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'2017-05-05-base-scowl-list.txt'</span><span class="p">,</span>
+              <span class="s1">'2017-05-24-kjv-wordlist.txt'</span><span class="p">,</span>
+              <span class="s1">'2016-12-07-SDA-last-names.txt'</span><span class="p">,</span>
+              <span class="s1">'2016-12-07-SDA-place-names.txt'</span>
+             <span class="p">]</span>
+<span class="n">compiled_dict</span> <span class="o">=</span> <span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="s1">'data'</span><span class="p">,</span> <span class="n">word_lists</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [35]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span> <span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="n">compiled_dict</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[35]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'bined',
+ 'brans',
+ 'caseine',
+ 'centage',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'di-',
+ 'e',
+ 'eral',
+ 'ess',
+ 'gestive',
+ 'manu-',
+ 'min-',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'per-',
+ 'proc-',
+ 'sidered',
+ 'soja',
+ 'tion',
+ 'tious',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="USGS-Locations-and-Roman-Numerals">USGS Locations and Roman Numerals<a class="anchor-link" href="#USGS-Locations-and-Roman-Numerals">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The final two external dataset I used to minimize false identification of errors were a list of U.S. city and town names from the <a href="https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpref#chpref">USGS</a> and a list of roman numerals, as a number of these were removed from the base list when I filtered the words under 3 characters long. The code for converting the shape file from the USGS into a list of place names is included in the <a href="../appendix/create-list-of-US-place-names.ipynb">module appendix</a>.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [36]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">us_places</span> <span class="o">=</span> <span class="n">readfile</span><span class="p">(</span><span class="s1">'data/'</span><span class="p">,</span> <span class="s1">'2017-01-03-US-place-names.txt'</span><span class="p">)</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [37]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">us_places</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[37]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>['attu',
+ 'point',
+ 'hope',
+ 'point',
+ 'lay',
+ 'diomede',
+ 'gambell',
+ 'tin',
+ 'city',
+ 'savoonga']</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [38]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">word_lists</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'2017-05-05-base-scowl-list.txt'</span><span class="p">,</span>
+              <span class="s1">'2017-05-24-kjv-wordlist.txt'</span><span class="p">,</span>
+              <span class="s1">'2016-12-07-SDA-last-names.txt'</span><span class="p">,</span>
+              <span class="s1">'2016-12-07-SDA-place-names.txt'</span><span class="p">,</span>
+              <span class="s1">'2017-01-03-US-place-names.txt'</span><span class="p">,</span>
+              <span class="s1">'2017-02-14-roman-numerals.txt'</span>
+             <span class="p">]</span>
+<span class="n">compiled_dict</span> <span class="o">=</span> <span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="s1">'data'</span><span class="p">,</span> <span class="n">word_lists</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [39]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">get_doc_errors</span><span class="p">(</span><span class="n">input_dir</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="n">compiled_dict</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[39]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{'(',
+ ']',
+ 'bined',
+ 'brans',
+ 'caseine',
+ 'centage',
+ 'com-',
+ 'con-',
+ 'connec-',
+ 'di-',
+ 'e',
+ 'eral',
+ 'ess',
+ 'gestive',
+ 'manu-',
+ 'min-',
+ 'nitroge-',
+ 'nutri-',
+ 'o)',
+ 'per-',
+ 'proc-',
+ 'sidered',
+ 'soja',
+ 'tion',
+ 'tious',
+ 'ñ'}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Next-Steps">Next Steps<a class="anchor-link" href="#Next-Steps">¶</a>
+</h2>
+<p>With these lists in hand, I went through the different titles in the corpus and identified frequently used words that were escaping the above wordlists. As I will outline in the next notebook, many of the words that I found, which had not been captured by these wordlists, were related to religious persons and theological ideas; were alternative spellings created either intentionally or due to editor error; or can be attributed to John H. Kellogg and the health reform writings of the denomination.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Final-Word-lists">Final Word-lists<a class="anchor-link" href="#Final-Word-lists">¶</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The final word lists are included in the data folder for this module. They are:</p>
+<ul>
+<li><a href="data/2017-05-05-base-scowl-list.txt">Base SCOWL List</a></li>
+<li><a href="data/2016-12-02-kjv-words.txt">KJV Words List</a></li>
+<li><a href="data/2016-12-07-SDA-last-names.txt">SDA Last Names</a></li>
+<li><a href="data/2016-12-07-SDA-place-names.txt">SDA Place Names</a></li>
+<li><a href="data/2017-01-03-US-place-names.txt">US Place Names</a></li>
+<li><a href="data/2017-02-14-roman-numerals.txt">Roman Numerals</a></li>
+</ul>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+
+    </div>
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
+        </script></article>
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2018         <a href="mailto:jeri.elizabeth@gmail.com">Jeri E. Wieringa</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+
+            <script src="../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates -->
+</body>
+</html>

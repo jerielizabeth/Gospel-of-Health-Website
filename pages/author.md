@@ -3,7 +3,7 @@
 .. date: 2017-11-07
 -->
 
-**Jeri E. Wieringa** (neé Meninga) is a PhD candidate in History at George Mason University, where she works at the intersection of digital history and American religious history. She received her Master of Arts in Religion, *summa cum laude*, with a concentration in the History of Christianity from Yale Divinity School in 2011 and her Bachelor of Arts from Calvin College in 2008 with double majors in Philosophy and English.
+**Jeri E. Wieringa** is a PhD candidate in History at George Mason University, where she works at the intersection of digital history and American religious history. She received her Master of Arts in Religion, *summa cum laude*, with a concentration in the History of Christianity from Yale Divinity School in 2011 and her Bachelor of Arts from Calvin College in 2008 with double majors in Philosophy and English.
 
 Her work engages the implications of computational technologies for the practice of history, including interface design and narrative construction, the archiving and preservation of digital projects, the implications of computational modeling for historical research methods, and the implications of historians' understandings of complexity for the development and use of computational models.
 

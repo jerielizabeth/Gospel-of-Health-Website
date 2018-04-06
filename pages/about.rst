@@ -2,59 +2,63 @@
 .. date: 2017-11-07
 .. slug: about
 
-.. Here I set out to answer the proverbial questions asked of digital projects: why digital, how was it made, and what does "the digital" enable that would not be possible through another medium?
-
-.. First, what is a "digital dissertation" and how does it differ from an "electronic dissertation?" This is a useful clarification in terms of university infrastructure set up around the handling of dissertations and theses. An "electronic thesis or dissertation," frequently now accepted as the version of record for graduate students, is the electronic file used to produce a traditionally formatted, print dissertation. Typically in PDF format, this file is a book without the paper, structured for print, even though distributed in a digital format. The electronic dissertation, while representing a significant shift in the production and handling of the dissertation and thesis objects produced wihtin a university, conforms to the standard form and format of a printed final product.
-
-.. By contrast, a "digital dissertation" refers to a completed scholarly work that utilizes a medium other than a book to communicate, and one that is dependent upon a computational interface for its existence. This can take a wide variety of forms, from a website to a virtual world, and focus on variety of different types of computational mediation, from large data analysis to interface design to digital art. In fact, one productive analogy for the digital dissertation is a performance or choreographical work produced as part of a degree in the performing arts -- the intellectual, scholarly product is something that can never be "compressed" into a PDF or a book because it fundamentally relys on a different medium.
-
-.. However, crafting a more narrow definition of a digital dissertation is difficult because the medium that digital dissertations share can be used in a variety of different ways to produce a variety of different scholarly objects. [quick overview of major digital dissertations, include Kuhn; Visconti; Sharpe; Matt Lincoln; Heppler; Blevins]
-
-
 .. contents:: Sections
    :depth: 2
 
+My goal in constructing *A Gospel of Health and Salvation* as a "digital dissertation" has been to use the medium of a browser-based interface to bring together historical and computational analysis in a way that highlights the intellectual work involved in both. In my analysis, I have focused on the affordances of the presentation medium and the epistemological requirements of the different forms of analysis I have employed. In this process statement, I outline my rationale for the final structure of my dissertation and the technical components of the project. 
 
-*******************
-Project Overview
-*******************
+*********************************
+Notes on Constructing the Project
+*********************************
 
-*A Gospel of Health and Salvation* offers a methodological case study for application of computational algorithms to the study of history and religious culture. As a digital dissertation completed for the Department of History and Art History at George Mason University, I have designed the project to fit a number of different criteria. First, the history department has published guidelines for digital dissertation projects, publicly available at https://historyarthistory.gmu.edu/graduate/phd-history/digital-dissertation-guidelines. These stipulate that a digital dissertation include this framing introduction, which situates the project within its historiographical context, a [process statement](), [bibliography](), and the core modules, described in the next paragraph. In addition, for submission to the University Library, the project must include a properly formatted [PDF document]() and an archived version of the digital elements of the project for inclusion in the institutional repository. 
+When I started working on the main part of the dissertation, my programming experience to date had been the two required digital history courses at George Mason University, an additional introduction to programming course, some hands-on experience in web development through my research assistantship at the `Roy Rosenzweig Center for History and New Media <https://rrchnm.org/>`_, and a `Rails Girls workshop <http://railsgirls.com/>`_. In retrospect, embarking on a technical project from that starting point was a bit over-ambitious. My initial design of the project included network analysis from the denominational Yearbooks and geospatial analysis of people, publications, and ideas, along with text analysis. While I still think that these additional modes of analysis would help illuminate the development of this particularly group of people, these ideas have been bracketed for future iterations of the project. 
 
-Structure
-=========
+Along the way, in seeking to solve different problems for the dissertation, I have learned enough programming to be dangerous (and to qualify for jobs as a junior web developer). I have also learned from the standards of practice in programming, data science, and library science for managing these new forms of content - datasets, code, and visualizations - in ways that are documented, readable, and reusable. Most significantly, however, is that process of learning to use different methods of computational analysis has made me increasingly aware of the fundamental epistemological questions involved in combining the divergent methods of meaning making in data science and history. This is the question that has become the underlying focus of the dissertation - how does one construct an argument using computational analysis that is both computationally sophisticated and historically meaningful? 
 
-The primary module at the center of the dissertation is the [interactive model browser](), which enables the reader to explore the model through to the PDF scans and to filter the patterns based on different metadata criteria. Modified from Andrew Goldstone's [dfr-browser](http://agoldst.github.io/dfr-browser/), the browser brings together the model data from [Mallet]() together with the metadata I curated on the periodicals included in the study. Surrounding the browser are two interpretive essays based on the model of the Seventh-day Adventist periodical literature and one essay focused on methodology. The first interpretive essay argues that the recurring cycles of millennial expectation within the developing Seventh-day Adventist tradition kept the power structure of the denomination in a degree of flux, enabling Ellen White to retain her prophet role in the development of the denomination. The second essay argues that, despite a push for domesticity and respectability on the part of women, because of the ongoing on leadership of Ellen White, the domestic became integrated into the religious culture of Seventh-day Adventism ... 
+I used Python to complete most of the computational work in this dissertation, a choice informed by it being the language I gravitated toward in the introduction to programming course at George Mason and the usefulness of IPython Notebooks (now Jupyter Notebooks) for creating executable documents. In the time since I started on this project, R has become the default choice for computational work in the digital humanities, with its own solutions for reproducible work. While I would now recommend others start with R because of that strong community of practice, Python has the advantage of being a more generalized language, and has been particularly useful to me for the data preparation aspects of the project. [add sentence on D3 if I use it directly in redoing the browser interface.]
 
-
-How to Read
-===========
-
-As you read *A Gospel of Health and Salvation*, I invite you to spend some time with the browser and to use the various filters to explore the patterns that I highlight in the interpretive essays and also to explore other patterns of interest. If you wish to build on this work for your own analysis, be sure to read the essay on methodology in order to evaluate whether the documents selected, the strategies for cleaning, and the strategies for modeling are appropriate for your desired questions. For readers who are interested in using similar techniques on different data sets, I have also released [a series of Jupyter Notebooks]() that document the computational processes I used throughout the project. 
-
-
-************************************
-Literate Code; Reproducible Research
-************************************
-
-As computational methods are increasingly embraced across various academic disciplines, there is a growing concern about how those computational methods are used and the need for processes where by those methods can be documented and reproduced. These efforts, 
-
+I have been overly determined in this project to do my own computational work, both because I am committed to the idea that one needs to grapple with the assumptions and implementation of both computational and historical analysis when bringing the two modes of inquiry together and because of the gender politics of the field. I am, however, deeply indebted to many people who have given their time and energy to help me understand and troubleshoot the technical aspects of this project. Chief among these are Fred Gibbs, the Experimental Humanities Group at the Iliff School of Theology, Lincoln Mullen, who consulted on the unfortunately tabled network analysis piece of the project, Amanda Regan, Taylor Arnold, and Lauren Tilton. The computational work in this project is primarily my own, aside from a myriad snippets gleaned from StackOverflow and the libraries and resources noted below. The one external contribution is the workflow for moving model files from DigitalOcean, where I ran Mallet due to the size of the corpus, to AmazonS3 for storage and locally for use, which was set up by Jason Wieringa.
 
 Digital Sources
 ===============
 
-As with any digital project, *A Gospel of Health and Salvation* is dependent upon digital sources upon which to operate. The digital sources for *GoHS* were produced by 
-
-Computational Analysis
-======================
+As with any digital project, *A Gospel of Health and Salvation* is dependent upon digital sources upon which to operate. The digital sources were produced by the Seventh-day Adventist denomination. At the time of writing, these files are hosted at `the Online Archive <http://documents.adventistarchives.org/Periodicals/Forms/AllFolders.aspx>`_ of the denomination's Office of Archives, Statistics, and Research. The processes by which the periodicals have been digitized is not well documented. [More from email exchange with archivist.]
 
 
+Computational Analysis and Digital Publishing
+=============================================
 
-Digital Publishing
-==================
+Preprocessing done using Python and executed through a series of `Jupyter Notebooks <http://jupyter.org/>`_ for reproducibility. 
+
+The final topic models were created using `Mallet <http://mallet.cs.umass.edu/>`_ through the command-line interface, while in earlier drafts I relied on `Gensim <https://radimrehurek.com/gensim/>`_.  
+
+Analysis of the model done using Python, using the Pandas and Seaborn libraries for data analysis and visualization. [Final versions of the visualizations to be done in D3. I hope.]
+
+I created the main dissertation website using `Nikola <https://getnikola.com/>`_, a Python static site generator. 
+
+For displaying the model, I used Andrew Goldstone's `Topic Model Browser <https://github.com/agoldst/dfr-browser>`_, which relies on D3.js.
+
+The documentation for my library of Python functions is generated by Sphinx from my inline code documentation and is hosted on ReadtheDocs.
 
 
-******************
-Build Instructions
-******************
+***************************************************************
+Archiving and Reconstructing *A Gospel of Health and Salvation*
+***************************************************************
 
+I have constructed the dissertation with an eye to the ways the project will be archived and for overall stability. The final outputs of the dissertation "text" are static HTML and data files, rather than a database-drive website with executable code. This format is easier to archive and requires less ongoing server maintenance to keep available on the web.  
+
+[Archiving with the library]
+
+Reproducing the Research
+========================
+
+The main components of the dissertation are split into four modules, two for computational processing, and two for presentation:
+
++ Python Library and documentation - https://github.com/jerielizabeth/GoH
++ Jupyter Notebooks - https://github.com/jerielizabeth/Gospel-of-Health-Notebooks
++ Website - https://github.com/jerielizabeth/Gospel-of-Health-Website
++ Model Browser - https://github.com/jerielizabeth/dfr-browser
+
+Because of this structure, there is some duplication of files between the repositories. The moving of files is managed using the DoIt Automation tool.
+
+[outline steps to reproduce the analysis]
