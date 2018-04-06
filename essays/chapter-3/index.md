@@ -55,8 +55,8 @@ Early Seventh-day Adventists reconciled the continuation of time after 1844 with
 
 As a result, the Millerite charts and interpretation of Daniel and Revelations continued to play a central role to Seventh-day Adventist efforts to situate themselves temporally. Captured across three topics of the statistical model, Seventh-day Adventist authors used the figures and dates of Daniel and Revelations throughout their writings.
 
-| Topic ID | Topic Words                                    |  Topic Label    |
-| ---------| ---------------------------------------------- | --------------- |
+|Topic ID|   Topic Words                               |       Topic Label    |
+| -------| ------------------------------------------- | -------------------- |
 |   [45](http://browser.dissertation.jeriwieringa.com/#/topic/46)     | kingdom shall king horn daniel great empire prophecy rome iron verse power babylon dan image beast fourth world given vision | Prophecy (Figures of Daniel) |
 |   [130](http://browser.dissertation.jeriwieringa.com/#/topic/131)    | beast power image papacy rev mark church prophecy worship earth rome horn dragon shall head papal great state saint symbol | Prophecy (Figures of Revelation) |
 |   [215](http://browser.dissertation.jeriwieringa.com/#/topic/216)  | daniel vision week period end dan prophecy sanctuary date shall jerusalem christ chapter event seventy_weeks gabriel decree point angel messiah | Prophecy (Interpreting Dates and Time) |
@@ -71,6 +71,10 @@ As a result, the Millerite charts and interpretation of Daniel and Revelations c
 </div>
 
 [ This section will be a discussion of how the different topics are used at different points in time - while the words are the same, the purposes shift and develop over time. ]
+
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida gravida rutrum. Nulla maximus magna ac nisi egestas, a pharetra arcu sodales. In laoreet tortor et orci pellentesque, non laoreet tortor ornare. In convallis orci eget gravida placerat. Vivamus accumsan ex non justo sagittis tincidunt. Duis maximus ante sem, non malesuada urna tempor vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In mattis tempus velit quis suscipit. Nulla facilisi.
+
+Suspendisse fringilla, erat sed ultricies fermentum, nisi eros faucibus nulla, in mollis dui est eget nibh. Cras imperdiet tellus quam, nec bibendum neque varius molestie. Donec placerat ex non velit semper, vitae molestie arcu dictum. Vivamus fermentum porttitor ex ut vestibulum. Pellentesque fringilla condimentum aliquet. Aenean ante ex, semper eu justo in, consequat sagittis massa. Vestibulum sit amet feugiat nulla, non pellentesque justo. Ut a convallis enim. Phasellus sollicitudin pretium pulvinar. Morbi facilisis nulla at mauris aliquam scelerisque. Donec et placerat arcu.]
 
 <!-- Throughout the first ten years of their periodical writing, 
 
