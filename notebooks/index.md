@@ -3,8 +3,11 @@
 .. slug: index 
 -->
 
+[View on Github](https://github.com/jerielizabeth/Gospel-of-Health-Notebooks)
 
-This section of the dissertation has a separate Github repository at [link]. 
+## Literate Code and Reproducible Research
+
+
 
 
  
