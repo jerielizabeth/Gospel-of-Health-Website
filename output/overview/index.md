@@ -93,3 +93,22 @@ theoretically i am more interested in the variations, in the idiographic, than i
 
 
 Can a knowledge claim be made based on showing a statistically significant relationship between features? Is persuasive prose, supported by broad and significant archival evidence and theoretical finesse, the mark of a good historical argument? To invoke Gertrude Stein, what is the "there" of historical scholarship and 
+
+
+## A Note on Religion
+
+As with other areas of history where there is an active community with a vested interest in the history told, it is common for scholars of religion to state their own religious history and affiliation. For the Seventh-day Adventist community, the literature about the denomination has, to date, tended to fall into two general categories: sympathetic histories by Seventh-day Adventist authors and critical histories by authors external to or critical of the faith.^[Note a few examples] This has led to some concerns when new faces appear asking questions, concerns politely expressed to me as I started visiting Seventh-day Adventists archives and research centers. My having read Ron Number's *Prophetess of Health* did not help my efforts to establish myself as a credible commentator.
+
+At a recent conference of the Association for Seventh-day Adventist Historians, Nicholas Miller presented the following chart as a taxonomy of the varieties of religious histories.
+
+[imbed chart]
+
+My approach to the study of religion fits somewhere on the edges of the "Open Critical History." Along with many other historians of religion, I am interested in religious movements because I find religion and religious belief to be an irreducible category of analysis - something that shapes and explains the behavior of individuals and the development of groups, and that cannot be explained away through reference to economics or other social pressures. 
+
+I came to the study of Seventh-day Adventism as an outsider - as someone raised in the small, historically Dutch Christian Reformed Denomination and brought up within the American "evangelical subculture." Seventh-day Adventism was not a religious group I was deeply aware of prior to beginning this study, and the process of learning to develop an understanding of a tradition far outside my own has been a transformational one. While I am sure that I have missed some of the details and nuances of the beliefs and structures I describe here, I have attempted to sketch the overall contours of the patterns I found and the ways those changed over my period of study. Any misrepresentations were made unintentionally.
+
+
+
+
+
+

@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
                 ("/essays/chapter-1/", "1. The Emergence of Seventh-day Adventism"),
                 ("/essays/chapter-2/", "2. Constructing Computational Models"),
                 ("/essays/chapter-3/", "3. Anticipating the End of Time"),
-                ("/essays/chapter-4/", "4. Domestic Authority through Health"),
+                # ("/essays/chapter-4/", "4. Domestic Authority through Health"),
             ),
             "Essays"
         ),
