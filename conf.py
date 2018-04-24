@@ -225,10 +225,12 @@ POSTS = (
     # ("posts/chapter-2/*.ipynb", "essays/", "post.tmpl"),
     ("posts/chapter-3/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-3/*.rst", "essays/", "post.tmpl"),
+    ("posts/chapter-3/*/*.md", "chapter-3/", "post.tmpl"),
+    ("posts/chapter-3/*/*.rst", "chapter-3/", "post.tmpl"), 
     # ("posts/chapter-3/*.html", "essays/", "post.tmpl"),
     # ("posts/chapter-3/*.ipynb", "essays/", "post.tmpl"),
-    ("posts/chapter-4/*.md", "essays/", "post.tmpl"),
-    ("posts/chapter-4/*.rst", "essays/", "post.tmpl"),
+    # ("posts/chapter-4/*.md", "essays/", "post.tmpl"),
+    # ("posts/chapter-4/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-4/*.html", "essays/", "post.tmpl"),
     # ("posts/chapter-4/*.ipynb", "essays/", "post.tmpl"),
 )
@@ -383,7 +385,7 @@ WRITE_TAG_CLOUD = True
 
 # Generate pages for each section. The site must have at least two sections
 # for this option to take effect. It wouldn't build for just one section.
-POSTS_SECTIONS = False
+POSTS_SECTIONS = True
 
 # Setting this to False generates a list page instead of an index. Indexes
 # are the default and will apply GENERATE_ATOM if set.
@@ -393,7 +395,7 @@ POSTS_SECTIONS_ARE_INDEXES = False
 # output / TRANSLATION[lang] / SECTION_PATH / SECTION_NAME / index.html (list of posts for a section)
 # output / TRANSLATION[lang] / SECTION_PATH / SECTION_NAME / rss.xml (RSS feed for a section)
 # (translatable)
-SECTION_PATH = ""
+SECTION_PATH = "chapter-3"
 
 # Each post and section page will have an associated color that can be used
 # to style them with a recognizable color detail across your site. A color
