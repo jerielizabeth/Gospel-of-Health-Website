@@ -25,19 +25,45 @@ These periods correspond with but also offer an additional perspective on some o
 + [Conclusion]()
 
 </div>
-This introduction to the case study establishes the parameters for the case study, including the historical and theoretical frameworks, as well as methodology, and then uses the topic model to argue that there were four major cycles of end-times expectation during the first 70 years of the denomination. Each of these cycles is analyzed in the subsequent sections of the case study.
+This introduction to the case study establishes the parameters for the case study, including the historical and theoretical frameworks, as well as methodology, and then uses the topic model to argue that there were four major cycles of end-times expectation during the first seventy years of the denomination. Each of these cycles is analyzed in the subsequent sections of the case study.
 
 ## Introduction to Study
 
-The revivals and millennial movements of the nineteenth century have been a frequent object of analysis for scholars of religion and American culture, as the colorful and transformative events that contributed to the democratization of American culture,^[Hatch] the formation of a "Christian" culture,^[Butler] the flourishing of social reform efforts,^[] and the embrace of capitalism.^[Cross, Johnson] William Miller's 1843 and 1844 predictions, as well as the emergence of Seventh-day Adventism, feature in these standard narratives as an example of ...
+The revivals and millennial movements of the nineteenth century have been a frequent object of analysis for scholars of religion and American culture, as the colorful and transformative events that contributed to the "democratization of American culture", the development of a "Christian" culture, the flourishing of social reform efforts, and the embrace of capitalism.^[@Hatch1989, Butler, Porterfield, abzug, radical spirits, Cross, Johnson] William Miller's 1843 and 1844 predictions feature in these standard narratives as an example of the lengths reached in the religious revivals of the early nineteenth century and of the flourishing of lay leaders and extra-denominational movements.^[Hatch in particular.] Framed in term of the responses to individuals to the economic and social upheavals of the early years of the American republic, these studies focus on commonalities across a broad array of religious contexts 
 
-Gender and the study of these movements - CSR; Abzug; Grammar (have i written this before?)
+Gender and the study of these movements - CSR; Abzug; Grammar (have i written this before - sort of.)
 
-Gender in the study of SDA - Vance; Bull - notes religion as gendered; 
+Since the 1970s, growing attention has been paid to the role of women in these religious revivals of the nineteenth century. Foundational to this effort is Catherine Brekus' *Strangers and Pilgrims*, which traces the 
+
+With increased attention to questions of gender, race, and class, scholars who examine patterns across multiple revivals have drawn attention to the ways ...
+
+As one of the few examples in US religious history of a denomination led by a woman prophet, gender features frequently in the analysis of early Seventh-day Adventism. This treatment ranges from the personal history and role of Ellen White to analysis of the different role available to women at different points in the denomination's history and the denominational culture itself as gendered feminine. 
+
+One of the few scholars to undertake prolonged studies of women in Seventh-day Adventism has been sociologist, Laura Vance, whose work has focused on the gender dynamics of the denomination in relation to their social and cultural position. Examining the long history of the denomination, she correlates historical attitudes about gender roles with the broader relationship between the religious sect and the world, noting that roles were more expansive during the initial period of the denomination when members defined themselves in contrast to their cultural context. This shifts in the early years of the twentieth century, as the SDA leadership worked to align themselves with the more established Protestant denominations and embrace a more rigid understanding of gendered spheres than had been the case during the nineteenth-century.^[@Vance1997, @Vance1999] 
+
+
+For denominational writers and historians, the history of Ellen White is additional complicated, as her history is intertwined with that of the denomination and the development of Adventist theology.^[See @Land2014 for an historiographical overview of the scholarship on Ellen White.] Many of the denomination's distinctive theological positions are intertwined with White, substantiated by her visions and taught in her published works. Additionally, Ellen White's prophetic role in the history of the denomination has posed a challenge, as leaders have long sought to balance the advantages of claiming prophetic leadership with the challenges of that leadership coming from a female voice. From James White's early downplaying of Ellen's role to recent histories tying Ellen White's leadership to "Adventist lifestyle" rather than "doctrinal formation," the gender politics of Ellen White's foundational role in the history of the denomination continue to shape the ways she is remembered and discussed.^[During the 1850s, as part of efforts to make the denomination more respectable, James White downplayed and stopped publishing Ellen White's visions in the Review and Herald. See @Bingham1856, p. 158; discussed in @Anderson1998, p. 35. This was later reversed by subsequent editors of the periodical. That this tension continues to the present is visible in Seventh-day Adventist histories. In his introduction to the history of the SDA, historian George R. Knight makes a point of clarifying that Ellen White's prophetic role was secondary to that of careful biblical study (carried out primarily by the male leadership of the denomination). @Knight1999, p. 37] Always present in the minds of Adventist members and critics, it is clear that Ellen White's leadership has had a significant influence on the development of the denomination, though the shape of that influence has been debated and contested. 
+
+- recurring theme of changing relationship with the state/broader culture and the resulting shift in gender roles.
+    + Butler - types of apocalypticism
+    + Vance - move from counter-cultural to cultural
+    + CSR - 
+All seem to rely on a Weber/Marx framework, where the disenfranchised see radical religion as an opportunity to gain political power. move from intentionally at odds with the prevailing culture to cultural accommodation over time and as gain stability/influence.
+
+Butler and Vance see a move to respectability. I don't disagree. However, also see a strategic effort on the part of EGW to place women's labor at the core of the denomination's theology and culture.
+
+Actually, starting with Vance and the curiosity of EGW's shift from more expansive ideas about gender to emphasis on domesticity, to again more expansive, might be the right starting place. My work here explore that curious progression in light of SDA theology, and offers an interpretation - it makes sense if you ...
+
+Which would have me downplay CSR, which is ok. She'
 
 My goal - reframe EGWs contributions in terms of their theological and temporal context for the denomination - "take seriously" their belief that they are living in end times and then trace what that does to religious practice and gender politics.
 
-Notes on method - 
+Rather than ... 
+
+## Methodology
+
+One of the ongoing challenges for scholarship that brings together methods from multiple disciplines is articulating how the information derived through methods typically foreign to humanities practice meaningfully contributes to the process of meaning-making. As argued by Tanya Clement, the linking of theory and methods is crucial to the process of situating the intellectual work of interdisciplinary scholarship.^[@Clement2016] As part of bridging that gap, here I outline my interpretive strategy for moving from the topic model, a statistical representation of language patterns, to an argument for overall patterns in the denominational corpus.^[For a discussion of the more technical concerns of corpus creation and topic modeling, see chapter 2.] The full model, which you can engage via the [model browser](http://browser.dissertation.jeriwieringa.com/), parses the language of the denomination into 250 clusters of words that tend to co-occur on the pages of the periodicals. 
+
 Topic modeling, as I discuss in the project overview, is a form of computational analysis that has been used in humanities context for descriptions of a collection of documents and for document discovery, but of which are fewer clear examples of use in historical analysis. This is, in part, because while tools like MALLET and Gensim make it easy to apply the LDA algorithm to a set of texts, doing so in a way that generates reasonable and reliable results is more difficult.[^Topic modeling has amassed its share of critics, and not without cause. Schmidt, corpus linguistics community .. ] 
 In history, there ... [ Blevins, Block, and Dispatch, Kaufman, ]. In literary studies, there have been attempts to apply more thorough statistical modeling through the models, looking at such things as gender and genre.^[cite Underwood and Jockers, Rhody.] 
  though as Heather Froelich has pointed out
@@ -45,12 +71,6 @@ In history, there ... [ Blevins, Block, and Dispatch, Kaufman, ]. In literary st
 
 This project sets out to follow the suggestion of Sharon Block ... 
 primarily using the model to gain a broad pictures of the patterns across the texts and to identify those texts that can shed light on different aspects of the developing culture of the denomination. 
-
-
-
-## Methodology
-
-One of the ongoing challenges for scholarship that brings together methods from multiple disciplines is articulating how the information derived through methods typically foreign to humanities practice meaningfully contributes to the process of meaning-making. As argued by Tanya Clement, the linking of theory and methods is crucial to the process of situating the intellectual work of interdisciplinary scholarship.^[@Clement2016] As part of bridging that gap, here I outline my interpretive strategy for moving from the topic model, a statistical representation of language patterns, to an argument for overall patterns in the denominational corpus.^[For a discussion of the more technical concerns of corpus creation and topic modeling, see chapter 2.] The full model, which you can engage via the [model browser](http://browser.dissertation.jeriwieringa.com/), parses the language of the denomination into 250 clusters of words that tend to co-occur on the pages of the periodicals. 
 
 The modeling algorithm returns a topic identifier for each word in the documents, an account of the most prevalent words in each topic, and a report of the prevalence of each topic in the documents of the corpus, but is agnostic as to what those topics "mean." Standard practice is to use a topic label to summarize the language that a topic has grouped together, either by assigning it automatically from the most prevalent words in the topic or through manually assigning topic names.^[cite examples] Because the language used by Seventh-day Adventist authors tends to be abstract and formulaic, methods for automatic labeling that work well in the context of scientific articles or Wikipedia proved less than informative. As a result, I relied on a human authored approach for identifying and labeling the topics.
 
