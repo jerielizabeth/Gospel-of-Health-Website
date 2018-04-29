@@ -1,6 +1,65 @@
 notes.txt
 
 
+For denominational writers and historians, the history of Ellen White is additional complicated, as her history is intertwined with that of the denomination and the development of Adventist theology.^[See @Land2014 for an historiographical overview of the scholarship on Ellen White.] Many of the denomination's distinctive theological positions are intertwined with White, substantiated by her visions and taught in her published works. Additionally, Ellen White's prophetic role in the history of the denomination has posed a challenge, as leaders have long sought to balance the advantages of claiming prophetic leadership with the challenges of that leadership coming from a female voice. From James White's early downplaying of Ellen's role to recent histories tying Ellen White's leadership to "Adventist lifestyle" rather than "doctrinal formation," the gender politics of Ellen White's foundational role in the history of the denomination continue to shape the ways she is remembered and discussed.^[During the 1850s, as part of efforts to make the denomination more respectable, James White downplayed and stopped publishing Ellen White's visions in the Review and Herald. See @Bingham1856, p. 158; discussed in @Anderson1998, p. 35. This was later reversed by subsequent editors of the periodical. That this tension continues to the present is visible in Seventh-day Adventist histories. In his introduction to the history of the SDA, historian George R. Knight makes a point of clarifying that Ellen White's prophetic role was secondary to that of careful biblical study (carried out primarily by the male leadership of the denomination). @Knight1999, p. 37] Always present in the minds of Adventist members and critics, it is clear that Ellen White's leadership has had a significant influence on the development of the denomination, though the shape of that influence has been contested.
+
+
+<!-- 
+- recurring theme of changing relationship with the state/broader culture and the resulting shift in gender roles.
+    + Butler - types of apocalypticism
+    + Vance - move from counter-cultural to cultural
+    + CSR - 
+All seem to rely on a Weber/Marx framework, where the disenfranchised see radical religion as an opportunity to gain political power. move from intentionally at odds with the prevailing culture to cultural accommodation over time and as gain stability/influence.
+
+Butler and Vance see a move to respectability. I don't disagree. However, also see a strategic effort on the part of EGW to place women's labor at the core of the denomination's theology and culture.
+
+Actually, starting with Vance and the curiosity of EGW's shift from more expansive ideas about gender to emphasis on domesticity, to again more expansive, might be the right starting place. My work here explore that curious progression in light of SDA theology, and offers an interpretation - it makes sense if you ... -->
+
+<!-- Which would have me downplay CSR, which is ok. She's so broad that shes difficult to work with. -->
+
+<!-- Whether due to members defining themselves in opposition to their surrounding culture or social unrest creating opportunities where they previously did not exist, radical and revival religious movements were frequently sites for experimentation with social conventions.  -->
+
+<!-- We know where they start (Taves, radical) and where they end (Butler, Vance, Bull; conservative and patriarchal, though with "feminine" qualities). --> 
+
+This study uses topic modeling to explore how the denomination moved from A to B. What we see are periodic spikes in the (very real) belief that the second coming will be soon; we see the importance of female leadership in EGW and other women leaders using those moments and their aftermath to emphasize more balanced gender roles and to make space of women's labor as part of the work of salvation; and we see ongoing negotiations with broader cultural trends as shaped by their religious beliefs/commitments.
+
+
+
+
+One of the few scholars to undertake prolonged studies of women and gender in Seventh-day Adventism has been sociologist, Laura Vance, whose work focuses on the gender dynamics of the denomination in relation to their social and cultural position. Examining the long history of the denomination, she correlates historical attitudes about gender roles with the broader relationship between the religious sect and the world, noting that roles were more expansive during the initial period of the denomination when members defined themselves in contrast to their cultural context. She notes that by the 1890s, as their "sectarian identity" begins to decline, the rhetoric within the denomination shifts toward language that echoes "the Cult of True Womanhood and the Cult of Domesticity."^[@Vance1999, p. 112] While much later than their Protestant peers, by the twentieth century authors began to emphasize the home as haven and the labor of women as particular to female labor. These shifts occurred as the SDA leadership worked to align themselves with the more established Protestant denominations and embraced a more rigid understanding of gendered spheres than had been the case during the nineteenth-century.^[@Vance1999, p.112-115] This framework, while useful for parsing the overall movement of the denomination toward more binary understandings of gender and gender roles, also introduces questions about how Ellen White's writings, and her role in the movement, fit into that general pattern. In her discussion of Ellen White's attitudes toward women's involvement in ministry,
+
+Vance's analysis corresponds with Johnathan Butler's parsing of the shift in Seventh-day Adventist apocalypticism and their historical relationship to the state. Noting that 
+
+
+
+
+
+<!-- 
+
+Through the ongoing leadership of Ellen White, but also through the work and writing of a myriad of other female figures within the denomination, these periods of disruption  
+
+In addition, much of the scholarly literature on nineteenth-century revivalism focuses on particular periods of disruption or intensity across denominational sects. 
+
+open questions about the role of gender and religious belief in shaping the early foundations of the denomination. In these analyses, gender and the role of women is seen as a symptom of other theological and cultural shifts - changes in the apocalyptic understanding of the state and changes in self-identify *vis-á-vis* the surrounding culture. However, a closer examination of discussions of women and gender roles suggests that there are additional factors at play. As Vance notes, while White herself devoted much time to traveling, preaching, and writing throughout her life, she appears to have had conservative moments throughout her life, encouraging her female readers to focus on home and family, and to embrace the home as their primary mission field.^[@Vance . This rhetoric was emphasized as the denomination took a more conservative turn during the twentieth century.] However, this was not her final word on the women's roles within the church, as White was also a vocal proponent for the equitable compensation of women laborers in Seventh-day Adventist institutions and the work of all Adventists in sharing their unique message with the world during the later years of her life.  
+
+Looking closely at the shifts in denominational rhetoric and particularly the relationship to beliefs about the second coming during the early years of the denomination, an additional pattern emerges. As time progressed forward and the second coming was repeatedly delayed, the Adventist understanding of time and of their role in and the requirements for the second coming also developed. These readjustments correlate with [at least I really hope they do] shifts in constructions of gender, seen both in the periodical literature and Ellen White's writings. As the understanding of salvation within the denomination shifted from an emphasis on beliefs to behaviors and then to national and global outreach, White's writings frame positioned the contributions of women as central to the prevailing religious frame. At the same time, as the sense of time lengthened, 
+This pattern provides another layer to the story of Seventh-day Adventism and suggests that calls for domesticity can be more than a retreat into "separate spheres."  
+
+Two reasons for counter-cultural behavior - defining self in opposition to the world (and the established churches); and anticipating that one is in the last days, when the priority is on evangelism over social convention.
+... It also suggests theological beliefs as an additional lens for interpreting call for domesticity among other religious movements of the time.  the reassertion of traditional gender roles as revival periods come to an end. 
+
+Early Seventh-day Adventism poses a particular challenge to standard narratives about revival ... the prevailing frameworks of Weber and Douglas (and Turner) focus on transitional moments - points where there is general upheaval or the starts of new movement. These are by and large short periods or seasons with a burst of energy, due to social/economic/religious ferment. Following these cycles, order re-establishes, though it is changed. For those who want otherwise, frequently leave to find new movement (Abzug).  Seventh-day Adventism both follows those patterns and doesn't. Broadly, yes. Emerge from period of ferment with a "sure" message. slowly move toward stabilization and respectability, which takes off after 1920. 
+
+What is different before 1920 -> shorter sense of time and gendered leadership of EGW. Sense of time keeps things in flux, keeps them in that liminal space for longer. EGW by her leadership counterbalances the pull to respectability (patriarchy). Consequences of that longer liminal space: gendered characteristics that Bull discusses? where the push to domesticity is a "consolation prize" in mainline denominations, it is part of the concept of salvation in SDA; develop rich history of women serving the religious goals, from missionaries to medical staff to teachers/religious leaders
+After her death, Ellen White becomes idealized (more by the average church goer rather than church leadership), but in that is no longer there to counterbalance the pull toward "secularization." She is special, rather than a model. No female successor -> maybe my point is the importance of that leadership role. 
+Early lady revivalists - small changes to predominant structures, but often ended up finding homes elsewhere as structures re-established. 
+
+traditional stories are: women in revival movements who move on to other reform/radical groups (which eventually die); women in revival movements who acquiesce to the re-establishment of patriarchal structures (domesticity).
+
+In telling the history of women and revival, the story has tended to follow one of two scripts: spark for further radical expression (leading eventually to women's rights), or the reincorporation of those women into patriarchal structures through the reassertation of domesticity and development of "difference feminism"
+
+Because of Ellen White, we have a full 70 year transitional period -->
+
 ## The Temporal Imaginary of Seventh-day Adventism
 
 - framework of imaginary 
@@ -79,3 +138,8 @@ In 1905, *The Life Boat,* a SDA periodical published by The Workingman's Home an
 
 serve as a reminder that "women's issues" are often situated at and shed light on the core concerns and features of a culture
 
+
+---
+[^Topic modeling has amassed its share of critics, and not without cause. Schmidt, corpus linguistics community .. ] 
+In history, there ... [ Blevins, Block, and Dispatch, Kaufman, ]. In literary studies, there have been attempts to apply more thorough statistical modeling through the models, looking at such things as gender and genre.^[cite Underwood and Jockers, Rhody.] 
+ though as Heather Froelich has pointed out
