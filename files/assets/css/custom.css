@@ -73,3 +73,15 @@ table {
     padding-left: 0;
     list-style-type: none;
 }
+
+article {
+    counter-reset: paragraph;
+}
+
+.entry-content p:before {
+    position: absolute;
+    margin-left: -25px;
+    color: #CCC;
+    content: counter(paragraph);
+    counter-increment: paragraph;
+}
