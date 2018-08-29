@@ -6,9 +6,7 @@
 
 ## A Historical Analysis through Topic Modeling 
 
->"We are living in the closing scenes of this earth's history. Prophecy is fast fulfilling. The hours of probation are fast passing. We have no time -- not a moment -- to loose."
->
->Ellen White. *Testimonies for the Church, Volume 8*, 1904^[@White1904, p. 252.]
+>"We are living in the closing scenes of this earth's history. Prophecy is fast fulfilling. The hours of probation are fast passing. We have no time -- not a moment -- to loose." <br /> <span style="float:right">Ellen White. *Testimonies for the Church, Volume 8*, 1904^[@White1904, p. 252.]</span>
 
 Early Seventh-day Adventists were a people between times. Born out of the belief that William Miller had correctly identified 1844 as the year revealed in the books of Daniel and Revelations, this group of Protestant Christians understood themselves to be living in the last days, preparing for the rapidly approaching "second advent" of Jesus. Millennial expectation, however, is a difficult state to maintain.^[should link to McLoughlin here] Although Seventh-day Adventists determined early on that predicting new dates for the second coming was no longer viable, at various period throughout their early history they understood themselves to be at the brink of the second coming. As the second coming continued to be delayed, their interpretations of the events since 1844 shifted, as did the emphasis they placed on different religious beliefs and practices. As a result, their theology and religious cultural was shaped by "Jesus' nonappearance rather than his imminent reappearance," as the most productive periods of development tended to occur in efforts to explain the why of the continuation of normal time.^[@Bull2006, p. 67]
 
