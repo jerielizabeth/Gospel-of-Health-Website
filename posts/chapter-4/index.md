@@ -16,6 +16,8 @@
 
 
 
+
+
 1. 1849-1851
 - start of their evangelistic efforts
 - focus on Sabbath keeping
