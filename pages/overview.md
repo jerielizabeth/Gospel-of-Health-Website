@@ -13,16 +13,7 @@ The United States in the nineteenth century was "awash in a sea of faith"...
 In this dissertation, I examine the unique religious culture that developed during the first eighty years of Seventh-day Adventism. I argue that cycles of end-times expectation and the religious leadership of Ellen White contributed to the formation of a religious culture marked by domestic authority, cooperative organization, and the activism of women, seen in the movement's religious understanding and pursuit of health. This culture provides an instructive counterpoint to accounts of nineteenth-century revivalism that stress the reinforcement of patriarchal structures and capitalistic economic structures in the aftermath of the revivals of the nineteenth century.
 
 
-## Understanding Religious Revivals
-
-
-- C.S-R / Douglas on disruption and power
-- Geertz and culture as assemblage of texts
-- Turner and liminality
-- Hatch and individualism
-- Anderson and Print
-
-## Exploring Religious Literature Computationally
+## A Computational Study of Religious Culture
 
 Seventh-day Adventism offers an opportunity to explore these patterns differently. Whereas revivals within the more established and often studied denominations, such as Methodist, Baptist, or Presbyterian, were marked by periods of disruption and reestablishment, in Seventh-day Adventism, we 
 The religious sect developed out of 
@@ -79,8 +70,6 @@ Topic modeling does, however, offer some significant advantages for the types of
 
 The degree of distance that topic modeling provides is also well suited for historical research. The algorithm focuses on word co-occurrences within documents, with "document" defined by the researcher. As a result, the "topics" offer document-level descriptive information, which provides an overview of the "types of things people talked about" in a given set of documents, while also pointing back to the original documents for further study on topics of interest. The "bag-of-words" representation used by topic modeling, where the algorithm considers the document to be a unordered collection of words and their counts, is both a strength and a weakness of the approach. Although this representation reduces the direct contextual information about word use, a loss that is costly for explorations of word meanings and associations, it is much less costly at the level of document description. When functioning as an index of sorts, the data from topic models directs researchers to documents of interest. At the same time, the model itself offers information about the general contours of the document collection, and when combined with the document metadata, can be used to indicate when and where particular topics were prevalent, and can be used to suggest related topics. 
 
-### Interpreting the Models
-
 While a powerful algorithm for summarizing large collections of documents and guiding research questions and further reading, topics models can be difficult to verify and interpret, making them an easier algorithm than many to "lie" with. The strength of the algorithm is that it can illuminate "latent," hidden, patterns or topics, but it is also possible for those topics to be noisy, to include words that don't fit or only fit due to coincidence. In addition, the algorithm will organize the words of the corpus into as many topics as the user designates, and the resulting model can appear "readable" at different numbers of topics.^[Schmidt discusses this "danger" of topic models in JDH.] As a result, while the resulting models are useful, it is important to remember that they are abstractions of patterns in word co-occurrences and, like all models, are wrong in certain aspects. 
 
 In anticipation of some of the challenges of interpreting topic models , I have paid close attention to the creation of the model, including my work to select and preprocess the documents, and steps to verify the model. 
@@ -114,15 +103,13 @@ The final elements of the dissertation provide documentation for the different c
 
 While the dissertation itself is the composite of these different computational and interpretive elements, readers do not need to be experts in all aspects of the project in order to read and evaluate the dissertation. The essays outline my approach and my intellectual decision in structuring and carrying out the computational analysis, providing an overview of the work without requiring the reader to directly engage the computational aspects of the work. Including the code enables readers to evaluate how well I have implemented those ideas and are included as part of a commitment to reproducible research. The concept of reproducible research, while increasingly prevalent in the sciences, is less common in the humanities. It refers to the goal of sufficiently describing ones computational methods and process so that others can reproduce the results when given the same data.^[@Brunsdon2016 gives a useful overview while making the case for reproducible research in geography. See pages 687-8. The *WhatEvery1Says* project at the University of California, Santa Barbara, is also tackling questions of reproducible research in the Digital Humanities. See @WE1S.] Although the emphasis on code and computation is new, the concept of making historical research verifiable is not, as historians have long incorporated methods for verification in their academic writing through the mechanism of footnotes.^[@Hitchcock2015, 12.] By releasing the code and describing the processes used, scholars who rely on computational methods provide the information necessary for that work to be recognized and critically engaged, and in so doing make it part of the scholarly conversation.
 
+## Conclusions
+
 ## A Note on Religion
 
-As with other areas of history where there is an active community with a vested interest in the history told, it is common for scholars of religion to state their own religious history and affiliation. For the Seventh-day Adventist community, the literature about the denomination has, to date, tended to fall into two general categories: sympathetic histories by Seventh-day Adventist authors and critical histories by authors external to or critical of the faith.^[Note a few examples] This has led to some concerns when new faces appear asking questions, concerns politely expressed to me as I started visiting Seventh-day Adventists archives and research centers. My having read Ron Number's *Prophetess of Health* did not help my efforts to establish myself as a credible commentator.
+As with other areas of history where there is an active community with a vested interest in the history told, it is common for scholars of religion to state their own religious history and affiliation. For the Seventh-day Adventist community, the literature about the denomination has, to date, tended to fall into two general categories: sympathetic histories by Seventh-day Adventist authors and critical histories by authors external to or critical of the faith.^[Note a few examples] This has led to some concerns when new faces appear asking questions, concerns politely expressed to me as I started visiting Seventh-day Adventists archives and research centers. 
 
-At a recent conference of the Association for Seventh-day Adventist Historians, Nicholas Miller presented the following chart as a taxonomy of the varieties of religious histories.
-
-[embed chart]
-
-My approach to the study of religion fits somewhere on the edges of the "Open Critical History." Along with many other historians of religion, I am interested in religious movements because I find religion and religious belief to be an irreducible category of analysis - something that shapes and explains the behavior of individuals and the development of groups, and that cannot be explained away through reference to economics or other social pressures. 
+My approach to the study of religion fits somewhere on the edges of the "Open Critical History." Along with many other historians of religion, I am interested in religious movements because I find religion and religious belief to be an irreducible category of analysis - something that shapes and explains the behavior of individuals and the development of groups, and that cannot be explained away through reference to economics or other social pressures. I present this history of Seventh-day Adventism to illuminate the culture patterns involved in the formation of their denomination, as well as 
 
 I came to the study of Seventh-day Adventism as a sympathetic outsider - as someone raised in the small, historically Dutch, Christian Reformed denomination and brought up within the American evangelical subculture. Seventh-day Adventism was not a religious group I was deeply aware of prior to beginning this study, and the process of learning to develop an understanding of a tradition far outside my own has been a transformational one. While I am sure that I have missed some of the details and nuances of the beliefs and structures I describe here, I have attempted to sketch the overall contours of the patterns I found and the ways those changed over my period of study.
 
