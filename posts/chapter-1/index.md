@@ -23,7 +23,7 @@ Outline for revision:
 - Progressive revelation (how they manage the changing temporal landscape)
 - literal hermaneutic.
 
-5. Transition to dissertation: Time, revival, and Gender. -->
+5. Transition to rest of dissertation: Time, revival, and Gender. -->
 
 
 "Blest Be the Tie that Binds": Seventh-day Adventism as a Textual Community
