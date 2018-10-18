@@ -22,4 +22,4 @@ Outline:
 
 3. 1900s: reorganization and reinstitutionalizing; global missions (lengthening)
 
-4. threats from ww I and from communism. death of ellen white and transition to a new phase of the denomination.
+4. threats from wwI and from communism. death of ellen white and transition to a new phase of the denomination.
