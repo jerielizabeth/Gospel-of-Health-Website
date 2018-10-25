@@ -12,7 +12,6 @@ Early Seventh-day Adventists were a people between times. Born out of the belief
 
 These periods correspond with but also offer an additional perspective on some of the standard narratives around religious revivals and the development of religious groups. Using the a 250 topic model of the periodical literature of the denomination, this study offers an extended examination of the cycles of expectation and explanation that mark the early development of the Seventh-day Adventist denomination. Using topics that capture Seventh-day Adventist language about end times as indicators of high periods of expectation, I argue that the religious group experienced four major cycles of expectation and adjustment between 1849 and 1920. In each cycle, the markers of the anticipated second coming shift and in the wake of anticipation, new emphases emerged that shifted the focus of the denomination increasingly outward. This framework also provides another way to understand Ellen White's writings regarding gender and religious leadership, as she repeatedly embeds women's labor within the central concerns of the current temporal imaginary.
 
-</div>
 This introduction to the study establishes the historical and theoretical frameworks, as well as methodology, and then uses the topic model to argue that there were four major cycles of end-times expectation during the first seventy years of the denomination. Each of these cycles is analyzed in the subsequent sections of the case study.
 
 ## Introduction to Study
