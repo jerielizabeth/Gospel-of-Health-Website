@@ -153,7 +153,8 @@ NAVIGATION_LINKS = {
                 ("/notebooks/3-describe/", "3. Describe"),
                 ("/notebooks/4-preprocess/", "4. Preprocess"),
                 ("/notebooks/5-model/", "5. Model"),
-                ("/notebooks/6-analyze/", "6. Analyze"),
+                ("/notebooks/6-evaluate/", "6. Evaluate"),
+                ("/notebooks/7-analyze/", "7. Analyze"),
                 ("/notebooks/data/", "Data"),
             ),
 
