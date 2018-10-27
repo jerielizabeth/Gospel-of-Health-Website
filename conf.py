@@ -162,7 +162,7 @@ NAVIGATION_LINKS = {
         ),
         ("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
         # ("/topics/", "Topics"),
-        ("http://goh.readthedocs.io/en/latest/", "GoH Documentation"),
+        ("http://goh.readthedocs.io/en/latest/", "Code Documentation"),
         (
             (
                 # ("/acknowledgments/", "Acknowledgments"),
@@ -252,9 +252,12 @@ PAGES = (
     ("pages/notebooks/4-preprocess/*.rst", "notebooks/4-preprocess/", "page.tmpl"),
     ("pages/notebooks/5-model/*.ipynb", "notebooks/5-model/", "page.tmpl"),
     ("pages/notebooks/5-model/*.rst", "notebooks/5-model/", "page.tmpl"),
-    ("pages/notebooks/6-analyze/*.ipynb", "notebooks/6-analyze/", "page.tmpl"),
-    ("pages/notebooks/6-analyze/*.rst", "notebooks/6-analyze/", "page.tmpl"),
+    ("pages/notebooks/6-evaluate/*.ipynb", "notebooks/6-evaluate/", "page.tmpl"),
+    ("pages/notebooks/6-evaluate/*.rst", "notebooks/6-evaluate/", "page.tmpl"),
+    ("pages/notebooks/7-analyze/*.ipynb", "notebooks/7-analyze/", "page.tmpl"),
+    ("pages/notebooks/7-analyze/*.rst", "notebooks/7-analyze/", "page.tmpl"),
     ("pages/notebooks/*/*.rst", "notebooks/", "page.tmpl"),
+    ("pages/viz/*.html", "viz/", "page.tmpl")
 )
 
 
