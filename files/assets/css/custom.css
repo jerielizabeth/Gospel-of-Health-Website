@@ -5,7 +5,7 @@ body{
 }
 
 .post-text  {
-    max-width: 750px;
+    max-width: 850px;
     margin-left: 8%;
     margin-right: auto;
     padding:0 20px;
@@ -45,6 +45,10 @@ figcaption {
 pre {
     max-height: 400px;
     font-size: 1rem;
+}
+
+pre code {
+    font-size: .8em;
 }
 
 iframe {
