@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Dissertation Notebooks | A Gospel of Health and Salvation</title>
+<title>README | A Gospel of Health and Salvation</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link href="../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
 <link href="../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
@@ -15,12 +15,12 @@
 <script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 <meta name="author" content="Jeri E. Wieringa">
 <meta property="og:site_name" content="A Gospel of Health and Salvation">
-<meta property="og:title" content="Dissertation Notebooks">
+<meta property="og:title" content="README">
 <meta property="og:url" content="/notebooks/">
-<meta property="og:description" content="View on Github
-Literate Code and Reproducible Research">
+<meta property="og:description" content="Notebooks for A Gospel of Health and Salvation
+This repository contains Jupyter notebooks which document the technical work for my dissertation, A Gospel of Health and Salvation. It will be divided in">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2018-04-05T15:59:10-07:00">
+<meta property="article:published_time" content="2018-10-01T00:00:00-07:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -83,7 +83,10 @@ Literate Code and Reproducible Research">
 <a href="5-model/">5. Model</a>
                     </li>
 <li>
-<a href="6-analyze/">6. Analyze</a>
+<a href="6-evaluate/">6. Evaluate</a>
+                    </li>
+<li>
+<a href="7-analyze/">7. Analyze</a>
                     </li>
 <li>
 <a href="data/">Data</a>
@@ -94,7 +97,7 @@ Literate Code and Reproducible Research">
 <a href="http://browser.dissertation.jeriwieringa.com">Model Browser</a>
                 </li>
 <li>
-<a href="http://goh.readthedocs.io/en/latest/">GoH Documentation</a>
+<a href="http://goh.readthedocs.io/en/latest/">Code Documentation</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -128,17 +131,46 @@ Literate Code and Reproducible Research">
         <div class="row">
             
             
-<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Dissertation Notebooks</a></h1>
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">README</a></h1>
 
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <!-- .. date: 2018-01-16
-.. title: Dissertation Notebooks
-.. slug: index 
--->
-<p><a href="https://github.com/jerielizabeth/Gospel-of-Health-Notebooks">View on Github</a></p>
-<h2 id="literate-code-and-reproducible-research">Literate Code and Reproducible Research</h2>
+    <!-- 
+.. date: 2018-10-01
+.. slug: index
+ -->
+<h1 id="notebooks-for-a-gospel-of-health-and-salvation">Notebooks for <em>A Gospel of Health and Salvation</em>
+</h1>
+<p>This repository contains <a href="http://jupyter.org/">Jupyter notebooks</a> which document the technical work for my dissertation, <em>A Gospel of Health and Salvation</em>. It will be divided into five modules, each of which corresponds to a section of my dissertation site (to be released in 2018).</p>
+<p>For a project overview of <em>A Gospel of Health and Salvation</em>, please read “<a href="http://jeriwieringa.com/2017/04/21/updated-dissertation-description/">Updating the Dissertation Description</a>” at <a href="http://jeriwieringa.com">jeriwieringa.com</a>.</p>
+<p>These notebooks will be incorporated into the dissertation, but I am making them available here for ease of evaluation and use. They can be run locally by cloning the repository and opening the .ipynb files via a notebook server (see the next section for more details).</p>
+<p>I share them in hopes that they prove useful to others taking on similar projects and that “<a href="https://en.wikipedia.org/wiki/Linus%27s_Law">given enough eyeballs, all bugs are shallow</a>.”</p>
+<h2 id="setup-and-running-a-notebooks-server">Setup and Running a Notebooks Server</h2>
+<p>These files are available through Github and in a display version as part of my dissertation.</p>
+<p>To run the notebooks locally, you will need <strong>Python3</strong> as well as the libraries recorded in the <code>environments.yml</code> file, included at the root of the project. I recommend managing Python and the libraries using <a href=".">Conda</a>.</p>
+<p>First, <a href="http://conda.pydata.org/docs/install/quick.html">install Conda</a>. Once you have Conda installed, you can duplicate the environment for these notebooks by running (in the command line):</p>
+<pre class="sourceCode bash" id="cb1"><code class="sourceCode bash"><div class="sourceLine" id="cb1-1" data-line-number="1">
+<span class="ex">conda</span> env create -f environment.yml</div></code></pre>
+<p>If you need to update your local environment from the <code>environment.yml</code> file, run:</p>
+<pre class="sourceCode bash" id="cb2"><code class="sourceCode bash"><div class="sourceLine" id="cb2-1" data-line-number="1">
+<span class="ex">conda</span> env update --name=GoH --file=environment.yml</div></code></pre>
+<p>To load the environment, run:</p>
+<pre class="sourceCode bash" id="cb3"><code class="sourceCode bash"><div class="sourceLine" id="cb3-1" data-line-number="1">
+<span class="bu">source</span> activate GoH</div></code></pre>
+<p>You can then launch the notebooks server by running (at the root of the notebooks directory):</p>
+<pre class="sourceCode bash" id="cb4"><code class="sourceCode bash"><div class="sourceLine" id="cb4-1" data-line-number="1">
+<span class="ex">jupyter</span> notebook</div></code></pre>
+<h2 id="outline-of-the-project">Outline of the project</h2>
+<p>The notebooks are organized into modules which correspond to the different sections of the dissertation. The descriptions will be updated as the modules are released.</p>
+<h3 id="module-2-of-making-many-books">Module 2: Of Making Many Books</h3>
+<p>This module is focused on the print culture of the S.D.A. and the selection and processing of the materials used in the dissertation. The notebooks document the code used to download the corpus PDF files and extract, evaluate, and clean the text from those PDF files.</p>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>I have accumulated many debts while learning Python and attempting to apply code it to my dissertation research. A special thanks to Fred Gibbs, both for introducing “Clio3” to the GMU curriculum (the beginning of my demise) and for being a sounding board, helping me work through some of the stickier parts of the technical work. Thanks also to the <a href="http://library.iliff.edu/learning/#/humanities/">“NLP-Group” at ILIFF</a> for letting me join your calls, helping me work through problems, and inspiring me to write beautiful, well-documented code.</p>
+<p>And, of course, thanks to the generous citizens of <a href="https://stackoverflow.com/">StackOverflow</a>, without whom I don’t know how I would ever remember how to write to a file.</p>
+<h2 id="copyright">Copyright</h2>
+<p>All material is copyright of Jeri E. Wieringa (jeri.elizabeth@gmail.com).</p>
+<p>The code is released under the MIT license, and the text under the Creative Commons Attribution-NonCommercial 4.0 International license. See <a href="license.md" class="uri">license.md</a> for details.</p>
     </div>
     
 
@@ -157,6 +189,12 @@ Literate Code and Reproducible Research">
             <script src="../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-35130770-2"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35130770-2');
+</script>
 </body>
 </html>
