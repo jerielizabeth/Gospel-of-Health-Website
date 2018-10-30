@@ -2,914 +2,108 @@
 .. date: 2018-02-01
 .. title: The Emergence of Seventh-day Adventism
 .. slug: chapter-1
- -->
+-->
 
-<!-- [Rework section to orient less around publishing and more in conversation with general history of the denomination.]
+>I told the view to our little band in Portland, who then fully believed it to be of God. It was a powerful time. The solemnity of eternity rested upon us. About one week after this the Lord gave me another view, and shewed me the trials I must pass through, and that I must go and relate to others what he had revealed to me, and that I should meet with great opposition, and suffer anguish of spirit by going. But said the angel "The grace of God is sufficient for you: he will hold you up." 
+>
+>Ellen White, 1851^[@White1851, pp. 5-6]
 
-Outline for revision:
-1. Women and the revivals of the early republic - setting the contexutal history with an emphasis on the gender arguments.
+>And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions
+>
+>Joel 2:28, King James Version
 
-2. Rise of Adventism and it's roots - focus on Miller and Himes and the traditions that feed into what becomes the SDA. Role of Print.
-- Methodism
-- Baptist
-- Christian Connection
-- Reform
+[chapter abstract]
 
-3. 1844-1849: the fracture of the Adventists. 
+## Setting the Stage: Women and the Revivals of the Early Republic
 
-4. Distinctive Theology of the SDA - what came to characterize the emerging denomination?
-- Sabbath, following the Seventh-day Baptists (long tradition)
-- Conditional immortality
-- Progressive revelation (how they manage the changing temporal landscape)
-- literal hermaneutic.
+<!-- + Stories of women in religious revivals
 
-5. Transition to rest of dissertation: Time, revival, and Gender. -->
++ Theoretical framing
+    + Smith-Rosenberg on antiritualism
+    +  -->
 
+## The Making of the Adventists
+<!-- 
++ quick overview of the state of revivalism leading up to the Adventists
+    + major 'revival' periods were 1740s and early 1800s
+    + revivalism on the decline (Bratt) -->
 
-"Blest Be the Tie that Binds": Seventh-day Adventism as a Textual Community
-===========================================================================
+### The Religious Roots of Adventism
 
-Of the many changes that transformed American life in the
-nineteenth-century, the expansion of the means and networks of
-communication looms large. As the expanding nation was increasingly
-connected through railroads and telegraph, the decrease in
-transportation time and the increasing ease of producing and
-distributing information aided the growth of religious and political
-communities despite growing spatial distances. Using print to develop an
-"imagined community" that spanned both time and space, politicians,
-reformers, and religious leaders leveraged newspapers and other regular
-publications to share ideas, unite followers, and support dispersed
-communities. For religious publishers, the flourishing of religious
-print enabled preachers and others to "impart a sense of coherence and
-direction to widely scattered congregations" and in so doing provided
-the mechanism for the formation of new national religious movements.^[Hatch, 146; Benedict Anderson, 6.]
-For the readers of religious periodicals of all stripes, the ritual of
-reading, sharing, and writing helped to create a "sense of
-interconnection," of belonging and shared understanding, as fellow
-travelers along the road.^[Brown(2007), p. 271]
+<!-- Themes:
++ Biblical literalism
++ Millennialism/apocalypticism
++ "Democratization" 
+    + Hatch
++ Primitivism
 
-The history of the Seventh-day Adventist denomination provides a
-particularly potent example of the use of print to create and sustain a
-religious movement. For the early adherents, circulation of periodical
-literature was the primary mechanism by which the denomination developed
-its self-understanding and formed community. While these processes were
-aided by camp meetings and weekly services, the centrality of print in
-the missionary work of the denomination and importance of correspondence
-to the community through the periodicals point to the integral role of
-print as the "tie that bound" the community together.^[John Fawcett, "Blest be the tie that binds." Published in Adventist hymnals starting with *The Advent Harp* in 1849. http://hymnary.org/text/blest\_be\_the\_tie\_that\_binds] In this
-examination of the print culture of early Seventh-day Adventism, I look
-at the role of periodical publishing in the development of the
-denomination. In addition to being the mechanism by which believers
-developed a sense of community and by which religious leaders developed
-the doctrinal positions of the denomination, the publishing work of the
-denomination was integral to the religious practice and institutional
-organization of the denomination. Orienting around the printed word,
-rather than around the local congregation or a particular place or
-person, the denomination's reliance on print provided the impetus for
-formal organization, a ...
+Denominations:
++ Methodism
+    + EGW's background
+    + 
++ Christian Connection
+    + James White's background
+    + 
++ Baptists (and Seventh-day Baptists)
+    + Bates' background
+    + Miller's background (?)
++ Reform
+    + Abzug here
+    + Himes here. -->
 
-Within a Printing Nation
-------------------------
+### William Miller, Joshua Himes, and ....
+Of the varied religious movements that developed during the nineteenth-century, one of the more notable were the Millerites, American Protestants drawn largely from Baptist and Methodist congregations who were convinced by the teaching of one William Miller that the Bible revealed that the second coming, or second advent, would take place around the year 1843. Miller, a commissioned militia officer during the War of 1812 and if his biographer is to be believed, a leading citizen of Poultney, Vermont, began his study of the Bible shortly after his conversion from Deism in an attempt to prove the reliability of the Bible by reconciling all apparent inconsistencies he discovered.^[Bliss (1853), pp. 18-25, 31, )] In 1818, he first came to the conclusion that the prophecies, particularly Daniel, revealed that the second coming would take place around year 1843. After spending five years confirming his interpretations and calculation, he began to share his conclusions, starting with family and friends, then reaching out to local ministers. Miller understood his findings as reinforcing the teachings of the churches and as part of the prevailing belief in the second coming and the need for salvation. He slowly began to receive invitations to preach in a variety of churches, including Baptist, Methodist, and Congregational.^[{Dick, 1998, \#15192@4}] In 1832, he published his findings in the *Vermont Telegraph* and in 1833, he was granted a preaching license from his Baptist church in Hampton, New York.^[{Judd, 1987, \#89117@22;25}; See also ... Miller gives the date of his being granted a license as 1834 in Mr. Miller's Apology and Defense.] He began preaching and lecturing in churches throughout New England throughout the 1830s and into the 1840s. He published a 64 page pamphlet of his interpretation in 1834 and a series of sixteen lectures in 1836. Between 1834 and 1839, when he began to with Joshua Himes, Miller recorded that he had given about 800 lectures on his interpretation of prophecy and his belief that the time of the second coming was at hand.^[Miller (1845), p. 3]
 
-> A newspaper then takes up the notion or the feeling which had occurred
-simultaneously, but singly, to each of them. All are then immediately
-guided toward this beacon; and these wandering minds, which had long
-sought each other in darkness, at length meet and unite.
-> 
-> The newspaper brought them together and the newspaper is still necessary
-to keep them united ... Means then must be found to converse every day
-without seeing each other, and to take steps in common without having
-met...
-> 
-> Alexis de Tocqueville^[*Democracy in America: part the second* (1840), p.]
+Despite publishing, traveling, and preaching widely, Miller's teachings would have remained one of many little known local religious movements of the nineteenth century if it were not for Joshua V. Himes. Prior to meeting Miller, Himes had a long history of embracing reform movements as the way to bring about the kingdom of God. Licensed to preach by the Christian Church, he was pastor of a church in Boston, was a Temperance lecturer, started a school for boys, was on the board of the Massachusetts Anti-Slavery Society, was an early supporter of William Lloyd Garrison, and distributed periodicals and other printed materials of the Disciples of Christ.^[{Arthur, 1987, \#72076@37-39}] Anticipating the coming millennium and already working hard to bring it about, Himes found Miller's teaching that it would arrive in a mere four years time both striking and deeply motivating. With Miller's blessing, Himes became his chief publicist, launching a campaign of print and conferences aimed at disseminating Miller's work as quickly and widely as possible.^[{Arthur, 1987, \#72076@39}] Publishing periodicals such as *Signs of the Times*, *The Midnight Cry*, the *Philadelphia Alarm*, and *The Western Midnight Cry*, among others, as newspapers of the movement, along with Miller's *The Second Advent* and memoirs, as well as tracts, hymns, and prophetic charts, Himes flooded religious readers with material expounding Miller's teachings. In doing so, he fostered a sense of religious community among adventist believers and created the mechanisms by which Miller's message could spread.^[{Arthur, 1987, \#72076@42-48}]
 
-From contemporary commentators to present day scholars, observers and
-historians of the United States have long commented on the role of print
-in the creation of American national identity. In his oft-quoted
-reflections on the American democratic system, Alexis de Tocqueville
-returned repeatedly to print as the mechanism by which the dispersed and
-diverse American population organized, politically and socially. Later
-scholars also frequently return to the question of print and its role in
-the development of the democratic society. Scholars from Benedict
-Anderson to David Waldstreicher have examined the ways print
-publications enabled the creation of national "imagined political
-communities."^[Anderson(2006), p. 6. Waldstreicher connects the use of newspapers to reprints accounts of parades, toasts, and proclamations to the creation of political and partisan identity in the early republic.] Print and reading functioned as rituals by which individuals imagined themselves as part of a larger whole with a set of
-shared experiences and beliefs.
+At the risk of projecting a modern concept onto the past, it is clear that Himes had an excellent sense of "marketing" --- he knew how to engage people in a cause and how to gain, if not converts, at least attention. He worked to ensure the widest possible reach for Miller's teachings, establishing periodicals in the key cities of Boston, New York, Philadelphia, and Cincinnati. He also understood the value of "showmanship," acting quickly on a decision to build a "great tent" --- one that seated 4,000 people and was one of the largest to be seen in America; publishing and selling colorful charts to illustrate the intricate (and obtuse) details of Miller's interpretation; and convincing Miller to offer a more definitive date. He also began holding regular conference meetings for those convinced by Miller's teachings. These gatherings provided a forum for the dispersed community to come together, to work to reach consensus on some of the contested details of Miller's teaching, and to agree on a strategy for spreading the word.^[Judd (1987), pp. 39-48.]
 
-The growing reliance on print in the eighteenth and nineteenth centuries
-as the mechanism for creating imagined political communities was
-supported by advances in transportation. As noted by Daniel Walker Howe,
-technological transformations in transportation and communication during
-this period, particularly the railroad and the telegraph, created the
-material realities necessary for the flourishing of the print culture of
-the United States. With the expanding Post Office driving both need and
-use of improved modes of transportation, editors and publishers of all
-stripes had a strong ally in their quest to distribute their materials
-as widely as possible. In addition, the Post Office provided benefits to
-newspapers and periodicals, including low postage rates and
-complimentary mailing between publishers, in order to encourage the
-spread of information.^[{Howe, 2007, \#97267@226}] With an efficient and generally reliable
-means of distribution in the Post Office, and as technological
-improvements to presses increased the ease and affordability of
-printing, the environment was right for the rise of the religious press.
+[![Miller's chart of the world and Daniel's visions.](/images/Chronological_Chart_of_the_World.png)](/images/Chronological_Chart_of_the_World.png)
 
-Just as the publication of news helped form a national imagined
-community, print fostered the proliferation of religious expression
-during the nineteenth-century. Rather than being limited by the number
-of lectures and sermons that one could give, by the inclination of
-people to come to listen, or by the theological preferences of an
-editor, religious leaders of all sorts could increase the spread of
-their teaching by creating and issuing their own publications. Building
-on the patterns of producing and reading partisan newspapers described
-above, religious leaders and founders from Alexander Campbell and Joseph
-Smith to Jarena Lee and Nancy Towle used publications to share their
-testimonies and teachings with the world.^[cite Hatch, 144; Grammer, 9,10; may be worth commenting here that women were using the press to publish testimonial autobiographies, rather than periodicals. In fact, Ellen White's first publication was a testimonial, though she also encouraged James White's foray into periodical publishing.] Religious periodicals not only enabled individual preachers to expand their reach, they provided
-the platform by which those who engaged by reading could imagine
-themselves as part of new religious communities.
-
-One often invoked example of this process in the print culture of the
-early republic is William Miller and his prediction of the end of the
-world in 1843-1844. In "Religious Periodicals and their Textual
-Communities," Candy Brown notes, "New religious groups signaled their
-entrance into the American cultural milieu by issuing distinctive
-publications. Miller did not attract a following until 1840, when Joshua
-Himes publicized his prophetic ideas through a periodical, *Signs of the
-Times.*"^[{Brown, 2007, \#3945@271-272}] Nathan Hatch, in his discussion of print in the creation of
-evangelical print culture, refers to the publishing efforts of Joshua
-Himes to spread and popularize Miller's adventist teachings as "an
-excellent case in point" of the ways the cultural climate of the early
-republic "favored religious insurgents willing to employ fresh
-strategies to capture public attention."^[{Hatch, 1989, \#76186@144}. Link to additional places where readers can learn more about this relationship. Split between places where it is just mentioned off hand and more in-depth studies.] For religious historians, adventism serves as an instructive example of the ways the religious
-press operated outside of denominational boundaries and enabled
-religious innovators to reach wide audiences.^[The naming of Miller's followers and the religious movements that developed in the wake of his predictions is complicated. I am following the pattern of Ann Taves in using "adventists" to refer to those who accepted Miller's teaching that the second coming or "advent" was a hand, and Adventist to refer to formally organized denominations ...]
-
-However, while frequently invoked, the print culture of early
-Seventh-day Adventism is rarely examined beyond linking the reach of
-Miller's end-times predictions to the publishing efforts of Joshua Himes
-or the use of print by James and Ellen White to revive the movement into
-the Seventh-day Adventist church. I argue that, while the printed word
-holds a special place in the Christian tradition generally, print was
-central to the development of Seventh-day Adventism. As I show, it was
-the primary mechanism by which a dispersed community of Millerites
-developed their distinctive understanding of the events of 1844,
-provided the structural incentives for the formal organization of the
-denomination, and functioned as a pillar of denominational life and
-missionary activities as the denomination developed into the twentieth
-century.
-
-Making the Millerites
----------------------
-
-\[image of Millerite in his box\]
-
-Of the varied religious movements that developed during the
-nineteenth-century, one of the more notable were the Millerites,
-American Protestants drawn largely from Baptist and Methodist
-congregations who were convinced by the teaching of one William Miller
-that the Bible revealed that the second coming, or second advent, would
-take place around the year 1843. Miller, a commissioned militia officer
-during the War of 1812 and if his biographer is to be believed, a
-leading citizen of Poultney, Vermont, began his study of the Bible
-shortly after his conversion from Deism in an attempt to prove the
-reliability of the Bible by reconciling all apparent inconsistencies he
-discovered.^[Bliss (1853), pp. 18-25, 31, )] In 1818, he first came to the conclusion that the
-prophecies, particularly Daniel, revealed that the second coming would
-take place around year 1843. After spending five years confirming his
-interpretations and calculation, he began to share his conclusions,
-starting with family and friends, then reaching out to local ministers.
-Miller understood his findings as reinforcing the teachings of the
-churches and as part of the prevailing belief in the second coming and
-the need for salvation. He slowly began to receive invitations to preach
-in a variety of churches, including Baptist, Methodist, and
-Congregational.^[{Dick, 1998, \#15192@4}] In 1832, he published his findings in the *Vermont
-Telegraph* and in 1833, he was granted a preaching license from his
-Baptist church in Hampton, New York.^[{Judd, 1987, \#89117@22;25}; See also ... Miller gives the date of his being granted a license as 1834 in Mr. Miller's Apology and Defense.] He began preaching and
-lecturing in churches throughout New England throughout the 1830s and
-into the 1840s. He published a 64 page pamphlet of his interpretation in
-1834 and a series of sixteen lectures in 1836. Between 1834 and 1839,
-when he began to with Joshua Himes, Miller recorded that he had given
-about 800 lectures on his interpretation of prophecy and his belief that
-the time of the second coming was at hand.^[Miller (1845), p. 3]
-
-Despite publishing, traveling, and preaching widely, Miller's teachings
-would have remained one of many little known local religious movements
-of the nineteenth century if it were not for Joshua V. Himes. Prior to
-meeting Miller, Himes had a long history of embracing reform movements
-as the way to bring about the kingdom of God. Licensed to preach by the
-Christian Church, he was pastor of a church in Boston, was a Temperance
-lecturer, started a school for boys, was on the board of the
-Massachusetts Anti-Slavery Society, was an early supporter of William
-Lloyd Garrison, and distributed periodicals and other printed materials
-of the Disciples of Christ.^[{Arthur, 1987, \#72076@37-39}] Anticipating the coming millennium and
-already working hard to bring it about, Himes found Miller's teaching
-that it would arrive in a mere four years time both striking and deeply
-motivating. With Miller's blessing, Himes became his chief publicist,
-launching a campaign of print and conferences aimed at disseminating
-Miller's work as quickly and widely as possible.^[{Arthur, 1987, \#72076@39}] Publishing
-periodicals such as *Signs of the Times*, *The Midnight Cry*, the
-*Philadelphia Alarm*, and *The Western Midnight Cry*, among others, as
-newspapers of the movement, along with Miller's *The Second Advent* and
-memoirs, as well as tracts, hymns, and prophetic charts, Himes flooded
-religious readers with material expounding Miller's teachings. In doing
-so, he fostered a sense of religious community among adventist believers
-and created the mechanisms by which Miller's message could spread.^[{Arthur, 1987, \#72076@42-48}]
-
-At the risk of projecting a modern concept onto the past, it is clear
-that Himes had an excellent sense of "marketing" --- he knew how to
-engage people in a cause and how to gain, if not converts, at least
-attention. He worked to ensure the widest possible reach for Miller's
-teachings, establishing periodicals in the key cities of Boston, New
-York, Philadelphia, and Cincinnati. He also understood the value of
-"showmanship," acting quickly on a decision to build a "great tent" ---
-one that seated 4,000 people and was one of the largest to be seen in
-America; publishing and selling colorful charts to illustrate the
-intricate (and obtuse) details of Miller's interpretation; and
-convincing Miller to offer a more definitive date. He also began holding
-regular conference meetings for those convinced by Miller's teachings.
-These gatherings provided a forum for the dispersed community to come
-together, to work to reach consensus on some of the contested details of
-Miller's teaching, and to agree on a strategy for spreading the
-word.^[Judd (1987), pp. 39-48.]
-
-Figure 2.1: William Miller's "Chronological Chart of the World to which
+**Figure 1.1**: William Miller's "Chronological Chart of the World to which
 is added, a Chart of Daniel's Visions" (1842). From the Adventist
 Digital Library.
 https://adventistdigitallibrary.org/adl-421835/chronological-chart-world.
 Accessed 6 September 2017.
 
-*Figure 2.1: William Miller's "Chronological Chart of the World to which
-is added, a Chart of Daniel's Visions" (1842). From the Adventist
-Digital Library.
-https://adventistdigitallibrary.org/adl-421835/chronological-chart-world.
-Accessed 6 September 2017.*
+[![Fitch's chart of the visions of Daniel and John.](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
 
-Figure 2.2: Charles Fitch's "A Chronological Chart of the Visions of
+**Figure 1.2**: Charles Fitch's "A Chronological Chart of the Visions of
 Daniel and John." (1843). From the Adventist Digital Library.
 https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john.
 Accessed 6 September 2017.
 
-*Figure 2.2: Charles Fitch's "A Chronological Chart of the Visions of
-Daniel and John." (1843). From the Adventist Digital Library.
-https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john.
-Accessed 6 September 2017.*
+The efforts of Himes launched Miller and his teachings into the public consciousness and created a community around the belief that the second coming would occur between March 21, 1843, and March 21, 1844. In 1842, just two years after he joined the cause, Himes claimed fifty-thousand readers for *Signs of the Times* and between three and four hundred ministers distributing the materials.^[Dick (1998), p. 6; {Arthur, 1987, \#72076@46}] By 1844, Himes had overseen the foundation of a number of serial publications, tracts, and pamphlets and had organized, attended, and spoken at conferences around the United States and Canada. As a result, Miller himself became highly sought-after speaker, claiming to have given about 4000 lectures in 500 hundred towns between 1840 and 1844. In addition to Miller and Himes, by Miller's calculations some 200 ministers in the United States and Canada had embraced his interpretation, and an additional 500 public lecturers circulated his view.^[Miller (1845), p. 4]
 
-The efforts of Himes launched Miller and his teachings into the public
-consciousness and created a community around the belief that the second
-coming would occur between March 21, 1843, and March 21, 1844. In 1842,
-just two years after he joined the cause, Himes claimed fifty-thousand
-readers for *Signs of the Times* and between three and four hundred
-ministers distributing the materials.^[Dick (1998), p. 6; {Arthur, 1987, \#72076@46}] By 1844, Himes had overseen
-the foundation of a number of serial publications, tracts, and pamphlets
-and had organized, attended, and spoken at conferences around the United
-States and Canada. As a result, Miller himself became highly
-sought-after speaker, claiming to have given about 4000 lectures in 500
-hundred towns between 1840 and 1844. In addition to Miller and Himes, by
-Miller's calculations some 200 ministers in the United States and Canada
-had embraced his interpretation, and an additional 500 public lecturers
-circulated his view.^[Miller (1845), p. 4]
+Miller did not set out to form a new movement or denomination. Rather he saw his teachings as within the bounds of the prevailing orthodoxy, as the logical conclusion of prevailing Protestant beliefs. He made no effort to start his own church and did not wish to be identified as a "sectarian leader," instead encouraging followers to stay within their home denominations. In claiming success, he notes that, as result of his early lecturing, "many churches thereby greatly added to their numbers," a statement that reinforces that he saw his goal as the revival of the local church, not the creation of his own.^[Miller (1845), p. 3] He saw his teaching of the imminent second coming to be a truth of general interest for all denominations, and one that would (or should) be embraced regardless of denominational affiliation.^[Judd (1987), p. 30-31]
 
-Miller did not set out to form a new movement or denomination. Rather he
-saw his teachings as within the bounds of the prevailing orthodoxy, as
-the logical conclusion of prevailing Protestant beliefs. He made no
-effort to start his own church and did not wish to be identified as a
-"sectarian leader," instead encouraging followers to stay within their
-home denominations. In claiming success, he notes that, as result of his
-early lecturing, "many churches thereby greatly added to their numbers,"
-a statement that reinforces that he saw his goal as the revival of the
-local church, not the creation of his own.^[Miller (1845), p. 3] He saw his teaching of
-the imminent second coming to be a truth of general interest for all
-denominations, and one that would (or should) be embraced regardless of
-denominational affiliation.^[Judd (1987), p. 30-31]
+This did not always go according to plan, as the experience of the Harmon family illustrates. In her autobiography, Ellen (Harmon) White reports, "At the age of eleven I was converted, and when twelve years old was baptized, and joined the Methodist church." Upon hearing William Miller lecture on the topic of the Second Advent at age of 13 (1841), she "then felt that I was not holy, not ready to see Jesus" and so "when the invitation was given for church members and sinners to come forward for prayer," she went forward in the belief that "I must have a great work done for me to fit me for Heaven."^[{White, 1851, \#9716@3}] Although already converted, baptized, and a member of the church, the news that the second coming would occur in two years time caused White to call her faith into question. She began regularly attending "Second Advent meetings," seeking "full and free salvation" from God.^[{White, 1851, \#9716@3}] She received the confirmation she sought when she obeyed God's prompting to "pray in a public prayer-meeting."^[{White, 1851, \#9716@4}]
 
-This did not always go according to plan, as the experience of the
-Harmon family illustrates. In her autobiography, Ellen (Harmon) White
-reports, "At the age of eleven I was converted, and when twelve years
-old was baptized, and joined the Methodist church." Upon hearing William
-Miller lecture on the topic of the Second Advent at age of 13 (1841),
-she "then felt that I was not holy, not ready to see Jesus" and so "when
-the invitation was given for church members and sinners to come forward
-for prayer," she went forward in the belief that "I must have a great
-work done for me to fit me for Heaven."^[{White, 1851, \#9716@3}] Although already converted,
-baptized, and a member of the church, the news that the second coming
-would occur in two years time caused White to call her faith into
-question. She began regularly attending "Second Advent meetings,"
-seeking "full and free salvation" from God.^[{White, 1851, \#9716@3}] She received the
-confirmation she sought when she obeyed God's prompting to "pray in a
-public prayer-meeting."^[{White, 1851, \#9716@4}]
+Convinced of her salvation and full of anticipation for the return of Jesus, she returned to her Methodist class-meeting some six months later to share "what Jesus had done for me, and what a fullness I enjoyed through believing that the Lord was coming." This message, however, was not acceptable to the local Methodist class-leader, whom she reports interrupted her testimony to add "Through Methodism," an addition she rejected because "it was Christ and the hope of his soon coming that had made me free."^[{White, 1851, \#9716@4-5}] Eventually the tensions between Harmon family and the local Methodist minister over their Millerite convictions became too great and the family was "at one time cast out of the Methodist Church."^[White (1851), p. 5]
 
-Convinced of her salvation and full of anticipation for the return of
-Jesus, she returned to her Methodist class-meeting some six months later
-to share "what Jesus had done for me, and what a fullness I enjoyed
-through believing that the Lord was coming." This message, however, was
-not acceptable to the local Methodist class-leader, whom she reports
-interrupted her testimony to add "Through Methodism," an addition she
-rejected because "it was Christ and the hope of his soon coming that had
-made me free."^[{White, 1851, \#9716@4-5}] Eventually the tensions between Harmon family and
-the local Methodist minister over their Millerite convictions became too
-great and the family was "at one time cast out of the Methodist
-Church."^[White (1851), p. 5]
+Local communities of adventist believers emphasized regular attendance at the local Protestant Sunday services, but also attended their own interdenominational meetings of those who believed the second coming was at hand. Dedicated to sharing the news of the second coming with their neighbors and religious fellows, members of Millerite associations often found themselves at odds with their local religious leaders.^[Dick (1998), p. 9.] Finding community among other adventists and meeting resistance in their local churches was often too much for individual believers, prompting them to leave their home denominations and claim an adventist identify. While Miller himself was quite distressed by this trend, it set the stage for new denominations to form in the wake of the disappointments of 1844.^[Judd (1987), p. 32]
 
-Local communities of adventist believers emphasized regular attendance
-at the local Protestant Sunday services, but also attended their own
-interdenominational meetings of those who believed the second coming was
-at hand. Dedicated to sharing the news of the second coming with their
-neighbors and religious fellows, members of Millerite associations often
-found themselves at odds with their local religious leaders.^[Dick (1998), p. 9.]
-Finding community among other adventists and meeting resistance in their
-local churches was often too much for individual believers, prompting
-them to leave their home denominations and claim an adventist identify.
-While Miller himself was quite distressed by this trend, it set the
-stage for new denominations to form in the wake of the disappointments
-of 1844.^[Judd (1987), p. 32]
+Because of the non-denominational aspects of Miller's preaching and because multiple dates were eventually given for the second Advent, the total number of people who joined Miller in anticipating the second coming and the end of the world is difficult to determine. Miller estimated that there were 200 ministers and 500 lecturers who were had embraced his teachings. In the years after the 1844, the *New York Tribune* estimated that there were 30-40,000 Millerites at the movements peak. The high end of estimates puts the peak number at 100,000, though Miller himself claimed that about 50,000 embraced his message, calculating based on the number of conversions he witnessed in his lectures.^[Dick (1998), p. 27; Miller (1845), p. 4] These were the believers --- those who embraced Miller's interpretation as, quite literally, gospel truth. Given the massive amount of literature produced by Himes, however, it is likely that many more quietly marked the passage of 1844 with interested skepticism. What is clear is that, although Miller was able to preach to nearly 500,000 people, what propelled his teaching from local anticipation to an international movement was the coordinated publishing efforts of Himes.^[Dick (1998), p. 6]
 
-Because of the non-denominational aspects of Miller's preaching and
-because multiple dates were eventually given for the second Advent, the
-total number of people who joined Miller in anticipating the second
-coming and the end of the world is difficult to determine. Miller
-estimated that there were 200 ministers and 500 lecturers who were had
-embraced his teachings. In the years after the 1844, the *New York
-Tribune* estimated that there were 30-40,000 Millerites at the movements
-peak. The high end of estimates puts the peak number at 100,000, though
-Miller himself claimed that about 50,000 embraced his message,
-calculating based on the number of conversions he witnessed in his
-lectures.^[Dick (1998), p. 27; Miller (1845), p. 4] These were the believers --- those who embraced Miller's
-interpretation as, quite literally, gospel truth. Given the massive
-amount of literature produced by Himes, however, it is likely that many
-more quietly marked the passage of 1844 with interested skepticism. What
-is clear is that, although Miller was able to preach to nearly 500,000
-people, what propelled his teaching from local anticipation to an
-international movement was the coordinated publishing efforts of
-Himes.^[Dick (1998), p. 6]
+As would be the case for the early Seventh-day Adventists, Himes recognized the power of print and effectively deployed it as the center around which the Millerite movement formed. Regular publications spread the content of Miller's interpretation, raising awareness of his findings. Those same publications provided the forum by which Himes organized the regular conferences, inviting interested people to gather together to coordinate their efforts to spread the news of the coming millennium, and advertised upcoming tent meetings. Reports about the successes of the camp meetings helped the community to take part in the events regardless of geographic proximity, and served as further proof of the truth and successfulness of the adventist message, for if God were not behind the movement, the events would not be successful. In addition, Himes strategically started multiple publications in different cultural and geographic centers on the U.S., increasing the coverage that the movement could achieve and catering to regional interests. This was a strategy that the Seventh-day Adventists would later emulate, first as they came together around the publication of a new interpretation of Miller's teachings and the events of 1844, and later as they sent out missionaries, establishing printing houses in each new geographic region they entered.
 
-As would be the case for the early Seventh-day Adventists, Himes
-recognized the power of print and effectively deployed it as the center
-around which the Millerite movement formed. Regular publications spread
-the content of Miller's interpretation, raising awareness of his
-findings. Those same publications provided the forum by which Himes
-organized the regular conferences, inviting interested people to gather
-together to coordinate their efforts to spread the news of the coming
-millennium, and advertised upcoming tent meetings. Reports about the
-successes of the camp meetings helped the community to take part in the
-events regardless of geographic proximity, and served as further proof
-of the truth and successfulness of the adventist message, for if God
-were not behind the movement, the events would not be successful. In
-addition, Himes strategically started multiple publications in different
-cultural and geographic centers on the U.S., increasing the coverage
-that the movement could achieve and catering to regional interests. This
-was a strategy that the Seventh-day Adventists would later emulate,
-first as they came together around the publication of a new
-interpretation of Miller's teachings and the events of 1844, and later
-as they sent out missionaries, establishing printing houses in each new
-geographic region they entered.
+## Becoming Seventh-day Adventists
 
-From Millerites to Seventh-day Adventists (1844-1863)
------------------------------------------------------
+### The Fracturing of the Adventists
 
-As the period Miller identified between March 21, 1843 and March 21,
-1844, passed, adventist believers began to develop a number of
-alternative theories to address the persistence of time. A temporary
-reprieve from the crisis caused by persistence of time was granted when
-a young man named Samuel Snow announced that he had identified the error
-in Miller's calculations and that October 22, 1844, was the correct date
-indicated for the second coming. While acceptance of that interpretation
-brought unity back to the movement for a time, with the passing of the
-October 22, which came to be known as the Great Disappointment, the
-tensions between the various groups of adventists became too great to
-maintain a unified movement.
+As the period Miller identified between March 21, 1843 and March 21, 1844, passed, adventist believers began to develop a number of alternative theories to address the persistence of time. A temporary reprieve from the crisis caused by persistence of time was granted when a young man named Samuel Snow announced that he had identified the error in Miller's calculations and that October 22, 1844, was the correct date indicated for the second coming. While acceptance of that interpretation brought unity back to the movement for a time, with the passing of the October 22, which came to be known as the Great Disappointment, the tensions between the various groups of adventists became too great to maintain a unified movement.
 
-The adventist community did not collapse immediately after the final
-disappointment of October 22, 1844. While Himes briefly suspended
-publication after the October 16 issue of *The Advent Herald and Signs
-of the Times Reporter*, in anticipation of the second coming, when the
-day passed without event, he quickly regathered, releasing a new issue
-on October 30, 1844. Still convinced of the truth of the core of the
-adventist message, that the time of the second coming was at hand, he
-offered a retelling of the history of the adventist movement that
-emphasized the nuances of their teachings around the date of the second
-coming and downplayed the significance of the October date.^[http://documents.adventistarchives.org/AdvRelated/AHM/AHM18441016-V08-11a.pdf, p1; https://adventistdigitallibrary.org/adl-422050/advent-herald-and-signs-times-reporter-october-30-1844, pp. 92-93.]
-However, understanding and explaining the persistence of time posed a
-significant challenge for the community.
+The adventist community did not collapse immediately after the final disappointment of October 22, 1844. While Himes briefly suspended publication after the October 16 issue of *The Advent Herald and Signs of the Times Reporter*, in anticipation of the second coming, when the day passed without event, he quickly regathered, releasing a new issue on October 30, 1844. Still convinced of the truth of the core of the adventist message, that the time of the second coming was at hand, he offered a retelling of the history of the adventist movement that emphasized the nuances of their teachings around the date of the second coming and downplayed the significance of the October date.^[http://documents.adventistarchives.org/AdvRelated/AHM/AHM18441016-V08-11a.pdf, p1; https://adventistdigitallibrary.org/adl-422050/advent-herald-and-signs-times-reporter-october-30-1844, pp. 92-93.] However, understanding and explaining the persistence of time posed a significant challenge for the community.
 
-Many of those who had joined the adventist cause leading up to the
-October date returned to their original religious homes, joined other
-movements, such as the Shakers, or left the faith all together. Among
-those who remained committed to Miller's teachings, the movement split
-into two main groups: those who held that the end was indeed near but
-they had been mistaken about the date; and those who held that the end
-was indeed near but that they had been mistaken about the significance
-of the date. The debates between these groups took place on the pages of
-the main adventist papers, as well as in the pages of new periodicals
-started to promote various interpretations of the nature and timing of
-the Second Advent.^[This is described in Arthur (1970), pp. 85-145, and particularly 128-129. Also Dick (1998, p. 25). The interpersonal tensions between the Adventist leaders is also discussed in Arthur (1970), chapter 6. For a description of the three major sects that emerged from the Adventist movement, see Arthur (1970), chapters 7-9.] While Miller himself continued to believe that
-his interpretation was correct and the second coming was at hand, he
-ceased to offer or support any definitive date predictions after
-1844.^[empty citation ... figure out what was going here.]
+Many of those who had joined the adventist cause leading up to the October date returned to their original religious homes, joined other movements, such as the Shakers, or left the faith all together. Among those who remained committed to Miller's teachings, the movement split into two main groups: those who held that the end was indeed near but they had been mistaken about the date; and those who held that the end was indeed near but that they had been mistaken about the significance of the date. The debates between these groups took place on the pages of the main adventist papers, as well as in the pages of new periodicals started to promote various interpretations of the nature and timing of the Second Advent.^[This is described in Arthur (1970), pp. 85-145, and particularly 128-129. Also Dick (1998, p. 25). The interpersonal tensions between the Adventist leaders is also discussed in Arthur (1970), chapter 6. For a description of the three major sects that emerged from the Adventist movement, see Arthur (1970), chapters 7-9.] While Miller himself continued to believe that his interpretation was correct and the second coming was at hand, he ceased to offer or support any definitive date predictions after 1844.^[empty citation ... figure out what was going here.]
 
-Those who would come to form Seventh-day Adventism were part of the
-second category of movements to come out of adventism, believing that
-Miller had been correct in his interpretation of the Bible, and his
-endorsement of October 22, 1844, as the date prophesied but incorrect
-about what that date signified.^[Also in this group of Adventist, and whom SDA leaders such as Ellen White attempted to distinguish themselves from, were those who claimed that the Christ had returned spiritually on October 22, 1844 and that they were, as a result, both holy and immortal, a belief that seemed to give license for activities of questionable morality. See Vance (1999), p.26.] They embraced what were considered
-some of the more radical theological positions discussed in the wake of
-the 1844. First, they embraced the teaching of "conditional
-immortality," viewing the standard teaching of an immortal soul to be
-extra-biblical, arguing instead that people would be granted immortality
-(or not) at the resurrection. Second, this group of Adventists embraced
-the Seventh-day Baptist position on keeping Saturday, rather than
-Sunday, as the Sabbath. Third, rather than question the date Miller and
-Snow had given for the second coming, the founders of Seventh-day
-Adventism questioned the event that the date marked, holding what became
-known as the Sanctuary Doctrine. This was the belief that October 22,
-1844, marked the beginning of Christ's work cleansing the sanctuary,
-which was "heavenly," rather than being the earth as Miller had assumed,
-and there Jesus was undertaking the work of "blotting out sins" ahead of
-his second coming. Fourth, they embraced the existence of prophetic
-gifts, the belief that God would speak directly through an individual to
-provide guidance and new revelation for a community. For the early
-Seventh-day Adventists, this gift was primarily limited to Ellen
-(Harmon) White, though early on a number of people claimed to have
-received visions. Finally, although this was eventually abandoned, they
-embraced the "shut door" doctrine, holding that October 22, 1844, marked
-a closing of the period of salvation and only those who had accepted
-adventism prior to the date could be saved.^[Vance (1999), pp. 26-27; Anderson, in Land (1998), pp. 30-33. This teaching originated with another two Seventh-day Adventist "pioneers" --- Hiram Edson and O. R. Crozier --- who re-examined Miller's teaching and concluded that the "sanctuary" to be "cleansed" was not the earth (in the second coming) but in heaven. And, as did so many of their contemporaries, they the spread that conclusion through their own publication, the *Day-Dawn.*] As with others who
-continued in the Adventist faith after 1844, all of these beliefs hinged
-on a core belief that the waiting time they were now in would be short
-and that the second coming would take place soon.
+Those who would come to form Seventh-day Adventism were part of the second category of movements to come out of adventism, believing that Miller had been correct in his interpretation of the Bible, and his endorsement of October 22, 1844, as the date prophesied but incorrect about what that date signified.^[Also in this group of Adventist, and whom SDA leaders such as Ellen White attempted to distinguish themselves from, were those who claimed that the Christ had returned spiritually on October 22, 1844 and that they were, as a result, both holy and immortal, a belief that seemed to give license for activities of questionable morality. See Vance (1999), p.26.] They embraced what were considered some of the more radical theological positions discussed in the wake of the 1844. First, they embraced the teaching of "conditional immortality," viewing the standard teaching of an immortal soul to be extra-biblical, arguing instead that people would be granted immortality (or not) at the resurrection. Second, this group of Adventists embraced the Seventh-day Baptist position on keeping Saturday, rather than Sunday, as the Sabbath. Third, rather than question the date Miller and Snow had given for the second coming, the founders of Seventh-day Adventism questioned the event that the date marked, holding what became known as the Sanctuary Doctrine. This was the belief that October 22, 1844, marked the beginning of Christ's work cleansing the sanctuary, which was "heavenly," rather than being the earth as Miller had assumed, and there Jesus was undertaking the work of "blotting out sins" ahead of his second coming. Fourth, they embraced the existence of prophetic gifts, the belief that God would speak directly through an individual to provide guidance and new revelation for a community. For the early Seventh-day Adventists, this gift was primarily limited to Ellen (Harmon) White, though early on a number of people claimed to have received visions. Finally, although this was eventually abandoned, they embraced the "shut door" doctrine, holding that October 22, 1844, marked a closing of the period of salvation and only those who had accepted adventism prior to the date could be saved.^[Vance (1999), pp. 26-27; Anderson, in Land (1998), pp. 30-33. This teaching originated with another two Seventh-day Adventist "pioneers" --- Hiram Edson and O. R. Crozier --- who re-examined Miller's teaching and concluded that the "sanctuary" to be "cleansed" was not the earth (in the second coming) but in heaven. And, as did so many of their contemporaries, they the spread that conclusion through their own publication, the *Day-Dawn.*] As with others who continued in the Adventist faith after 1844, all of these beliefs hinged on a core belief that the waiting time they were now in would be short and that the second coming would take place soon.
 
-As for many of their adventist contemporaries, publishing was central to
-the efforts of the nascent Seventh-day Adventist community to articulate
-and share their views. While there were a number of figures who
-contributed to developing what would become the main points of
-Seventh-day Adventist theology, the key figures for understanding the
-development of the denomination and the use of print to unite and grow a
-community of believers are James and Ellen (Harmon) White. Ellen Harmon
-White established herself early on as an authoritative prophetic voice
-for an adventist community struggling to understand how to reconcile
-their interpretation of the Bible and the events they experienced. James
-White, who had worked as a Millerite lecturer and correspondent, was one
-of her earliest converts and became her primary publicist. It is through
-their combined efforts that the Seventh-day Adventist church coalesced
-and grew in the years after 1844.
+### Developing a Distinctive Theology
+<!-- 
++ progressive revelation
++ seventh-day sabbath
++ conditional immortality -->
 
-Starting in December of 1844, the sixteen-year-old Ellen Harmon began to
-experience visions related to the events of October 22, 1844, visions
-that provided evidence for what was considered to be the more radical
-interpretations of the Adventist movement and the continuation of time.
-Her first vision, experienced during a prayer gathering with four other
-young Adventist women, affirmed the central become a core principle of
-Seventh-day Adventism: that the October 22, 1844, date had been
-correctly determined and marked the end of the period of 2300 days
-(interpreted as years) described in Daniel 8:14. While Miller and Himes
-had understood the end of that "2300 day" period to correspond with the
-second coming, Harmon and others pointed instead to the end of the
-period corresponding to the start of Jesus' judgment of souls, which
-they now understood as taking place in heaven, not as part of the second
-coming.^[The implications of the end of the "2300 days" were debated for some time among the early Seventh-day Adventists. Initially Harmon and others embraced what came be known as the "shut-door doctrine,"or the belief that only those who had embraced the Adventist message prior to October 22, 1844, could be saved. By 1851, Ellen and James had largely abandoned that position, and as argued by Ronald Numbers, edited the published accounts of the visions to reflect that change. See Numbers (2008), pp. 71-72.] The answer of what to do with the vision came one week
-later, as Ellen reported a second vision instructing her to "go and
-relate to others what he had revealed to me," a task she was warned
-would come with no small about of trouble.^[citation from White, E. (1851), p. 5 and White, E. (1847). Also Numbers (2008)] Harmon embarked on the life of the religious itinerant, traveling around New England with
-family and friends, and sharing her vision to the local Adventist
-community.^[Ellen's visions were far from uncontroversial. She was frequently accused of, and sought to defend herself against, mesmerism and other such forms of external influence. In addition, the embrace of visions was seen as a "fanatic" position. Because Ellen and others embraced theological positions, such as Sabbatarianism, the "shut-door doctrine," and conditional immortality, that were also held by radical or fanatical adventists, they took pains to distance themselves from the less reputable behaviors associated with those groups. Whether or not she did participate in such expressions early on is a matter of debate. See Taves in Aamodt, et. al. (2014), pp. 39-40.]
-
-In 1845, while visiting various adventist meetings to share her visions
-with the community, Ellen Harmon met and gained a convert and ally in
-James S. White, a Christian Connection preacher and adventist lecturer.
-United in the mission to share the adventist message as understood
-through Ellen's visions, the two began traveling together around New
-England, an arrangement that caused no small amount of speculation.
-While initially holding that marriage suggested a lack of faith in the
-nearness of the second coming, propriety eventually won out and on
-August 30, 1846 the two married.^[Numbers (2008), pp. 68-69]
-
-Both James and Ellen (Harmon) White were familiar with the adventist
-strategies for evangelism, which combined print, itinerant lecturing and
-testimony sharing, and periodic tent meetings and local conferences.
-James White had been an active Millerite lecturer during the years
-leading up to 1844 and continued as an active correspondent with
-adventist periodicals in the years after the Great Disappointment,
-including the *Advent Herald,* the *Advent Herald and Bible Advocate,*
-and *The Second Advent Watchman,* papers that represented three of the
-major groups that developed out of adventism.^[(cite a smattering of the pieces found in EBSCO)] In these he reported
-back to the community about camp-meetings held and argued for
-theological positions, such as conditional immortality. Ellen had also
-been active in the local Millerite community, speaking at local churches
-and class meetings about her experience and her belief in the coming end
-of time prior to the events of 1844.^[Numbers(2008), p. 53; White (1851), p. 4]
-
-In addition to giving testimony in person, Harmon wrote of her visions
-to a number of adventist leaders and publishers. In December of 1845,
-one year after her first post-Disappointment visions, Ellen Harmon wrote
-a letter to Enoch Jacobs, editor and publisher of *The Day Star,*
-originally the adventist publication, *Western Midnight Herald,*
-describing her vision of "the Advent people" on their journey along the
-narrow way toward heaven and affirming that those who had embraced
-Miller's teachings were indeed on the "narrow path" to heaven.^["Letter from Sister Harmon" in *The Day Star*, Vol. 9, issue 7,8. Jacob Enoch, ed. from (url), p. 31.] As noted in the issue of *The Day Star*, and a subsequent letter by Harmon,
-this letter was purportedly not intended for publication, however, White
-quickly followed up with a second publication to further clarify her
-message and affirm that the church had now entered a waiting period
-before Christ's second coming. With her visions now circulating among
-the adventist communities through *The Day Star* and other periodicals,
-the couple also began to produce their own materials to share Ellen's
-particular vision. In 1847, noting that the publication which they had
-intended to publish with was no longer producing new issues, James began
-to produce pamphlets and broadsheets offering his exegesis and Ellen's
-visions to help the adventist community make sense of their current
-position in the unfolding of the end times.^[Often these pamphlets combined multiple previously published accounts, gathered together for ease of distribution. See *A Word to the "Little Flock"*, reprinted in 1932. (url).] In 1846, Ellen met
-Joseph Bates, a leader among the Millerites and a proponent of
-"Seventh-day" sabbatarianism, or the belief that Saturday, rather than
-Sunday, was the commanded day of Christian observance. While initially
-skeptical of Ellen's visions, Bates was eventually convinced, and
-published an account of them in 1847 with his own introduction of her as
-a prophet to the adventist community.^[*A Vision* (broadsheet). Published 1847 April 7. (url)] The evangelistic culture of
-the Millerites and adventists provided James and Ellen a template for
-how to reach the community with their particular message, leverage
-existing networks of print and public speaking to reach a wider audience
-with their good news.^[In this, I argue for more intentionality in the White's use of publishing than Arthur Patrick suggests in his account of Ellen White as "Author." See Arthur Patrick, "Author" in *Ellen Harmon White: American Prophet*, p. 91]
-
-While the publishing efforts of the White's initially took the form of
-more singular publications, or relied on existing adventist outlets, in
-1849 James White began to produce his own title, *The Present Truth.*
-His goal for the title, as described in its initial issue, was to reach
-the "scattered flock" with the "present truth" as quickly as possible,
-for the second coming was at hand.^[James White, *The Present Truth*, 1.1 (1849), p. 1, 6] Central to that "present truth"
-was the necessity of keeping the Decalogue (the ten commandments) and
-the teaching that the commandment to "honor the Sabbath day" required
-Christian observance on Saturday (Friday sundown to Saturday sundown)
-rather than Sunday.^[In Seventh-day Adventist terminology, the Sabbath and the requirements for Sabbath observance in separating the saved from the lost is known as *the third angel's message.* (link to snippet explaining the three angels and their messages?)] In 1850, and at least partially in response to
-some criticism of the White's efforts to create a new publication, Ellen
-published an account of her vision on September 23 of that year where
-she was shown that they were in the "gathering time" where God was
-bringing his people together and to a shared understanding of the
-adventist message, an effort that required "that the truth be published
-in a paper, as preached."^[Ellen White, "Dear Brethren and Sisters" in *The Present Truth* 1.11 (November 1850), pp. 86-87. See also Floyd Greenleaf and Jerry Moon, "Builder" in *Ellen Harmon White: American Prophet*, p. 126-7; p. 140 notes 2 and 6. Subsequent versions of this history present a more direct link between Ellen's visions and James' publishing.]
-
-James and Ellen saw these publications initially as a short term
-endeavor --- anticipating the quick success of their mission to bring
-together the adventist community around the belief that October 22 had
-marked the beginning of an interim period of Christ's "investigative
-judgment."^[Fritz Guy, "Theology" in *Ellen Harmon White*, p. 152] But as time continued and interest grew in the
-publication, it became clear that this would be a longer endeavor. While
-the initial issues were overall uni-directional, offering arguments for
-the Sabbath and accounts of Ellen's visions, by the third and fourth
-issue of *The Present Truth*, the publication began to take on a
-community building function. In Volume 1.3, published August 1849, James
-printed a notice about upcoming conference meetings to be held in
-Vermont and Maine by Joseph Bates. In Volume 1.4, published September
-1849, he included a letter from "J. C. Bowles" who wrote from Jackson,
-Michigan to send word that they had received *The Present Truth,* to
-report on the success of Bates' trip west, and to suggest that James
-"insert extracts of the letters you may receive from the brethren" as to
-hear such would be "comforting ... to hear from others" and "may induce
-some to examine the subject, that would not otherwise."^[J. C. Bowles, "Dear Brother White". *The Present Truth* 1.4 (September 1849), p. 32] While James
-notes that he did not intend initially to publish letters from the
-"brethren," such quickly become a regular feature of *The Present Truth*
-and its successor, *The Second Advent Review and Sabbath Herald*
-(generally referred to as *The Review and Herald*). By the last issue of
-*The Present Truth* -- Volume 1.11, published November 1850 -- over half
-of the publication is devoted to letters from readers and fellow
-seventh-day proponents, responses to controversies within the community
-(in this case regarding the eating of pork), news about recent and
-upcoming meetings, and the sale of other literature, including hymnals
-and prophetic charts.^[aside: In addition to publishing *The Present Truth*, James White published a five issue series called *The Advent Review*, which featured pieces originally published by Millerite leaders in the years surrounding the end-times anticipation of 1843 and 1844. Through this publication, James White and the rest of the editorial committee connected the teaching of the seventh-day adventists to the early leaders of the adventist movement, position their interpretation as an (if not "the") authentic inheritors of the adventist tradition.]
-
-The publication location of the White's initial periodicals reflect the
-family's, and the religious community's, movement from upper New England
-toward the West. Initially based out of Maine, where the Harmon family
-was located, as early as 1849 their teaching had been brought as far
-west as Michigan through the preaching of Joseph Bates. In 1851, in
-order to make it easier to travel to the far reaches of the dispersed
-community and to more cheaply distribute the periodical, the White's
-moved their publishing operation to upstate New York, first to Saratoga
-Springs, and in 1852 to Rochester.^[RH 1.13 (1851), p. 104; RH 2.14(1852), p. 108.] Repeating the Millerite strategy
-of combining publications, traveling lecturers, and tent meetings to
-create and hold the community together, the editors of *The Review and
-Herald* understood the role of the paper as central to that effort, that
-for a people "thus scattered, and surrounded by unbelief and opposition,
-you certainly need the weekly visits of a paper devoted to the present
-truth."^[RH 2.13 (1852 March 02), p. 104] In 1855, the community in Battle Creek, Michigan, offered
-to establish a more permanent home for the denominations publishing
-efforts, including a press. By October of that year, James and Ellen
-relocated to Battle Creek, and the community called a general conference
-to decide who would run the daily operations of the publication.^[RH 7.8 (1855-10-16), p. 64]
-Battle Creek would remain the cultural and political center of the
-denomination through the rest of the century.
-
-So central was publishing to the religious movement, that by 1860, the
-logistical concerns of running a successful publishing operation pushed
-James White and others toward discussing legal incorporation of the
-press and the denomination. During a general conference held in Battle
-Creek in the fall of 1860, called in order to discuss "the proper method
-of holding church property, the want of our Office of publication, &c.,"
-James White presented the case for incorporation.^[RH 16.17(1860-09-11), p. 136] Noting that, as
-it stood, he was the sole owner of the "REVIEW office" and his desire to
-see the property owned instead by the church, James White led the
-argument for a mechanism of legal incorporation. However, this proved a
-culturally contentious issue for the community of adventists, many of
-whom understood separation from the state as central to their charge to
-be a separate people. While individual churches might establish a legal
-presence for building ownership, the press presented a different
-challenge for the emerging denomination --- a centrally held
-organization that required some form of central management. Eventually a
-compromised was reached, creating an "association" for the purposes of
-legal incorporation of the publishing office and its holdings, while
-making membership in that association an optional aspect of church
-membership.^[An example of this can be seen in James White's response to a letter from a "Brother R. Miles" calling for the end of the Review in light of their organization efforts (RH 16.19 (1860-09-25), p. 148). The debates regarding church organization were published in issues 16.21-23 of the *Advent Review and Sabbath Herald* for October of 1860. For more on this, see Jonathan M. Butler, "Adventism and the American Experience" in *The Rise of Adventism*, p. 178-180] On May 3, 1861, the Seventh-day Adventist Publishing
-Association was legally incorporated in Battle Creek Michigan.^[RH 17.25 (1861-05-07), p. 200] In
-May 1863, during the annual meeting in Battle Creek, delegates voted to
-create the General Conference of Seventh-day Adventists as formally
-organize the political structure of the denomination and outline the
-relationship between the smaller state conferences and the larger
-national organization in order to coordinate efforts for the ordination
-of ministers and the sharing of the Adventist message, including the
-distribution of the denominational literature.^[RH 11.26 (1863-05-26), p. 204-206]
-
-Diversification of the Seventh-day Adventist Print Culture
-----------------------------------------------------------
-
-From a humble beginning of 1000 copies of *The Present Truth* in 1850 to
-a well-organized publishing operation boasting 20 employees,
-approximately \$39,000 in assets and four thousand dollars in sales in
-1865, James and Ellen White successfully deployed print to bring
-together a community united in their belief in Sabbath-keeping, the
-"spirit of prophecy," conditional immortality, and the sanctuary.^[ASR 1920, p. 16]
-As the SDA continued to grow through the second half of the
-nineteenth-century into the twentieth, its publishing efforts grew in
-tandem. By 1920, the publishing arm of the denomination employed 1,125
-individuals in 45 publishing houses, produced 144 different periodical
-titles and literature in 99 languages, with assets valued over 3 million
-dollars and annual sales amounts over 5.6 million dollars.^[ASR 1920, p. 16] This
-publishing expansion was more than just a matter of scale, however. Over
-this period, the denomination expanded its publishing efforts to meet
-the changing concerns and priorities of the denomination. As such, the
-development of topical and regional publications reflects the shifts in
-concerns among denominational members over time and the growing
-complexity of the denomination.
-
-The second periodical to be added into circulation among the early
-adventists was *The Youth's Instructor*, a title aimed at young readers
-to instruct and encourage them in the adventist faith. Started in 1852
-in Rochester, NY, perhaps not coincidently when the White's two oldest
-children were five and three years of age, the periodical offered
-moralistic stories, letters of encouragement, and Bible-study materials
-aimed at younger readers. While seemingly innocuous, the creation of a
-publication to children in fact marks a shift in Seventh-day Adventist
-thinking. In the first year after 1844, many adventists embraced what
-became known as the "shut-door doctrine" or the belief that only those
-who had embraced Miller's teaching and persevered in the faith would be
-saved in the soon to occur second coming. Over time, and as new converts
-appeared to be coming to the faith, this teaching came under pressure
-and starting in the early 1850s, Seventh-day Adventist leaders who had
-taught that the door of salvation was shut, including James and Ellen
-White, began to revise their position.^[Anderson in Land(1998), p. 32] Faced with a new generation
-of adventists to train up in the faith, this shift in doctrine quickly
-resulted in the creation of a new publication for the encouragement and
-teaching of children.
-
-The second area of expansion in publishing among the early Seventh-day
-Adventists occurred around the topic of health. As with many religious
-writers of the nineteenth-century, both James and Ellen White were well
-aware of, and involved in, early temperance movements, advocating
-abstinence from alcohol, tobacco, tea, and coffee. Ellen's first visions
-on health in 1848 related to the use of tobacco, and by the 1850s,
-tobacco use, or rather the lack of it, became a requirement for an SDA
-preaching license.^[Numbers (2008), p. 88] Around 1862, Ellen White discovered Dr. James C.
-Jackson and hydrotherapy, which she successfully used to aid her sons'
-recovery from diphtheria.^[Numbers (2008), p. 94] In 1863, she experienced a vision that
-would launch the Seventh-day Adventist approach to health reform,
-emphasizing the idea of temperance in all things, water as "God's great
-medicine," and the idea that "it was a religious duty for God's people
-to care for their health and not violate the laws of life."^[Numbers (2008), p. 132] Ellen
-and James became connected to the community of health reformers and were
-repeat visitors to Our Home, Jackson's water cure facility in Dansville,
-New York. However, differences in approach and religious conviction
-between the White's and Jackson, as well as a vision affirming the
-necessity of a Seventh-day Adventist-run water-cure institution, lead
-the denomination to establish the Western Health Reform Institute in
-Battle Creek, along with a companion publication, the *Health Reformer*,
-in 1866.^[Ron Numbers provides an excellent account of the White's development of their health reform message in *Prophetess of Health: A Study of Ellen White*, pp. 76-94 and 127-155.] These three publications -- the *Review and Herald*, the
-*Youth's Instructor*, and the *Health Reformer* -- formed the core of
-SDA publishing through the rest of the nineteenth century.
-
-While Seventh-day Adventism experienced very slow growth in the eastern
-United States, from early on the movement found its strongest support
-among those on the leading edge of western expansion. By 1859, Merritt
-G. Kellogg, brother of John Harvey Kellogg, travelled to San Francisco
-where he began to establish a small SDA community. In 1868, Kellogg
-petitioned the denomination's General Conference to send missionaries to
-California and the denomination agreed, beginning one of the first
-organized "missions" of the denomination. Supported by an active
-fund-raising campaign among the SDA communities around the United
-States, numerous denominational leaders, includes the Whites, travelled
-to California to support the efforts there to establish a sanitarium, a
-training school, and a press. Convinced of the need for a periodical
-customized to the needs of a growing western constituency of the
-denomination, James White undertook much of the work to gather funds and
-supplies for the new press, established in Oakland, California. First
-published on June 4, 1875, *The Signs of the Times* was the last
-periodical that James White helped to establish for the denomination. He
-set out for the periodical to be the organ for the SDA's western
-activities, providing a more efficient mechanism for communication among
-the western community and a means for speaking to the concerns of those
-on the west coast of the United States.^[ST (June 4, 1875), p. 4] Over time, as additional
-titles were produced out of the Oakland publishing office, this effort
-became incorporated into the second SDA publishing association, the
-Pacific Press.
-
-In addition to geographically driven publications, the first 15 years of
-the denomination also saw an increased interest in sharing the
-Seventh-day Adventist message in languages other than English. In the
-1870 annual meeting, delegates adopted a resolution to "do all that lies
-in our power to publish works in their respective languages" to serve
-those within the community who were from foreign countries and for whom
-English was not their primary language.^["Transcription," p. 45] By the first publication of
-the SDA Yearbook in 1883, four foreign-language titles were being
-produced out of the Review and Herald offices in Battle Creek, Michigan,
-and were included in the catalogue of SDA literature, for readers of
-Danish, Swedish, German, and Dutch, in addition to one French-language
-publication produced in Switzerland.^[YB1883, p. 57]
-
-During this initial period, the publishing efforts of the denomination
-reflect a continuation of the initial patterns used to bring together
-the SDA community. With the *Review and Herald* at the center of
-denominational life, denominational leaders authorized new titles
-primarily to address logical concerns, whether that be providing a more
-efficient means of organizing and communicating in the West or reaching
-new adherents in their own languages. With membership in the
-denomination growing from approximately 3,500 in 1863 to a reported
-15,370 members in 1880, the periodicals of the denomination articulated
-the SDA's distinctive positions and served as the literary core of the
-developing denomination.^[ASR1920, p. 20]
-
-The publishing activities of the SDA began to diversify in the 1880s and
-1890s as the denomination responded to the growth of its membership, a
-diversification of interests and institutions within the denomination,
-and to new challenges to its political and organizational structure. An
-increase in SDA institutions resulted in a rise of new publications
-aimed at communicating institutional work to the wider denomination,
-such as *Life Boat*, *Gospel of Health*, and *The Training School
-Advocate.* Such publications performed an outreach as well as marketing
-role for the institutions, keeping the growing denominational membership
-aware of their particular activities and inviting engagement through
-journal subscription, the purchase of products, or attendance at said
-institution. Where earlier this work had been done within the pages of
-the *Review and Herald,* over time it became of interest to particular
-institutions to manage their own presence in print.
-
-As time progressed, denominational members also began to focus more
-intentionally on missions, both foreign and domestic. Publications such
-as *The Home Missionary* were commissioned by the denomination to
-coordinate monthly services on the missions work of the denomination,
-while publications such as *The Gospel Sickle* were crafted as
-missionary tools, providing a focused presentation of the denomination's
-teaching intended to persuade readers to convert. Just as SDA
-institutions began publishing their own materials to raise awareness and
-interest, periodicals focused on various missionary fields also emerged,
-such as the *Gospel Herald,* which focused on the SDA's missionary (and
-economic) venture in the American South. What had begun as missionary
-work in the West continued to expand, and to meet the needs of Western
-readers, the Pacific Press began to produce a second denominational
-health publication, the *Pacific Health Journal*.
-
-Two new causes gained particular momentum within the denomination in the
-1880s and 1890s: education and religious liberty. While the religious
-instruction of children had long been the priority of *The Youth's
-Instructor,* starting in the 1880s, Ellen White and others within the
-denomination turned their attention to questions of educational theory.
-This attention resulted in the development of curriculum for the growing
-SDA school system as well as new periodical titles devoted to questions
-of educational reform, including the *Christian Educator*. While the
-educational work of the denomination was inwardly focused, the rise of
-Sabbath reform movements of the late nineteenth century pushed
-denominational leaders to engage with external political realities under
-the subject of "religious liberty." In publications, such as the
-*American Sentinel,* SDA leaders used the language of the constitution
-to argue against the passing of any laws requiring Sunday observance and
-for the separation of church and state on such issues.^[However, on other morality issues, such as temperance, SDA members were quite supportive of government regulation.]
-
-Seventh-day Adventist publishing underwent some significant changes in
-the beginning of the twentieth-century. Additional growth within the
-denomination meant that the main denominational publications could no
-longer fulfill the community organizing role they originally played. As
-a result, local and regional conferences began publishing their own
-titles, such as the *Pacific Union Recorder* and the *Northern Michigan
-News Sheet,* to share local community news and report on the religious
-activities of the local area. While the *Review and Herald* was still
-the central organ of the denomination, and still provided an overall
-account of the activities of the denomination, it did so in a more
-abstract fashion, publishing summaries of letters, rather than the full
-content, for example.^[Cite a few examples] The topical interests of the denomination
-continued, focusing on the missionary activities of the denomination,
-education, health, and legal protection for the free practice of
-religion.
-
-In addition to a shift to regional publications, the main denominational
-headquarters moved from Battle Creek, Michigan, to Takoma Park,
-Maryland, in 1903, after the publishing plant in Battle Creek burned on
-December 30, 1902.^[Schwarz in Land(1998) , p. 106] The fire occurred as the denomination was in the
-process of reorienting itself to be more global and missions oriented.
-This involved the creation of new "Union" conferences to guide the
-smaller state and regional conferences, the addition of vice-presidents
-for different major geographic regions, and the increase in missionary
-focus both within the United States and abroad.^[YB1910 has vice-presidents for North America, Europe, and Asia.] While the
-denomination was in some ways de-centralizing during this period, it
-still relied on the main publishing departments to provide continuity
-and a sense of community across the growing the denomination. Titles
-such as *The Church Officer's Gazette* offered a means of communication
-particular for church leaders, offering guidance and recommendations on
-the organization of services and the management of the church. The
-twentieth century also saw a flourishing of student publications
-produced at the growing number of Seventh-day Adventist colleges. These
-publications, such as *The Sligonian*, provided students training in the
-management of a publication while also serving as a platform for future
-denominational leaders to articulate their experiences and understanding
-of the Seventh-day Adventist faith. While the *Review and Herald*
-remained the weekly publication at the center of the denomination into
-the twentieth century, the publishing activities of the denomination
-continued to diversify, as the growing number of members and a
-diversification of activities and institutions created the need and the
-audience for a growing publishing ecosystem.
-
-The development of the publishing efforts of the Seventh-day Adventist
-denomination was centered on the developing mission of the denomination,
-as they expanded to accommodate the growing number of members and to
-address a growing range of social concerns connected to their
-understanding of salvation and the "requirements" for the second coming.
-The logistics of being a geographically dispersed and multilingual
-denomination drove much of the early expansion of the publishing
-offices, and over time they developed an effective pattern of
-establishing a publishing house, school, and health facilities in the
-areas where they were establishing a missionary presence. Because the
-various publishing houses shared a mission of promoting the Seventh-day
-Adventist faith, and due to a commitment to service over market
-competition, the various publishing houses coexisted well, with each
-serving its designated geographic area so as to not harm the sales of
-its counterparts.^[See Bull and Lockhart, 131-134 for a discussion of Seventh-day Adventism general culture of non-competition.]
-
-Print and the Creation of Community
------------------------------------
-
-From the beginning of the religious movement, the leaders of the SDA
-embraced publishing as the foundation of the religious activities of the
-denomination, from James and Ellen White using print to unite the
-"scattered flock" to their ongoing mission of the publishing association
-to disseminate the "third angel's message" to the world. In this, they
-were not dissimilar from their religious and reform-minded peers, using
-the growing infrastructure of transportation and communication to spread
-their ideas and create a community through the print. What is notable
-about Seventh-day Adventist publishing is how central it was, and
-remains, to religious practice within the SDA. Unlike other Protestant
-traditions, such as the Baptists, which centers on the local
-congregation, the Seventh-day Adventists created a dispersed but
-centrally guided religious movement. Using regular publications to
-bridge gaps of space and time, Seventh-day Adventism developed their
-religious culture around print as a primary medium of communication.
-
-Through that reliance on the printed materials for the denomination, the
-distribution of SDA literature took on additional significance as a way
-for lay community members to contribute to the mission of the
-denomination. From the earliest days of James' publishing of the
-*Present Truth* and asking for help with distribution, sharing the
-Adventist understanding of the "third angel's message" has been central
-to the mission of the religious movement. Distributing Adventist
-literature, or serving as a "colporteur," was a way for lay members of
-the denomination to become involved in the work of the church.
-"Self-supporting" institutions, such as the Nashville Agricultural
-Normal Institute, encouraged students to work as colporteur's as a way
-of paying for their education. Church members were (and still are)
-encouraged to hand out literature to friends, neighbors, and
-acquaintances as a way of engaging in evangelism.
-
-This connection between faith, mission, and publishing has also been
-expanded to the digital age, as the SDA has, with an expansiveness not
-undertaken by other denominations, has devoted resources to creating and
-releasing digital copies and editions of their history. Recently these
-efforts have been consolidated in the Adventist Digital Library, a
-central website with content contributed from a range of Seventh-day
-Adventist schools and archives, along with the General Conference of the
-denomination and the Ellen White Estate. With a mission of helping to
-"spread the gospel of Jesus Christ to the world through direct and
-unlimited access to Adventist historical materials, as well as current
-resources available within copyright boundaries," the digital library
-and the digitization efforts of members of the denomination translate
-the SDA emphasis on print into the twenty-first century.
-
-As with many Christian traditions, the printed word holds a central
-place in the religious life and thought of Seventh-day Adventism. But
-beyond that veneration of word, for Seventh-day Adventists the printed
-word has, since the beginning, been one of the central "ties that binds"
-the community together. While the printed record is generally of value
-to historians as a source for understanding the past, in the case of
-Seventh-day Adventism, it is a particularly potent source, a distributed
-and periodic "scripture" deployed with good effect to share their
-distinctive message with the world and as a means of creating and
-sustaining their community. It is because of that centrality of text to
-the denomination, and their ongoing commitment to making those text
-accessible across multiple media, that these text can serve as the basis
-for a computational analysis of the development of SDA beliefs and
-culture.
-
-
-
-
-
+## Living at the End of Time
 
