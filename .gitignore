@@ -1,5 +1,6 @@
 .doit.db.db
 __pycache__/
+.vscode
 cache/
 output/
 pages/notebooks
