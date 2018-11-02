@@ -16,6 +16,14 @@
 
 ## Setting the Stage: Women and the Revivals of the Early Republic
 
+"Given Joel's prophecy, the sight of a woman standing in the pulpit had cosmic significance: she was a living symbol of the last days, a reminder that the end of the world had truly come."^[@Brekus1998, p. 320]
+
+"Like earlier nineteenth-century female preachers, Millerite women solved the 'problem' of their gender by arguing that God had transformed their weakness into strength."^[@Brekus1998, p. 321]
+
+"Despite their desire to recapture the spirit of the earlier revivals, the Millerite's were not identical to the sectarians of the 1810s and 1820s. Socially, they drew their membership from a higher economic class, and theologically, they placed almost as much emphasis on education as divine inspiration. Even though they did not require lecturers to be college-educated, they expected them to be able to interpret Miller's intricate prophetic charts. At a minimum, preachers were supposed to have mastered the books of Daniel and Revelation. Reflecting the larger constituency of the movement, most Millerite female preachers seem to have been better educated than their predecessors, and they were also economically more secure."^[@Brekus1998, p. 324]
+
+"In contrast to earlier Freewill Baptists, Christians, and Methodists, the Millerites argued that *married* women, not single women, were best suited for careers in the pulpit. By claiming to speak as their husbands' helpmates, female preachers tried to counter accusations that they were promiscuous, shameless, or "masculine."^[@Brekus1998, p. 326]
+
 <!-- + Stories of women in religious revivals
 
 + Theoretical framing
@@ -27,6 +35,8 @@
 + quick overview of the state of revivalism leading up to the Adventists
     + major 'revival' periods were 1740s and early 1800s
     + revivalism on the decline (Bratt) -->
+
+Question to self: was the movement strongest in upstate New York? (claim by Brekus but unclearly supported.)
 
 ### The Religious Roots of Adventism
 
@@ -52,6 +62,10 @@ Denominations:
     + Himes here. -->
 
 ### William Miller, Joshua Himes, and ....
+
+"Even though earlier evangelicals had realized the potential of the press, the Millerites published tracts, memoirs, and newspapers on a scale never before imagined."^[@Brekus1998, p. 323]
+
+
 Of the varied religious movements that developed during the nineteenth-century, one of the more notable were the Millerites, American Protestants drawn largely from Baptist and Methodist congregations who were convinced by the teaching of one William Miller that the Bible revealed that the second coming, or second advent, would take place around the year 1843. Miller, a commissioned militia officer during the War of 1812 and if his biographer is to be believed, a leading citizen of Poultney, Vermont, began his study of the Bible shortly after his conversion from Deism in an attempt to prove the reliability of the Bible by reconciling all apparent inconsistencies he discovered.^[Bliss (1853), pp. 18-25, 31, )] In 1818, he first came to the conclusion that the prophecies, particularly Daniel, revealed that the second coming would take place around year 1843. After spending five years confirming his interpretations and calculation, he began to share his conclusions, starting with family and friends, then reaching out to local ministers. Miller understood his findings as reinforcing the teachings of the churches and as part of the prevailing belief in the second coming and the need for salvation. He slowly began to receive invitations to preach in a variety of churches, including Baptist, Methodist, and Congregational.^[{Dick, 1998, \#15192@4}] In 1832, he published his findings in the *Vermont Telegraph* and in 1833, he was granted a preaching license from his Baptist church in Hampton, New York.^[{Judd, 1987, \#89117@22;25}; See also ... Miller gives the date of his being granted a license as 1834 in Mr. Miller's Apology and Defense.] He began preaching and lecturing in churches throughout New England throughout the 1830s and into the 1840s. He published a 64 page pamphlet of his interpretation in 1834 and a series of sixteen lectures in 1836. Between 1834 and 1839, when he began to with Joshua Himes, Miller recorded that he had given about 800 lectures on his interpretation of prophecy and his belief that the time of the second coming was at hand.^[Miller (1845), p. 3]
 
 Despite publishing, traveling, and preaching widely, Miller's teachings would have remained one of many little known local religious movements of the nineteenth century if it were not for Joshua V. Himes. Prior to meeting Miller, Himes had a long history of embracing reform movements as the way to bring about the kingdom of God. Licensed to preach by the Christian Church, he was pastor of a church in Boston, was a Temperance lecturer, started a school for boys, was on the board of the Massachusetts Anti-Slavery Society, was an early supporter of William Lloyd Garrison, and distributed periodicals and other printed materials of the Disciples of Christ.^[{Arthur, 1987, \#72076@37-39}] Anticipating the coming millennium and already working hard to bring it about, Himes found Miller's teaching that it would arrive in a mere four years time both striking and deeply motivating. With Miller's blessing, Himes became his chief publicist, launching a campaign of print and conferences aimed at disseminating Miller's work as quickly and widely as possible.^[{Arthur, 1987, \#72076@39}] Publishing periodicals such as *Signs of the Times*, *The Midnight Cry*, the *Philadelphia Alarm*, and *The Western Midnight Cry*, among others, as newspapers of the movement, along with Miller's *The Second Advent* and memoirs, as well as tracts, hymns, and prophetic charts, Himes flooded religious readers with material expounding Miller's teachings. In doing so, he fostered a sense of religious community among adventist believers and created the mechanisms by which Miller's message could spread.^[{Arthur, 1987, \#72076@42-48}]
@@ -91,6 +105,8 @@ As would be the case for the early Seventh-day Adventists, Himes recognized the 
 
 ### The Fracturing of the Adventists
 
+"The Albany Conference represented the beginning of the Adventist Christian Church, a new denomination with its own distinct beliefs and rituals. ... Replacing the flexibility of their earlier churches with greater structure and discipline, they discouraged visionary enthusiasm, established a professional clergy, and forbade women to serve as evangelists."^[@Brekus1998, p. 332]
+
 As the period Miller identified between March 21, 1843 and March 21, 1844, passed, adventist believers began to develop a number of alternative theories to address the persistence of time. A temporary reprieve from the crisis caused by persistence of time was granted when a young man named Samuel Snow announced that he had identified the error in Miller's calculations and that October 22, 1844, was the correct date indicated for the second coming. While acceptance of that interpretation brought unity back to the movement for a time, with the passing of the October 22, which came to be known as the Great Disappointment, the tensions between the various groups of adventists became too great to maintain a unified movement.
 
 The adventist community did not collapse immediately after the final disappointment of October 22, 1844. While Himes briefly suspended publication after the October 16 issue of *The Advent Herald and Signs of the Times Reporter*, in anticipation of the second coming, when the day passed without event, he quickly regathered, releasing a new issue on October 30, 1844. Still convinced of the truth of the core of the adventist message, that the time of the second coming was at hand, he offered a retelling of the history of the adventist movement that emphasized the nuances of their teachings around the date of the second coming and downplayed the significance of the October date.^[http://documents.adventistarchives.org/AdvRelated/AHM/AHM18441016-V08-11a.pdf, p1; https://adventistdigitallibrary.org/adl-422050/advent-herald-and-signs-times-reporter-october-30-1844, pp. 92-93.] However, understanding and explaining the persistence of time posed a significant challenge for the community.
@@ -107,3 +123,6 @@ Those who would come to form Seventh-day Adventism were part of the second categ
 
 ## Living at the End of Time
 
+"Although White, Mussey, and Wellcome managed to preserve the Millerite legacy of female evangelism, they moved in increasingly conservative directions during the 1850s and 1860s."^[@Brekus1998, p. 333]
+
+"According to Beulah Matthewson, who published an article and a book defending female preaching, women could speak as men's helpmates, but they certainly could not be ordained. Even though they could pray aloud, sing, witness, exhort, or preach, they were forbidden to "assume the leadership," or rob men of their rightful authority in the home and the church. ... Until history came to an end, they would have to humbly accept their subordination to men."^[@Brekus1998, p. 335]
