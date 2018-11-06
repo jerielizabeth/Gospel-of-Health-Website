@@ -11,27 +11,14 @@
 >And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions
 >
 >Joel 2:28, King James Version
-
-goal
-+ fit SDA into the history of evangelical and reform movements of the 19th century.
  
- elements
-+ Millerites commonly understood as at the end of the second great awakening, and at the end of a highpoint in women's involvement in religious teaching.
-+ SDA develops out of this, first as a more radical group and eventually as 
-+ Blurs those boundaries, as EGW begins her career in the last days of Millerite movement, and continues on 
-+ echoing Brekus argument of not progress but intermittent movements with the example of the SDA. 
-+ adding that the concept of time also a factor for when women were granted a more public role. 
-+ also adding that women's involvement was more complicated than preaching? 
-+ Seventh-day Adventist more than a footnote in history of religion in US (a yet another example) - instead, they offered a different configuration of the religious space of protestantism. 
-+ in examining that space, we can see .... 
+The early years of the nineteenth century were a period of religious innovation and revival in the United States. From the rapid growth of previously minority denominations such as Methodists and Baptists to the creation of new religious movements such as Barton Stone's Christians and Joseph Smith's Latter Day Saints. While the revivals of the period are generally described as marked by enthusiasm and emotional displays, the period was also marked by a "democratization" of access to religious truths, with careful study of the Bible held up as the primary source of authority, rather than religious training or position. One example of this expansion of authority and the belief that the truths of Scripture were open to all who applied diligent study is William Miller, a one-time deist and grandson of a Baptist minister. In the 1810s, following a conversion back to the Baptist faith after his service in the War of 1812, Miller began studying his Bible in order to come to a "rational" understanding of the more prophetic passages, convinced that a rational and omnipotent God would not have given humanity a flawed guide by which to learn his will for creation. His study lead him to the conclusion that Jesus would return in the 1840s. By the late 1830s and with the help of one Joshua Himes, Miller's interpretation was known throughout the United States, and the date solidified to between March 1843 and March 1844. Those convinced by Miller's interpretation increasingly found themselves at odds with their home denominations, some forming new Millerite or adventist meeting groups outside of the existing church structures. When March 1844 passed within event, believers returned to the prophet texts to identify their error. One adventist preacher, Samuel Snow, proposed a new date as the correct interpretation of Scripture, October 22, 1844, which was eventually accepted by William Miller and other adventist leaders. This was the last date around which the adventist community was able to achieve consensus. When October 22 passed without event, the adventist community began to wrestle with the meaning of their Great Disappointment. One group of adventists began to follow the seventh-day sabbath teaching of Joseph Bates and the prophetic visions of the young Ellen Harmon White. It was this group of adventist believers that came to form the Seventh-day Adventist Church.
 
-The development of Seventh-day Adventism offers a unique opportunity to examine the relationship between end-times beliefs and religious culture, as seen in ideas about gender, health, and salvation. On the one hand, Seventh-day Adventism fits many of the patterns that marked religious revivalism of the early to mid nineteenth century: the embrace of a new understanding of the Bible that brought all into alignment, the embrace of charismatic religious figures in Miller and then the Whites, a willingness to suspend typical gender norms as part of the evidence of last days and the mission of the denomination, an urgent emphasis on salvation and the belief that the end times were at hand. However, such similarities also obscure some of the instructive differences between the denomination and the broader Protestant culture. While ...
+The development of Seventh-day Adventism offers a unique opportunity to examine the relationship between end-times beliefs and religious culture in American history, as seen in ideas about gender, health, and salvation. On the one hand, Seventh-day Adventism fits many of the patterns that marked religious revivalism of the early to mid nineteenth century: the embrace of a new understanding of the Bible that brought all into alignment, the embrace of charismatic religious figures in Miller and then the Whites, a willingness to suspend typical gender norms as part of the evidence of last days and the mission of the denomination, an urgent emphasis on salvation and the belief that the end times were at hand. However, such similarities also obscure some of the instructive differences between the denomination and the broader Protestant culture. While echoing the growing emphasis on women's role in the home and related to family development, the denomination continued to honor a woman, Ellen White, as a prophet and made space for women's labor as lecturers, missionaries, medical professionals, and teachers. Their approach to health include both an early emphasis on divine healing and a gradual embrace of medical intervention, within the framework of following God's natural law. Their understanding of end-times and salvation positioned the government of the United States as the anticipated adversary, rather than the protagonist of God's unfolding plan.   
 
-This chapter provides some of the historical context for understanding the development of the Seventh-day Adventist denomination. Embedded within the revival movements of the nineteenth-century, the Adventists drew from and were a part of larger Protestant movements of the time. From approaching the role of women from ...
-Theological and denominational sources of adventist thought
-Miller, beliefs about end times, and use of print
-Reinterpretation of those beliefs and the fracturing of the denomination after 1844.
-All this sets the stage for 1849 and the launching of James and Ellen White's first publication, *The Present Truth*, aimed at articulating to the scattered adventist community that the 
+This chapter provides historical context for understanding the development of the Seventh-day Adventist denomination. Embedded within the revival movements of the nineteenth-century, the Adventists drew from and were a part of larger Protestant movements of the time. At the same time, their particular approaches to the social and theological problems of the day help illuminate more of the variety of American religious expression, as the religious culture they developed stands in contrast to many of the standard categories used to describe nineteenth-century religion. In this chapter,I first examines the historical roots of the movement, from the role of women in the revivals of the eighteenth and nineteenth centuries and the theological trends that shaped revival religion of the period. Next, I look at the denominational roots of those who became leaders of the adventist and Seventh-day Adventist movement. Third, I provide an overview of the origins of the SDA in the teaching of William Miller, his predictions of the second coming in 1843/1844, and the development of the adventist movement. Finally, I discuss the reinterpretation of those beliefs and the fracturing of the denomination in the years after 1844. All this sets the stage for 1849 and the launching of James and Ellen White's first publication, *The Present Truth*, aimed at preaching the new, and developing, seventh-day message to the scattered adventist community, a message that would form the foundation for the creation of the new Seventh-day Adventist denomination. 
+
+A note on terms: The labels used to describe different aspects and groups of believers who anticipated the second coming in 1843/1844 vary in usage and require definition. For this study, I use "adventist" to refer to those Protestant Christians who embraced William Miller's interpretation of the Bible and expected the second coming (or second advent) during the period from 1843 to 1844. In the years following, a number of religious groups formed out of the Great Disappointment, and I use "Adventist" to refer to those formal denominations formed after the Albany conference and who concluded that they had been incorrect in their interpretation of biblical prophecy. Finally, Seventh-day Adventist or SDA refers to those believers who, after 1844, embraced the combination of adventist beliefs about end times with Seventh day Baptist teachings on the ten commandments and Saturday as the required day for Christian worship. 
 
 ## Setting the Stage: Women and the Revivals of the Early Republic
 
@@ -81,7 +68,7 @@ Question to self: was the movement strongest in upstate New York? (claim by Brek
 
 ### The Religious Roots of Adventism
 
-William Miller and Adventism arose on the American scene toward the end of the period now known as the Second Great Awakening. 
+William Miller and adventism arose on the American scene toward the end of the period now known as the Second Great Awakening. 
 
 #### Restorationism and Primitivism
 
@@ -200,7 +187,7 @@ Those who would come to form Seventh-day Adventism were part of the second categ
 + antipathy toward US government
 -->
 
-<!-- ## Living at the End of Time
+<!-- ## Conclusion: Living at the End of Time
 
 "Although White, Mussey, and Wellcome managed to preserve the Millerite legacy of female evangelism, they moved in increasingly conservative directions during the 1850s and 1860s."^[@Brekus1998, p. 333]
 
