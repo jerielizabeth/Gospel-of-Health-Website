@@ -12,9 +12,40 @@
 >
 >Joel 2:28, King James Version
 
-[chapter abstract]
+goal
++ fit SDA into the history of evangelical and reform movements of the 19th century.
+ 
+ elements
++ Millerites commonly understood as at the end of the second great awakening, and at the end of a highpoint in women's involvement in religious teaching.
++ SDA develops out of this, first as a more radical group and eventually as 
++ Blurs those boundaries, as EGW begins her career in the last days of Millerite movement, and continues on 
++ echoing Brekus argument of not progress but intermittent movements with the example of the SDA. 
++ adding that the concept of time also a factor for when women were granted a more public role. 
++ also adding that women's involvement was more complicated than preaching? 
++ Seventh-day Adventist more than a footnote in history of religion in US (a yet another example) - instead, they offered a different configuration of the religious space of protestantism. 
++ in examining that space, we can see .... 
+
+The development of Seventh-day Adventism offers a unique opportunity to examine the relationship between end-times beliefs and religious culture, as seen in ideas about gender, health, and salvation. On the one hand, Seventh-day Adventism fits many of the patterns that marked religious revivalism of the early to mid nineteenth century: the embrace of a new understanding of the Bible that brought all into alignment, the embrace of charismatic religious figures in Miller and then the Whites, a willingness to suspend typical gender norms as part of the evidence of last days and the mission of the denomination, an urgent emphasis on salvation and the belief that the end times were at hand. However, such similarities also obscure some of the instructive differences between the denomination and the broader Protestant culture. While ...
+
+This chapter provides some of the historical context for understanding the development of the Seventh-day Adventist denomination. Embedded within the revival movements of the nineteenth-century, the Adventists drew from and were a part of larger Protestant movements of the time. From approaching the role of women from ...
+Theological and denominational sources of adventist thought
+Miller, beliefs about end times, and use of print
+Reinterpretation of those beliefs and the fracturing of the denomination after 1844.
+All this sets the stage for 1849 and the launching of James and Ellen White's first publication, *The Present Truth*, aimed at articulating to the scattered adventist community that the 
 
 ## Setting the Stage: Women and the Revivals of the Early Republic
+
+The early nineteenth-century was a period in American history marked by religious innovation, both in the rise of new religious traditions and in the religious understandings that people embraced. The separation of religion from state control, a process known as disestablishment, created an environment particularly ripe for a “democratization” of religious expression.^[The seminal work on the changing character of American religion in the years after the American Revolution remains @Hatch1989.] People were increasingly able to worship according to their preference and to establish churches outside of the control of the Anglican (Episcopal) church in the South and the Congregational church in New England. As a result of disestablishment, the Baptist and Methodist traditions, which had existed both in the colonies and in Britain and Europe prior to the Revolution, flourished in the American context. Membership in Methodist churches grew to 250,000 by 1820 and 500,000 by 1830, nearly four percent of the population, and Baptists saw a similar increase, with membership growing “tenfold” in the decades after the Revolution.^[@Hatch1989, p. 3; @Bureau] The loosening of social controls on religious expression also resulted in increasing diversity among religious traditions, as new churches, denominations, and movements formed in response to differences in religious thought and practice. Out of this period of religious innovation came some of the most distinctive American religious and social movements, including the Church of Jesus Christ of Latter Day Saints, the Oneida Utopian Community, and the Seventh-day Adventists.^[For a study of the parallels between Mormonism and Oneida, see @Foster1991. For a comparison of Seventh-day Adventism and the Shakers, see @Foster1987.]
+
+The decentralization of control, however, is not sufficient to explain the rapid proliferation of new religious movements, each claiming to present the truth that others were failing uphold or communicate. Looking more closely at religious revival and reform movements, it becomes clear that these religious actors were guided by particular visions of sacred history, by particular understandings of the arc of history and the role of American Protestant Christians in that narrative. While each group understood itself as standing at the crux of the story of salvation, all shared a framework that “began in Eden, developed in the world, and would culminate in a world without end.” The narrative was radically expansive, encompassing “humankind -- saints and sinners, men and women, common and chosen…” along with “the suprahuman character of God Himself, His son the Christ, and the sworn enemy -- the Antichrist.”^[@Abzug1994, p. 30. Abzug focuses primarily on the religious imagination of New England Puritans, but this general framework can be expanded to nearly all Protestant or Protestant based religious movements of the period.] In the march toward the last judgment, each group identified itself as the chosen one whose members successfully understood and obeyed the requirements for salvation, whether those requirements were correct behavior, correct attitude toward the divine, or the proper experience to ensure a connection with and the favor of the Divine. For many, and particularly for those traditions coming out of New England Puritanism, that position also required bringing about change in the world, either by converting souls through revival or by advocating for virtuous living. These various Protestant groups saw themselves as having a divine mission to prepare the world for the coming end and to do their part to ensure that events unfolded according to the Divine plan.
+
+### Women in religious revivals
+
+Protestant women as well as men embraced these various efforts to redeem the world ahead of the imminent return of Christ. As has been noted by Ann Braude and others, religion in the American context has always been a site of significant female activity.^[@Braude1997.] Although leadership positions have been restricted to male adherents across most of the American religious traditions, women have consistently constituted the majority of those who attend, who contribute both time and money to religious initiatives, and who work to train their children within the religious tradition.^[@Braude1997, p. 89.] Building on the existing predominance of religious women, the Protestant reform movements of the early nineteenth-century called upon women to help bring about revival and reform. As Carroll Smith-Rosenberg has noted, although these movements were generally led by “male clerics and reformers … women were their most zealous adherents.”^[@Smith-Rosenberg1986, p. 129.] In addition to joining radical religious movements, women worked for reform in a variety of ways, from fundraising for various causes to creating female benevolent societies to themselves taking to the pulpit and preaching to convince others to repent for the kingdom of heaven was at hand. Through all these efforts, women created “a public and powerful role for themselves as a female conscience and moral voice crying in a wilderness of male corruption” during the same period that domesticity and “the Cult of True Womanhood” grew in cultural prominence.^[@Smith-Rosenberg1986, p. 130.]
+
+### Why women embraced radical religion
+
+"Because churches bridged the public and private, the "masculine" world of government and the "feminine" world of the family, many evangelicals claimed that women as well as men had the right to organize home mission societies and distribute religious tracts. Taking this logic even further, several dissenting groups claimed that women also could vote on church business and serve as preachers."^[@Brekus1998, p. 14]
 
 "Given Joel's prophecy, the sight of a woman standing in the pulpit had cosmic significance: she was a living symbol of the last days, a reminder that the end of the world had truly come."^[@Brekus1998, p. 320]
 
@@ -24,7 +55,17 @@
 
 "In contrast to earlier Freewill Baptists, Christians, and Methodists, the Millerites argued that *married* women, not single women, were best suited for careers in the pulpit. By claiming to speak as their husbands' helpmates, female preachers tried to counter accusations that they were promiscuous, shameless, or "masculine."^[@Brekus1998, p. 326]
 
+"A biblical feminists, female preachers stood outside of the two communities who might have tried to preserve their memory. Too radical to be accepted by evangelicals and too conservative to be accepted by women's rights activists, they were caught between two worlds. Remembered by neither, they disappeared into the silence of the past."^[@Brekus1998, p. 339]
+
+"In the late nineteenth century, after the backlash against female itinerants, evangelical women began to seek new justifications for their right to preach. Echoing the language of the "cult of true womanhood," they argued that God had inspired them to preach because of their purity and domesticity. Like earlier female preachers, they described themselves as sisters or mothers who had been called to nurture the family of God ..."^[@Brekus1998, p. 340]
+
+"Evangelicalism, with its vast network of benevolent organizations, publishing concerns, and missionary societies, invited women to undertake new roles a social workers, teachers, managers, missionaries, and writers. The tenets of evangelicalism encouraged women to promote revivals through home meetings, prayer groups, and voluntary and mission work; they encouraged women to apply their skills and voices as exhorters within the church and as writers in such religious journals as *The Guide to Holiness*, *Women's Work for Women*, *Heathen Woman's Friend*, *Christian Palladium*, *Advent Harbinger*, and *Bible Advocate*.^[@Grammer2003, p. 6.]
+
+"Their careers - and those of many female preachers like them - follow almost ritualistically similar patterns: after their conversion and visionary experiences in which they feel themselves called to preach, nearly all attempt to deny the claims of that experience. They find their calls, naturally enough, quite alarming: they have been commanded to deny both their own culture's assumptions about a woman's place and Saint Paul's proscriptions, in his letter to Timothy, of women's preaching. But the authority of God outweighs that of their parents, husbands, and friends, even that of their own conscience, which in many cases seem to assert quite forcefully their culture's prescriptive definitions of womanhood."^[@Grammer2003, p. 7.]
+
 <!-- + Stories of women in religious revivals
+
+Ellen white as part of larger complicated tradition.
 
 + Theoretical framing
     + Smith-Rosenberg on antiritualism
@@ -40,12 +81,42 @@ Question to self: was the movement strongest in upstate New York? (claim by Brek
 
 ### The Religious Roots of Adventism
 
+William Miller and Adventism arose on the American scene toward the end of the period now known as the Second Great Awakening. 
+
+#### Restorationism and Primitivism
+
+Shared across multiple of the religious movements that developed during the period of the Second Great Awakening was an underlying commitment to identifying and recovering the Christianity of the early church. This impulse was not new to the reformers of the early nineteenth-century, but the range and scope of its application is noteworthy. While the impulse to cut out elements of religious faith and practice that were seen as unscriptural additions had marked Protestant Christianity since the Reformation, by the early nineteenth-century seemingly all aspects of the faith were open to challenge and reevaluation, as religious leaders sought to recover and reinstate "the truth" of Christianity as expressed in the days of the apostles. 
+
+In exploring the particularly strong hold of this approach to the past within the nineteenth century and American protestantism more broadly, scholars have looked to identify the distinctive features of the environment that made this approach particularly potent. Nathan Hatch has attached the particularly strong manifestation of restorationism of the period to two new conditions of the time: the breakdown of older systems of authority with the democratic revolutions of the age and the experience of religious pluralism. On the one hand, the political environment with the establishment of a democratic system and the rejection of older, monarchical forms of government was seen as having implications within the sphere of religion, with the need to also overthrow older, more authoritarian forms of religious organization. On the other hand, the very abundance of forms of religious expression seemed to indicate that the truth was not yet found. As a result, religious leaders and innovators sought to bring order to the surrounding chaos, preaching that they had found, through careful study of Scripture or through direct revelation, God's true purpose and desired form of religious observance.^[@Hatch1989, pp. 167-170]
+
+#### Biblical Literalism
+
+The primary guide by which these efforts to recover and restore the early church were  launched was the Bible. Dating back to the eighteenth-century revivals of the Great Awakening and the earlier Reformation creed of *Sola Scriptura* or "Scripture Alone", Protestant Christians had long been taught an internalized the belief that the Bible offered a clear guide to the Christian life, and even more broadly, to revealing God's plan for the world. Rather than the creeds or tradition, the Bible was held up as the sole arbiter of true faith and the primary mechanism for salvation.^[@Butler1990 ,p. 172.] For the Bible alone to serve as the central guide of Christian life, however, it needed to be a reliable and clear source for religious truth. Religious leaders such as Alexander Campbell preached the Bible as "a book of 'plain facts' to be read and apprehended by all,"  with careful and engaged study the solution to all differences of interpretation.^[Quoted in @Hatch1989, p. 163.] Originally a position embraced by clergy to counter the religious power of first the Catholic Church and later points of theological orthodoxy such as the Trinity and limited atonement (the belief that only some are saved), by the nineteenth century lay believers had come to embrace the belief that the Bible, and individual interpretation thereof, was the final authority in matters of religious truth.^[See @Hatch1989, pp. 179-184.]  
+
+This embrace of a literal approach to the Bible reflected a significant historical shift in Christian approaches to the Bible. On the one hand, the Christian tradition has a long history of embracing [  ] readings of scripture. The Catholic tradition, drawing from Augustine and Aquinas, points to four sense of scripture: the literal, the allegorical, the moral, and the anagogical.^[] These four senses 
+
+#### Millennialism
+
+One topic where this shift to approaching the Bible as a literal guide to truth was felt particularly strongly was in the embrace of millennialism, or the belief in the second coming and thousand year reign of Christ on earth. 
+
+Nineteenth-century revivalism tended to embrace one of two different visions of the millennium. The first, associated with the more
+
+
+#### Denominational Roots
+
+These themes were prevalent throughout the revival movements of the nineteenth century, though emphasized differently depending on denominational background. Those who were attracted to Miller's teaching, and later to Seventh-day Adventism, came from variety of denominational backgrounds. ...
+
+One of the largest and most discussed, 
+
+In all of these traditions, one structural commonality was the embrace of itineracy as an effective organizational strategy for reaching a dispersed community of believers.
+
+
 <!-- Themes:
 + Biblical literalism
 + Millennialism/apocalypticism
-+ "Democratization" 
++ ~"Democratization" ~
     + Hatch
-+ Primitivism
++ ~Primitivism / Restoration~
 
 Denominations:
 + Methodism
@@ -60,6 +131,12 @@ Denominations:
 + Reform
     + Abzug here
     + Himes here. -->
+
+"As Harry Stout explains, early eighteenth-century New England Sabbath sermons 'signaled [an] enduring loyalty to *Sola Scriptura*.' Listeners were told again and again to return to God's word as the primary instrument of their faith. That they were subsequently instructed on what those words really said and meant only confirmed the intent, if not the practice, of depending on the Bible as the source of Christian doctrine."^[@Butler1990 ,p. 172.]
+
+"Less well known groups, descended from the region's complex Puritan history, further complicated the New England mosaic. "Rogerenes," former Seventh Day Baptists who followed John Rogers of Newport, Rhode Island, combined Baptist and Quaker principles with a belief in miraculous healing and attracted adherents in both Rhode Island and Connecticut, using from among well-to-do rather than poor settlers. Seventh Day Baptists themselves sustained small but persistent congregations in Rhode Island and Connecticut."^[@Butler1990, p. 174.]
+
+"Itineracy likewise solidified ministerial authority. Although some itinerants lacked formal education, none of those who were active in the American colonies are known to have been illiterate. / ... Itinerants opposed settled ministers only selectively. They bypassed local churches when the minister opposed their work and preached in them when the minister was favorable. Nearly all itinerants wore the protective badge of clerical ordination."^[@Butler1990, 181-2.]
 
 ### William Miller, Joshua Himes, and ....
 
@@ -119,10 +196,12 @@ Those who would come to form Seventh-day Adventism were part of the second categ
 <!-- 
 + progressive revelation
 + seventh-day sabbath
-+ conditional immortality -->
++ conditional immortality 
++ antipathy toward US government
+-->
 
-## Living at the End of Time
+<!-- ## Living at the End of Time
 
 "Although White, Mussey, and Wellcome managed to preserve the Millerite legacy of female evangelism, they moved in increasingly conservative directions during the 1850s and 1860s."^[@Brekus1998, p. 333]
 
-"According to Beulah Matthewson, who published an article and a book defending female preaching, women could speak as men's helpmates, but they certainly could not be ordained. Even though they could pray aloud, sing, witness, exhort, or preach, they were forbidden to "assume the leadership," or rob men of their rightful authority in the home and the church. ... Until history came to an end, they would have to humbly accept their subordination to men."^[@Brekus1998, p. 335]
+"According to Beulah Matthewson, who published an article and a book defending female preaching, women could speak as men's helpmates, but they certainly could not be ordained. Even though they could pray aloud, sing, witness, exhort, or preach, they were forbidden to "assume the leadership," or rob men of their rightful authority in the home and the church. ... Until history came to an end, they would have to humbly accept their subordination to men."^[@Brekus1998, p. 335] -->
