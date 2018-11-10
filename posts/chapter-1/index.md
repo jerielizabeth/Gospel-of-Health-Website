@@ -58,12 +58,7 @@ End times expectation was not unique to Miller and his adventist followers. In t
 
 One final cultural contributor to the development of Seventh-day Adventism to discuss is reform, from abolitionism to temperance, health reform to women's rights. In addition to a flurry of religious innovation, the early nineteenth century also saw the rise of numerous reform efforts, groups of citizen organizing together to bring about some sort of societal change. These efforts were often framed in religious terms, as reformers saw themselves as part of the divine plan for and unfolding of the world. The beginning and end of this plan were known: creation began in the garden of Eden and would end with the establishment of God's eternal kingdom. And human actors lived through and contributed to that progression, setting in motion the events that propelled God's plan and using their vision of the unfolding "cosmic drama" to guide their actions and interpret the events of their lives.^[The relationship between reformers and this religious vision of the unfolding of human history is discussed in @Abzug1994, pp. 4-8 and 30-35.]
 
-Reformers sought to bring about order and to right social wrongs within the context of a increasingly diverse and decentralized society and as such was often tied to millennial visions.
-
-"At odds with the world in its 'natural' state and bent upon sacralizing all the world's order in accordance with their vision of God's plan, they \[reformers\] made it their business to clarify the ways in which the most personal and most cosmic issues interconnected."^[@Abzug1994, p. 4]
-
-"That was the essence of reform, the radical joining of Heaven and earth that attracted thousands of passionate adherents and just as surely scandalized many more. Reformers positioned themselves both within the culture and just outside, taking as their mission a kind of alienated engagement in the discourse of society. They sought to sacralize the world in its own language and in spite of itself."^[@Abzug1994, p. 8]
-
+Reformers sought to bring about order and to right social wrongs within the context of a increasingly diverse and decentralized society and as such was often tied to millennial visions. From temperance reform to abolitionism, reformers were "bent upon sacralizing all the world's order in accordance with their vision of God's plan."^[@Abzug1994, p. 4] Once the reform goal was achieved, the next phase of God's plan - the second coming or the millennial period - could come into being. However, as reformers often discovered, their mission to redeem the world was difficult at best. Convinced that their work was within God's plan, reformers were left searching for reasons they were not more successful, or, when they were, for reasons that such successes did not usher in the millennium as anticipated. This tension fueled the embrace of multiple reform efforts but also pushed members to the edges of their belief in the millennial vision. Advocates for women's rights, for example, while initially inspired by the millennial beliefs of the early nineteenth century often found themselves outside the bounds their initial religious homes, and seeking a transformation outside the bounds of Christian millennialism. Still seeking to right the social wrongs and bring about a different organization of the world, they left behind the particulars of the old religious framework, seeking new understandings of sin and the path to salvation in communitarian experiments, in transcendentalism, in spiritualism, and in other "post-Christian faiths."^[@Abzug1994, p. 229]
 
 #### Denominational Roots
 
@@ -73,14 +68,7 @@ One of the largest and most discussed,
 
 In all of these traditions, one structural commonality was the embrace of itineracy as an effective organizational strategy for reaching a dispersed community of believers.
 
-
-<!-- Themes:
-+ Biblical literalism
-+ Millennialism/apocalypticism
-+ ~"Democratization" ~
-    + Hatch
-+ ~Primitivism / Restoration~
-
+<!-- 
 Denominations:
 + Methodism
     + EGW's background
@@ -90,10 +78,8 @@ Denominations:
     + 
 + Baptists (and Seventh-day Baptists)
     + Bates' background
-    + Miller's background (?)
-+ Reform
-    + Abzug here
-    + Himes here. -->
+    + Miller's background (?) -->
+
 
 "As Harry Stout explains, early eighteenth-century New England Sabbath sermons 'signaled [an] enduring loyalty to *Sola Scriptura*.' Listeners were told again and again to return to God's word as the primary instrument of their faith. That they were subsequently instructed on what those words really said and meant only confirmed the intent, if not the practice, of depending on the Bible as the source of Christian doctrine."^[@Butler1990 ,p. 172.]
 
@@ -139,6 +125,8 @@ Because of the non-denominational aspects of Miller's preaching and because mult
 As would be the case for the early Seventh-day Adventists, Himes recognized the power of print and effectively deployed it as the center around which the Millerite movement formed. Regular publications spread the content of Miller's interpretation, raising awareness of his findings. Those same publications provided the forum by which Himes organized the regular conferences, inviting interested people to gather together to coordinate their efforts to spread the news of the coming millennium, and advertised upcoming tent meetings. Reports about the successes of the camp meetings helped the community to take part in the events regardless of geographic proximity, and served as further proof of the truth and successfulness of the adventist message, for if God were not behind the movement, the events would not be successful. In addition, Himes strategically started multiple publications in different cultural and geographic centers on the U.S., increasing the coverage that the movement could achieve and catering to regional interests. This was a strategy that the Seventh-day Adventists would later emulate, first as they came together around the publication of a new interpretation of Miller's teachings and the events of 1844, and later as they sent out missionaries, establishing printing houses in each new geographic region they entered.
 
 ## Becoming Seventh-day Adventists
+
+[ intro/abstract ]
 
 ### The Fracturing of the Adventists
 
