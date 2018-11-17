@@ -118,13 +118,13 @@ As would be the case for the early Seventh-day Adventists, Himes recognized the 
 
 ## Becoming Seventh-day Adventists
 
-[ intro/abstract ]
+As the period Miller identified between March 21, 1843 and March 21, 1844, passed, adventist believers began to develop a number of alternative theories to address the persistence of time. A temporary reprieve from the crisis caused by persistence of time was granted when a young man named Samuel Snow announced that he had identified the error in Miller's calculations and that October 22, 1844, was the correct date indicated for the second coming. While acceptance of that interpretation brought unity back to the movement for a time, with the passing of the October 22, which came to be known as the Great Disappointment, the tensions between the various groups of adventists became too great to maintain a unified movement.
+
+In the days and months after October 22, 1844, members of the community faced the difficult task of interpreting what had happened and what it meant for their beliefs about the second coming. In this section, I trace the emergence of Seventh-day Adventism as one response, among many, to the continuation of time and the ...
 
 ### The Fracturing of the Adventists
 <!-- 
 "The Albany Conference represented the beginning of the Adventist Christian Church, a new denomination with its own distinct beliefs and rituals. ... Replacing the flexibility of their earlier churches with greater structure and discipline, they discouraged visionary enthusiasm, established a professional clergy, and forbade women to serve as evangelists."^[@Brekus1998, p. 332] -->
-
-As the period Miller identified between March 21, 1843 and March 21, 1844, passed, adventist believers began to develop a number of alternative theories to address the persistence of time. A temporary reprieve from the crisis caused by persistence of time was granted when a young man named Samuel Snow announced that he had identified the error in Miller's calculations and that October 22, 1844, was the correct date indicated for the second coming. While acceptance of that interpretation brought unity back to the movement for a time, with the passing of the October 22, which came to be known as the Great Disappointment, the tensions between the various groups of adventists became too great to maintain a unified movement.
 
 The adventist community did not collapse immediately after the final disappointment of October 22, 1844. While Himes briefly suspended publication after the October 16 issue of *The Advent Herald and Signs of the Times Reporter*, in anticipation of the second coming, when the day passed without event, he quickly regathered, releasing a new issue on October 30, 1844. Still convinced of the truth of the core of the adventist message, that the time of the second coming was at hand, he offered a retelling of the history of the adventist movement that emphasized the nuances of their teachings around the date of the second coming and downplayed the significance of the October date.^[http://documents.adventistarchives.org/AdvRelated/AHM/AHM18441016-V08-11a.pdf, p1; https://adventistdigitallibrary.org/adl-422050/advent-herald-and-signs-times-reporter-october-30-1844, pp. 92-93.] However, understanding and explaining the persistence of time posed a significant challenge for the community.
 
@@ -165,9 +165,29 @@ Within the pages of the denominational periodicals, church leaders discused and 
 
 Some of the initial debates with the adventist community were around the issues of the Sabbath,and of the immortality of the soul.
 
+"The Sabbath was viewed as more than a mark that labeled a particular subgroup of former / Millerites. In the first volume of Spiritual Gifts, published in 1858, Ellen White argued that the Sabbath was also a memorial of the six-day creation described in Genesis, that the day was a continuing symbol of loyalty to God’s law, and that it was at the center of the conflict between Christ and Satan, which connected the Sabbath to her great controversy theme."^[@Bull2006, p. 41-42]
+
+"The early Adventists came to believe that to observe the seventh-day Sabbath was to value the Bible above the authority of the papacy. For Seventh-day Adventists, the Sabbath was the logical expression of the Protestant tradition."^[@Bull2006, p. 42]
+
+"Since the Sabbatarians kept all the commandments (particularly the fourth) and pos- sessed the spirit of prophecy (in the person of Ellen White), they believed they bore the identifying marks of the remnant people."^[@Bull2006, p. 44]
+
+"The early Adventists followed Hall in thinking that humans were indivisible beings who did not possess natural immortality. The saints would be translated at the Second Coming. The righteous dead would be resurrected at the same time, while the sinful dead would have to wait until after the millennium for their resurrection and final destruction."^[@Bull2006, p. 89]
+
+"In translation, individuals are taken directly from earth to heaven without passing through death. Entire persons are saved, not simply their souls. At the Second Coming, the saints will be “clothed with immortality,” but their complete humanity will remain, for they are about to enter a divine realm populated by beings with material bodies. Belief in the unity of mortal beings was thus the natural corollary of a concern with the Second Advent and its attendant emphasis on translation."^[@Bull2006, p. 90]
+
+
 As time continued, the theological literature began to consider the nature of revelation, the ways by which God communicated with his people. 
 
+"LeRoy Edwin Froom was the first to acknowledge and interpret the theological changes that have taken place within Adventism. Froom argued for a kind of progressive revelation. The church had gradually been led toward a complete understanding of the Christian gospel after a cen- tury in which the important truths, such as the Sabbath, had been accompanied by the misapprehension of the doctrine of Christ and his saving work. This process had, Froom argued, achieved the alignment of Adventism with evangelical Christianity."^[@Bull2006, p. 103]
+
+
 One final distinctive element of early Seventh-day Adventist theology was their understanding of the role of the United States government in the unfolding of the divine plan. Whereas most Protestant and revivalist groups of the nineteenth-century interpreted the American revolution and the creation of the United States as a key positive development in the unfolding of divine history, 
+
+"The Roman Catholic Church is the first beast and resembles a leopard. The United States, in this view, is the second beast and has “two horns like a lamb” but speaks “as a dragon,” and Babylon is composed of the papacy, Protestantism, and spiritualism."^[@Bull2006, p. 54]
+
+"The most important element in this conception was the American nation. Because their beliefs were in conflict with those of the Catholic and Protestant churches and with spiritualists, one can understand why Adventists identi¤ed them with the dark symbols of the Apocalypse. It is less easy to see why the United States should also have been included. However, although the New World provided the conditions for the movement to flourish, there was a sense in which America’s republican experiment posed a challenge to the Adventist worldview. The nature of that challenge lay in America’s millennial self-understanding. From its beginnings, America had used the framework of Christian eschatology to describe itself as a nation apart, chosen by God and destined for a special purpose.13 This was especially true in the early nineteenth century, when America was “drunk on millennium” and “Americans vied with each other in producing grander and more glorious prospects for the United States.”14 But Adventists also saw themselves as marked out for a special purpose, and the church and the nation and could not, in the end, both be chosen."^[@Bull2006, p. 57]
+
+"The two-horned beast was the ¤rst new doctrine the Adventists introduced after coming out of the Shut-Door period. Its signi¤cance is that it took Adventist eschatology decisively out of Miller’s religious framework and located it in the Antifederalist strand in U.S. politics that had lived on in the libertarian traditions of the Jeffersonians, the Jacksonians, the anti-Sunday campaigners of the early republic, and in the abolitionism of William Lloyd Garrison.26"^[@Bull2006, p.58]
 
 ## Conclusion: Living at the End of Time
 
