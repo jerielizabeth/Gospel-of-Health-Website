@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2018-02-CreateZipsOfCorpusSubsets | A Gospel of Health and Salvation</title>
+<link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href=".">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="../../../assets/css/bigfoot-number.css">
+<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<meta name="author" content="Jeri E. Wieringa">
+<meta property="og:site_name" content="A Gospel of Health and Salvation">
+<meta property="og:title" content="2018-02-CreateZipsOfCorpusSubsets">
+<meta property="og:url" content="/notebooks/4-Preprocess/2018-02-createzipsofcorpussubsets/">
+<meta property="og:description" content="The output of this notebook is eight zip files that represent four configurations of the corpus to test the stability of the mallet model as well as the value added by controlling the quality of the d">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2018-10-27T18:39:00-07:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../../">
+
+                <span id="blog-title">A Gospel of Health and Salvation</span>
+            </a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+            <ul class="nav navbar-nav">
+<li>
+<a href="../../../overview/">Project Overview</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Essays <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../../essays/chapter-1/">1. The Emergence of Seventh-day Adventism</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-2/">2. Constructing Computational Models</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-3/">3. Anticipating the End of Time</a>
+            </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Notebooks <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../">Overview</a>
+                    </li>
+<li>
+<a href="../../1-gather/">1. Gather</a>
+                    </li>
+<li>
+<a href="../../2-clean/">2. Clean</a>
+                    </li>
+<li>
+<a href="../../3-describe/">3. Describe</a>
+                    </li>
+<li>
+<a href="../../4-preprocess/">4. Preprocess</a>
+                    </li>
+<li>
+<a href="../../5-model/">5. Model</a>
+                    </li>
+<li>
+<a href="../../6-evaluate/">6. Evaluate</a>
+                    </li>
+<li>
+<a href="../../7-analyze/">7. Analyze</a>
+                    </li>
+<li>
+<a href="../../data/">Data</a>
+            </li>
+</ul>
+</li>
+<li>
+<a href="http://browser.dissertation.jeriwieringa.com">Model Browser</a>
+                </li>
+<li>
+<a href="http://goh.readthedocs.io/en/latest/">Code Documentation</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../../../bibliography/">Bibliography</a>
+                    </li>
+<li>
+<a href="../../../about/">Project Documentation</a>
+                    </li>
+<li>
+<a href="../../../author/">About the Author</a>
+            </li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+    <a href="index.ipynb" id="sourcelink">Source</a>
+    </li>
+
+                
+            </ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+            
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">2018-02-CreateZipsOfCorpusSubsets</a></h1>
+
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div tabindex="-1" id="notebook" class="border-box-sizing">
+    <div class="container" id="notebook-container">
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The output of this notebook is eight zip files that represent four configurations of the corpus to test the stability of the mallet model as well as the value added by controlling the quality of the documents used to create the models (per [cite]).</p>
+<p>Variations are:</p>
+<ol>
+<li>Control - Random sample of documents</li>
+<li>Target - Includes only documents with at least 300 tokens and an error rate under 10%</li>
+<li>Test1 - Includes documents with at least 300 tokens, but ignores error rate</li>
+<li>Test2 - Includes documents with at least 300 tokens and an error rate under 20%</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [31]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load_ext</span> autoreload
+<span class="o">%</span><span class="k">autoreload</span> 2
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [32]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">GoH.utilities</span>
+<span class="kn">import</span> <span class="nn">math</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">tarfile</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [2]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fullCorpus</span> <span class="o">=</span> <span class="s2">"/Users/jeriwieringa/Dissertation/text/text/2017-04-Final-Corpus.tar.gz"</span>
+<span class="n">statsDir</span> <span class="o">=</span> <span class="s2">"/Users/jeriwieringa/Dissertation/drafts/data/module-3/2017-05-corpus-stats/"</span>
+<span class="n">corpusDir</span> <span class="o">=</span> <span class="s2">"/Users/jeriwieringa/Dissertation/text/text/2018-02-CorpusSubSets/"</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [3]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">statsDir</span><span class="p">,</span> <span class="s1">'2017-05-Composite-OCR-statistics.csv'</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [26]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[26]:</div>
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+<thead><tr style="text-align: right;">
+<th></th>
+      <th>doc_id</th>
+      <th>error_rate</th>
+      <th>num_tokens</th>
+      <th>num_errors</th>
+      <th>year</th>
+      <th>title</th>
+    </tr></thead>
+<tbody>
+<tr>
+<th>0</th>
+      <td>ADV18981201-V02-01-page1.txt</td>
+      <td>0.157</td>
+      <td>51</td>
+      <td>8</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>1</th>
+      <td>ADV18981201-V02-01-page10.txt</td>
+      <td>0.021</td>
+      <td>240</td>
+      <td>5</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>2</th>
+      <td>ADV18981201-V02-01-page11.txt</td>
+      <td>0.011</td>
+      <td>282</td>
+      <td>3</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>3</th>
+      <td>ADV18981201-V02-01-page12.txt</td>
+      <td>0.016</td>
+      <td>315</td>
+      <td>5</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>4</th>
+      <td>ADV18981201-V02-01-page13.txt</td>
+      <td>0.031</td>
+      <td>353</td>
+      <td>11</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>5</th>
+      <td>ADV18981201-V02-01-page14.txt</td>
+      <td>0.011</td>
+      <td>275</td>
+      <td>3</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>6</th>
+      <td>ADV18981201-V02-01-page15.txt</td>
+      <td>0.019</td>
+      <td>308</td>
+      <td>6</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>7</th>
+      <td>ADV18981201-V02-01-page16.txt</td>
+      <td>0.025</td>
+      <td>316</td>
+      <td>8</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>8</th>
+      <td>ADV18981201-V02-01-page17.txt</td>
+      <td>0.103</td>
+      <td>223</td>
+      <td>23</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>9</th>
+      <td>ADV18981201-V02-01-page18.txt</td>
+      <td>0.015</td>
+      <td>264</td>
+      <td>4</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>10</th>
+      <td>ADV18981201-V02-01-page19.txt</td>
+      <td>0.040</td>
+      <td>277</td>
+      <td>11</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>11</th>
+      <td>ADV18981201-V02-01-page2.txt</td>
+      <td>0.008</td>
+      <td>240</td>
+      <td>2</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>12</th>
+      <td>ADV18981201-V02-01-page20.txt</td>
+      <td>0.013</td>
+      <td>315</td>
+      <td>4</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>13</th>
+      <td>ADV18981201-V02-01-page21.txt</td>
+      <td>0.019</td>
+      <td>261</td>
+      <td>5</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>14</th>
+      <td>ADV18981201-V02-01-page22.txt</td>
+      <td>0.010</td>
+      <td>286</td>
+      <td>3</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>15</th>
+      <td>ADV18981201-V02-01-page23.txt</td>
+      <td>0.011</td>
+      <td>261</td>
+      <td>3</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>16</th>
+      <td>ADV18981201-V02-01-page24.txt</td>
+      <td>0.016</td>
+      <td>254</td>
+      <td>4</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>17</th>
+      <td>ADV18981201-V02-01-page25.txt</td>
+      <td>0.035</td>
+      <td>254</td>
+      <td>9</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>18</th>
+      <td>ADV18981201-V02-01-page26.txt</td>
+      <td>0.202</td>
+      <td>129</td>
+      <td>26</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>19</th>
+      <td>ADV18981201-V02-01-page3.txt</td>
+      <td>0.017</td>
+      <td>242</td>
+      <td>4</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>20</th>
+      <td>ADV18981201-V02-01-page4.txt</td>
+      <td>0.008</td>
+      <td>245</td>
+      <td>2</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>21</th>
+      <td>ADV18981201-V02-01-page5.txt</td>
+      <td>0.027</td>
+      <td>261</td>
+      <td>7</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>22</th>
+      <td>ADV18981201-V02-01-page6.txt</td>
+      <td>0.024</td>
+      <td>253</td>
+      <td>6</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>23</th>
+      <td>ADV18981201-V02-01-page7.txt</td>
+      <td>0.008</td>
+      <td>252</td>
+      <td>2</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>24</th>
+      <td>ADV18981201-V02-01-page8.txt</td>
+      <td>0.017</td>
+      <td>237</td>
+      <td>4</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>25</th>
+      <td>ADV18981201-V02-01-page9.txt</td>
+      <td>0.077</td>
+      <td>195</td>
+      <td>15</td>
+      <td>1898</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>26</th>
+      <td>ADV18990101-V01-01-page1.txt</td>
+      <td>0.750</td>
+      <td>4</td>
+      <td>3</td>
+      <td>1899</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>27</th>
+      <td>ADV18990101-V01-01-page10.txt</td>
+      <td>0.022</td>
+      <td>224</td>
+      <td>5</td>
+      <td>1899</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>28</th>
+      <td>ADV18990101-V01-01-page11.txt</td>
+      <td>0.004</td>
+      <td>225</td>
+      <td>1</td>
+      <td>1899</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>29</th>
+      <td>ADV18990101-V01-01-page12.txt</td>
+      <td>0.013</td>
+      <td>232</td>
+      <td>3</td>
+      <td>1899</td>
+      <td>ADV</td>
+    </tr>
+<tr>
+<th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+<tr>
+<th>197913</th>
+      <td>YI19200106-V68-01-page9.txt</td>
+      <td>0.038</td>
+      <td>846</td>
+      <td>32</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197914</th>
+      <td>YI19200113-V68-02-page1.txt</td>
+      <td>0.279</td>
+      <td>61</td>
+      <td>17</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197915</th>
+      <td>YI19200113-V68-02-page10.txt</td>
+      <td>0.028</td>
+      <td>1193</td>
+      <td>34</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197916</th>
+      <td>YI19200113-V68-02-page11.txt</td>
+      <td>0.013</td>
+      <td>927</td>
+      <td>12</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197917</th>
+      <td>YI19200113-V68-02-page12.txt</td>
+      <td>0.016</td>
+      <td>1359</td>
+      <td>22</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197918</th>
+      <td>YI19200113-V68-02-page13.txt</td>
+      <td>0.015</td>
+      <td>1572</td>
+      <td>23</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197919</th>
+      <td>YI19200113-V68-02-page14.txt</td>
+      <td>0.011</td>
+      <td>1033</td>
+      <td>11</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197920</th>
+      <td>YI19200113-V68-02-page2.txt</td>
+      <td>0.007</td>
+      <td>1121</td>
+      <td>8</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197921</th>
+      <td>YI19200113-V68-02-page3.txt</td>
+      <td>0.006</td>
+      <td>1035</td>
+      <td>6</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197922</th>
+      <td>YI19200113-V68-02-page4.txt</td>
+      <td>0.008</td>
+      <td>995</td>
+      <td>8</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197923</th>
+      <td>YI19200113-V68-02-page5.txt</td>
+      <td>0.008</td>
+      <td>1197</td>
+      <td>10</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197924</th>
+      <td>YI19200113-V68-02-page6.txt</td>
+      <td>0.003</td>
+      <td>1152</td>
+      <td>3</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197925</th>
+      <td>YI19200113-V68-02-page7.txt</td>
+      <td>0.013</td>
+      <td>1151</td>
+      <td>15</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197926</th>
+      <td>YI19200113-V68-02-page8.txt</td>
+      <td>0.011</td>
+      <td>1110</td>
+      <td>12</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197927</th>
+      <td>YI19200113-V68-02-page9.txt</td>
+      <td>0.011</td>
+      <td>847</td>
+      <td>9</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197928</th>
+      <td>YI19200120-V68-03-page1.txt</td>
+      <td>0.000</td>
+      <td>32</td>
+      <td>0</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197929</th>
+      <td>YI19200120-V68-03-page10.txt</td>
+      <td>0.013</td>
+      <td>843</td>
+      <td>11</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197930</th>
+      <td>YI19200120-V68-03-page11.txt</td>
+      <td>0.013</td>
+      <td>1190</td>
+      <td>16</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197931</th>
+      <td>YI19200120-V68-03-page12.txt</td>
+      <td>0.011</td>
+      <td>995</td>
+      <td>11</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197932</th>
+      <td>YI19200120-V68-03-page13.txt</td>
+      <td>0.031</td>
+      <td>1276</td>
+      <td>39</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197933</th>
+      <td>YI19200120-V68-03-page14.txt</td>
+      <td>0.013</td>
+      <td>1310</td>
+      <td>17</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197934</th>
+      <td>YI19200120-V68-03-page15.txt</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197935</th>
+      <td>YI19200120-V68-03-page2.txt</td>
+      <td>0.020</td>
+      <td>1155</td>
+      <td>23</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197936</th>
+      <td>YI19200120-V68-03-page3.txt</td>
+      <td>0.008</td>
+      <td>951</td>
+      <td>8</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197937</th>
+      <td>YI19200120-V68-03-page4.txt</td>
+      <td>0.008</td>
+      <td>1226</td>
+      <td>10</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197938</th>
+      <td>YI19200120-V68-03-page5.txt</td>
+      <td>0.004</td>
+      <td>1158</td>
+      <td>5</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197939</th>
+      <td>YI19200120-V68-03-page6.txt</td>
+      <td>0.020</td>
+      <td>1087</td>
+      <td>22</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197940</th>
+      <td>YI19200120-V68-03-page7.txt</td>
+      <td>0.036</td>
+      <td>855</td>
+      <td>31</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197941</th>
+      <td>YI19200120-V68-03-page8.txt</td>
+      <td>0.005</td>
+      <td>1132</td>
+      <td>6</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+<tr>
+<th>197942</th>
+      <td>YI19200120-V68-03-page9.txt</td>
+      <td>0.019</td>
+      <td>728</td>
+      <td>14</td>
+      <td>1920</td>
+      <td>YI</td>
+    </tr>
+</tbody>
+</table>
+<p>197943 rows × 6 columns</p>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [5]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fullCorpusObject</span> <span class="o">=</span> <span class="n">tarfile</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">fullCorpus</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Quick sanity check to makes sure the lists match.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [6]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">tarPathNames</span> <span class="o">=</span> <span class="n">fullCorpusObject</span><span class="o">.</span><span class="n">getnames</span><span class="p">()[</span><span class="mi">1</span><span class="p">:]</span>
+
+<span class="n">tarFileNames</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">path</span> <span class="ow">in</span> <span class="n">tarPathNames</span><span class="p">:</span>
+    <span class="n">tarFileNames</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">path</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">statsFileNames</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'doc_id'</span><span class="p">]</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [14]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># print(statsFileNames[:10])</span>
+<span class="c1"># print(tarFileNames[:10])</span>
+<span class="nb">print</span> <span class="p">(</span><span class="n">tarPathNames</span><span class="p">[:</span><span class="mi">10</span><span class="p">])</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt"></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>['2017-04-Final-Corpus/ADV18981201-V02-01-page1.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page10.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page11.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page12.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page13.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page14.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page15.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page16.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page17.txt', '2017-04-Final-Corpus/ADV18981201-V02-01-page18.txt']
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [9]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">tarFileNames</span><span class="p">)</span><span class="o">-</span><span class="nb">set</span><span class="p">(</span><span class="n">statsFileNames</span><span class="p">)))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[9]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>0</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Create-Random-Sample">Create Random Sample<a class="anchor-link" href="#Create-Random-Sample">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [10]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sampleSize</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">ceil</span><span class="p">(</span><span class="o">.</span><span class="mi">4</span><span class="o">*</span><span class="nb">len</span><span class="p">(</span><span class="n">statsFileNames</span><span class="p">))</span>
+<span class="c1"># print(sampleSize)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [11]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">randomSample</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">statsFileNames</span><span class="p">,</span> <span class="n">sampleSize</span><span class="p">,</span> <span class="n">replace</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+<span class="c1"># print(randomSample[:10])</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [25]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#https://stackoverflow.com/questions/17616340/add-files-from-one-tar-into-another-tar-in-python</span>
+
+<span class="c1"># randomSampleTar = tarfile.open(os.path.join(corpusDir, 'randomSample.tar.gz'), 'w:gz')</span>
+<span class="c1"># randomHoldoutTar = tarfile.open(os.path.join(corpusDir, 'randomHoldout.tar.gz'), 'w:gz')</span>
+
+<span class="c1"># for member in fullCorpusObject.getmembers()[1:]:</span>
+<span class="c1">#     if os.path.basename(member.name) in randomSample:</span>
+<span class="c1">#         randomSampleTar.addfile(member, fullCorpusObject.extractfile(member))</span>
+<span class="c1">#     else:</span>
+<span class="c1">#         randomHoldoutTar.addfile(member, fullCorpusObject.extractfile(member))</span>
+
+<span class="c1"># randomSampleTar.close()</span>
+<span class="c1"># randomHoldoutTar.close()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [ ]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Abstracted function to library. Use this version if run second time.</span>
+
+<span class="c1"># GoH.utilities.create_tar_files(corpusDir, 'random', fullCorpusObject, randomSample)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Create-Target-Subset">Create Target Subset<a class="anchor-link" href="#Create-Target-Subset">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [28]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">target_df</span> <span class="o">=</span> <span class="n">df</span><span class="p">[(</span><span class="n">df</span><span class="p">[</span><span class="s1">'num_tokens'</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">300</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">'error_rate'</span><span class="p">]</span> <span class="o">&lt;</span> <span class="mf">0.1</span><span class="p">)]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [29]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">target_df</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[29]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>180844</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [34]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># GoH.utilities.create_tar_files(corpusDir, 'target_300_10_', fullCorpusObject, target_df['doc_id'].tolist())</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Create-Test-Set">Create Test Set<a class="anchor-link" href="#Create-Test-Set">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>For this test, I filtered only by min number of tokens</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [41]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">test_df</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s1">'num_tokens'</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">300</span><span class="p">]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [42]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">targetList</span> <span class="o">=</span> <span class="n">test_df</span><span class="p">[</span><span class="s1">'doc_id'</span><span class="p">]</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [43]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">create_tar_files</span><span class="p">(</span><span class="n">corpusDir</span><span class="p">,</span> <span class="s1">'test_300_noMax_'</span><span class="p">,</span> <span class="n">fullCorpusObject</span><span class="p">,</span> <span class="n">targetList</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Create-Second-Test-Set">Create Second Test Set<a class="anchor-link" href="#Create-Second-Test-Set">¶</a>
+</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>For the second test, I filtered by a 25% error rate</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [44]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">test_df2</span> <span class="o">=</span> <span class="n">df</span><span class="p">[(</span><span class="n">df</span><span class="p">[</span><span class="s1">'num_tokens'</span><span class="p">]</span> <span class="o">&gt;=</span> <span class="mi">300</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">'error_rate'</span><span class="p">]</span> <span class="o">&lt;</span> <span class="mf">0.25</span><span class="p">)]</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [45]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">testList</span> <span class="o">=</span> <span class="n">test_df2</span><span class="p">[</span><span class="s1">'doc_id'</span><span class="p">]</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [47]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">create_tar_files</span><span class="p">(</span><span class="n">corpusDir</span><span class="p">,</span> <span class="s1">'test_300_25_'</span><span class="p">,</span> <span class="n">fullCorpusObject</span><span class="p">,</span> <span class="n">testList</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In [ ]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+    </div>
+  </div>
+
+    </div>
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
+        </script></article>
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2018         <a href="mailto:jeri.elizabeth@gmail.com">Jeri E. Wieringa</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+
+            <script src="../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-35130770-2"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35130770-2');
+</script>
+</body>
+</html>
