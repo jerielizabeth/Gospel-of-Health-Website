@@ -28,10 +28,8 @@ Along the way, in seeking to solve different problems for the dissertation, I ha
 
 
 ***********************
-Elements of the Project
+Technical Elements of the Project
 ***********************
-
-
 
 Digital Sources
 ===============
