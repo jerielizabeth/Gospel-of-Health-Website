@@ -7497,7 +7497,7 @@ body{
 }
 
 .post-text  {
-    max-width: 850px;
+    max-width: 750px;
     margin-left: 8%;
     margin-right: auto;
     padding:0 20px;
@@ -7541,6 +7541,7 @@ pre {
 
 pre code {
     font-size: .8em;
+    line-height: .5em;
 }
 
 iframe {
