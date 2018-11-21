@@ -46,7 +46,7 @@ jupyter notebook
 
 ## Acknowledgements
 
-I have accumulated many debts while learning Python and attempting to apply code it to my dissertation research. A special thanks to Fred Gibbs, both for introducing "Clio3" to the GMU curriculum (the beginning of my demise) and for being a sounding board, helping me work through some of the stickier parts of the technical work. Thanks also to the [Experimental Humanities Group at ILIFF](http://library.iliff.edu/learning/#/humanities/) for letting me join your calls, helping me work through problems, and inspiring me to write beautiful, well-documented code. 
+I have accumulated many debts while learning Python and attempting to apply code it to my dissertation research. A particular thanks to Fred Gibbs, both for introducing "Clio3" to the GMU curriculum (the beginning of my demise) and for being a sounding board, helping me work through some of the stickier parts of the technical work. Thanks also to the [Experimental Humanities Group at ILIFF](http://library.iliff.edu/learning/#/humanities/) for letting me join your calls, helping me work through problems, and inspiring me to write beautiful, well-documented code. 
 
 And, of course, thanks to the generous citizens of [StackOverflow](https://stackoverflow.com/), without whom I don't know how I would ever remember how to write to a file.
 
