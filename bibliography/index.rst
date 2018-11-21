@@ -102,34 +102,43 @@ Technical Sources
 Data
 ====
 
+Anonymous. “King James Version of the Holy Bible.” Christian Classics Ethereal Library, n.d. http://www.ccel.org/ccel/bible/kjv.html.
+
 Atkinson, Kevin. “Spell Checking Oriented Word Lists (Scowl).” (2016): Accessed Nov 18, 2016. http://wordlist.aspell.net/scowl-readme/.
 
 Manson, Steven, Jonathan Schroeder, David Van Riper, and Steven Ruggles. *IPUMS National Historical Geographic Information System*: Version 12.0 [Database]. Minneapolis: University of Minnesota. 2017. http://doi.org/10.18128/D050.V12.0.
 
-
 Data Processing
 ===============
 
-Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling with Large Corpora.” In *Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks*, 45–50. Valletta, Malta: ELRA, 2010.
+McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu. 2002.
 
 McKinney, Wes. “Data Structures for Statistical Computing in Python.” *Proceedings of the 9th Python in Science Conference*, 2010, 51–56.
+
+Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling with Large Corpora.” In *Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks*, 45–50. Valletta, Malta: ELRA, 2010.
 
 Platforms
 =========
 
 Alsina, Roberto. *Nikola - Static Site Generator* (version 7.8.10), 2017. https://getnikola.com/.
 
+Brandl, Georg. *Sphinx*, 2018, http://www.sphinx-doc.org/en/master/.
+
 *Conda*. Austin, TX: Continuum Analytics, Inc., 2016. http://conda.pydata.org/docs/.
 
 *GitHub*. San Francisco, CA: GitHub, Inc., 2016. https://github.com/.
 
+Goldstone, Andrew. *DfR Browser*, 2017, https://agoldst.github.io/dfr-browser/.
+
 Pérez, Fernando, and Brian E. Granger. “IPython: A System for Interactive Scientific Computing.” *Computing in Science and Engineering* 9, no. 3 (June 2007): 21–29. https://doi.org/10.1109/MCSE.2007.53.
+
+*Read the Docs*. Portland, OR: Read the Docs, Inc., 2018. https://readthedocs.org/.
 
 Visualization
 =============
 
-*Bokeh: Interactive Web Plotting for Python*. Python. 2012. Reprint, Bokeh, 2017. https://github.com/bokeh/bokeh.
-
 Bostock, Mike. *D3: Bring Data to Life with SVG, Canvas and HTML*. JavaScript. 2010. Reprint, D3, 2017. https://github.com/d3/d3.
 
 Hunter, J. D. “Matplotlib: A 2D Graphics Environment.” *Computing In Science & Engineering* 9, no. 3 (2007): 90–95. https://doi.org/10.1109/MCSE.2007.55.
+
+*Plotly: Collaborative Data Science*. Montréal, QC: Plotly Technologies Inc., 2015. https://plot.ly.
