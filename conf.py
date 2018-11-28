@@ -1299,11 +1299,12 @@ INDEX_DISPLAY_POST_COUNT = 5
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
 <script src="//code.jquery.com/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="/assets/js/bigfoot.js"></script>
-<script type="text/javascript">$.bigfoot();</script>
 <script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 """
+# <script type="text/javascript" src="/assets/js/bigfoot.js"></script>
+# <script type="text/javascript">$.bigfoot();</script>
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
