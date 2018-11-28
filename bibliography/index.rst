@@ -113,9 +113,9 @@ Data Processing
 
 McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu. 2002.
 
-McKinney, Wes. “Data Structures for Statistical Computing in Python.” *Proceedings of the 9th Python in Science Conference*, 2010, 51–56.
+McKinney, Wes. “Data Structures for Statistical Computing in Python.” *Proceedings of the 9th Python in Science Conference*, 2010, 51–56. (Pandas)
 
-Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling with Large Corpora.” In *Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks*, 45–50. Valletta, Malta: ELRA, 2010.
+Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling with Large Corpora.” In *Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks*, 45–50. Valletta, Malta: ELRA, 2010. (Gensim)
 
 Platforms
 =========
@@ -130,7 +130,7 @@ Brandl, Georg. *Sphinx*, 2018, http://www.sphinx-doc.org/en/master/.
 
 Goldstone, Andrew. *DfR Browser*, 2017, https://agoldst.github.io/dfr-browser/.
 
-Pérez, Fernando, and Brian E. Granger. “IPython: A System for Interactive Scientific Computing.” *Computing in Science and Engineering* 9, no. 3 (June 2007): 21–29. https://doi.org/10.1109/MCSE.2007.53.
+Pérez, Fernando, and Brian E. Granger. “IPython: A System for Interactive Scientific Computing.” *Computing in Science and Engineering* 9, no. 3 (June 2007): 21–29. https://doi.org/10.1109/MCSE.2007.53. (Jupyter)
 
 *Read the Docs*. Portland, OR: Read the Docs, Inc., 2018. https://readthedocs.org/.
 
