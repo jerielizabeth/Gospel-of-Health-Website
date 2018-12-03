@@ -104,7 +104,7 @@ Data
 
 Anonymous. “King James Version of the Holy Bible.” Christian Classics Ethereal Library, n.d. http://www.ccel.org/ccel/bible/kjv.html.
 
-Atkinson, Kevin. “Spell Checking Oriented Word Lists (Scowl).” (2016): Accessed Nov 18, 2016. http://wordlist.aspell.net/scowl-readme/.
+Atkinson, Kevin. “Spell Checking Oriented Word Lists (SCOWL).” (2016): Accessed Nov 18, 2016. http://wordlist.aspell.net/scowl-readme/.
 
 Manson, Steven, Jonathan Schroeder, David Van Riper, and Steven Ruggles. *IPUMS National Historical Geographic Information System*: Version 12.0 [Database]. Minneapolis: University of Minnesota. 2017. http://doi.org/10.18128/D050.V12.0.
 
@@ -116,6 +116,10 @@ McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit." h
 McKinney, Wes. “Data Structures for Statistical Computing in Python.” *Proceedings of the 9th Python in Science Conference*, 2010, 51–56. (Pandas)
 
 Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling with Large Corpora.” In *Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks*, 45–50. Valletta, Malta: ELRA, 2010. (Gensim)
+
+TextBlob
+
+NLTK (?)
 
 Platforms
 =========
@@ -142,3 +146,5 @@ Bostock, Mike. *D3: Bring Data to Life with SVG, Canvas and HTML*. JavaScript.
 Hunter, J. D. “Matplotlib: A 2D Graphics Environment.” *Computing In Science & Engineering* 9, no. 3 (2007): 90–95. https://doi.org/10.1109/MCSE.2007.55.
 
 *Plotly: Collaborative Data Science*. Montréal, QC: Plotly Technologies Inc., 2015. https://plot.ly.
+
+PyLDAvis

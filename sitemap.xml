@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2018-11-27T20:21:00Z</lastmod>
+  <lastmod>2018-12-03T17:45:00Z</lastmod>
  </url>
  <url>
   <loc>/author/</loc>
@@ -171,7 +171,7 @@
  </url>
  <url>
   <loc>/notebooks/</loc>
-  <lastmod>2018-10-26T06:11:00Z</lastmod>
+  <lastmod>2018-12-03T23:22:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/1-Gather/</loc>
@@ -423,7 +423,7 @@
  </url>
  <url>
   <loc>/notebooks/7-Analyze/</loc>
-  <lastmod>2018-11-24T23:17:00Z</lastmod>
+  <lastmod>2018-11-29T06:37:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/7-Analyze/2018-10-17-yearly-top-topics/</loc>
@@ -434,12 +434,20 @@
   <lastmod>2018-11-24T23:26:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/7-Analyze/aggregated-end-times-topics/</loc>
+  <lastmod>2018-11-29T06:37:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/data/</loc>
   <lastmod>2018-10-26T06:11:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/license/</loc>
   <lastmod>2018-10-26T06:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/notebooks-overview/</loc>
+  <lastmod>2018-12-03T23:22:00Z</lastmod>
  </url>
  <url>
   <loc>/overview/</loc>

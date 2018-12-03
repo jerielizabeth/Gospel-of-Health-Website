@@ -72,9 +72,13 @@ As a result, the interpretation of Daniel and Revelations found in Millerite cha
 |   [215](http://browser.dissertation.jeriwieringa.com/#/topic/216)  | Prophecy (Interpreting Dates and Time) | daniel vision week period end dan prophecy sanctuary date shall jerusalem christ chapter event seventy_weeks gabriel decree point angel messiah | 
 : Topics Corresponding to the Explication of Prophetic Texts. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-![**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics](/images/allData_aggregatedProphecyTopics.png)
+<iframe src="/interact/Prophecy-Full-Corpus.html"></iframe>
 
-![**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics](/images/denomData_aggregatedProphecyTopics.png)
+**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics
+
+<iframe src="/interact/Prophecy-Denominational-Titles.html"></iframe>
+
+**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics
 
 As indicated in the above charts, while descriptions of prophetic texts and the work of situating readers within the Seventh-day Adventist temporal imaginary has a continual presence within the periodical literature of the denomination, its prevalence relative to other concerns decreased over time. This is the case even when looking only at the central denominational titles, excluding the topical and regional titles that proliferated after the 1880s. This is not to say that SDA authors became less interested in or came to question the uses of these texts over time or the temporal imaginary they were used to construct. Full explications of the texts and republication of material from the 1850s can be seen well into the 20th century.^[cite examples] The decline is better understood as reflecting the embrace of the SDA system for explicating the texts of Daniel and Revelations and the development of a consensus around the position of the Adventist people in sacred time. While later authors may remind their readers of the standard interpretations, they were building on existing beliefs, rather than striving to convince their readers of a new sense of time, and so required less discursive space to communicate their message.
  
@@ -86,18 +90,21 @@ The topics I identified as relating to eschatology, or the study of end-times, f
 
 |Topic ID|  Topic Label          |   Topic Words                              |
 | -------| --------------------- | ------------------------------------------ |
-| [37](http://browser.dissertation.jeriwieringa.com/#/topic/38) |  Eschatology (Descriptions of Heaven)  | light glory heaven shall earth city life gate angel like sun beauty shine bright star glorious beautiful eye home throne |
-| [92](http://browser.dissertation.jeriwieringa.com/#/topic/93) |   Eschatology (Fate of the Wicked at Second Coming) |  shall earth wicked lord heaven rev righteous thousand isa city destruction place judgment end forever away saint new_earth verse everlasting |
+| [51](http://browser.dissertation.jeriwieringa.com/#/topic/52) |   Eschatology (Spreading the Third Angel's Message) |  message world gospel truth angel earth great lord nation movement coming light advent end adventist power seventh church generation sabbath |
 | [117](http://browser.dissertation.jeriwieringa.com/#/topic/118)    | Eschatology (Parable of Bridegroom and Tarrying Time) | prophecy coming christ lord shall second advent sign event know word fulfilled end near thing fulfillment prophet generation unto world | 
 | [145](http://browser.dissertation.jeriwieringa.com/#/topic/146)  |  Eschatology (Sanctuary Doctrine) |  sanctuary priest holy sin place christ offering blood service atonement sacrifice tabernacle temple heavenly heaven heb ark high_priest lord priesthood | 
 | [170](http://browser.dissertation.jeriwieringa.com/#/topic/171)  |  Eschatology (Events of the Last Days) | angel judgment rev earth heaven seal message seven plague book wrath revelation great saw thousand babylon given mark men voice | 
-|  [182](http://browser.dissertation.jeriwieringa.com/#/topic/183)    | Eschatology (Description of Second Coming) | christ shall kingdom coming lord heaven second earth unto father throne jesus son saint glory king world man reign matt    | 
+| [182](http://browser.dissertation.jeriwieringa.com/#/topic/183)    | Eschatology (Description of Second Coming) | christ shall kingdom coming lord heaven second earth unto father throne jesus son saint glory king world man reign matt    | 
+| [199](http://browser.dissertation.jeriwieringa.com/#/topic/200) |   Eschatology (Second Coming) |  shall lord jesus joy glory earth heaven let coming king praise heart saviour song soon love blessed glorious voice hope |
 : Topics Corresponding to Descriptions of the Second Coming. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
+<iframe src="/interact/Eschatology-Full-Corpus.html"></iframe>
 
-![**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics](/images/allData_aggregatedEschatologyTopics.png)
+**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics
 
-![**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics](/images/denomData_aggregatedEschatologyTopics.png)
+<iframe src="/interact/Eschatology-Denominational-Titles.html"></iframe>
+
+**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics
 
 While the trajectory of these topics shows a slow decline over time in their prominence in the denominational literature, this again does not mean that these topics disappear from the denominational literature. During the first few decades of the denomination, these topics were key to establishing what would become standard Seventh-day Adventist understandings of the soul, the work of salvation, and the role of Adventists in the final events before the second coming. As these concepts became more ingrained in Adventist theology and became basic to their cultural imaginary, fewer words would have been needed to invoke these ideas for readers. 
 
@@ -110,20 +117,24 @@ The signs frequently mentioned by Adventist commentators range from concerns ove
 
 |Topic ID|  Topic Label          |   Topic Words                              |
 | -------| --------------------- | ------------------------------------------ |
-| [26](http://browser.dissertation.jeriwieringa.com/#/topic/27) | Signs of the Times (Spiritualism)  | spirit spiritualism devil satan power miracle dead spiritualist wonder medium deception shall know sign believe delusion bible working world truth |
 | [27](http://browser.dissertation.jeriwieringa.com/#/topic/28) | Signs of the Times ("Eastern Question") | russia turkey power russian europe war turkish turk constantinople england government france germany empire great austria sultan armenian european czar |
 | [39](http://browser.dissertation.jeriwieringa.com/#/topic/40) | Signs of the Times (Social Unrest) | world great nation men condition new history social war america problem country movement present question force century political society hope |
 | [86](http://browser.dissertation.jeriwieringa.com/#/topic/87) | Signs of the Times (Growing Iniquity as in Days of Noah) |   shall world noah men flood lord lot coming ark man earth lover sodom son sin away destruction tim word godliness |
 | [100](http://browser.dissertation.jeriwieringa.com/#/topic/101) | Signs of the Times (Astronomy) | sun star earth moon light heaven hour darkness night planet sign world east line seen west great place sky phenomenon |
+| [141](http://browser.dissertation.jeriwieringa.com/#/topic/142) | Signs of the Times (Crime and Immorality) | crime men evil moral society murder vice man criminal life law slave public woman slavery country world city bad worse |
 | [158](http://browser.dissertation.jeriwieringa.com/#/topic/159) | Signs of the Times ("Catholic Threat") | catholic church pope rome protestant roman priest catholic_church papacy bishop cardinal papal power protestantism country authority state vatican america holy |
 | [163](http://browser.dissertation.jeriwieringa.com/#/topic/164) | Signs of the Times (War)  |  war peace nation world men great shall earth europe battle let sword armageddon army prophecy preparation spirit strife conflict international |
 | [179](http://browser.dissertation.jeriwieringa.com/#/topic/180) | Signs of the Times (Global Unrest) | shall world coming sign earth thing end nation lord great prophecy men event word trouble know near christ war destruction|
 | [242](http://browser.dissertation.jeriwieringa.com/#/topic/243) | Signs of the Times (Enforcement of Sunday Laws) | sunday law case court judge state adventist seventh fine trial arrested county police city tennessee sabbath arrest persecution fined jail |
 : Topics Corresponding to Interpreting the Signs of the Times. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-![**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics](/images/allData_aggregatedSigns_of_the_timesTopics.png)
+<iframe src="/interact/Signs-of-the-Times-Full-Corpus.html"></iframe>
 
-![**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics](/images/denomData_aggregatedSigns_of_the_timesTopics.png)
+**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics
+
+<iframe src="/interact/Signs-of-the-Times-Denominational-Titles.html"></iframe>
+
+**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics
 
 Taken together, denominational concern with parsing events as signals on the road to the second coming remained generally consistent over the first seventy years of the denominations development. While authors called attention to different types of signs at different points in time, the assumption that believers could and should interpret world events to identify their current position in divine time. 
 
@@ -141,9 +152,13 @@ One particular topic of concerns, and one that developed as Seventh-day Adventis
 | [221](http://browser.dissertation.jeriwieringa.com/#/topic/222) | Church & State (Religion in Public Education) |  church state catholic religion protestant school religious public_school public roman government christian denomination country american baptist united mormon methodist presbyterian |
 : Topics Corresponding to Concerns Regarding Union of Church and State. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-![**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics](/images/allData_aggregatedChurch_and_stateTopics.png)
+<iframe src="/interact/Church-and-State-Full-Corpus.html"></iframe>
 
-![**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics](/images/denomData_aggregatedChurch_and_stateTopics.png)
+**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics
+
+<iframe src="/interact/Church-and-State-Denominational-Titles.html"></iframe>
+
+**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics
 
 During this period of study, the most prominent movements to legislate behavior and religious practice occurred during the closing decades of the nineteenth century. Often in connection with temperance movements, Protestant religious leaders promoted what they claimed to be laws promoting general  morality and social norms regarding Sunday observance. While at times these laws were drafted granting exceptions for those who designated other days for religious worship, Seventh-day Adventist leaders and others decried them as attacks on freedom of religion and the principle of religious liberty. Any attempt to exercise state power in issues of religion was the beginning of the end, both of the nation and of time, for Adventist commentators. 
 
@@ -151,9 +166,13 @@ So important was this issue to the Adventist readership that it received a serie
 
 ## Tracing Periods of Expectation
 
-![**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics](/images/allTitles_aggregatedEndTimesTopics.png)
+<iframe src="/interact/All-End-Times-Topics-Full-Corpus.html"></iframe>
 
-![**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics](/images/denomTitles_aggregatedEndTimesTopics.png)
+**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics
+
+<iframe src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
+
+**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics
 
 Examining the prevalence of all of these topics across the first seventy years of the denomination, two general features emerge. First, over time the prevalence of these topics decreases, as denominational members settle into the realization that the work of redemption was going to require much more time than had been anticipated by early church leaders in 1850. The reflects on the one hand a "naturalizing" of the discourses of end times, as the understanding of end times events and the role of the Seventh-day Adventist people in preparing for Jesus' second coming entered into the realm of the "known" or the imaginary of the denomination. On the other hand, the decline also reflects a lengthening of the temporal imaginary, as the work facing denomination members - to reach the world with the third angel's message - was a large undertaking that would require both time and significant effort on the part of members. [I think I have something from Bull here about how, with the death of EGW, the denomination settled in for the long haul (and turned more conservative).]
 
