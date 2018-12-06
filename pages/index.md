@@ -29,11 +29,11 @@ Born out of the religious and cultural upheavals of the early and mid-nineteenth
 ![250 topic model of the periodical literature of the Seventh-day Adventist Church.](/images/pyLDAviz-of-model.png)
 
 - [Project Overview](link://slug/overview)
-- [Presentation of Methods and Sources](link://slug/chapter-2)
+- [Sources and Methods](link://slug/chapter-2)
 - [Browse Topic Model](http://browser.dissertation.jeriwieringa.com)
-- [Code Examples](link://slug/notebook) 
+- [Code Examples](link://slug/notebooks-overview) 
 - [Python Library]()
-- [Code Documentation]()
+<!-- - [Code Documentation]() -->
 </div>
 </div>
 
