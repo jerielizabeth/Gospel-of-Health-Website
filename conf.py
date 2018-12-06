@@ -162,7 +162,7 @@ NAVIGATION_LINKS = {
         ),
         ("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
         # ("/topics/", "Topics"),
-        ("http://goh.readthedocs.io/en/latest/", "Code Documentation"),
+        # ("http://goh.readthedocs.io/en/latest/", "Code Documentation"),
         (
             (
                 # ("/acknowledgments/", "Acknowledgments"),
