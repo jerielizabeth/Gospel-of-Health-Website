@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2018-10-29T20:32:00Z</lastmod>
+  <lastmod>2018-12-07T17:09:00Z</lastmod>
  </url>
  <url>
   <loc>/2018/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>/about/</loc>
-  <lastmod>2018-04-23T20:18:00Z</lastmod>
+  <lastmod>2018-12-07T17:09:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
@@ -27,7 +27,11 @@
  </url>
  <url>
   <loc>/bibliography/</loc>
-  <lastmod>2018-04-23T20:18:00Z</lastmod>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/bibliography/bibliography/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>/bibliography/periodicals/ADV/</loc>
@@ -171,7 +175,11 @@
  </url>
  <url>
   <loc>/notebooks/1-Gather/</loc>
-  <lastmod>2018-11-24T23:18:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/1-Gather/1-Gather/</loc>
+  <lastmod>2018-12-06T17:11:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/1-Gather/downloading/</loc>
@@ -182,8 +190,16 @@
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/1-Gather/readme-1/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/2-Clean/</loc>
-  <lastmod>2018-11-24T23:18:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/2-Clean/2-Clean/</loc>
+  <lastmod>2018-12-06T17:11:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/2-Clean/adv-ocr-evaluation-and-correction/</loc>
@@ -294,6 +310,10 @@
   <lastmod>2018-11-24T23:26:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/2-Clean/readme-2/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/2-Clean/report-on-spelling-inspection/</loc>
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
@@ -339,7 +359,11 @@
  </url>
  <url>
   <loc>/notebooks/3-Describe/</loc>
-  <lastmod>2018-11-24T23:18:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/3-Describe/3-Describe/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/3-Describe/charts-of-corpus-statistics/</loc>
@@ -362,12 +386,16 @@
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/3-Describe/readme-3/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/3-Describe/save_title_stats/</loc>
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/4-Preprocess/</loc>
-  <lastmod>2018-11-24T23:18:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/4-Preprocess/2018-02-createstopwordlist/</loc>
@@ -376,6 +404,10 @@
  <url>
   <loc>/notebooks/4-Preprocess/2018-02-createzipsofcorpussubsets/</loc>
   <lastmod>2018-11-24T23:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/4-Preprocess/4-Preprocess/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/4-Preprocess/create_filterlist_for_mallet_preprocessing/</loc>
@@ -390,12 +422,24 @@
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/4-Preprocess/readme-4/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/4-Preprocess/save-noun-phrases-to-module/</loc>
   <lastmod>2018-11-24T23:26:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/5-Model/</loc>
-  <lastmod>2018-11-24T23:17:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/5-Model/5-Model/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/5-Model/readme-5/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/5-Model/topic-modeling-with-mallet/</loc>
@@ -403,11 +447,15 @@
  </url>
  <url>
   <loc>/notebooks/6-Evaluate/</loc>
-  <lastmod>2018-11-24T23:17:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/6-Evaluate/2018-10-16-cluster-topics/</loc>
   <lastmod>2018-11-24T23:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/6-Evaluate/6-Evaluate/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/6-Evaluate/measure-variation-in-topic-keys/</loc>
@@ -418,8 +466,12 @@
   <lastmod>2018-11-24T23:27:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/6-Evaluate/readme-6/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/7-Analyze/</loc>
-  <lastmod>2018-11-29T06:37:00Z</lastmod>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/7-Analyze/2018-10-17-yearly-top-topics/</loc>
@@ -430,8 +482,16 @@
   <lastmod>2018-11-24T23:26:00Z</lastmod>
  </url>
  <url>
+  <loc>/notebooks/7-Analyze/7-Analyze/</loc>
+  <lastmod>2018-12-06T17:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>/notebooks/7-Analyze/aggregated-end-times-topics/</loc>
   <lastmod>2018-11-29T06:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/7-Analyze/readme-7/</loc>
+  <lastmod>2018-12-06T17:20:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/data/</loc>

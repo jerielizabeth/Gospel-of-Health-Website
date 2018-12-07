@@ -1,6 +1,6 @@
 .. title: Bibliography
 .. date: 2017-11-07
-.. slug: index
+.. slug: bibliography
 
 
 .. contents:: Sections
