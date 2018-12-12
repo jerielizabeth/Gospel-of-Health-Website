@@ -10,7 +10,7 @@
 
 [Dissertation abstract here]
 
-In this dissertation, I examine the unique religious culture that developed during the first eighty years of Seventh-day Adventism. I argue that cycles of end-times expectation and the religious leadership of Ellen White contributed to the formation of a religious culture marked by domestic authority, cooperative organization, and the activism of women, seen in the movement's religious understanding and pursuit of health. This culture provides an instructive counterpoint to accounts of nineteenth-century revivalism that stress the reinforcement of patriarchal structures and capitalistic economic structures in the aftermath of the revivals of the nineteenth century.
+<!-- In this dissertation, I examine the unique religious culture that developed during the first eighty years of Seventh-day Adventism. I argue that cycles of end-times expectation and the religious leadership of Ellen White contributed to the formation of a religious culture marked by domestic authority, cooperative organization, and the activism of women, seen in the movement's religious understanding and pursuit of health. This culture provides an instructive counterpoint to accounts of nineteenth-century revivalism that stress the reinforcement of patriarchal structures and capitalistic economic structures in the aftermath of the revivals of the nineteenth century. -->
 
 ## Women and the Revivals of the Early Republic 
 
