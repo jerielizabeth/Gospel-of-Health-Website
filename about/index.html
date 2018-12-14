@@ -100,7 +100,7 @@ The process for creating a narrative dissertation in history, on the whole, well
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
             <ul class="dropdown-menu">
 <li>
-<a href="../bibliography/">Bibliography</a>
+<a href="../bibliography/biblio-main">Bibliography</a>
                     </li>
 <li class="active">
 <a href=".">Project Documentation <span class="sr-only">(active)</span></a>
@@ -158,7 +158,7 @@ The process for creating a narrative dissertation in history, on the whole, well
 <p>Preprocessing done using Python and executed through a series of <a href="http://jupyter.org/">Jupyter Notebooks</a> for reproducibility.</p>
 <p>The final topic models were created using <a href="http://mallet.cs.umass.edu/">Mallet</a> through the command-line interface. Some of the preprocessing steps, such as connecting of noun phrases and the creation of the stopword list were completed using <a href="https://radimrehurek.com/gensim/">Gensim</a>.</p>
 <p>Analysis of the model done using Python, using the Pandas and Plotly libraries for data analysis and visualization.</p>
-<p>A list of the major software libraries utilized in this project is available in the<a href="../bibliography/bibliography">Bibliography</a>.</p>
+<p>A list of the major software libraries utilized in this project is available in the<a href="../bibliography/biblio-main">Bibliography</a>.</p>
 <h3 id="digital-interfaces">Digital Interfaces</h3>
 <p>Selecting and developing the interfaces for the dissertation proved to be an interesting and significant challenge, and one that could suffice as a stand alone dissertation. While a single integrated application is the goal for a future iteration of the project, the constraints of the dissertation have resulted in this more modular approach to the different, integrated, components of the projects. There are four main interfaces for interacting with the dissertation. The first is the main project website, located at <a href="http://dissertation.jeriwieringa.com">dissertation.jeriwieringa.com</a>. The second are the GitHub repositories for the main site and the code notebooks. The third is the topic model browser. And the forth is the code library and documentation, hosted in both GitHub and ReadtheDocs.</p>
 <p>I created the main dissertation website using <a href="https://getnikola.com/">Nikola</a>, a Python static site generator. This site generate enabled me to include a variety of different formats as part of the single project, including the notebook files, html, markdown, and reStructuredText. The default styling for the site uses the <a href="http://getbootstrap.com">Bootstrap framework</a>, which I have modified to some extent for my design purposes. The notebook pages are included within the body of the dissertation in a static format - they can be viewed as last run but not executed. As described above, these files rely on a Jupyter server to execute, which can either be run on a server or an individual laptop.</p>

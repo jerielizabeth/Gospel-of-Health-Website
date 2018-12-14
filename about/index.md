@@ -45,7 +45,7 @@ The final topic models were created using [Mallet](http://mallet.cs.umass.edu/) 
 
 Analysis of the model done using Python, using the Pandas and Plotly libraries for data analysis and visualization. 
 
-A list of the major software libraries utilized in this project is available in the[Bibliography](link://slug/bibliography).
+A list of the major software libraries utilized in this project is available in the[Bibliography](link://slug/biblio-main).
 
 ### Digital Interfaces
 

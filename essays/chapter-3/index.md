@@ -4,17 +4,31 @@
 .. slug: chapter-3
  -->
 
-## A Historical Analysis through Topic Modeling 
-
 >"We are living in the closing scenes of this earth's history. Prophecy is fast fulfilling. The hours of probation are fast passing. We have no time -- not a moment -- to loose." <br /> <span style="float:right">Ellen White. *Testimonies for the Church, Volume 8*, 1904^[@White1904, p. 252.]</span>
 
 Early Seventh-day Adventists were a people between times. Born out of the belief that William Miller had correctly identified 1844 as the year revealed in the books of Daniel and Revelations, this group of Protestant Christians understood themselves to be living in the last days, preparing for the rapidly approaching "second advent" of Jesus. Millennial expectation, however, is a difficult state to maintain.^[should link to McLoughlin here] Although Seventh-day Adventists determined early on that predicting new dates for the second coming was no longer viable, at various period throughout their early history they understood themselves to be at the brink of the second coming. As the second coming continued to be delayed, their interpretations of the events since 1844 shifted, as did the emphasis they placed on different religious beliefs and practices. As a result, their theology and religious cultural was shaped by "Jesus' nonappearance rather than his imminent reappearance," as the most productive periods of development tended to occur in efforts to explain the why of the continuation of normal time.^[@Bull2006, p. 67]
 
 These periods correspond with but also offer an additional perspective on some of the standard narratives around religious revivals and the development of religious groups. Using the a 250 topic model of the periodical literature of the denomination, this study offers an extended examination of the cycles of expectation and explanation that mark the early development of the Seventh-day Adventist denomination. Using topics that capture Seventh-day Adventist language about end times as indicators of high periods of expectation, I argue that the religious group experienced four major cycles of expectation and adjustment between 1849 and 1920. In each cycle, the markers of the anticipated second coming shift and in the wake of anticipation, new emphases emerged that shifted the focus of the denomination increasingly outward. This framework also provides another way to understand Ellen White's writings regarding gender and religious leadership, as she repeatedly embeds women's labor within the central concerns of the current temporal imaginary.
 
-This introduction to the study establishes the historical and theoretical frameworks, as well as methodology, and then uses the topic model to argue that there were four major cycles of end-times expectation during the first seventy years of the denomination. Each of these cycles is analyzed in the subsequent sections of the case study.
+## Time and the Religious Culture of Seventh-day Adventism
 
-## Introduction to Study
+Nineteenth century as general period of temporal instability - Use mike's work here.
+
+- standard time
+- evolutionary time
+- historical time
+- eschatological time
+
+In addition to the sense of temporal instability brought about by the revivals of the early nineteenth century, technological changes were also bringing about changes in how time was conceived and measured. 
+
+- railroads and standardized time
+- work and time
+- 
+
+As end times 
+
+
+
 
 The revivals and millennial movements of the nineteenth century have been a frequent object of analysis for scholars of religion and American culture as transformative events that contributed to the "democratization of American culture", the development of a "Christian" culture, the flourishing of social reform efforts, and the embrace of capitalism.^[@Hatch1989, Butler, Porterfield, abzug, radical spirits, Cross, Johnson] William Miller's 1843 and 1844 predictions feature in these standard narratives as an example of the lengths reached in the religious revivals of the early nineteenth century and of the flourishing of lay leaders and extra-denominational movements.^[Hatch in particular.] Framed in term of the responses to individuals to the economic and social upheavals of the early years of the American republic, these studies focus on commonalities across American religious movements at particular points in time, tying general religious movement to broader cultural shifts and development. Since the 1970s, growing attention has been paid to the role of women in these religious revivals of the nineteenth century. Foundational to this effort is Catherine Brekus' *Strangers and Pilgrims*, which traces the contributions of female preachers and visionaries to the religious movements of the first and second great awakenings.^[note]
 
