@@ -147,14 +147,14 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/notebooks/", "Overview"),
-                ("/notebooks/1-Gather/", "1. Gather"),
-                ("/notebooks/2-Clean/", "2. Clean"),
-                ("/notebooks/3-Describe/", "3. Describe"),
-                ("/notebooks/4-Preprocess/", "4. Preprocess"),
-                ("/notebooks/5-Model/", "5. Model"),
-                ("/notebooks/6-Evaluate/", "6. Evaluate"),
-                ("/notebooks/7-Analyze/", "7. Analyze"),
+                ("/notebooks/notebooks-overview", "Overview"),
+                ("/notebooks/1-Gather/readme-1/", "1. Gather"),
+                ("/notebooks/2-Clean/readme-2/", "2. Clean"),
+                ("/notebooks/3-Describe/readme-3/", "3. Describe"),
+                ("/notebooks/4-Preprocess/readme-4/", "4. Preprocess"),
+                ("/notebooks/5-Model/readme-5/", "5. Model"),
+                ("/notebooks/6-Evaluate/readme-6/", "6. Evaluate"),
+                ("/notebooks/7-Analyze/readme-7/", "7. Analyze"),
                 ("/notebooks/data/", "Data"),
             ),
 
@@ -166,7 +166,7 @@ NAVIGATION_LINKS = {
         (
             (
                 # ("/acknowledgments/", "Acknowledgments"),
-                ("/bibliography/", "Bibliography"),
+                ("/bibliography/biblio-main", "Bibliography"),
                 ("/about/", "Project Documentation"),
                 ("/author/", "About the Author"),
             ),
