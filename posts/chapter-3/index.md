@@ -123,8 +123,6 @@ In addition, in order to more easily facilitate grouping related topics together
 
 The labels enable readers navigate the model and provide the foundation for the work that follows in which I trace the broader picture of the prevalence of particular subjects at different times. By moving back and forth between close readings of the text and the more abstract and distant reading of the model, the reader can begin to understand and explore the overall patterns in the literature and use those patterns to identify areas for closer analysis.
 
-[Note: This is a work in progress. Most of the current topic labels are a tentative "first draft" and are being reviewed according to the process described above.]
-
 ## Identifying Expectation
 
 In order to capture periods when Seventh-day Adventist writers and readers were focused more than usual on the second coming, I identified and traced four interrelated themes that capture the language denominational members used when speaking of the second coming and the end of time. The [first theme highlights more formal explications of the key prophetic texts](link to section) of Daniel and Revelations, where authors unpacked for the readers the meaning of the various figures and numbers in the biblical passages. The [second contains descriptions of the second coming](link to section), where adventist writers worked to explain the events they anticipated as part of the second coming and to encourage believers to strive for the goal of heaven. The [third is the parsing current and historical events](link to section) in terms of their fulfillment of prophecy, or analyzing the "signs of the times." The forth theme captures the SDA's concern with the union of civic and religious authority. United by the idea that "Prophecy is history in advance,"^[@Cook1850, p. 8] in these themes Seventh-day Adventist authors and readers sought to understand where they stood in the temporal landscape, to verify their understanding of 1844 and their particular role in the unfolding of God's plan, and to explain the events of the day in light of the larger trajectory of God's plan.
@@ -138,8 +136,11 @@ For early Seventh-day Adventist authors, the Biblical books of Daniel and Revela
 Seventh-day Adventist authors derived their understanding of how to interpret these text and what they represented from William Miller. Born into a religious Baptist family, Miller embraced deism in his twenties, but found himself religiously unsettled by his experiences during the War of 1812. Returning to the Baptist church, he experienced a religious conversion marked by being overwhelmed by emotions and feeling the truth and value of the Baptist narrative of salvation.^[For a full history of Miller see @Judd1987, pp. 17-23; for an Adventist and more apologetic history of Miller, see @Dick1998, p. 3.] With a faith grounded in a conversion experience, Miller turned his attention to understanding and articulating the reasonableness of that faith. Working from a set of fourteen rules, which he derived from Biblical proof texts, he developed an interpretation of the Bible, and particularly the prophetic texts, that resolved its apparent contradictions -- thereby satisfying the critiques of his deist friends -- and that also revealed the approximate date of the looked-for second coming: 1843.^[Judd provides a list of Miller's fourteen rules of interpretation in @Judd1987, pp. 20-21 These were: "1. Every word must have its proper bearing on the subject presented in the Bible. 2. All scripture is necessary, and may be understood by a diligent application and study. 3. Nothing revealed in the scripture can or will be hid from those who ask in faith, not wavering. 4. To understand doctrine, bring all the scripture together on the subject you wish to know; then let every word have its proper influence, and if you can form your theory without contradiction, you cannot be in error. 5. Scripture must be its own expositor, since it is a rule of itself. ... 6. God has revealed things to come, by visions, in figures and parables, and in this way the same things are oftentimes revealed again and again, by different visions, or in different figures, and parables. If you wish to understand them, you must combine them all in one. 7. Visions are always mentioned as such. 8. Figures always have a figurative meaning, and are used much in prophecy, to represent future things, times and events; such as *mountains*, meaning *governments*; *beasts*, meaning *kingdoms*; *waters*, meaning *people*; *lamp*, meaning *Word of God*; *day*, meaning *year*. 9. Parables are used as comparisons to illustrate subjects, and must be explained in the same ways as figures by the subject and Bible. 10. Figures sometimes have two or more significations, as day is used in a figurative senses to represent three different periods of time ... if you put on the right construction it will harmonize with the Bible and make good sense, otherwise it will not. 11. How to know when a word is used figuratively. If it makes good sense as it stands, and does no violence to the simple laws of nature, then it must be understood literally, if not, figuratively. 12. To learn the true meaning of figures, trace your figurative word through your Bible, and where you find it explained, put it on your finger, and if it makes good sense you need look no further, if not, look again. 13. To know whether we have the true historical event for the fulfillment of a prophecy. If you find every word of prophecy (after the figures are understood) is literally fulfilled, then you may now that your history is the true event. But if one word lacks fulfillment, then you must look for another event, or wait its future development ... 14. The most important rule of all is, that you must have *faith*. It must be a faith that requires a sacrifice, and, if tried would give up the dearest object on earth, the world and all its desires, character, living, occupation, friends, home, comforts, and worldly honors."] 
 
 <div class="embedded-left">
-![**Figure 3.**: Charles Fitch, *Chart of the Visions of Daniel and John.* Poster. Boston: 1843. From the [Adventist Digital Library](https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
+[![**Figure 3.**: Charles Fitch, *Chart of the Visions of Daniel and John.* Poster. Boston: 1843. From the [Adventist Digital Library](https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
+
+<figcaption>**Figure 3.**: Charles Fitch, *Chart of the Visions of Daniel and John.* Poster. Boston: 1843. From the [Adventist Digital Library](https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john)</figcaption>
 </div>
+
 Charts, such as the one to the left, were used by Millerite preachers to explain to audiences how to interpret the prophecies in Daniel and Revelations. Part of the publishing and outreach efforts of Joshua V. Himes, the charts provided a visual representation of Miller's complicated, but methodical, interpretive work. In the upper left corner, the images from Daniel are depicted and aligned to show their correlation, with the head of the statue of Daniel, chapter 2, aligned with the lion of Daniel, chapter 7, the silver chest and arms of chapter 2 with the bear of chapter 7 and the ram of chapter 8 and so forth. Across the middle, the chart bridges between the books and Daniel and Revelations through the depictions of "Pagan Rome" - the iron legs of the statue in Daniel 2, the beast of Daniel 7, and the dragon of Revelations 12. The bottom half of the chart correlates the events of history since Jesus' death with the extended images of Revelations. All of these different elements are tied together through the dates and computations that associate the years of different historical events with the periods of time recorded in the prophetic texts.
 
 Early Seventh-day Adventists reconciled the continuation of time after 1844 with Miller's interpretations by arguing that Miller's interpretation as basically correct, but that they had misunderstood the significance of October 22, 1844. While most Millerites either concluded that the dates had been miscalculated or that Miller's whole enterprise had been misguided, a small group embraced an interpretation put forward by Hiram Edson that the "cleansing of the sanctuary" referred not to the earth as Miller had thought but marked "a new phase of Christ's ministry in heaven that placed the earth under judgment."^[@Butler1974, p. 178.] How long this new phase would last was unknown, but believers could point to the fulfilled prophecies to know that they were indeed living in the last days.
@@ -155,11 +156,11 @@ As a result, the interpretation of Daniel and Revelations found in Millerite cha
 
 <iframe src="/interact/Prophecy-Full-Corpus.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics</figcaption>
 
 <iframe src="/interact/Prophecy-Denominational-Titles.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Corpus Associated with Prophecy Topics</figcaption>
 
 As indicated in the above charts, while descriptions of prophetic texts and the work of situating readers within the Seventh-day Adventist temporal imaginary has a continual presence within the periodical literature of the denomination, its prevalence relative to other concerns decreased over time. This is the case even when looking only at the central denominational titles, excluding the topical and regional titles that proliferated after the 1880s. This is not to say that SDA authors became less interested in or came to question the uses of these texts over time or the temporal imaginary they were used to construct. Full explications of the texts and republication of material from the 1850s can be seen well into the 20th century.^[cite examples] The decline is better understood as reflecting the embrace of the SDA system for explicating the texts of Daniel and Revelations and the development of a consensus around the position of the Adventist people in sacred time. While later authors may remind their readers of the standard interpretations, they were building on existing beliefs, rather than striving to convince their readers of a new sense of time, and so required less discursive space to communicate their message.
  
@@ -181,11 +182,11 @@ The topics I identified as relating to eschatology, or the study of end-times, f
 
 <iframe src="/interact/Eschatology-Full-Corpus.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics</figcaption>
 
 <iframe src="/interact/Eschatology-Denominational-Titles.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics</figcaption>
 
 While the trajectory of these topics shows a slow decline over time in their prominence in the denominational literature, this again does not mean that these topics disappear from the denominational literature. During the first few decades of the denomination, these topics were key to establishing what would become standard Seventh-day Adventist understandings of the soul, the work of salvation, and the role of Adventists in the final events before the second coming. As these concepts became more ingrained in Adventist theology and became basic to their cultural imaginary, fewer words would have been needed to invoke these ideas for readers. 
 
@@ -211,11 +212,11 @@ The signs frequently mentioned by Adventist commentators range from concerns ove
 
 <iframe src="/interact/Signs-of-the-Times-Full-Corpus.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics</figcaption>
 
 <iframe src="/interact/Signs-of-the-Times-Denominational-Titles.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics</figcaption>
 
 Taken together, denominational concern with parsing events as signals on the road to the second coming remained generally consistent over the first seventy years of the denominations development. While authors called attention to different types of signs at different points in time, the assumption that believers could and should interpret world events to identify their current position in divine time. 
 
@@ -235,11 +236,11 @@ One particular topic of concerns, and one that developed as Seventh-day Adventis
 
 <iframe src="/interact/Church-and-State-Full-Corpus.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics</figcaption>
 
 <iframe src="/interact/Church-and-State-Denominational-Titles.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics</figcaption>
 
 During this period of study, the most prominent movements to legislate behavior and religious practice occurred during the closing decades of the nineteenth century. Often in connection with temperance movements, Protestant religious leaders promoted what they claimed to be laws promoting general  morality and social norms regarding Sunday observance. While at times these laws were drafted granting exceptions for those who designated other days for religious worship, Seventh-day Adventist leaders and others decried them as attacks on freedom of religion and the principle of religious liberty. Any attempt to exercise state power in issues of religion was the beginning of the end, both of the nation and of time, for Adventist commentators. 
 
@@ -249,11 +250,11 @@ So important was this issue to the Adventist readership that it received a serie
 
 <iframe src="/interact/All-End-Times-Topics-Full-Corpus.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics</figcaption>
 
 <iframe src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
 
-**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics
+<figcaption>**Figure 3.**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics</figcaption>
 
 Examining the prevalence of all of these topics across the first seventy years of the denomination, two general features emerge. First, over time the prevalence of these topics decreases, as denominational members settle into the realization that the work of redemption was going to require much more time than had been anticipated by early church leaders in 1850. The reflects on the one hand a "naturalizing" of the discourses of end times, as the understanding of end times events and the role of the Seventh-day Adventist people in preparing for Jesus' second coming entered into the realm of the "known" or the imaginary of the denomination. On the other hand, the decline also reflects a lengthening of the temporal imaginary, as the work facing denomination members - to reach the world with the third angel's message - was a large undertaking that would require both time and significant effort on the part of members. [I think I have something from Bull here about how, with the death of EGW, the denomination settled in for the long haul (and turned more conservative).]
 

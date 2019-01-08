@@ -30,10 +30,10 @@ Limiting my selection to periodicals published from within the above four region
 
 <iframe src="/interact/tokens-per-title.html"></iframe>
 
-**Figure 2.1**: Total number of tokens from each
+<figcaption>**Figure 2.1**: Total number of tokens from each
 periodical title in the corpus. The four largest titles are RH (Review
 and Herald), ST (Signs of the Times), YI
-(Youth’s Instructor), and HR (Health Reformer). [Graph generated with the Plot.ly library](link://slug/charts-of-corpus-statistics).
+(Youth’s Instructor), and HR (Health Reformer). [Graph generated with the Plot.ly library](link://slug/charts-of-corpus-statistics).</figcaption>
 
 The largest periodicals in my study are the four centrally produced denominational titles — the *Review and Herald* (RH), the *Youth's Instructor* (YI), *Signs of the Times* (ST), and the *Health Reformer* (HR). In these titles, the leaders of the denomination sought to guide the beliefs and practices of the denomination, publishing pieces on theology, health, and the everyday life of Seventh-day Adventists. Also through these publications, community members responded back to the leadership through letters and submissions of their own. The corpus contains twice as many pages of the largest title, the *Review and Herald*, than of the next most significant contributor, the *Health Reformer*. Together, the *Review and Herald*, *Youth’s Instructor* and *Signs of the Times*, plus the *General Conference Bulletin*, *The Present Truth* and *Advent Review* constitute half of the entire corpus, weighting the dataset heavily toward the centrally produced publications of the denomination.
 
@@ -43,8 +43,8 @@ The proliferation of topical and regional publications also created challenges f
 
 <iframe src="/interact/tokens_title_year.html"></iframe>
 
-**Figure 2.2**: Total tokens in the corpus per year, with
-color designating the periodical title. The total number of pages increases each year as the publishing work of the denomination expanded over time. [Created with the Plot.ly library](link://slug/charts-of-corpus-statistics).
+<figcaption>**Figure 2.2**: Total tokens in the corpus per year, with
+color designating the periodical title. The total number of pages increases each year as the publishing work of the denomination expanded over time. [Created with the Plot.ly library](link://slug/charts-of-corpus-statistics).</figcaption>
 
 In addition to these missing titles, there are number of holes to note in the digitized record as it stood at the time of this study. Whether through lack of the original materials or due to digitization priorities, the denomination does not have full runs available for all of its digital titles. Most notably, the digital coverage of the *Youth's Instructor* is sporadic, especially for the 19th-century, with holes in coverage between 1856-1859; 1863-1870; 1873-1879; 1891-1895; and 1896-1898. This title, the second denominational title produced by James White, contained material aimed at educating children in the Seventh-day Adventist faith. This is also a title that was frequently written for and edited by the women leaders of the denomination. The gaps in the digital materials from the publication require creative strategies to use the limited issues available to reveal the distinctive voice these editors provided to the developing community.
 
@@ -74,7 +74,7 @@ These data challenges are not limited to large subscription sources, as document
 
 [![Screenshot of Mapping Texts website.](/images/mapping-texts-quality.png)](/images/mapping-texts-quality.png)
 
-**Figure 2.3**: Map of Texas creating by the Mapping Text teams. Size of the circle indicates the number of words associated with the newspapers from a particular city, while color of the circle indicates the quality of those words as evaluated by the Mapping Texts team.
+<figcaption>**Figure 2.3**: Map of Texas creating by the Mapping Text teams. Size of the circle indicates the number of words associated with the newspapers from a particular city, while color of the circle indicates the quality of those words as evaluated by the Mapping Texts team.</figcaption>
 
 The resulting interface shows an overall low "good word" rate across the Texas newspapers in *Chronicling America*, with most of the best performing areas hovering around 80% while worse performing areas hover around 60% of the identified words being recognized.^[For the project, "good" and "bad" words are determined by comparison to dictionary of words.] This data enables readers to temper their expectations about what can be known from the analyzed data, a useful counterbalance to the seeming expansiveness and authority of digital materials. At the same time, methods for incorporating that uncertainty into the models and interfaces of digital projects is an open question in the field.
 
@@ -104,11 +104,11 @@ For the documents scanned and OCRed by the Seventh-day Adventist church, such pr
 
 [![**Figure 2.4**: Layout of page 7 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that, although articles are split into multiple sections, overall the columns have been correctly parsed.](/images/layoutExample_goodRecognition.gif)](/images/layoutExample_goodRecognition.gif)
 
-**Figure 2.4**: Layout of page 7 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that, although articles are split into multiple sections, overall the columns have been correctly parsed.
+<figcaption>**Figure 2.4**: Layout of page 7 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that, although articles are split into multiple sections, overall the columns have been correctly parsed.</figcaption>
 
 [![**Figure 2.5**: Layout of page 6 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that the columns have been not been correctly parsed, with most lines spanning two columns, and some spanning three.](/images/layoutExample_poorRecognition.gif)](/images/layoutExample_poorRecognition.gif)
 
-**Figure 2.5**: Layout of page 6 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that the columns have been not been correctly parsed, with most lines spanning two columns, and some spanning three.
+<figcaption>**Figure 2.5**: Layout of page 6 from The Advent Review and Sabbath Herald, volume 5.5 as analyzed by Adobe Acrobat Pro. Note that the columns have been not been correctly parsed, with most lines spanning two columns, and some spanning three.</figcaption>
 
 Errors in layout recognition are a harder problem than mistakes in character recognition, in that they are best addressed during the recognition stage of the document processing and, as such, require time. Databases that organize based on the article (rather than the issue), such as the *American Antiquarian Society*, are incentivized to ensure that the boundaries of each article are correctly detected. But as the scale of the digitization project grows, the resources that can be devoted to training OCR engines declines. For many of these projects, the primary "reader" of the document is assumed to be a human reader, for whom the primary object is the image file of the original document, and the text layer is a secondary feature, useful primarily for search and retrieval.
 
@@ -322,13 +322,13 @@ Visual representations of topic models provide a useful initial mode of entry in
 
 <iframe style="height:1150px" src="/interact/pyLDAviz.html" ></iframe>
 
-**Figure 2.6: Visualization of the 250 topic model** ([view full version](/interact/pyLDAviz.html)). Note that the topic numbers in this visualization are in descending order of overall prominence, and not related to the topic assignment used throughout the rest of the site. The interface enables the viewer to modify which words are displayed, defaulting to the most frequent words assigned to the topic with lambda equal to one, or the most unique words for each topic with lambda equal to 0. This provides a means of distinguishing between similar topics. [Visualization created with the pyLDAviz library](link://slug/pyldavis_and_mallet).
+<figcaption>**Figure 2.6: Visualization of the 250 topic model** ([view full version](/interact/pyLDAviz.html)). Note that the topic numbers in this visualization are in descending order of overall prominence, and not related to the topic assignment used throughout the rest of the site. The interface enables the viewer to modify which words are displayed, defaulting to the most frequent words assigned to the topic with lambda equal to one, or the most unique words for each topic with lambda equal to 0. This provides a means of distinguishing between similar topics. [Visualization created with the pyLDAviz library](link://slug/pyldavis_and_mallet).</figcaption>
 
 The visualization generated with PyLDAviz depicts a model with no clear predominant topic, and a number of topical clusters. For example, the top center of the graph shows a closely grouped cluster of topics related to issues of food and diet, topics derived from the health reform literature of the denomination.  The bottom left corner of the graph shows a clustering of topics around issues of faith, including theology and biblical quotations. The bottom right corner, in contrast, clusters topics around more bureaucratic aspects of the denomination, including conference reports and missions. Finally, at the near center of the graph is the (here labeled) topic 22 which includes "study," "instruction," "plan." The position of this cluster of verbs at the center of the graph suggests that these words appear across all of the different discursive areas of the denominational literature. As a people of the book deeply committed to studying the divine law in both scripture and in nature, the centrality of that concept to all of their discourse would be appropriate.
 
 <iframe style="" src="/interact/topicDendrogram.html"></iframe>
 
-**Figure 2.7: Dendrogram of the 250 topic model.** ([view full version](/interact/topicDendrogram.html)) [Visualization created with the Plot.ly library](link://slug/2018-10-16-cluster-topics).
+<figcaption>**Figure 2.7: Dendrogram of the 250 topic model.** ([view full version](/interact/topicDendrogram.html)) [Visualization created with the Plot.ly library](link://slug/2018-10-16-cluster-topics).</figcaption>
 
 A dendrogram provides another window onto the relationships between the topics of the model. Created using the default options within the Plotly library, this chart using the top 50 words in each topic to cluster and computes the distances between the different topic pairs. The resulting chart again indicates a good amount of similarity between the topics with some definite clusters of related topics. At the bottom of the chart the reader can find a small collection of education-focused topics, while topic 20, related to church organization, is displayed at the top of the graph, with language distinctive from that of all the other topics. Within the large block of maroon topics, clear clusters relating to conference reports, to church and state legislation, and to theological topics such as the sabbath appear. While the PyLDAviz graph relies only on the topic words, in addition to showing relationships between topics, I incorporated topic labels into this graph, and used it as a partial guide for the work of labeling topics and identifying related topics for further study. 
 

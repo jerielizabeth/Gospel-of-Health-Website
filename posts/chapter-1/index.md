@@ -28,18 +28,18 @@ At the risk of projecting a modern concept onto the past, it is clear that Himes
 
 [![Miller's chart of the world and Daniel's visions.](/images/Chronological_Chart_of_the_World.png)](/images/Chronological_Chart_of_the_World.png)
 
-**Figure 1.1**: William Miller's "Chronological Chart of the World to which
+<figcaption>**Figure 1.1**: William Miller's "Chronological Chart of the World to which
 is added, a Chart of Daniel's Visions" (1842). From the Adventist
 Digital Library.
 https://adventistdigitallibrary.org/adl-421835/chronological-chart-world.
-Accessed 6 September 2017.
+Accessed 6 September 2017.</figcaption>
 
 [![Fitch's chart of the visions of Daniel and John.](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
 
-**Figure 1.2**: Charles Fitch's "A Chronological Chart of the Visions of
+<figcaption>**Figure 1.2**: Charles Fitch's "A Chronological Chart of the Visions of
 Daniel and John." (1843). From the Adventist Digital Library.
 https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john.
-Accessed 6 September 2017.
+Accessed 6 September 2017.</figcaption>
 
 The efforts of Himes launched Miller and his teachings into the public consciousness and created a community around the belief that the second coming would occur between March 21, 1843, and March 21, 1844. In 1842, just two years after he joined the cause, Himes claimed fifty-thousand readers for *Signs of the Times* and between three and four hundred ministers distributing the materials.^[@Dick1998, p. 6; @Arthur1987, p. 46] By 1844, Himes had overseen the foundation of a number of serial publications, tracts, and pamphlets and had organized, attended, and spoken at conferences around the United States and Canada. This scale of publication and organization is notable. While most evangelical movements of the time utilized the press to spread their message and unite believers, under the leadership of Himes, the Millerites "published tracts, memoirs, and newspapers on a scale never before imagined."^[@Brekus1998, p. 323] As a result of the successful publishing campaigns, Miller became a highly sought-after speaker, claiming to have given about 4000 lectures in five hundred towns between 1840 and 1844. In addition to Miller and Himes, by Miller's calculations some 200 ministers in the United States and Canada had embraced his interpretation, and an additional 500 public lecturers circulated his views.^[@Miller1845, p. 4]
 
