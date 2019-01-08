@@ -4,7 +4,7 @@
 .. slug: chapter-4
  -->
 
- Outline
+ <!-- Outline
 
  1. Initial publications and language of end times
 
@@ -55,4 +55,4 @@ This chapter covers the first two major cycles of end-times expectation that sha
 - EGW health visions and the expansion of the virtuous living and commandment keeping emphasis to include physical health. 
     + topics ?
 
-## 1870s ...
+## 1870s ... -->
