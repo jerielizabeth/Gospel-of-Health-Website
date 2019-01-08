@@ -217,6 +217,8 @@ THEME_COLOR = '#5670d4'
 #     )
 
 POSTS = (
+    ("posts/overview.md", "", "post.tmpl"),
+    ("posts/about.md", "", "post.tmpl"),
     ("posts/chapter-1/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-1/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-1/*.html", "essays/", "post.tmpl"),
