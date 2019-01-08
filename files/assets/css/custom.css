@@ -38,7 +38,7 @@ body{
 figcaption {
     display: inline-block;
     font-size: 1.4rem;
-    line-height: 2rem;
+    line-height: 1.5rem;
     padding-bottom: 3rem;
 }
 
@@ -83,10 +83,16 @@ article {
     counter-reset: paragraph;
 }
 
-.entry-content p:before {
+.hentry .entry-content p:before {
     position: absolute;
     margin-left: -25px;
     color: #CCC;
     content: counter(paragraph);
     counter-increment: paragraph;
+}
+.entry-content .footnotes p:before {
+    content: unset;
+}
+.entry-content .alert p:before {
+    content: unset;
 }
