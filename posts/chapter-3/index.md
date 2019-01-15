@@ -2,7 +2,6 @@
 .. date: 2018-04-15
 .. title: Anticipating the End of Time
 .. slug: chapter-3
-.. tag: draft
  -->
 
 >"We are living in the closing scenes of this earth's history. Prophecy is fast fulfilling. The hours of probation are fast passing. We have no time -- not a moment -- to loose." <br /> <span style="float:right">Ellen White. *Testimonies for the Church, Volume 8*, 1904^[@White1904, p. 252.]</span>
