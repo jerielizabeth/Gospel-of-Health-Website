@@ -143,3 +143,82 @@ serve as a reminder that "women's issues" are often situated at and shed light o
 [^Topic modeling has amassed its share of critics, and not without cause. Schmidt, corpus linguistics community .. ] 
 In history, there ... [ Blevins, Block, and Dispatch, Kaufman, ]. In literary studies, there have been attempts to apply more thorough statistical modeling through the models, looking at such things as gender and genre.^[cite Underwood and Jockers, Rhody.] 
  though as Heather Froelich has pointed out
+
+
+<!-- The revivals and millennial movements of the nineteenth century have been a frequent object of analysis for scholars of religion and American culture as transformative events that contributed to the "democratization of American culture", the development of a "Christian" culture, the flourishing of social reform efforts, and the embrace of capitalism.^[@Hatch1989, Butler, Porterfield, abzug, radical spirits, Cross, Johnson] William Miller's 1843 and 1844 predictions feature in these standard narratives as an example of the lengths reached in the religious revivals of the early nineteenth century and of the flourishing of lay leaders and extra-denominational movements.^[Hatch in particular.] Framed in term of the responses to individuals to the economic and social upheavals of the early years of the American republic, these studies focus on commonalities across American religious movements at particular points in time, tying general religious movement to broader cultural shifts and development. Since the 1970s, growing attention has been paid to the role of women in these religious revivals of the nineteenth century. Foundational to this effort is Catherine Brekus' *Strangers and Pilgrims*, which traces the contributions of female preachers and visionaries to the religious movements of the first and second great awakenings.^[note]
+
+With increased attention to questions of gender, race, and class, scholars who examine patterns across multiple revivals have drawn attention to the ways women and members of other marginalized groups feature prominently during periods of upheaval or revival. Such analysis has been done using the frameworks of theorists such as Mary Douglas, Victor Turner, and Max Weber, parsing revival periods as moments of disruption in social norms and hierarchies, where members reject or challenge existing rituals until a new equilibrium is achieved and order is re-established.^[Long footnote with additional parsing of these theories - note that CSR uses Mary Douglas, and Vance uses Weber] While these frameworks link the source of religious revivalism primarily to forces external to religious movements - such as economic or cultural disruption - they help explain periods of unusually expansive behavior within religious and cultural groups, as well as the more subtle but lasting cultural shifts that revival moments leave in their wake.^[It is worth noting that much of the scholarship that uses these frameworks in the study of nineteenth-century religion has focused on this cycle as part of a narrative of progress, where revival moments contribute to greater social equality (democratization) or to increased opportunities for agency. However, in theory these movements can also give rise to more conservative subcultures.]
+
+As one of a small handful of examples in US religious history of a denomination led by a woman prophet, gender features frequently in the analysis of early Seventh-day Adventism. This treatment ranges from the personal history and role of Ellen White to analyses of the different role available to women at different points in the denomination's history and the denominational culture itself as gendered feminine. With her prophetic career starting when she was just [] years old, scholarly analysis of Ellen White's youth and her background in the Methodist church situates her well within the framework of a religious "rebel" - as someone whose religious commitments push the boundaries of existing ritual.^[phrase from CSR 142; also cite Taves on her Methodist background - shouting methodist; and get cite for actual age.] At the point of White's death in 1915, Seventh-day Adventism had progressed from a group at the edges of the Millerite movement to an established denomination, and one that was increasingly inscribing a gendered hierarchy based on "separate spheres" and female domesticity.^[will need citations - Vance] Scholars have effectively used the Weber's theory of "religion of the non-priviledged classes" (that it is "characterized by a tendency to allot equality to women"^[@Vance1999, p.2]) and the framework of "church" (or "denomination") and "sect" to explain the Seventh-day Adventist trajectory from a religious group clearly on the edges of and critical toward their surrounding culture to an increasingly stable and overall respectable member of American Protestantism.^[Cite @Butler1974] 
+
+These general patterns of accommodation and secularization - in the sense of becoming "like the world" - help explain the overall structural shifts in the Seventh-day Adventist theology and religious culture, but also obscure the ways that culture was negotiated at multiple point along the way. While Vance and Butler convincingly argue that trajectory of the Seventh-day Adventist denomination has historically been toward accommodation to prevailing cultural norms and toward increased affiliation with the traditional Protestant denomination, the early years of the sect indicate that this progression was complex and contested. As Vance notes with regard to Ellen White's positions on female leadership in the denomination, "the seeming contradictions of White's admonitions, life, and advice are not easily reconciled."^[@Vance1999, p. 194]  -->
+
+The working out of such new and revolutionary conceptions of time played out within the arena of gender, as gaining mastery over the new conceptions of time frequently entailed reinforcing binaries, such as those between men and women, between races, and between cultures. 
+
+
+"In raising the prospects of an immeasurable past, uncertain future, and incessant change, scientific findings generated vexing questions about humanity's origins and possibilities that left Victorians uncertain as to their placement within a dizzying temporal span."^[@Murphy2001, p.12]
+
+"Most significant to an altered perception of temporality, however, was the rapid expansion of the railways with their revolutionary approach to tracking time's passage."^[@Murphy2001, p. 12]
+
+"In effect, nineteenth-century thinkers constructed history as a secularized religion -- a "substitute for theology", as Modris Eksteins puts it -- that replicated the sense of order, purpose, and meaning in Christian teachings."^[@Murphy2001, p. 15]
+
+"Moreover, the basic model of history that Victorians tended to embrace - the belief that history followed a linear path rather than the cyclical pattern that previous cultures had posited - was itself derived from the Christian theorization of divine history."^[@Murphy2001, p. 17]
+
+"Yet Christianity itself carried temporal intricacies that late-Victorian fiction often elided. Although Christianity presumes time's unidirectional movement, it also blends into this model a very different conception of time through the importance placed on eternity."^[@Murphy2001, p. 17]
+
+"Nonetheless, a growing confidence that the history of humanity was the history of progress tended to tip the cultural scale in favor of the linear model."^[@Murphy2001, p. 19]
+
+"The sense of progress extended to social and moral issues, for Victorians assumed that humanity was moving toward a more perfect state ethically and spiritually as well as materially.^[@Murphy2001, p. 19 (Quoting Altick)]
+
+"T.H. Huxley and his followers warned that natural selection could bring devolution as well as evolution, claiming it was 'an error to imagine that evolution signifies a constant tendency to increased perfection.'"^[@Murphy2001, p. 23]
+
+"Victorian perceptions of the natural order of time inconspicuously but emphatically stemmed from intrisic masculinist biases that served to bolster inflexible gender boundaries."^[@Murphy2001, p. 23]
+
+"Class- and race-specific as well as masculinist, the Victorian construction of temporality represented the time that governed the social order, the time that influenced standards in the political, religious, scientific, and literary arenas."^[@Murphy2001, p. 23]
+
+"As a result, we see the novels attempting to inscribe or erase binarism that, for example, align the male with history and the female with ahistoricity; the male with intellectual acuity and the female with mental deficiency, based on Darwinian presumptions; the male with progressive civilization and the female with stultifying primitivism; or the male with Christianity and the female with paganism."^[@Murphy2001, p. 24]
+
+"The term 'women's time' involves two components: the cyclical time that conforms to nature through gestation, regularity, and biological rhythms, and the monumental time that evokes infinity through its affiliation with myth, mysticism, and the cosmos."^[@Murphy2001, p. 26]
+
+"Domestic and social routine, these writers say, prevent women from achieving their potential and attaining creative or professional goals."^[@Murphy2001, p. 155]
+
+"Recalling the almanac and the virtue of natural law, the Sabbatarians posited a natural, internal "moral clock" in need of rewinding every seven days."^[@O'Malley1990, p. 47-48]
+
+"Beecher's connection of time to property acknowledged time's role in labor and commerce, but also recalled women' position in society; Beecher implied that time was women's only real property, since material property typically belonged to men."^[@O'Malley1990, p. 51]
+
+
+As a result of this confluence of factors, time for nineteenth-century Americans was in a particularly acute state of flux. That the second coming was on the horizon seemed reasonable to many religious Americans, as both social and temporal upheavals of the time seemed to provide clear indication that event were moving toward the close. [move bit about Finney here?] 
+
+In response to the increasing cultural reliance on mechanized markers of time, as well as to the lengthening of time proposed in evolutionary theory, Seventh-day Adventists insisted on what they understood as more biblical orderings of time. Using Genesis as their guiding text, they grounded the "day" in the orbit of the sun (embracing the variability in length of days that entails), and the age of the earth in the story of creation.^[While "days" are a biblical division of time, "hours" in terms of 24 equal units within the day, were identified as of "heathen" origin. @Andrews1855, p. 77.] 
+
+literalism with regard to time.
+
+- literal seven days of creation
+    - counter to evolutionary time
+    - establishes their weekly rhythm
+    - connects to the day - when does the Sabbath start?
+- debates about sabbath reveal ongoing balancing act between standardized time and "natural" time for marking the day
+    - natural time vs artificial time - marks the language of saturday/sunday.
+
+
+
+"Morning Watch Calendar" that include a "sunset table showing when the Sabbath begins anywhere in America"^[@PUR19150624, p. 7]
+
+In 1855, the Seventh-day Adventist community began to wrestle directly with the question of how time ought to be organized. Having gained some amount of agreement within the community that Saturday, rather than Sunday, was the proper day for Sabbath observance, the question remained as to when the Sabbath officially began. This debate provides a microcosm of the negotiation between the mechanized time embraced more generally during the nineteenth-century and the older, "natural," time of the Bible. As noted by James White, two general positions with regard to time were debated within the early Seventh-day Adventist community. The first, which relied on the clock for time, argued that the Sabbath began at six p.m. local time. The second argued that the Sabbath began at sundown, and as such shifted in terms of clock time with the season. James notes that "We have never been fully satisfied with the testimony presented in favor of six oclock" and as such had commissioned a study of the matter from J. N. Andrews. As a result of that study, published in the same issue of the *Review*, Andrews, as well as White, endorsed the sun-determined rhythm of sundown Friday to sundown Saturday.^[@White1855; @Andrews1855.] 
+
+Andrew's argument for marking Sabbath time by the sun reflects the literal approach with which SDA believers approached the Bible, as well as [something about approach to time]. Beginning with Genesis, Andrews argues that "day" in the Bible is a unit of time defined first in relation to "light" and second as a 24 hour period of time. That the day begins at sundown is established with reference to the Genesis account of creation
+^[Guided by their literal interpretation of the Bible, Seventh-day Adventist leaders never questioned the temporal organization of the seven-day week or the association between Saturday, Sabbath, and the seventh-day. For a history of the development of the "week" as a means of organizing time and society, see @Zerubavel1985.]
+
+The deciding factor in determining the temporal organization for Sabbath keeping was God's intended order or the natural law, ingrained in creation. 
+
+But the Seventh-day Adventists also inhabited the ever increasingly mechanized time of their surrounding culture. 
+- question of the date line (YI19101129-V58-48-page4) and of sabbath-keeping in Norway (RH19010528-V78-22-page6)
+- publishing modified almanacs with the local clock time for Sabbath (CUV19030408-V07-07-page4.txt) and the morning watch calendar (PUR19150624-V14-46-page7.txt) 
+
+Debates with other Protestant groups over organization of time
+- AmSn18940503-V09-18-page5.txt
+
+
+<!-- For early Seventh-day Adventists, and for many of their religious neighbors, time was in short supply. While Ellen White and others warned against further predictions of a date for the second coming in the years after 1844, the consensus among believers was that Christ's work would soon be completed and he would return soon to gather the faithful.^[find quote for EGW warning about new dates. Paulson?] For the first few years, the prevailing metaphor for the expectant community was that of the parable of the ten virgins. In this story, told in the book of Matthew, the ten women are waiting with their lamps for the coming of the bridegroom. Five (wise) women have come with extra oil, prepared for both a long wait and the celebration to follow, while five (foolish) women have only their lamps. Forced to leave their posts to buy additional oil because the bridegroom arrived later than anticipated, the five foolish women miss his arrival and are excluded from the celebration. For early SDA members, this parable served to remind them to remain vigilant and prepared in waiting for the second coming, for soon the bridegroom would come. 
+
+The expectation of a quickly approaching second coming was also reflected in their early theology. Embracing what was known as the "Shut Door" doctrine, early Seventh-day believers associated the October 22, 1844 date with both the start of Jesus' work of "investigative judgment" whereby his sacrifice is applied to those who are to be saved as well as with a closing of the period during which the living might seek forgiveness. Only those converted prior to the 1844 date would be saved.  -->
