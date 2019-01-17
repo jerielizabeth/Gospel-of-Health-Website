@@ -1176,7 +1176,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
 # Pandoc does not demote headers by default.  To enable this, you can use, for example
 # ['--base-header-level=2']
-# PANDOC_OPTIONS = []
+PANDOC_OPTIONS = ['--filter=pandoc-citeproc','--csl=/Users/jeriwieringa/Dissertation/references/chicago-fullnote-bibliography-with-ibid.csl','--bibliography=/Users/jeriwieringa/Dissertation/references/Bibliography.bib']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty (which is
