@@ -1,10 +1,10 @@
-<!-- 
-.. title: Project Overview
-.. slug: overview
-.. date: 2018-02-01
-.. description: 
-.. type: text
--->
+--- 
+title: Project Introduction
+slug: overview
+date: 2018-02-01 00:00:00 UTC
+description: 
+type: text
+---
 
 [anecdote to start]
 
@@ -128,15 +128,27 @@ Can a knowledge claim be made based on showing a statistically significant relat
 
 ## The Structure of *A Gospel of Health and Salvation*
 
-As a digital project, this dissertation provides a prototype of different aspects of the culture and periodical literature of the Seventh-day Adventist denomination. At the core of the project is the browser of the topic model of the SDA literature, accessible at [http://browser.dissertation.jeriwieringa.com](http://browser.dissertation.jeriwieringa.com). This model, built using MALLET and visualized using Andrew Goldstone's [DfR Browser](https://agoldst.github.io/dfr-browser/), provides a window onto the language used across the corpus of Seventh-day Adventist texts that I assembled. The interface is organized according to my interpretation of those topics, as reflected in the topic labels. Supporting the model are the dissertation [notebooks](link://slug/notebooks-overview), which document the technical work that went into creating and interpreting the topic model. Finally, the dissertation includes four essays which provide context for the Seventh-day Adventist church and their periodical literature, document the methodological choices pursued in the dissertation and model two forms of interpretation using the data from the topic model.
+Works of historical scholarship typically take a narrative format, telling the story of the past and showing how various cultural forces and human actors shaped the development of historical events. However, the development of computational technologies creates the space and the need to also consider the processes by which historical interpretation takes place. While this dissertation includes elements of historical story-telling, my primary focus is on methodology, specifically, the incorporation of computational models of text into the work of historical analysis. As such, this dissertation is an applied methodological study organized around a historical research question: how does time, and the expectation of the second coming, shape the development of the religious culture of Seventh-day Adventism? 
+
+
+
+At the core of the project is the browser of the topic model of the SDA literature, accessible at [http://browser.dissertation.jeriwieringa.com](http://browser.dissertation.jeriwieringa.com). This model, built using MALLET and visualized using Andrew Goldstone's [DfR Browser](https://agoldst.github.io/dfr-browser/), provides a window onto the language used across the corpus of Seventh-day Adventist texts that I assembled. The interface is organized according to my interpretation of those topics, as reflected in the topic labels. I discuss my interpretive process for creating the labels in [chapter two](link://slug/chapter-2#). 
+
+The work of selecting and preparing a corpus of text for topic modeling is one of interpretation, and sets the limits of possibility for the resulting computational model. As  Supporting the model are the dissertation [notebooks](link://slug/notebooks-overview), which document the technical work that went into creating and interpreting the topic model. 
+
+<!-- Finally, the dissertation includes four essays which provide context for the Seventh-day Adventist church and their periodical literature, document the methodological choices pursued in the dissertation and model two forms of interpretation using the data from the topic model. -->
+
+
+
 
 The first essay, "The Emergence of Seventh-day Adventism," provides an overview of Seventh-day Adventism in light of nineteenth-century religion and culture. This chapter is aimed at the reader who is unfamiliar with the context of American religious history or the particulars of the SDA, providing the necessary context for the interpretations forwarded throughout the rest of the dissertation. 
 
 The second essay, "Constructing Computational Models from Historical Texts," provides methodological statements for the sources, processing, modeling, and interpretive aspects of the project. This chapter is the most technical in content, while also providing the framing links tying the computational work to the historical interpretation. 
 
-The third chapter, "Anticipating the End of Time," establishes the problem of time within early Seventh-day Adventism and uses the topic model to identify four major cycles of end-times expectation during the first seventy years of the denomination's history. Tracing the prominence of end-times related topics throughout the periodical literature of the denomination, the chapter bridges the computational model and more traditional historical research into the development of the particular religious culture of Seventh-day Adventism. 
+The third chapter, "Anticipating the End of Time," establishes the problem of time within early Seventh-day Adventism and uses the topic model to identify four major cycles of end-times expectation during the first seventy years of the denomination's history. A case study on using topic models to identify and reveal overarching trends in a corpus for historical analysis, the chapter  Tracing the prominence of end-times related topics throughout the periodical literature of the denomination, the chapter bridges the computational model and more traditional historical research into the development of the particular religious culture of Seventh-day Adventism. 
 
-The forth and final chapter, "," discusses the religious culture within these four major cycles, focused on how the temporal expectations shaped and are reflected in the prevailing gender norms and understandings of health and salvation.
+
+The forth and final chapter, "," offers a second case study for the use of topic modeling and textual analysis for historical research, this time at the level of close reading. Where chapter 3 focused on broad patterns, chapter four explore in detail the gender dynamics in two prominent areas of Christian labor: home and missions.
 
 As a project based on the computational analysis of text, a large portion of the intellectual and scholarly work the make up the dissertation exists in code. In considering the methodological processes around the use of computational analysis in history, this dissertation makes the claim, both explicitly and implicitly, that this "technical" work is of central importance to the scholarly object of the dissertation. Where traditional methods of review rely on the use of clear and well formatted footnotes so that the trail of evidence can be retraced and evaluated, the review of computational driven work requires the use of documented and accessible code, so that both the execution of the techniques and the assumptions embedded within the technical choices, can be seen and evaluated. The code elements can be viewed through the dissertation's web interface, or can be downloaded and run either for verification or for adaptation to other projects. The work of making the technical elements of the dissertation visible and extensible is key to establishing processes for validating computationally-based scholarship in the humanities, an extension of the push for reproducible research in the sciences. 
 
@@ -144,10 +156,3 @@ The final elements of the dissertation provide documentation for the different c
 
 While the dissertation itself is the composite of these different computational and interpretive elements, readers do not need to be experts in all aspects of the project in order to read and evaluate the dissertation. The essays outline my approach and my intellectual decision in structuring and carrying out the computational analysis, providing an overview of the work without requiring the reader to directly engage the computational aspects of the work. Including the code enables readers to evaluate how well I have implemented those ideas and are included as part of a commitment to reproducible research. The concept of reproducible research, while increasingly prevalent in the sciences, is less common in the humanities. It refers to the goal of sufficiently describing ones computational methods and process so that others can reproduce the results when given the same data.^[@Brunsdon2016 gives a useful overview while making the case for reproducible research in geography. See pages 687-8. The *WhatEvery1Says* project at the University of California, Santa Barbara, is also tackling questions of reproducible research in the Digital Humanities. See @WE1S.] Although the emphasis on code and computation is new, the concept of making historical research verifiable is not, as historians have long incorporated methods for verification in their academic writing through the mechanism of footnotes.^[@Hitchcock2015, 12.] By releasing the code and describing the processes used, scholars who rely on computational methods provide the information necessary for that work to be recognized and critically engaged, and in so doing make it part of the scholarly conversation.
 
-## A Note on Religion
-
-As with other areas of history where there is an active community with a vested interest in the history told, it is common for scholars of religion to state their own religious history and affiliation. For the Seventh-day Adventist community, the literature about the denomination has, to date, tended to fall into two general categories: sympathetic histories by Seventh-day Adventist authors and critical histories by authors external to or critical of the faith.^[Note a few examples] This has led to some concerns when new faces appear asking questions, concerns politely expressed to me as I started visiting Seventh-day Adventists archives and research centers. 
-
-My approach to the study of religion fits somewhere on the edges of the "Open Critical History." Along with many other historians of religion, I am interested in religious movements because I hold religion and religious belief to be an irreducible category of analysis - something that shapes and explains the behavior of individuals and the development of groups, and that cannot be explained away through reference to economics or other social pressures. However, my focus is on the inner workings of religion as a complex cultural phenomenon, one in conversation with other cultural forces. As such, this is neither an "apologetic" history nor an "antagonistic" history, seeking neither to defend the accuracy of the Seventh-day Adventist position nor to reveal its errors, but instead an exploratory history looking into the complex development of beliefs and practices that took place over the denomination's early history.
-
-I come to the study of Seventh-day Adventism as a sympathetic outsider - as someone raised in the small, historically Dutch, Christian Reformed denomination and brought up within the American evangelical subculture. Seventh-day Adventism was not a religious group I was deeply aware of prior to beginning this study, and the process of learning to develop an understanding of a tradition far outside my own has been a transformational one. While I am sure that I have missed some of the details and nuances of the beliefs and structures I describe here, I have attempted to sketch the overall contours of the patterns I found and the ways those changed over my period of study. 
