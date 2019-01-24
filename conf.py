@@ -134,7 +134,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/overview/", "Project Overview"),
+        ("/overview/", "Project Introduction"),("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
         (
             (
                 ("/essays/chapter-1/", "1. The Emergence of Seventh-day Adventism"),
@@ -160,7 +160,7 @@ NAVIGATION_LINKS = {
 
             "Notebooks"
         ),
-        ("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
+        ("/conclusion/", "Conclusions"),
         # ("/topics/", "Topics"),
         # ("http://goh.readthedocs.io/en/latest/", "Code Documentation"),
         (
@@ -347,7 +347,7 @@ COMPILERS = {
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
-    "pandoc": ('.md', '.mdown', '.markdown', 'tex'),
+    "pandoc": ('.md', '.mdown', 'tex'),
 }
 
 # Create by default posts in one file format?
@@ -1176,7 +1176,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
 # Pandoc does not demote headers by default.  To enable this, you can use, for example
 # ['--base-header-level=2']
-PANDOC_OPTIONS = ['--filter=pandoc-citeproc','--csl=/Users/jeriwieringa/Dissertation/references/chicago-fullnote-bibliography-with-ibid.csl','--bibliography=/Users/jeriwieringa/Dissertation/references/Bibliography.bib']
+PANDOC_OPTIONS = ['--filter=pandoc-citeproc','--csl=/Users/jeriwieringa/Dissertation/references/university-of-york-chicago.csl','--bibliography=/Users/jeriwieringa/Dissertation/references/Bibliography.bib']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty (which is
