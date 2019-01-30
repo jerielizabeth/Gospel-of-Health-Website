@@ -62,11 +62,11 @@ iframe {
 iframe.large {
     height: 1000px;
 }
-iframe.xlarge {
+/* iframe.xlarge {
     height: 1000px;
     width: 1550px;
     margin-left: -150px;
-}
+} */
 
 h4 {
     font-size: 20px;

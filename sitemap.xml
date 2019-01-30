@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2019-01-25T21:06:00Z</lastmod>
+  <lastmod>2019-01-30T05:40:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -172,10 +172,6 @@
  <url>
   <loc>/browser-about/</loc>
   <lastmod>2019-01-25T19:08:00Z</lastmod>
- </url>
- <url>
-  <loc>/browser_about/</loc>
-  <lastmod>2019-01-25T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>/chapter-3/essays/</loc>
