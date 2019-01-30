@@ -6,12 +6,9 @@
 .. contents:: Sections
    :depth: 2
 
-***************
-Primary Sources
-***************
-
+********************
 Periodicals in Study
-====================
+********************
 
 :doc:`Advent Review, The <AR>`. 1850. Office of Archives, Statistics, and Research, Seventh-day Adventist Church. http://documents.adventistarchives.org/Periodicals/PT-AR.
 
@@ -75,6 +72,7 @@ Periodicals in Study
 
 :doc:`Youth's Instructor, The <YI>`. 1852-1920. Office of Archives, Statistics, and Research, Seventh-day Adventist Church. http://documents.adventistarchives.org/Periodicals/YI.
 
+
 Additional Digital Resources
 ============================
 
@@ -84,15 +82,18 @@ Additional Digital Resources
 
 *Yearbooks of the Seventh-day Adventist Church*. 1883-1920. Office of Archives, Statistics, and Research, Seventh-day Adventist Church. http://documents.adventistarchives.org/Yearbooks/
 
-Archival Materials
-==================
 
+***************
+Primary Sources
+***************
+
+.. include:: pages/bibliography/by_category/primary.rst
 
 *****************
 Secondary Sources
 *****************
 
-
+.. include:: pages/bibliography/by_category/secondary.rst
 
 
 *****************

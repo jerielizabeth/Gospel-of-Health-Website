@@ -4,7 +4,7 @@
 .. slug: readme-4 
 -->
 
-[Introductory text explaining the section]
+For the dissertation, I brought together a number of techniques to preprocess the text for topic modeling. This included creating 
 
 Notebook Files
 ==============
