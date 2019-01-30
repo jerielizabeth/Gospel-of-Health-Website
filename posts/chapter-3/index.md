@@ -87,13 +87,13 @@ As a result, the interpretation of Daniel and Revelations found in Millerite cha
 |   [215](http://browser.dissertation.jeriwieringa.com/#/topic/216)  | Prophecy (Interpreting Dates and Time) | daniel vision week period end dan prophecy sanctuary date shall jerusalem christ chapter event seventy_weeks gabriel decree point angel messiah | 
 : **Table 3.1** Topics Corresponding to the Explication of Prophetic Texts. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-<iframe class="large" src="/interact/Prophecy-Full-Corpus.html"></iframe>
+<iframe class="large" src="/interact/Prophecy-Topics-Full-Corpus.html"></iframe>
 
-<figcaption>**Figure 3.3**: Proportion of Words per Year in Corpus Associated with Prophecy Topics. [View full-size visualization](/interact/Prophecy-Full-Corpus.html)</figcaption>
+<figcaption>**Figure 3.3**: Proportion of Words per Year in Corpus Associated with Prophecy Topics. [View full-size visualization](/interact/Prophecy-Topics-Full-Corpus.html)</figcaption>
 
-<iframe class="large" src="/interact/Prophecy-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/Prophecy-Topics-Denominational-Titles.html"></iframe>
 
-<figcaption>**Figure 3.4**: Proportion of Words per Year in Corpus Associated with Prophecy Topics. [View full-size visualization](/interact/Prophecy-Denominational-Titles.html)</figcaption>
+<figcaption>**Figure 3.4**: Proportion of Words per Year in Corpus Associated with Prophecy Topics. [View full-size visualization](/interact/Prophecy-Topics-Denominational-Titles.html)</figcaption>
 
 As indicated in the above charts, while descriptions of prophetic texts and the work of situating readers within the Seventh-day Adventist temporal imaginary has a continual presence within the periodical literature of the denomination, its prevalence relative to other concerns decreased over time. This is the case even when looking only at the central denominational titles, excluding the topical and regional titles that proliferated after the 1880s. This is not to say that SDA authors became less interested in or came to question the uses of these texts over time or the temporal imaginary they were used to construct. Full explications of the texts and republication of material from the 1850s can be seen well into the 20th century.^[cite examples] The decline is better understood as reflecting the embrace of the SDA system for explicating the texts of Daniel and Revelations and the development of a consensus around the position of the Adventist people in sacred time. While later authors may remind their readers of the standard interpretations, they were building on existing beliefs, rather than striving to convince their readers of a new sense of time, and so required less discursive space to communicate their message.
  
@@ -113,13 +113,13 @@ The topics I identified as relating to eschatology, or the study of end-times, f
 | [199](http://browser.dissertation.jeriwieringa.com/#/topic/200) |   Eschatology (Second Coming) |  shall lord jesus joy glory earth heaven let coming king praise heart saviour song soon love blessed glorious voice hope |
 : **Table 3.2** Topics Corresponding to Descriptions of the Second Coming. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-<iframe class="large" src="/interact/Eschatology-Full-Corpus.html"></iframe>
+<iframe class="large" src="/interact/Eschatology-Topics-Full-Corpus.html"></iframe>
 
-<figcaption>**Figure 3.5**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics. [View full-size visualization](/interact/Eschatology-Full-Corpus.html)</figcaption>
+<figcaption>**Figure 3.5**: Proportion of Words per Year in Entire Corpus Associated with Eschatology Topics. [View full-size visualization](/interact/Eschatology-Topics-Full-Corpus.html)</figcaption>
 
-<iframe class="large" src="/interact/Eschatology-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/Eschatology-Topics-Denominational-Titles.html"></iframe>
 
-<figcaption>**Figure 3.6**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics. [View full-size visualization](/interact/Eschatology-Denominational-Titles.html)</figcaption>
+<figcaption>**Figure 3.6**: Proportion of Words per Year in Denominational Titles Associated with Eschatology Topics. [View full-size visualization](/interact/Eschatology-Topics-Denominational-Titles.html)</figcaption>
 
 While the trajectory of these topics shows a slow decline over time in their prominence in the denominational literature, this again does not mean that these topics disappear from the denominational literature. During the first few decades of the denomination, these topics were key to establishing what would become standard Seventh-day Adventist understandings of the soul, the work of salvation, and the role of Adventists in the final events before the second coming. As these concepts became more ingrained in Adventist theology and became basic to their cultural imaginary, fewer words would have been needed to invoke these ideas for readers. 
 
@@ -143,13 +143,13 @@ The signs frequently mentioned by Adventist commentators range from concerns ove
 | [242](http://browser.dissertation.jeriwieringa.com/#/topic/243) | Signs of the Times (Enforcement of Sunday Laws) | sunday law case court judge state adventist seventh fine trial arrested county police city tennessee sabbath arrest persecution fined jail |
 : **Table 3.3** Topics Corresponding to Interpreting the Signs of the Times. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-<iframe class="large" src="/interact/Signs-of-the-Times-Full-Corpus.html"></iframe>
+<iframe class="large" src="/interact/Signs-of-the-Times-Topics-Full-Corpus.html"></iframe>
 
-<figcaption>**Figure 3.7**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics. [View full-size visualization](/interact/Signs-of-the-Times-Full-Corpus.html)</figcaption>
+<figcaption>**Figure 3.7**: Proportion of Words per Year in Entire Corpus Associated with Signs of the Times Topics. [View full-size visualization](/interact/Signs-of-the-Times-Topics-Full-Corpus.html)</figcaption>
 
-<iframe class="large" src="/interact/Signs-of-the-Times-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/Signs-of-the-Times-Topics-Denominational-Titles.html"></iframe>
 
-<figcaption>**Figure 3.8**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics. [View full-size visualization](/interact/Signs-of-the-Times-Denominational-Titles.html)</figcaption>
+<figcaption>**Figure 3.8**: Proportion of Words per Year in Denominational Titles Associated with Signs of the Times Topics. [View full-size visualization](/interact/Signs-of-the-Times-Topics-Denominational-Titles.html)</figcaption>
 
 Taken together, denominational concern with parsing events as signals on the road to the second coming remained generally consistent over the first seventy years of the denominations development. While authors called attention to different types of signs at different points in time, the assumption that believers could and should interpret world events to identify their current position in divine time. 
 
@@ -167,13 +167,13 @@ One particular topic of concerns, and one that developed as Seventh-day Adventis
 | [221](http://browser.dissertation.jeriwieringa.com/#/topic/222) | Church & State (Religion in Public Education) |  church state catholic religion protestant school religious public_school public roman government christian denomination country american baptist united mormon methodist presbyterian |
 : **Table 3.4** Topics Corresponding to Concerns Regarding Union of Church and State. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
-<iframe class="large" src="/interact/Church-and-State-Full-Corpus.html"></iframe>
+<iframe class="large" src="/interact/Church-and-State-Topics-Full-Corpus.html"></iframe>
 
-<figcaption>**Figure 3.9**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics. [View full-size visualization](/interact/Church-and-State-Full-Corpus.html)</figcaption>
+<figcaption>**Figure 3.9**: Proportion of Words per Year in Entire Corpus Associated with Church and State Topics. [View full-size visualization](/interact/Church-and-State-Topics-Full-Corpus.html)</figcaption>
 
-<iframe class="large" src="/interact/Church-and-State-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/Church-and-State-Topics-Denominational-Titles.html"></iframe>
 
-<figcaption>**Figure 3.10**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics. [View full-size visualization](/interact/Church-and-State-Denominational-Titles.html)</figcaption>
+<figcaption>**Figure 3.10**: Proportion of Words per Year in Denominational Titles Associated with Church and State Topics. [View full-size visualization](/interact/Church-and-State-Topics-Denominational-Titles.html)</figcaption>
 
 During this period of study, the most prominent movements to legislate behavior and religious practice occurred during the closing decades of the nineteenth century. Often in connection with temperance movements, Protestant religious leaders promoted what they claimed to be laws promoting general  morality and social norms regarding Sunday observance. While at times these laws were drafted granting exceptions for those who designated other days for religious worship, Seventh-day Adventist leaders and others decried them as attacks on freedom of religion and the principle of religious liberty. Any attempt to exercise state power in issues of religion was the beginning of the end, both of the nation and of time, for Adventist commentators. 
 
@@ -181,11 +181,11 @@ So important was this issue to the Adventist readership that it received a serie
 
 ## Tracing Periods of Expectation
 
-<iframe class="xlarge" src="/interact/All-End-Times-Categories-Full-Corpus.html"></iframe>
+<iframe class="large" src="/interact/All-End-Times-Categories-Full-Corpus.html"></iframe>
 
 <figcaption>**Figure 3.11**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics [View full-size visualization](/interact/All-End-Times-Categories-Full-Corpus.html)</figcaption>
 
-<iframe class="xlarge" src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
 
 <figcaption>**Figure 3.12**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics. [View full-size visualization](/interact/All-End-Times-Topics-Denominational-Titles.html)</figcaption>
 
