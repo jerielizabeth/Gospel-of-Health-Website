@@ -185,9 +185,9 @@ So important was this issue to the Adventist readership that it received a serie
 
 <figcaption>**Figure 3.11**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics [View full-size visualization](/interact/All-End-Times-Categories-Full-Corpus.html)</figcaption>
 
-<iframe class="large" src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
+<iframe class="large" src="/interact/All-End-Times-Categories-Denominational-Titles.html"></iframe>
 
-<figcaption>**Figure 3.12**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics. [View full-size visualization](/interact/All-End-Times-Topics-Denominational-Titles.html)</figcaption>
+<figcaption>**Figure 3.12**: Proportion of Words per Year in Denominational Titles Associated with All End Times Topics. [View full-size visualization](/interact/All-End-Times-Categories-Denominational-Titles.html)</figcaption>
 
 Examining the prevalence of all of these topics across the first seventy years of the denomination, two general features emerge. First, over time the prevalence of these topics decreases, as denominational members settle into the realization that the work of redemption was going to require much more time than had been anticipated by early church leaders in 1850. The reflects on the one hand a "naturalizing" of the discourses of end times, as the understanding of end times events and the role of the Seventh-day Adventist people in preparing for Jesus' second coming entered into the realm of the "known" or the imaginary of the denomination. On the other hand, the decline also reflects a lengthening of the temporal imaginary, as the work facing denomination members - to reach the world with the third angel's message - was a large undertaking that would require both time and significant effort on the part of members. [I think I have something from Bull here about how, with the death of EGW, the denomination settled in for the long haul (and turned more conservative).]
 
