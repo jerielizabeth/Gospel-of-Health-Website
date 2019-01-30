@@ -181,9 +181,9 @@ So important was this issue to the Adventist readership that it received a serie
 
 ## Tracing Periods of Expectation
 
-<iframe class="xlarge" src="/interact/All-End-Times-Topics-Full-Corpus.html"></iframe>
+<iframe class="xlarge" src="/interact/All-End-Times-Categories-Full-Corpus.html"></iframe>
 
-<figcaption>**Figure 3.11**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics [View full-size visualization](/interact/All-End-Times-Topics-Full-Corpus.html)</figcaption>
+<figcaption>**Figure 3.11**: Proportion of Words per Year in Entire Corpus Associated with All End Times Topics [View full-size visualization](/interact/All-End-Times-Categories-Full-Corpus.html)</figcaption>
 
 <iframe class="xlarge" src="/interact/All-End-Times-Topics-Denominational-Titles.html"></iframe>
 
@@ -199,7 +199,21 @@ Adventist theologian Jon Paulien has identified over twenty attempts to predict 
 
 [ transition ]
 
+Process:
++ Use the topic model / top categories per year to select documents for further analysis. 
++ Organize in sources -> belief -> [topic category] -> [year]
++ From these folder load documents into antconc
+
+[Domesticity framing - not sure where this goes yet]
+
+
 ### A Community of Belief
+
+The primary goal for Ellen and James White in the first six years their publishing work was to unite the Seventh-day Adventist community around the belief in the Sabbath, and the law more broadly, as the key that explained Jesus' delay since 1844 and provided the mark that distinguished true believers. 
+
+Around 1855, having established their common foundation in Saturday worship and still awaiting the second coming, the denominational literature began to shift toward a focus on the lived religious experience of these early members, both in the form encouragement of spiritual growth and in the sharing of stories through the writing and publication of personal testimonials.
+
+
 
 1849-1855
 focus on early rhetoric
@@ -208,11 +222,30 @@ most intense period of expectation, unsurprisingly as it is coming right after M
 gender here:
 - ellen white's visions are held as authoritative
 - publication in periodical declines for a time (part of effort to establish credibility)
-- 
+- gender of early corresponders seems to be of little significance - while men and women were likely to write about different things, both were published. Often women were particularly celebrated as examples of faith in the face of resistence from friends/family
+- theology was a largely masculine endeavor, but the visions of EGW served as the final "stamp" of their approval.
+
 
 ### A Community of Practice
 
-1856- 1888?
+By the mid 1860s, the emphases within the denomination shifted again, this time to practices that further distinguished Seventh-day Adventists from their Protestant neighbors. In 186?, Ellen White recorded her first visions on the topic of health, expanding the emphasis on the natural law that informed SDA organizations of time to the physical health of bodies. 
+
+The growing emphasis on health marks 
+
+Whereas during the early years of the denomination, very little was published about gender and the relative roles of men and women within the church, the growing emphasis on religious practices, particularly in relation to health and diet, brought issues of gender into the forefront of the denominational discourse. 
+
+The growing emphasis on domesticity has instructive ties to broader nineteenth-century shifts in conceptions of gender and its relationship to religion.
+
+Within Seventh-day Adventism, while the domestic space was increasingly stressed as the linchpin in the development (and salvation) of children and the overall spiritual health of the whole families, the vision of gender roles was closer to those ascribed to pre-nineteenth-century New England than those common to the nineteenth century. 
+
+Here conceptions of time are useful for explaining why early Seventh-day Adventists seemed somewhat immune to the surrounding shifts in conceptions of gender. Whereas their Protestant neighbors increasingly embraced notions of progress and upward (individual) mobility as the underlying narrative, Seventh-day Adventism, with their emphasis on the approaching second coming and general skepticism toward the state, provided a different standard against which both men and women measured success and negotiated their respective roles.
+
+
+[eschatology spikes in 1870 and 1874]
+
+<!-- 1860- 1888?
+
+
 more domestic period generally
 
 spiritual growth
@@ -221,9 +254,21 @@ health
 health picking up around 1866
 look into reports on the cause to see if there is a shift here.
 
-will need to address the 1870s spikes in this section
+will need to address the 1870s spikes in this section -->
 
 ### A Community of Action
+
+By the end of the nineteenth century, the focus of denominational leaders shifted outward toward missionary efforts and toward political concerns. 
+
+Missions for early SDA took many forms, not just preaching but distribution of tracts and periodical literature and involvement in health care.
+
+While preaching was a predominantly male activity in early SDA (EGW excepted), working as a colporteur or in health care were venues open to and encouraged for members of both sexes.
+
+[Salary for women employees as evidence of ongoing value of this labor]
+
+
+
+
 
 missions
 church and state
