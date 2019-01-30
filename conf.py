@@ -134,7 +134,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/overview/", "Project Introduction"),("http://browser.dissertation.jeriwieringa.com", "Model Browser"),
+        ("/overview/", "Project Introduction"),
+        (
+            (
+                ("/browser-about/", "About the Browser"),
+                ("http://browser.dissertation.jeriwieringa.com", "Interactive Browser"),
+            ),
+            "Model Browser"
+        ),
         (
             (
                 ("/essays/chapter-1/", "1. The Emergence of Seventh-day Adventism"),
@@ -219,6 +226,7 @@ THEME_COLOR = '#5670d4'
 POSTS = (
     ("posts/overview.md", "", "post.tmpl"),
     ("posts/about.md", "", "post.tmpl"),
+    ("posts/browser-about.md", "", "post.tmpl"),
     ("posts/chapter-1/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-1/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-1/*.html", "essays/", "post.tmpl"),
