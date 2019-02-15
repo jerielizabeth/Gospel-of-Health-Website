@@ -237,8 +237,8 @@ POSTS = (
     # ("posts/chapter-2/*.ipynb", "essays/", "post.tmpl"),
     ("posts/chapter-3/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-3/*.rst", "essays/", "post.tmpl"),
-    ("posts/chapter-3/*/*.md", "chapter-3/", "post.tmpl"),
-    ("posts/chapter-3/*/*.rst", "chapter-3/", "post.tmpl"), 
+    # ("posts/chapter-3/*/*.md", "chapter-3/", "post.tmpl"),
+    # ("posts/chapter-3/*/*.rst", "chapter-3/", "post.tmpl"), 
     # ("posts/chapter-3/*.html", "essays/", "post.tmpl"),
     # ("posts/chapter-3/*.ipynb", "essays/", "post.tmpl"),
     # ("posts/chapter-4/*.md", "essays/", "post.tmpl"),
@@ -1310,10 +1310,12 @@ EXTRA_HEAD_DATA = """
 <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
 <script src="//code.jquery.com/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script>
+<script type="text/javascript" src="/assets/js/bigfoot.js"></script>
+<script type="text/javascript">$.bigfoot();</script>
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+
 """
-# <script type="text/javascript" src="/assets/js/bigfoot.js"></script>
-# <script type="text/javascript">$.bigfoot();</script>
+
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
