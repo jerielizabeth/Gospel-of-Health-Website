@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2019-01-25T21:06:00Z</lastmod>
+  <lastmod>2019-02-15T21:02:00Z</lastmod>
  </url>
  <url>
   <loc>/author/</loc>
@@ -186,6 +186,10 @@
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
  <url>
+  <loc>/essays/chapter-3-draft/</loc>
+  <lastmod>2019-02-13T21:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>/essays/chapter-3/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
@@ -195,7 +199,7 @@
  </url>
  <url>
   <loc>/full-text/index-1.html</loc>
-  <lastmod>2019-01-25T21:06:00Z</lastmod>
+  <lastmod>2019-02-15T21:02:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/1-Gather/downloading/</loc>
@@ -460,6 +464,10 @@
  <url>
   <loc>/notebooks/7-Analyze/2018-10-18-top-docs-by-topic-year/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/7-Analyze/2019-01-17-yearly-top-labels/</loc>
+  <lastmod>2019-02-07T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/7-Analyze/aggregated-end-times-topics/</loc>

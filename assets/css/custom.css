@@ -37,9 +37,10 @@ body{
 
 figcaption {
     display: inline-block;
-    font-size: 1.4rem;
-    line-height: 1.5rem;
+    font-size: 1.6rem;
+    line-height: 2rem;
     padding-bottom: 3rem;
+    color: #777;
 }
 
 pre {
@@ -62,11 +63,11 @@ iframe {
 iframe.large {
     height: 1000px;
 }
-/* iframe.xlarge {
+iframe.xlarge {
     height: 1000px;
-    width: 1550px;
+    width: 1350px;
     margin-left: -150px;
-} */
+}
 
 h4 {
     font-size: 20px;
@@ -75,6 +76,14 @@ h4 {
 
 table {
     margin-bottom: 20px;
+    width: 100%;
+}
+table thead tr.header {
+    border-bottom: 3px solid black;
+}
+
+table tbody tr {
+    border-bottom: 1px solid black;
 }
 
 .embedded-left {
