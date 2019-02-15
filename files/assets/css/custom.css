@@ -1,7 +1,7 @@
 body{
     background-color: #F5F5F5;
     font-family: 'Source Sans Pro', Ariel, 'sans-serif';
-    font-size: 17px;
+    font-size: 18px;
 }
 
 .post-text  {
@@ -9,11 +9,10 @@ body{
     margin-left: 8%;
     margin-right: auto;
     padding:0 20px;
-    font-family: 'Source Sans Pro', Arial, 'sans-serif';
-    font-size: 17px;
+    /* font-family: 'Source Sans Pro', Arial, 'sans-serif';
+    font-size: 17px; */
     font-weight: 400;
     line-height: 1.8em;
-
 }
 
 .post-text p {
@@ -37,9 +36,10 @@ body{
 
 figcaption {
     display: inline-block;
-    font-size: 1.4rem;
-    line-height: 1.5rem;
+    font-size: 1.6rem;
+    line-height: 2rem;
     padding-bottom: 3rem;
+    color: #777;
 }
 
 pre {
@@ -62,11 +62,11 @@ iframe {
 iframe.large {
     height: 1000px;
 }
-/* iframe.xlarge {
+iframe.xlarge {
     height: 1000px;
-    width: 1550px;
+    width: 1350px;
     margin-left: -150px;
-} */
+}
 
 h4 {
     font-size: 20px;
@@ -75,6 +75,14 @@ h4 {
 
 table {
     margin-bottom: 20px;
+    width: 100%;
+}
+table thead tr.header {
+    border-bottom: 3px solid black;
+}
+
+table tbody tr {
+    border-bottom: 1px solid black;
 }
 
 .embedded-left {
@@ -103,4 +111,7 @@ article {
 }
 .entry-content .alert p:before {
     content: unset;
+}
+.entry-content .bigfoot-footnote__content {
+    content: unset; 
 }
