@@ -7604,3 +7604,6 @@ article {
 .entry-content .alert p:before {
     content: unset;
 }
+.entry-content .bigfoot-footnote__content {
+    content: unset; 
+}
