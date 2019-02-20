@@ -5,7 +5,7 @@
 .. tag: draft
  -->
 
-In their chapter on "Gender" Bull and Lockhart link "feminine" characteristics of the denomination to the shared experience of Seventh-day Adventists and women in finding themselves on the outside of American power structures (p. 259). The authors correctly note that "time" functioned as a defining characteristic for SDA members, who organized their lives around Saturday Sabbath-keeping and open the door for further study into the gender dynamics within the denomination in relation to their surrounding culture. Rather than describe "feminine" characteristics as a static constellation of features that were promoted within the denomination at various times, however, I center the organization of time rather than cultural exclusion, as a primary force in shaping the culture of the SDA, both in making space for more female leadership than was common in nineteenth-century religious movements and in contributing to a culture that appeared "feminine" because of its rejection of the prevailing, masculine, reorganization of time. See @Bull2006, pp. 259-265.
+In their chapter on "Gender" Bull and Lockhart link "feminine" characteristics of the denomination to the shared experience of Seventh-day Adventists and women in finding themselves on the outside of American power structures (p. 259). The authors correctly note that "time" functioned as a defining characteristic for SDA members, who organized their lives around Saturday Sabbath-keeping and open the door for further study into the gender dynamics within the denomination in relation to their surrounding culture. Rather than describe "feminine" characteristics as a static constellation of features that were promoted within the denomination at various times, however, I center the organization of time rather than cultural exclusion, as a primary force in shaping the culture of the SDA, both in making space for more female leadership than was common in nineteenth-century religious movements and in contributing to a culture that appeared "feminine" because of its rejection of the prevailing, masculine, reorganization of time.^[@Bull2006, pp. 259-265.]
 
 
 ## Time and the Religious Culture of Seventh-day Adventism
@@ -38,15 +38,17 @@ To find and explore these cycles requires examining the literature of the denomi
 [ transition ]
 Following a similar process, we can begin to explore our initial questions of time and gender within these periods of expectation. ...
 
+Setup:
++ focus on documents where domestic themes and questions of gender easy to access.  - health, spiritual growth, and missions, correspondence?
++ 
 Process:
-+ Use the topic model / top categories per year to select documents for further analysis. 
-+ Organize in sources -> belief -> [topic category] -> [year]
-+ From these folder load documents into antconc
++ 
+
 
 [Domesticity framing - not sure where this goes yet]
 The standard scholarly account of gender and religion in nineteenth-century America is tied to the development of domesticity and what has come to be described as the "cult of true womanhood."
 
-### A Community of Belief
+## A Community of Belief: 1849-1860
 
 The first 
 
@@ -67,7 +69,7 @@ gender here:
 - theology was a largely masculine endeavor, but the visions of EGW served as the final "stamp" of their approval.
 
 
-### A Community of Practice
+## A Community of Practice: 1861-1886
 
 By the mid 1860s, the emphases within the denomination shifted again, this time to practices that further distinguished Seventh-day Adventists from their Protestant neighbors. In 186?, Ellen White recorded her first visions on the topic of health, expanding the emphasis on the natural law that informed SDA organizations of time to the physical health of bodies. 
 
@@ -99,7 +101,7 @@ look into reports on the cause to see if there is a shift here.
 
 will need to address the 1870s spikes in this section -->
 
-### A Community of Action
+## A Community of Action: 1887-1920
 
 By the end of the nineteenth century, the focus of denominational leaders shifted outward toward missionary efforts and toward political concerns. 
 
