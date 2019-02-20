@@ -846,6 +846,9 @@ article {
 .entry-content .alert p:before {
     content: unset;
 }
-.entry-content .bigfoot-footnote__content {
+.entry-content .bigfoot-footnote__content p:before {
     content: unset; 
+}
+.entry-content .embedded-left.image p:before {
+    content:unset;
 }
