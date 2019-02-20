@@ -115,3 +115,6 @@ article {
 .entry-content .bigfoot-footnote__content p:before {
     content: unset; 
 }
+.entry-content .embedded-left.image p:before {
+    content:unset;
+}
