@@ -1,5 +1,5 @@
 ---
-title: Adapting the DfR Browser 
+title: About the DfR Browser 
 date: 2019-01-24 00:00:00 UTC
 slug: browser-about
 suppress-bibliography: true
