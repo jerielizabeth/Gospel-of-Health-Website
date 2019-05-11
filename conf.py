@@ -147,7 +147,7 @@ NAVIGATION_LINKS = {
                 ("/essays/chapter-1/", "1. The Emergence of Seventh-day Adventism"),
                 ("/essays/chapter-2/", "2. Constructing Computational Models"),
                 ("/essays/chapter-3/", "3. Anticipating the End of Time"),
-                # ("/essays/chapter-4/", "4. "),
+                ("/essays/chapter-4/", "4. The Gendered Work of Salvation"),
                 # ("/essays/chapter-5/", "5. "),
             ),
             "Essays"
@@ -227,6 +227,7 @@ POSTS = (
     ("posts/overview.md", "", "post.tmpl"),
     ("posts/about.md", "", "post.tmpl"),
     ("posts/browser-about.md", "", "post.tmpl"),
+    ("posts/conclusion.md", "", "post.tmpl"),
     ("posts/chapter-1/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-1/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-1/*.html", "essays/", "post.tmpl"),
@@ -241,8 +242,8 @@ POSTS = (
     # ("posts/chapter-3/*/*.rst", "chapter-3/", "post.tmpl"), 
     # ("posts/chapter-3/*.html", "essays/", "post.tmpl"),
     # ("posts/chapter-3/*.ipynb", "essays/", "post.tmpl"),
-    # ("posts/chapter-4/*.md", "essays/", "post.tmpl"),
-    # ("posts/chapter-4/*.rst", "essays/", "post.tmpl"),
+    ("posts/chapter-4/*.md", "essays/", "post.tmpl"),
+    ("posts/chapter-4/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-4/*.html", "essays/", "post.tmpl"),
     # ("posts/chapter-4/*.ipynb", "essays/", "post.tmpl"),
 )
@@ -1308,11 +1309,16 @@ INDEX_DISPLAY_POST_COUNT = 5
 # (translatable)
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 <script src="//code.jquery.com/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script>
 <script type="text/javascript" src="/assets/js/bigfoot.js"></script>
 <script type="text/javascript">$.bigfoot();</script>
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+# <script>
+#   function resizeIframe(obj) {
+#     obj.style.height = (obj.contentWindow.document.body.scrollHeight +15) + 'px';
+#   }
+# </script>
 
 """
 
