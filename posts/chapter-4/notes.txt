@@ -55,6 +55,119 @@ This framework also provides another way to understand Ellen White's writings re
 
 work, christian duty, 
 
+<!-- To find and explore these cycles requires examining the literature of the denomination at distance, an angle made possible through the use of computational text analysis. In this study, I use topic modeling to explore the seeming contradictions and changing emphases of the first seventy years of the denomination in light of two, I argue, related influences on Adventist thought: belief in the second coming and constructions of gender and ideas regarding female authority. First, I proceed from the assumption that early Adventist writers truly did believe themselves to be living at the edge of the second coming, that their experiences of the world were shaped by reference to a shortened temporal horizon or temporal imaginary. While their sense of time lengthens and the theological particulars change over time, the development of Seventh-day Adventism was critically shaped by their commitment to the Jesus' imminent second coming, a belief felt at different times more acutely that others. Second, I posit that those periods of heightened expectation trigger periods of disruption, or "religious anti-ritualism," when power structures and religious commitments are re-examined, both in the midst of expectation and in the realignments that follow as time persists.^[@Smith-Rosenberg1986, p. 140] Through these cycles, as I show in this case study, the "world" to be reached with the Adventist message slowly widens and the understanding of that message expands. Due in large part to Ellen White's continued leadership within the movement and through the upheavals brought on by periods of end-times expectation, at each turn and reformulation of the Adventist message, the religious life is gendered for both men and women in ways at odds with prevailing cultural norms. While these role are also circumscribed and influenced by broader cultural constructions, the result is a religious culture where women are consistently central to the work of salvation, and the overall culture, while patriarchal, also contains markable "feminine" characteristics. -->
+<!-- The first 
+
+The primary goal for Ellen and James White in the first six years their publishing work was to unite the Seventh-day Adventist community around the belief in the Sabbath, and the law more broadly, as the key that explained Jesus' delay since 1844 and provided the mark that distinguished true believers. 
+
+Around 1855, having established their common foundation in Saturday worship and still awaiting the second coming, the denominational literature began to shift toward a focus on the lived religious experience of these early members, both in the form encouragement of spiritual growth and in the sharing of stories through the writing and publication of personal testimonials.
 
 
 
+1849-1855
+focus on early rhetoric
+most intense period of expectation, unsurprisingly as it is coming right after Miller and as they are focused on a new belief (Sabbath) as the test for salvation.
+
+gender here:
+- ellen white's visions are held as authoritative
+- publication in periodical declines for a time (part of effort to establish credibility)
+- gender of early correspondents seems to be of little significance - while men and women were likely to write about different things, both were published. Often women were particularly celebrated as examples of faith in the face of resistence from friends/family
+- theology was a largely masculine endeavor, but the visions of EGW served as the final "stamp" of their approval. -->
+
+p. 127 
+
+
+"We returned from Vt. very anxious to see our child we had left in N.Y. We had been from him five weeks, and as we met him, and he clasped his little arms about my neck, and laid his head upon my shoulder, I saw that a great change had taken place in him. He was very feeble. My feelings cannot be described. It was difficult to suppress murmuring feelings. These thoughts would arise, I left him in the hands of God, and do I find him in this condition? My agonized feelings found relief in tears. Then I became more calm and reconciled to the will of God. We tried to look at the child's case in as favorable a light as possible. I was comforted with these words, The Lord "doth not afflict willingly, nor grieve the children of men."^[@White1860b, p. 132-3]
+
+By the mid 1860s, the emphases within the denomination shifted again, this time to practices that further distinguished Seventh-day Adventists from their Protestant neighbors. In 186?, Ellen White recorded her first visions on the topic of health, expanding the emphasis on the natural law that informed SDA organizations of time to the physical health of bodies. 
+
+The growing emphasis on health marks 
+
+Whereas during the early years of the denomination, very little was published about gender and the relative roles of men and women within the church, the growing emphasis on religious practices, particularly in relation to health and diet, brought issues of gender into the forefront of the denominational discourse. 
+
+The growing emphasis on domesticity has instructive ties to broader nineteenth-century shifts in conceptions of gender and its relationship to religion.
+
+Within Seventh-day Adventism, while the domestic space was increasingly stressed as the linchpin in the development (and salvation) of children and the overall spiritual health of the whole families, the vision of gender roles was closer to those ascribed to pre-nineteenth-century New England than those common to the nineteenth century. 
+
+<!-- 
+## Domesticity and womens' labor in nineteenth-century Protestantism
+
+- Beecher et al 
+- focus on female piety and role as moral exemplar
+- women within social justice traditions
+- SDA difference
+
+## Belief
+
+- EGW as prophet, but focus on theology to establish legitimacy
+- missions very small
+- moral witness of women (letters to editor)
+
+## Behavior
+
+- health begins at home
+- less public roles for women
+
+## State
+
+- unsure
+
+## World
+
+- missionary activity of women
+- emphasis on equal pay
+
+## Conclusion -->
+
+ <!-- Outline
+
+ 1. Initial publications and language of end times
+
+ 2. 1852-185? : Gradually growing sense of time lengthening. Growing emphasis in letters on resurrection, rather than second coming. Focus on religious behavior and the religious life as all encompassing. quotes about faith healings here.
+
+ 2b. 1860s: Rise of the health mission - focus on law and behavior extended to physical health. concern about spiritualism / great controversy (?) with the civil war.
+
+ 3. 1870s: decline in publishing of letters to editor, start of western missions - transition section to the more institutional church of chapter 5. spike in end times topics - discuss.
+
+
+Early Seventh-day Adventists . As discussed in Chapter 1, this group of Adventists brought together the distinctive teaching on the Sabbath, on the process of divine revelation, and 
+
+This chapter covers the first two major cycles of end-times expectation that shaped the development of the denomination and the culture that took shape in their wake: the initial expectation from 1849-1851 and a second wave of expectation in the early 1870s. 
+
+
+## *The Present Truth* and ...
+
+- quick sketch of the publications (PT and AR)
+
+- the primary concern was Sabbath keeping
+    + discussed in terms of the third angel's message
+    + this is the piece that was missing from the 1844 message, 
+- the primary audience was other Adventists
+    + notes from visits report engaging with adventists
+    + primary push back from other Adventist publications
+    + sense that once the chosen community is reached, the end will come.
+- the primary metaphor is the "bridegroom tarrying"
+    + topic 
+- the primary goal is a second coming.
+
+- part of internal struggle within the Adventists for meaning of the 1844 movement.
+
+## As time tarries on
+
+- quick sketch of RH and the progression of publishing.
+
+- While initial sense of time is urgent, the ongoing delay is reflected in the language of writers.
+- growing emphasis on conditional immortality and virtuous living
+    + addition of YI and an emphasis on reaching children and those not part of the Adventist movement.
+- group begins to set up infrastructure
+    + topic 20 as evidence.
+    + justified both for the integrity of their beliefs (no printing on Saturday) and for ongoing stability of denomination, which indicates a longer expectation of time.
+- Civil war: 
+    + proof of the iniquity of the US government, but ambiguous moment for the denomination
+    + expressed in theology:
+        + concerns regarding spiritualism, which predated war (topic 26)
+        + language of the Great Controversy (topic 33)
+- EGW health visions and the expansion of the virtuous living and commandment keeping emphasis to include physical health. 
+    + topics ?
+
+## 1870s ... -->
