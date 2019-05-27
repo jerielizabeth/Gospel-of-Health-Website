@@ -1314,11 +1314,6 @@ EXTRA_HEAD_DATA = """
 <script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script>
 <script type="text/javascript" src="/assets/js/bigfoot.js"></script>
 <script type="text/javascript">$.bigfoot();</script>
-# <script>
-#   function resizeIframe(obj) {
-#     obj.style.height = (obj.contentWindow.document.body.scrollHeight +15) + 'px';
-#   }
-# </script>
 
 """
 
