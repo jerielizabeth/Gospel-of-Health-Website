@@ -6,9 +6,87 @@ description:
 type: text
 ---
 
-[anecdote to start]
+# Introduction
 
-In this dissertation, I examine the unique religious culture that developed during the first eighty years of Seventh-day Adventism. I argue that cycles of end-times expectation and the religious leadership of Ellen White contributed to the formation of a religious culture marked by domestic authority, cooperative organization, and the activism of women, seen in the movement's religious understanding and pursuit of health. This culture provides an instructive counterpoint to accounts of nineteenth-century revivalism that stress the reinforcement of patriarchal structures and capitalistic economic structures in the aftermath of the revivals of the nineteenth century.
+<!-- 
+1. Motivating Framing -> historical and then modern/digital
+1b. Thesis (ha!)
+2. Project Rationale
+3. Historical Overview (with links to essays)
+4. Theoretical Frameworks (with links)
+    a. Time
+    b. Print culture / imagined community
+    c. 
+5. Project Structure
+ -->
+
+"The coming of Christ is nearer than when we first believed. The great controversy is nearing its end. The judgments of God are in the land. They speak in solemn warning, saying, "Be ye also ready; for in such an hour as ye think not the Son of man cometh." Matt. 24:44"^[@White1904, p. 252]
+
+## Framing
+
+What can computational methods help reveal about cultural developments in the nineteenth century? And what can the study of ninteenth-century religion reveal about the strengths and weaknesses of existing computational infrastructure and methods? These are the two interrelated  questions that motivated my studies for this dissertation, addressed together as part of an applied methodological study of the practical application of computational methods to the study of gender and religion. 
+
+It is my argument through this dissertation that work in the digital humanities should be characterized by such a bi-directional approach, where the  The argument of this dissertation is multifaceted. 
+
+Seventh-day Adventism's embrace of Ellen White as a prophetic leader, their reliance on print, and their relationship to time open up a range of historical questions that offer a unique opportunity to bring together algorithmic text analysis, religious history, gender theory, and data visualization. 
+
+These questions present the opportunity to reflect back on the methods of historical analysis and the possibilities (as well as the limitations) for using computational techniques as part of historical inquiry, as well as for exploring the American religion in the nineteenth century through the lenses of time and gender. 
+
+## Project Rationale
+
+
+
+---
+
+
+This project hinges on an examination of time: how shifting temporal frameworkd shaped the development of Seventh-day Adventism; how those temporal shifts can be captured across large colllections of text; and the challenge of using modern conceptions of time, which are built into the available comptuational algorithms, to examine the temporal frameworks of the past and their effects. In doing so, this interdisciplinary project works on multiple registers, utilizing computational methods in pursuit of a historical question, while also using those findings to reflect back on the methods themselves.
+
+"Time" was a central concern among the early Seventh-day Adventists. 
+- Miller and time
+As October 1844 passed, the understanding of time was reconsidered. Where previously their faith hinged on a particular date for the second coming, in the aftermath of the Great Disappointment they shifted their attention from predicting a date to reclaiming what they understood to be the Biblical organization of time. Identifying Sunday observance as an extra-Biblical intervention, and one they attributed to 
+- Reorganization of the week and the day
+    - link to anti-Catholicism
+- 
+<!-- The promise of the digital humanities is that computers make possible new types of research, new insights, new modes of engagement, and new possibilities for creating and disseminating research. Though not without its share of skeptics, overall these hopes and promises seem correct, as most areas of academic research are currently being transformed by the embrace of computer mediated research, whether that be in the form of statistical analysis and modeling, or through the adoption of publication and dissemination. 
+
+
+---
+[anecdote to start] -->
+
+On a [] November(? December) evening in 1844, the seventeen-year-old Ellen Harmon was caught up in a vision during a prayer meeting held at the home of [], in [], Maine. [summarize vision]. This vision reaffirmed her belief that her faith in William Miller and his teaching that the second coming would occur in 1844 were not wholy misplaced. Convinced of her duty to share her vision with others Millerites, she began to travel around New England ... 
+
+In [ ] she joined forces with James S. White, a Millerite lecturer and [Christian connexion?] who was convinced of the truth and divine origin of Ellen's prophecies
+
+Together, James and Ellen (Harmon) White came to occupy the [] center of 
+
+[], Seventh-day Adventism presents a unique opportunity for historical analysis. A young religious movement, the SDA came into being during the religious and cultural upheavals that marked the United Statues during the nineteenth century. While Ellen White, set apart by her visions, provided the charismatic center for the denomination, the movement formed around and was held together through the publication their extensive publishing efforts, including periodicals, tracts, books, hymnals, and domestic manuals. This extensive record, contributed to by multiple church leaders and lay readers, provides a rich source for exploring the development of religious culture during the nineteenth century.
+
+The abundance of the printed material also provides an opportunity for researching the application of computational tools to historical content and methods for using text mining in historical analysis. ...
+
+In this dissertation I address two interrelated questions, one methodological and one interpretative, as part of a larger critique of computational methods in historical research. Methodologically, I pose the question of how to approach and what we can learn from the large corpus of digitized periodicals that have been made available by the Seventh-day Adventist denomination. At the same time, I explore what that periodical literature can tell us about the development of the religious culture of Seventh-day Adventism and the ways beliefs about the second coming shaped their gendered work around salvation.
+
+The dissertation makes the argument that these two questions ought to be tackled together, that historians' use of computational methods should be driven by historical research questions, and that these methods are not neutral but shape the possiblies ...
+As such, this dissertation is an applied methodological study organized around a historical research question: how does time, and the expectation of the second coming, shape the development of the religious culture of Seventh-day Adventism? 
+
+In this dissertation, I examine the unique religious culture that developed during the first eighty years of Seventh-day Adventism. I argue that cycles of end-times expectation contributed to the formation of a religious culture marked by domestic authority, cooperative organization, and the activism of women, seen in the movement's religious understanding and pursuit of health and their understanding of salvation more broadly. This culture provides an instructive counterpoint to accounts of nineteenth-century revivalism that stress the reinforcement of patriarchal structures and capitalistic economic structures in the aftermath of the revivals of the nineteenth century.
+
+I argue that one of the greatest challenges to the application of computational methods to historical text is that of data quality. Although the amount of digital content has expanded greatly over the last few decades, the appropriateness of that data for more robust forms of computational analysis is questionable at best. This problem is particulary accute for historians working with content produced prior to the twentieth century, which follow different conventions of layout, punctuation, and spelling, which create significant challenges for processes of text recognition, and by extension natural language processing tasks such as part-of-speech tagging and entity recognition that are fundamental to text mining tasks.
+
+## Introducing Seventh-day Adventism
+
+Of the new religious movements that took root in the United States during the nineteenth century, Seventh-day Adventism occupies an unusual space between those movements which broke of Protestantism and those that were eventually reincorporated back into "orthodox" practice. Its early adherents found themselves having to distinguish themselves from "Mormons," Mesmerism, and Spiritualism, as popular opinion held these to be their most similar religious relatives.^[Ellen White goes to great lengths in her autobiography to establish that her visions are not the result of mesmeretic influence, particularly by accounting failed attempts from known mesmerists to influence her. For example: "Soon it was reported all around that the visions were the result of mesmerism, and many Adventists were ready to believe, and circulate the report. A physician, who was a celebrated mesmerizer, told me that my views were mesmerism, and that I was a very easy subject, and that he could mesmerize me and give me a vision. I told him that the Lord had shown me in vision that mesmerism was from the Devil, from the bottomless pit, and that it would soon go there, with those who continued to use it. I then gave him liberty to mesmerize me if he could. He tried for more than half an hour, resorting to different operations, and then gave it up. By faith in God I was able to resist his influence, so that it did not atfect me in the least." @White1851a, p. 6.] The denomination formally organized in 1863, but its roots reached further back to the revivalism of the first half of the century and William Miller's teachings about the approaching second coming in the 1840s. The many cultural strains that fed into Seventh-day Adventism gave shape to its particular cultural and theological commitments, as described in [Chapter 1](link://slug/chapter-1) of this dissertation.
+
+At the core of the denomination during its formative years was the husband and wife pair of James and Ellen White. Both had been followers of William Miller in the early 1840s &mdash; James as a itinerant lecturer, Ellen as a young convert &mdash; and met each other in the years after 1844 as Ellen began traveling to share her visions with the Millerite community in her home state of Maine.^[@White1860b, p. 38] 
+
+Surrounding them were a number of additional charismatic leaders who helped to shape the theology and culture of the developing denomination. [Bates, Andrews, Kellogg; additionally Loughborough, Uriah Smith, and others.] Many of these figures were, like the Whites, quite young as they took on leadership positions in the emerging community. 
+
+Seventh-day Adventism found its greatest early success among the westerwardly expanding population of New England. ... By the 1850s, James and Ellen White accepted the invitation of believers in Michigan to move the headquarters of the religious movement, and specifically their printing operation, to Battle Creek. ... From there, 
+
+Theologically, the denomination developed out from a central belief in Miller's interpretations
+
+Ellen White provided a unique stablizing presence to the denomination during her long life, providing ongoing leadership that was theologically grounded in her prophetic gifts. This study focuses on the period of her life and leadership in the denomination. Questions regarding the reliability of her testimony were not unheard-of during Ellen White's life and began to come to head in the years after her death. While denominational leaders argued for a nuanced understanding of her role and teachings, as inspired but unlike Scripture not infalible, her writings were much more in popular opinion. 
+
+One of the notable
 
 ## Women and the Revivals of the Early Republic 
 
@@ -25,6 +103,8 @@ For the women drawn to radical religion, their involvement took a variety of for
 [Briefly, Millerites.]
 
 ## Ellen and James White and the Pioneers of Seventh-day Adventism
+
+Ellen White ... Born in 1827, she was twelve when William Miller arrived in Portland to share his teachiings regarding the second coming in 1840 and nearly seventeen on the eve of the Great Disappointment of October 22, 1844. The daughter of a 
 
 The three central figures of early Seventh-day Adventism were the husband and wife pair of James and Ellen White, and Joseph Bates.
 
@@ -128,31 +208,33 @@ Can a knowledge claim be made based on showing a statistically significant relat
 
 ## The Structure of *A Gospel of Health and Salvation*
 
-Works of historical scholarship typically take a narrative format, telling the story of the past and showing how various cultural forces and human actors shaped the development of historical events. However, the development of computational technologies creates the space and the need to also consider the processes by which historical interpretation takes place. While this dissertation includes elements of historical story-telling, my primary focus is on methodology, specifically, the incorporation of computational models of text into the work of historical analysis. As such, this dissertation is an applied methodological study organized around a historical research question: how does time, and the expectation of the second coming, shape the development of the religious culture of Seventh-day Adventism? 
 
 
+In support of these goals, I structured this project differently than a traditional history dissertation. Works of historical scholarship typically take a narrative format, telling the story of the past and showing how various cultural forces and human actors shaped the development of historical events. In order to accommodate the variety of formats I deploy in making my arguments, including interactive visualizations, code examples, and narrative text, I chose to create the project as a website and to present a combination of analytical text, code examples, visualizations, and narrative elements. The HTML-based format also enables me to present the interlinked aspects of the methodological and interpretative questions I pursued. 
 
-At the core of the project is the browser of the topic model of the SDA literature, accessible at [http://browser.dissertation.jeriwieringa.com](http://browser.dissertation.jeriwieringa.com). This model, built using MALLET and visualized using Andrew Goldstone's [DfR Browser](https://agoldst.github.io/dfr-browser/), provides a window onto the language used across the corpus of Seventh-day Adventist texts that I assembled. The interface is organized according to my interpretation of those topics, as reflected in the topic labels. I discuss my interpretive process for creating the labels in [chapter two](link://slug/chapter-2#). 
+At the core of the project is the browser of the topic model of the SDA literature, accessible at [http://browser.dissertation.jeriwieringa.com](http://browser.dissertation.jeriwieringa.com). This model, built using MALLET and visualized using Andrew Goldstone's [DfR Browser](https://agoldst.github.io/dfr-browser/), provides a window onto the language used across the corpus of Seventh-day Adventist texts that I assembled. The interface is organized according to my interpretation of those topics, as reflected in the topic labels. I discuss my interpretive process for creating the labels in [chapter two](link://slug/chapter-2). 
 
-The work of selecting and preparing a corpus of text for topic modeling is one of interpretation, and sets the limits of possibility for the resulting computational model. As  Supporting the model are the dissertation [notebooks](link://slug/notebooks-overview), which document the technical work that went into creating and interpreting the topic model. 
-
-<!-- Finally, the dissertation includes four essays which provide context for the Seventh-day Adventist church and their periodical literature, document the methodological choices pursued in the dissertation and model two forms of interpretation using the data from the topic model. -->
-
-
-
+Setting the context for and interpreting the data from the model is the collection of four essays that make up the primary text of the dissertation. These essays build on one another and together offer the argument of the dissertation in a more traditional narrative form. 
 
 The first essay, "The Emergence of Seventh-day Adventism," provides an overview of Seventh-day Adventism in light of nineteenth-century religion and culture. This chapter is aimed at the reader who is unfamiliar with the context of American religious history or the particulars of the SDA, providing the necessary context for the interpretations forwarded throughout the rest of the dissertation. 
 
 The second essay, "Constructing Computational Models from Historical Texts," provides methodological statements for the sources, processing, modeling, and interpretive aspects of the project. This chapter is the most technical in content, while also providing the framing links tying the computational work to the historical interpretation. 
 
-The third chapter, "Anticipating the End of Time," establishes the problem of time within early Seventh-day Adventism and uses the topic model to identify four major cycles of end-times expectation during the first seventy years of the denomination's history. A case study on using topic models to identify and reveal overarching trends in a corpus for historical analysis, the chapter  Tracing the prominence of end-times related topics throughout the periodical literature of the denomination, the chapter bridges the computational model and more traditional historical research into the development of the particular religious culture of Seventh-day Adventism. 
+The third essay, "Anticipating the End of Time," establishes the problem of time within early Seventh-day Adventism and uses the topic model to identify three major cycles of end-times expectation during the first seventy years of the denomination's history. A case study on using topic models to identify and reveal overarching trends in a corpus for historical analysis, I trace the prevalence of "end-times" topics over time ^[The designation of a topic as relating to end-times is an interpretative claim on my part, as described in the methology section of the chapter.]
+
+The fourth and final essay, "The Gendered Work of Salvation," builds on the structure of time identified in chapter three to argue that the belief in the impending end of time had tangible consequences on the development of the religious culture of the denomination, that periods of hightened expectation kept the gender dynamics within the denomination more fluid than was seen among their religious neighbors.  
+
+As a project based on the computational analysis of text, a large portion of the intellectual and scholarly work the make up the dissertation exists in code. In considering the methodological processes around the use of computational analysis in history, this dissertation makes the claim, both explicitly and implicitly, that this "technical" work is of central importance to the scholarly object of the dissertation. It does this through the inclusion of code in a collection of [notebooks](link://slug/notebooks-overview), which document the technical work that went into creating and interpreting the topic model. 
+
+Where traditional methods of review rely on the use of clear and well formatted footnotes so that the trail of evidence can be retraced and evaluated, the review of computational driven work requires the use of documented and accessible code, so that both the execution of the techniques and the assumptions embedded within the technical choices, can be seen and evaluated. The code elements can be viewed through the dissertation's web interface, or can be downloaded and run either for verification or for adaptation to other projects. The work of making the technical elements of the dissertation visible and extensible is key to establishing processes for validating computationally-based scholarship in the humanities, an extension of the push for reproducible research in the sciences. 
+
+The final element of the dissertation is the [process statement](link://slug/about), which provides documentation for the different components of the projects, including the final website, the model browser, and the dissertation sources. Per the requirements of the Department of History and Art History at George Mason University, I provide an account of the methods and technologies used in the creation of the dissertation in the process statement, as well as offer commentary on computational work in history. Together, all of these aspects of the project constitute the body of work that is *A Gospel of Health and Salvation*. 
+
+While the dissertation itself is the composite of these different computational and interpretive elements, readers do not need to be experts in all aspects of the project in order to read and evaluate the dissertation. The essays outline my approach and my intellectual decision in structuring and carrying out the computational analysis, providing an overview of the work without requiring the reader to directly engage the computational aspects of the work. Including the code enables readers to evaluate how well I have implemented those ideas and are included as part of a commitment to reproducible research. Although the emphasis on code and computation is new, the concept of making historical research verifiable is not, as historians have long incorporated methods for verification in their academic writing through the mechanism of footnotes.^[@Hitchcock2015, 12.] By releasing the code and describing the processes used, I am providing the information necessary for that work to be recognized and critically engaged, and in so doing make it part of the scholarly conversation. At the same time, I wrote the essays for a the non-technical reader, describing the logic of the computational decisions that ground my interpretative moves.
+
+The format of the dissertation constitutes part of the structural argument of the dissertation, as the information communicated relies on the web-based medium and as such, cannot be packaged into a traditional PDF document. In order to comply with institutional format requirements, I packaged select aspects of the dissertation into a [PDF document]() for submission to the Mason institutional repository and to ProQuest. This document includes abstracts of the different component of the project and serves as the "dissertation object."^[Further details about the components of the project, how they are archived, and how they can be recreated, are published in the project [Process Statement](link://slug/about).]
+
+The format of the dissertation also makes possible reader engagement with the project. All of the code elements of the dissertation, including the website, notebooks, and code library, are available on my personal GitHub repository. This platform for "social coding" enables readers to copy and modify their own versions of the code ("fork"), as well as to offer comments or code additions. 
 
 
-The forth and final chapter, "," offers a second case study for the use of topic modeling and textual analysis for historical research, this time at the level of close reading. Where chapter 3 focused on broad patterns, chapter four explore in detail the gender dynamics in two prominent areas of Christian labor: home and missions.
-
-As a project based on the computational analysis of text, a large portion of the intellectual and scholarly work the make up the dissertation exists in code. In considering the methodological processes around the use of computational analysis in history, this dissertation makes the claim, both explicitly and implicitly, that this "technical" work is of central importance to the scholarly object of the dissertation. Where traditional methods of review rely on the use of clear and well formatted footnotes so that the trail of evidence can be retraced and evaluated, the review of computational driven work requires the use of documented and accessible code, so that both the execution of the techniques and the assumptions embedded within the technical choices, can be seen and evaluated. The code elements can be viewed through the dissertation's web interface, or can be downloaded and run either for verification or for adaptation to other projects. The work of making the technical elements of the dissertation visible and extensible is key to establishing processes for validating computationally-based scholarship in the humanities, an extension of the push for reproducible research in the sciences. 
-
-The final elements of the dissertation provide documentation for the different components of the projects, including the final website, the model browser, and the dissertation sources. Per the requirements of the Department of History and Art History at George Mason University, the project includes a [process statement](link://slug/about), which provides an account of the methods and technologies used in the creation of the dissertation. Traditional documentation elements, such as bibliography and acknowledgments, are also included in the ["About" section](). Together, all of these aspects of the project constitute the body of work that is *A Gospel of Health and Salvation*. 
-
-While the dissertation itself is the composite of these different computational and interpretive elements, readers do not need to be experts in all aspects of the project in order to read and evaluate the dissertation. The essays outline my approach and my intellectual decision in structuring and carrying out the computational analysis, providing an overview of the work without requiring the reader to directly engage the computational aspects of the work. Including the code enables readers to evaluate how well I have implemented those ideas and are included as part of a commitment to reproducible research. The concept of reproducible research, while increasingly prevalent in the sciences, is less common in the humanities. It refers to the goal of sufficiently describing ones computational methods and process so that others can reproduce the results when given the same data.^[@Brunsdon2016 gives a useful overview while making the case for reproducible research in geography. See pages 687-8. The *WhatEvery1Says* project at the University of California, Santa Barbara, is also tackling questions of reproducible research in the Digital Humanities. See @WE1S.] Although the emphasis on code and computation is new, the concept of making historical research verifiable is not, as historians have long incorporated methods for verification in their academic writing through the mechanism of footnotes.^[@Hitchcock2015, 12.] By releasing the code and describing the processes used, scholars who rely on computational methods provide the information necessary for that work to be recognized and critically engaged, and in so doing make it part of the scholarly conversation.
-
+<div style="page-break-after: always;"></div>

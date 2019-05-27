@@ -5,6 +5,8 @@ slug: browser-about
 suppress-bibliography: true
 ---
 
+# About the DfR Browser 
+
 At the core of the dissertation is a 250 topic model of the periodical literature of the denomination. As I discuss throughout the dissertation, topic modeling is a form of unsupervised machine learning that enables the exploration of a corpus of literature based on the co-occurrence of words, clustered into units called "topics." While for the computer, the topics represent the likelihood of word occurrences in different contexts, for the human reader the topic can be used to track different themes or discourses within a corpus. And although the model tends to be unstable, in that as a probabilistic representation of the words in a corpus, it will represent the text differently each time the algorithm is run, it provides a useful abstraction of a corpus of literature, a possible interpretation that highlights different features of the collection of texts.
 
 I created the model using a number of computational tools, including the Python library Gensim and MALLET through the command line interface. Topic models are informationally dense representations of a corpus, and as such are most useful for corpus exploration when coupled with some sort of interactive visualization. Such visualizations enable the reader to focus on in particular aspects of the corpus, pointing to further areas for investigation. 
@@ -44,3 +46,5 @@ My dissertation project has also brought to light some additional features that 
 A number of these changes push the interface beyond what can be achieved within a static site, as the memory load on the browser becomes difficult to support. As such, it is also worth considering an adaptation of the browser that relies on a database for serving the corpus and model data. This modification would remove some of the advantages of the static-site approach, but would make the browser a more robust tool for research. 
 
 Leveraging a topic model for historical research is a multifaceted problem, extending from the work of the selection and preparation of a set of literature to the interfaces for interpreting and utilizing the resulting data. While experimental work in the digital humanities has focused largely on the process of running the topic modeling algorithm on a set of documents, there is significant research to be done on the pre-processing and post-processing steps that make the running of the algorithm possible and legible. As both of these greatly shape the results of the computational analysis and its usefulness in historical research, they are vital areas for further scholarly attention from scholars working at the intersection of computation and the humanities.
+
+<div style="page-break-after: always;"></div>
