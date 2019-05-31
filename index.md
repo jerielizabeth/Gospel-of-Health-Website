@@ -1,6 +1,6 @@
 <!-- 
 .. title: A Gospel of Health and Salvation
-.. slug: home
+.. slug: index
 .. date: 2017-08-07
 .. description: 
 .. type: text
