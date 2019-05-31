@@ -12,12 +12,12 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
 <link rel="canonical" href=".">
 <!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="../../../assets/css/bigfoot-number.css">
-<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-<meta name="author" content="Jeri E. Wieringa">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><meta name="author" content="Jeri E. Wieringa">
 <meta property="og:site_name" content="A Gospel of Health and Salvation">
 <meta property="og:title" content="Export Topic Labels">
 <meta property="og:url" content="/notebooks/6-Evaluate/export-topic-labels/">
-<meta property="og:description" content="In [10]:
+<meta property="og:description" content="In [1]:
 
     
 import os
@@ -33,12 +33,13 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 
 
-In [11]:
+In [2]:
 
     
-scope = ['https://spreadsheets.google.com/feeds']">
+scope = ['https://spreadsheets.google.com/feeds']
+s">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2019-01-23T22:44:19-08:00">
+<meta property="article:published_time" content="2019-04-01T21:03:58-07:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -63,7 +64,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="../../../overview/">Project Introduction</a>
+<a href="../../../introduction/">Project Introduction</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Model Browser <b class="caret"></b></a>
@@ -87,6 +88,9 @@ scope = ['https://spreadsheets.google.com/feeds']">
                     </li>
 <li>
 <a href="../../../essays/chapter-3/">3. Anticipating the End of Time</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-4/">4. The Gendered Work of Salvation</a>
             </li>
 </ul>
 </li>
@@ -132,7 +136,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 <a href="../../../bibliography/biblio-main">Bibliography</a>
                     </li>
 <li>
-<a href="../../../about/">Project Documentation</a>
+<a href="../../../about/">Process Statement</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -167,7 +171,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [10]:</div>
+<div class="prompt input_prompt">In [1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
@@ -183,7 +187,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [11]:</div>
+<div class="prompt input_prompt">In [2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">scope</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'https://spreadsheets.google.com/feeds'</span><span class="p">]</span>
@@ -198,7 +202,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [12]:</div>
+<div class="prompt input_prompt">In [3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">gc</span> <span class="o">=</span> <span class="n">gspread</span><span class="o">.</span><span class="n">authorize</span><span class="p">(</span><span class="n">credentials</span><span class="p">)</span>
@@ -211,7 +215,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [13]:</div>
+<div class="prompt input_prompt">In [4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">dts</span> <span class="o">=</span> <span class="n">gc</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="s1">'Topic Labels'</span><span class="p">)</span><span class="o">.</span><span class="n">sheet1</span>
@@ -225,7 +229,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [14]:</div>
+<div class="prompt input_prompt">In [5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">frame</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
@@ -240,110 +244,110 @@ scope = ['https://spreadsheets.google.com/feeds']">
 
 
 <div class="output_area">
-<div class="prompt output_prompt">Out[14]:</div>
+<div class="prompt output_prompt">Out[5]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
 <table border="1" class="dataframe">
 <thead><tr style="text-align: right;">
 <th></th>
-      <th></th>
       <th>browser_topic_id</th>
       <th>mallet_topic_id</th>
       <th>topic_category</th>
       <th>topic_label</th>
+      <th>topic_prevalence_overall</th>
       <th>topic_words</th>
     </tr></thead>
 <tbody>
 <tr>
 <th>0</th>
-      <td>0.00621</td>
-      <td>139</td>
-      <td>138</td>
-      <td>advertisements</td>
-      <td>Advertisements</td>
-      <td>subscription sent new sign address yearly pape...</td>
+      <td>1</td>
+      <td>0</td>
+      <td>missions</td>
+      <td>Missions (Canvassing Work)</td>
+      <td>0.02981</td>
+      <td>book canvasser order canvassing brother week s...</td>
     </tr>
 <tr>
 <th>1</th>
-      <td>0.02093</td>
-      <td>208</td>
-      <td>207</td>
-      <td>advertisements</td>
-      <td>Advertisements (Bible Readers)</td>
-      <td>book page price cent cloth bible contains boun...</td>
+      <td>2</td>
+      <td>1</td>
+      <td>nutrition</td>
+      <td>Nutrition (Recipes)</td>
+      <td>0.00927</td>
+      <td>cup water bread egg add cream salt flour milk ...</td>
     </tr>
 <tr>
 <th>2</th>
-      <td>0.00848</td>
-      <td>79</td>
-      <td>78</td>
-      <td>advertisments</td>
-      <td>Advertisements (Goods and Services)</td>
-      <td>send free price new write good_health address ...</td>
+      <td>3</td>
+      <td>2</td>
+      <td>scan_errors</td>
+      <td>Scan Errors (OCR Errors)</td>
+      <td>0.03660</td>
+      <td>ing tion ment sign ness com ter tions great en...</td>
     </tr>
 <tr>
 <th>3</th>
-      <td>0.01009</td>
-      <td>69</td>
-      <td>68</td>
-      <td>advertisments</td>
-      <td>Advertisements (Health)</td>
-      <td>health journal temperance hygiene kellogg dise...</td>
+      <td>4</td>
+      <td>3</td>
+      <td>social_commentary</td>
+      <td>Social Commentary (Suffering and Death from Vi...</td>
+      <td>0.03036</td>
+      <td>death man blood men like life hand victim poor...</td>
     </tr>
 <tr>
 <th>4</th>
-      <td>0.00193</td>
-      <td>187</td>
-      <td>186</td>
-      <td>advertisements</td>
-      <td>Advertisements (Life Boat)</td>
-      <td>hinsdale the_life_boat address ill life home b...</td>
+      <td>5</td>
+      <td>4</td>
+      <td>spiritual_growth</td>
+      <td>Spiritual Growth (Christian Life - Perseverance)</td>
+      <td>0.02033</td>
+      <td>shall lord unto faith thing hope trial christ ...</td>
     </tr>
 <tr>
 <th>5</th>
-      <td>0.00785</td>
-      <td>204</td>
-      <td>203</td>
-      <td>advertisements</td>
-      <td>Advertisements (Notices and Appointments)</td>
-      <td>address wanted cent sale good oil sanitarium g...</td>
+      <td>6</td>
+      <td>5</td>
+      <td>sermons</td>
+      <td>Sermons (Religious Practice)</td>
+      <td>0.10352</td>
+      <td>thing know think way man want let doe right go...</td>
     </tr>
 <tr>
 <th>6</th>
-      <td>0.00445</td>
-      <td>121</td>
-      <td>120</td>
-      <td>advertisements</td>
-      <td>Advertisements (Pacific Press Books)</td>
-      <td>price new cent york page bond address oakland ...</td>
+      <td>7</td>
+      <td>6</td>
+      <td>bible</td>
+      <td>Bible (Stories from Daniel and Babylonian Capt...</td>
+      <td>0.01276</td>
+      <td>king daniel babylon jerusalem lord kingdom neb...</td>
     </tr>
 <tr>
 <th>7</th>
-      <td>0.02759</td>
-      <td>220</td>
-      <td>219</td>
-      <td>advertisements</td>
-      <td>Advertisements (Periodicals)</td>
-      <td>copy cent number magazine order price subscrip...</td>
+      <td>8</td>
+      <td>7</td>
+      <td>scan_errors</td>
+      <td>Scan Errors (OCR Errors 2)</td>
+      <td>0.04291</td>
+      <td>ing lie review end herald ill tie ile tho good...</td>
     </tr>
 <tr>
 <th>8</th>
-      <td>0.00305</td>
-      <td>158</td>
-      <td>157</td>
-      <td>advertisements</td>
-      <td>Advertisements (Premium Bibles)</td>
-      <td>bible morocco red new circuit subscription siz...</td>
+      <td>9</td>
+      <td>8</td>
+      <td>spiritual_growth</td>
+      <td>Spiritual Growth (Christian Behavior)</td>
+      <td>0.01902</td>
+      <td>prayer lord heart spirit blessing let church m...</td>
     </tr>
 <tr>
 <th>9</th>
-      <td>0.01327</td>
-      <td>107</td>
-      <td>106</td>
-      <td>advertisements</td>
-      <td>Advertisements (Printing)</td>
-      <td>publishing book office house press printing as...</td>
+      <td>10</td>
+      <td>9</td>
+      <td>reports_on_the_cause</td>
+      <td>Reports on the Cause ("Progress of the Cause")</td>
+      <td>0.01000</td>
+      <td>meeting church brother lord sabbath truth held...</td>
     </tr>
 </tbody>
 </table>
@@ -358,7 +362,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [15]:</div>
+<div class="prompt input_prompt">In [6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">topic2id</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">frame</span><span class="o">.</span><span class="n">topic_label</span><span class="o">.</span><span class="n">values</span><span class="p">,</span><span class="n">index</span><span class="o">=</span><span class="n">frame</span><span class="o">.</span><span class="n">browser_topic_id</span><span class="p">)</span>
@@ -371,7 +375,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [16]:</div>
+<div class="prompt input_prompt">In [7]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">dict_view</span> <span class="o">=</span> <span class="p">{}</span>
@@ -386,7 +390,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [17]:</div>
+<div class="prompt input_prompt">In [8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
@@ -399,7 +403,7 @@ scope = ['https://spreadsheets.google.com/feeds']">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [18]:</div>
+<div class="prompt input_prompt">In [9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">json</span><span class="o">.</span><span class="n">dumps</span><span class="p">(</span><span class="n">dict_view</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">sort_keys</span><span class="o">=</span><span class="kc">True</span><span class="p">))</span>
@@ -418,97 +422,97 @@ scope = ['https://spreadsheets.google.com/feeds']">
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>{
   "1": "Missions (Canvassing Work)",
-  "10": "Report of Meetings",
+  "10": "Reports on the Cause (\"Progress of the Cause\")",
   "100": "Theology (Christ and salvation)",
   "101": "Signs of the Times (Astronomy)",
-  "102": "Committee Reports",
-  "103": "Testimonies and Letters",
+  "102": "Conference Proceedings (Discussions)",
+  "103": "Piety (Testimonies and Letters)",
   "104": "Theology (Sabbath Keeping)",
-  "105": "Educational Theory",
-  "106": "Reports (SDA Institutions)",
+  "105": "Education (Educational Theory)",
+  "106": "Meeting Reports (SDA Institutions)",
   "107": "Advertisements (Printing)",
-  "108": "Sanitariums (West Coast)",
+  "108": "Health (Sanitariums - West Coast)",
   "109": "Advertisements (Subscriptions)",
   "11": "Theology (The Soul)",
-  "110": "General Interest (Labor Organization and Disputes)",
-  "111": "Prison Ministries",
-  "112": "Moralistic Stories",
-  "113": "Sea and Oceans",
-  "114": "SDA Colleges",
+  "110": "Social Commentary (Labor Organization and Disputes)",
+  "111": "Missions (Prison Ministries)",
+  "112": "Stories (Moralistic Stories)",
+  "113": "Piety (Ocean as metaphor for life) ",
+  "114": "Education (SDA Colleges)",
   "115": "Theology (Sin)",
   "116": "Stories (Health-related)",
-  "117": "Conference Reports",
+  "117": "Reports on the Cause (Field Reports)",
   "118": "Eschatology (Parable of Bridegroom and Tarrying Time)",
-  "119": "Conference Reports",
+  "119": "Missions (News and Announcements)",
   "12": "Stories (Children's)",
-  "120": "Science",
+  "120": "Apologetics (Geology and Evolution)",
   "121": "Advertisements (Pacific Press Books)",
   "122": "General Interest (Population and Statistics)",
   "123": "Nutrition (Grains)",
   "124": "Organization (Statistical Summaries)",
-  "125": "Miscellaneous (Place names)",
-  "126": "Reports",
-  "127": "New Testament Lessons",
+  "125": "Organization (Place names)",
+  "126": "Reports on the Cause (History of SDA Work)",
+  "127": "Bible (New Testament Lessons)",
   "128": "Missions",
-  "129": "Committee Reports",
+  "129": "Conference Proceedings (Resolutions and Summaries)",
   "13": "Spiritual Growth (Christian Virtue - Development)",
-  "130": "Religious Practices",
+  "130": "Apologetics (Other Religions)",
   "131": "Prophecy (Figures of Revelation)",
   "132": "Theology (Sabbath Keeping)",
-  "133": "Conference Reports (PUR)",
+  "133": "Organization (Funds and Figures - Pacific Union)",
   "134": "Advertisements (SDA Publications - early)",
   "135": "History (Sunday Observance)",
-  "136": "Teaching Plans",
+  "136": "Education (Teaching Plans)",
   "137": "Health (Rest)",
   "138": "Church &amp; State (Religious Amendments and National Reform Association)",
   "139": "Advertisements",
-  "14": "Christian Narrative",
-  "140": "Sabbath Lessons",
+  "14": "Sermons (Salvation Narrative)",
+  "140": "Education (Sabbath Lessons)",
   "141": "Theology (the Fall)",
   "142": "Signs of the Times (Crime and Immorality)",
   "143": "Missions (South America)",
   "144": "Health (Ventilation)",
   "145": "Organization (Church Finances)",
   "146": "Eschatology (Sanctuary Doctrine)",
-  "147": "Conference Reports (Lake Union)",
+  "147": "Organization (Funds and Figures - Lake Union)",
   "148": "Nature (Animals)",
-  "149": "Buildings",
-  "15": "Report of Meetings",
-  "150": "Commerce and Money",
-  "151": "Obituaries",
-  "152": "Obituaries",
+  "149": "Reports on the Cause (Building Projects)",
+  "15": "Reports on the Cause (News and Field Reports)",
+  "150": "Social Commentary (Commerce and Money)",
+  "151": "Obituaries (Death Notices)",
+  "152": "Obituaries (Death Notices)",
   "153": "Theology (Prayer)",
   "154": "Church &amp; State (Arguments against Sabbath Laws)",
   "155": "Advertisements (Sanitariums)",
   "156": "Theology (the Sabbath Question)",
-  "157": "Literature",
+  "157": "Advertisements (Books and Literature)",
   "158": "Advertisements (Premium Bibles)",
   "159": "Signs of the Times (\"Catholic Threat\")",
   "16": "Politics (Religious Freedom)",
-  "160": "Baptism and Sacraments",
+  "160": "Theology (Baptism and Sacraments)",
   "161": "Health (Habits)",
   "162": "Theology (Seventh-day Sabbath)",
-  "163": "Lists of Donors",
+  "163": "Organization (Lists of Donors and People)",
   "164": "Signs of the Times (War)",
-  "165": "Moralistic Story (Family)",
+  "165": "Stories (Moralistic Story - Family)",
   "166": "Stories (Theological)",
   "167": "Church &amp; State (Sabbath Laws)",
-  "168": "Ten Commandments",
-  "169": "Temperance",
-  "17": "Poetry",
+  "168": "Theology (Ten Commandments)",
+  "169": "Social Commentary (Temperance)",
+  "17": "Piety (Poetry)",
   "170": "Spiritual Growth (Overcoming Temptation and Sin)",
   "171": "Eschatology (Events of the Last Days)",
   "172": "Spiritual Growth (Calls for Charity)",
   "173": "History (History in the Light of Prophecy)",
-  "174": "Conference Meeting Reports",
+  "174": "Organization (Notices of Meetings and Appointments)",
   "175": "Nutrition (Foods and Recipes)",
-  "176": "Conference Reports (CUV)",
+  "176": "Organization (Columbia Union - Ohio - Activity Reports)",
   "177": "Missions (Africa)",
-  "178": "Preaching and Ministry",
-  "179": "Bible Quotations",
+  "178": "Religious Commentary (Preaching and Ministry)",
+  "179": "Bible (Quotations)",
   "18": "General Interest (News and Notes)",
   "180": "Signs of the Times (Global Unrest)",
-  "181": "Testimonies (EGW)",
+  "181": "Social Commentary (Testimonies and Moral Commentary - largely EGW)",
   "182": "General Interest (Natural Disasters)",
   "183": "Eschatology (Description of Second Coming)",
   "184": "Health (Alcohol and Disease)",
@@ -516,37 +520,37 @@ scope = ['https://spreadsheets.google.com/feeds']">
   "186": "Nature (Flora and Fauna)",
   "187": "Advertisements (Life Boat)",
   "188": "Health (Regular Medicine)",
-  "189": "New Testament (Apostles)",
+  "189": "Bible (New Testament - Apostles)",
   "19": "Education (Medical Training Programs)",
   "190": "Theology (Righteousness by Faith)",
-  "191": "Old Testament (Prophets)",
-  "192": "Ten Commandments (Quoted)",
-  "193": "Trains",
-  "194": "Letters from Children",
+  "191": "Bible (Old Testament - Prophets)",
+  "192": "Bible (Ten Commandments - Quoted)",
+  "193": "Transportation (Trains)",
+  "194": "Correspondence (Letters from Children)",
   "195": "Nutrition (Food - Meat)",
-  "196": "Religious Comfort",
+  "196": "Piety (Religious Comfort)",
   "197": "Theology (Holy Spirit)",
   "198": "Spiritual Growth (Christian Virtue)",
-  "199": "Missions Work",
+  "199": "Missions (Missions Work)",
   "2": "Nutrition (Recipes)",
   "20": "Advertisements (Transportation)",
   "200": "Eschatology (Second Coming)",
-  "201": "Conference Reports (IR)",
-  "202": "Jesus' Healing Ministries",
-  "203": "Farming and Agriculture",
+  "201": "Community News (Indiana)",
+  "202": "Stories (Religious Stories)",
+  "203": "Education (Farming and Agriculture)",
   "204": "Advertisements (Notices and Appointments)",
   "205": "Health (Eyes)",
-  "206": "Sabbath School",
-  "207": "Parables (Sower)",
+  "206": "Missions (Sabbath School and Home Department)",
+  "207": "Bible (Parables - Sower)",
   "208": "Advertisements (Bible Readers)",
-  "209": "Crafting Instructions",
+  "209": "Education (Crafting Instructions)",
   "21": "Organization (Church Organization)",
-  "210": "Camp Meeting Reports",
+  "210": "Reports on the Cause (\"Progress of the Cause\"  - Reports on Local Reception)",
   "211": "Church &amp; State (Religion Legislation and the Courts)",
   "212": "History (Reformation)",
-  "213": "Conference Reports (Michigan)",
-  "214": "Rebuttals and Responses",
-  "215": "Death",
+  "213": "Organization (Report of Offerings)",
+  "214": "Apologetics (Rebuttals and Responses)",
+  "215": "Religious Commentary (Death)",
   "216": "Prophecy (Interpreting Dates and Time)",
   "217": "Health (Digestive System)",
   "218": "Missions (India)",
@@ -555,117 +559,117 @@ scope = ['https://spreadsheets.google.com/feeds']">
   "220": "Advertisements (Periodicals)",
   "221": "Missions (Home Missions)",
   "222": "Church &amp; State (Religion in Public Education)",
-  "223": "Bible Quotations",
-  "224": "Conference Reports (Lake Union)",
+  "223": "Bible (Quotations)",
+  "224": "Community News (Lake Union &amp; Tithe Reports)",
   "225": "Stories (Missionary stories)",
   "226": "Education",
-  "227": "Conference Reports (SUW)",
+  "227": "Community News (Southern Union)",
   "228": "Missions (Foreign Missions)",
-  "229": "Tract Society",
-  "23": "Law and the New Testament",
+  "229": "Meeting Reports (Tract and Missionary Societies)",
+  "23": "Theology (Law and the New Testament)",
   "230": "Spiritual Growth (Christian Life)",
-  "231": "Committee Resolutions",
+  "231": "Conference Proceedings (Resolutions Adopted)",
   "232": "Spiritual Growth (Christian Virtue)",
-  "233": "Conference Reports (Lake Union)",
-  "234": "Meeting Reports",
+  "233": "Community News (Lake Union)",
+  "234": "Reports on the Cause (\"Progress of the Cause\" - Report of Labor)",
   "235": "Theology (Christology)",
   "236": "Stories (Animals)",
-  "237": "Publishing",
+  "237": "Periodicals (Publication Information - Michgan Titles)",
   "238": "Spiritual Growth (Christian Virtue)",
-  "239": "Legal (Constitutions, Bylaws, and Articles of Incorporation)",
+  "239": "Organization (Constitutions, Bylaws, and Articles of Incorporation)",
   "24": "Theology (Atonement)",
-  "240": "Study Guides",
-  "241": "Old Testament",
-  "242": "Sailing",
+  "240": "Education (Lesson Plans for Sabbath Study)",
+  "241": "Bible (Old Testament)",
+  "242": "Missions (Of Missionary Ships)",
   "243": "Signs of the Times (Enforcement of Sunday Laws)",
   "244": "Spiritual Growth (Christian Education)",
-  "245": "Publication Information (Washington, D.C. titles)",
+  "245": "Periodicals (Washington, D.C. Titles)",
   "246": "Nutrition (Food)",
   "247": "Health (Dress Reform)",
   "248": "Organization (Divisions)",
-  "249": "Missions Department",
+  "249": "Missions (Missions Department)",
   "25": "Theology (Tithing)",
   "250": "Health (Exercise)",
-  "26": "Camp Meeting Reports",
-  "27": "Spiritualism",
+  "26": "Organization (Notices of Meetings)",
+  "27": "Religious Commentary (Spiritualism)",
   "28": "Signs of the Times (\"Eastern Question\")",
-  "29": "Meeting Reports",
-  "3": "OCR Errors",
+  "29": "Meeting Reports (Accounts of Camp Meetings and Conferences)",
+  "3": "Scan Errors (OCR Errors)",
   "30": "Advertisements (Publications) ",
   "31": "Politics (War and the State)",
   "32": "Health (Disease)",
   "33": "Missions (Canvassing Workers)",
   "34": "Theology (Great Controversy)",
   "35": "Advertisements (SDA Publications - mid)",
-  "36": "Bible Translation",
+  "36": "Bible (Translations)",
   "37": "Theology (Sin)",
-  "38": "Descriptions of Heaven",
+  "38": "Religious Commentary (Descriptions of Heaven)",
   "39": "Theology (God and Man)",
-  "4": "Suffering and Death",
+  "4": "Social Commentary (Suffering and Death from Vices)",
   "40": "Signs of the Times (Social Unrest)",
   "41": "Theology (Bible Interpretation)",
   "42": "Nutrition (Vegetables and Produce)",
   "43": "Church &amp; State (Opposition to Religious Legislation)",
-  "44": "SDA Organizations",
+  "44": "Periodicals (Agencies for Magazine Ordering)",
   "45": "Missions (Chicago Mission)",
   "46": "Prophecy (Figures of Daniel)  ",
-  "47": "Train Travel",
-  "48": "Parenting (Infants)",
+  "47": "Transportation (Train Travel)",
+  "48": "Health (Infant Care)",
   "49": "Correspondence",
   "5": "Spiritual Growth (Christian Life - Perseverance)",
-  "50": "Book Sales and Publishing Business",
+  "50": "Periodicals (Book Sales and Publishing Business)",
   "51": "Spiritual Growth (Calls to Christian Virtue - EGW)",
   "52": "Eschatology (Spreading the Third Angel's Message)",
-  "53": "Parables (Wealth)",
-  "54": "Parables (Talents)",
-  "55": "Conference Reports (LUH)",
-  "56": "Conference Reports (CUV)",
+  "53": "Bible (Parables - Wealth)",
+  "54": "Bible (Parables - Talents)",
+  "55": "Meeting Reports (Lake Union Conferences)",
+  "56": "Community News (Columbia Union)",
   "57": "History (Historical Evidence for Reliability of Bible)",
   "58": "History (Religious Liberty in Anglo Political History)",
-  "59": "Chicago Mission",
-  "6": "Sermons (religious practice?)",
-  "60": "Letters from Readers",
-  "61": "Reports from the Cause",
-  "62": "Reports from the Cause",
+  "59": "Organization (The Chicago Mission)",
+  "6": "Sermons (Religious Practice)",
+  "60": "Correspondence (Letters from Readers)",
+  "61": "Reports on the Cause (Account of Labors)",
+  "62": "Meeting Reports (Descriptions of Denominational Events)",
   "63": "Nature (Landscapes)",
   "64": "Missions (Asia)",
-  "65": "Cleaning (teeth and household)",
-  "66": "Reading Course",
+  "65": "Health (Cleaning - teeth and household)",
+  "66": "Education (Reading Course)",
   "67": "Nutrition (Diet)",
-  "68": "Calls to Home Missions (EGW)",
+  "68": "Missions (Calls to Home Missions - EGW)",
   "69": "Advertisements (Health)",
   "7": "Bible (Stories from Daniel and Babylonian Captivity)",
-  "70": "Reports",
-  "71": "Subscriptions",
-  "72": "Conference Reports (SUW)",
+  "70": "Organization (Funds - Harvest Ingathering)",
+  "71": "Missions (Tract Distribution)",
+  "72": "Meeting Reports (Southern Union Conferences)",
   "73": "Theology (the Dead)",
-  "74": "Arguments",
+  "74": "Apologetics (Debates)",
   "75": "Missions (Foreign Missions)",
-  "76": "Military Culture",
-  "77": "Architecture",
-  "78": "Old Testament Lessons",
+  "76": "General Interrest (Military Culture)",
+  "77": "General Interest (Architecture)",
+  "78": "Bible (Old Testament Lessons)",
   "79": "Advertisements (Goods and Services)",
-  "8": "OCR Errors 2",
-  "80": "Spiritual Growth (Character Development - Boys)",
-  "81": "Biblical Exegesis",
-  "82": "Moralistic Stories",
-  "83": "Camp Meetings (Travel Arrangements and Organization)",
-  "84": "Women and Family",
+  "8": "Scan Errors (OCR Errors 2)",
+  "80": "Stories (Character Development - Boys)",
+  "81": "Bible (Biblical Exegesis)",
+  "82": "Stories (Moralistic Stories - girls)",
+  "83": "Organization (Travel Arrangements and Organization)",
+  "84": "Social Commentary (Marriage and Divorce)",
   "85": "Spiritual Growth (Virtuousness and Industry)",
-  "86": "Amusement and Sport",
+  "86": "Social Commentary (Amusement and Sport)",
   "87": "Signs of the Times (Growing Iniquity as in Days of Noah)",
   "88": "Advertisements (Subscription)",
-  "89": "New Testament",
+  "89": "Bible (New Testament)",
   "9": "Spiritual Growth (Christian Behavior)",
-  "90": "Immigration and Non-English Language Concerns",
-  "91": "Orphans and Relief",
-  "92": "Music and Instruments",
+  "90": "Social Commentary (Immigration and Non-English Language Concerns)",
+  "91": "Missions (Relief for Indigent Children)",
+  "92": "Advertisements (Music and Instruments)",
   "93": "Theology (Fate of the Wicked at Second Coming)",
   "94": "Health (Tuberculosis)",
-  "95": "Home and Domesticity",
+  "95": "Spiritual Growth (Manners and Cheerfulness)",
   "96": "Health (Hydrotherapy)",
   "97": "General Interest (News and Catastrophic Events)",
-  "98": "Health Q &amp; A",
+  "98": "Health (Q &amp; A)",
   "99": "Health (Coffee Tea Tobacco)"
 }
 </pre>

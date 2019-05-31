@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2019-02-15T22:35:00Z</lastmod>
+  <lastmod>2019-05-31T21:23:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2019-02-20T17:00:00Z</lastmod>
+  <lastmod>2019-05-31T21:21:00Z</lastmod>
  </url>
  <url>
   <loc>/author/</loc>
@@ -178,6 +178,10 @@
   <lastmod>2019-02-15T22:35:00Z</lastmod>
  </url>
  <url>
+  <loc>/conclusion/</loc>
+  <lastmod>2019-04-06T22:21:00Z</lastmod>
+ </url>
+ <url>
   <loc>/essays/chapter-1/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
@@ -186,12 +190,12 @@
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
  <url>
-  <loc>/essays/chapter-3-draft/</loc>
-  <lastmod>2019-02-13T21:44:00Z</lastmod>
- </url>
- <url>
   <loc>/essays/chapter-3/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/essays/chapter-4/</loc>
+  <lastmod>2019-05-04T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>/full-text/</loc>
@@ -199,7 +203,15 @@
  </url>
  <url>
   <loc>/full-text/index-1.html</loc>
-  <lastmod>2019-02-20T17:00:00Z</lastmod>
+  <lastmod>2019-05-31T21:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/home/</loc>
+  <lastmod>2019-05-31T21:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/introduction/</loc>
+  <lastmod>2019-05-28T17:42:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/1-Gather/downloading/</loc>
@@ -468,6 +480,14 @@
  <url>
   <loc>/notebooks/7-Analyze/2019-01-17-yearly-top-labels/</loc>
   <lastmod>2019-02-07T23:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/7-Analyze/2019-02-explore-doc-by-year/</loc>
+  <lastmod>2019-04-02T04:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/7-Analyze/2019-03-docs-for-ch-4-v1/</loc>
+  <lastmod>2019-04-02T04:04:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/7-Analyze/aggregated-end-times-topics/</loc>

@@ -12,30 +12,12 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
 <link rel="canonical" href=".">
 <!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="../../../assets/css/bigfoot-number.css">
-<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-<meta name="author" content="Jeri E. Wieringa">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../../../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><meta name="author" content="Jeri E. Wieringa">
 <meta property="og:site_name" content="A Gospel of Health and Salvation">
 <meta property="og:title" content="6. Evaluate">
 <meta property="og:url" content="/notebooks/6-Evaluate/readme-6/">
-<meta property="og:description" content="[Introductory text explaining the section]
-
-Notebook Files
-
-Visualizations
-
-PyLDAviz visualization
-Dendrogram of Topics
-
-
-
-Stability of Topic Words
-
-Measure Variation in Topic Keys
-
-
-
-Interpretation
-I">
+<meta property="og:description" content="Topic models are notoriously difficult to evaluate. At the time of writing, methods for evaluating the quality and stability of topic models in general, and especially for humanities use, are an ongoi">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2018-10-01T00:00:00-07:00">
 </head>
@@ -62,7 +44,7 @@ I">
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="../../../overview/">Project Introduction</a>
+<a href="../../../introduction/">Project Introduction</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Model Browser <b class="caret"></b></a>
@@ -86,6 +68,9 @@ I">
                     </li>
 <li>
 <a href="../../../essays/chapter-3/">3. Anticipating the End of Time</a>
+                    </li>
+<li>
+<a href="../../../essays/chapter-4/">4. The Gendered Work of Salvation</a>
             </li>
 </ul>
 </li>
@@ -131,7 +116,7 @@ I">
 <a href="../../../bibliography/biblio-main">Bibliography</a>
                     </li>
 <li>
-<a href="../../../about/">Project Documentation</a>
+<a href="../../../about/">Process Statement</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -162,7 +147,9 @@ I">
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<p>[Introductory text explaining the section]</p>
+<p>Topic models are notoriously difficult to evaluate. At the time of writing, methods for evaluating the quality and stability of topic models in general, and especially for humanities use, are an ongoing research with few standardized processes. Some of the more commonly used methods include automatically computed measures of topic coherence and interpretability of topics, though coherence and interpretability often do not align as neatly as would be desired. <a class="footnote-reference" href="#id2" id="id1">[1]</a></p>
+<p>Using topic models in historical analysis, and with a eye to development of language over time also changes the evaluation criteria for topic models in ways that are not well documented. Topic models are more typically used to categorize documents and can be evaluated on how well they succeed in assigning documents according to known categories. Used in historical research, topic models are deployed to categorized large collections of unknown content which was produced over extended periods of time. This introduces two complications: the lack of known categories to evaluate the model against, and the introduction of language changes that complicate topic information.</p>
+<p>The development and testing of a model in the face of these complications could constitute its own project. As I undertook the modeling as part of a historical analysis project, where the model is not the object of study but in service of the larger cultural and methodological analysis, this project opens morre questions regarding the creation and evaluation of topic models in historical research, rather than it answers.</p>
 <div class="section" id="notebook-files">
 <h2>Notebook Files</h2>
 <div class="section" id="visualizations">
@@ -180,10 +167,21 @@ I">
 </div>
 <div class="section" id="interpretation">
 <h3>Interpretation</h3>
-<p>I managed the topic labels for the model browser in a Google doc. The following notebook is used to take that spreadsheet data and format it into json for the browser <cite>info.json</cite> file. Currently, the results must be manually copied and pasted from the notebook to the browser file.</p>
+<p>I managed the topic labels I developed for the model browser in a Google doc. The following notebook is used to take that spreadsheet data and format it into json for the browser <cite>info.json</cite> file. Currently, the results must be manually copied and pasted from the notebook to the browser file.</p>
+<p>To create these labels, I drew on the words of the topics as well as read the top documents in which the topic appeared. This provided contextual information for distinguishing between similar topics.</p>
 <ul class="simple">
 <li><a class="reference external" href="../export-topic-labels/">Export Topic Labels</a></li>
 </ul>
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup>
+<col class="label">
+<col>
+</colgroup>
+<tbody valign="top"><tr>
+<td class="label"><a class="fn-backref" href="#id1">[1]</a></td>
+<td>Cite Hannah Wallach Tea Leaves,</td>
+</tr></tbody>
+</table>
 </div>
 </div>
 </div>

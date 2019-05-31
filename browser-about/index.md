@@ -1,5 +1,5 @@
 ---
-title: Adapting the DfR Browser 
+title: About the DfR Browser 
 date: 2019-01-24 00:00:00 UTC
 slug: browser-about
 suppress-bibliography: true
@@ -44,3 +44,5 @@ My dissertation project has also brought to light some additional features that 
 A number of these changes push the interface beyond what can be achieved within a static site, as the memory load on the browser becomes difficult to support. As such, it is also worth considering an adaptation of the browser that relies on a database for serving the corpus and model data. This modification would remove some of the advantages of the static-site approach, but would make the browser a more robust tool for research. 
 
 Leveraging a topic model for historical research is a multifaceted problem, extending from the work of the selection and preparation of a set of literature to the interfaces for interpreting and utilizing the resulting data. While experimental work in the digital humanities has focused largely on the process of running the topic modeling algorithm on a set of documents, there is significant research to be done on the pre-processing and post-processing steps that make the running of the algorithm possible and legible. As both of these greatly shape the results of the computational analysis and its usefulness in historical research, they are vital areas for further scholarly attention from scholars working at the intersection of computation and the humanities.
+
+<div style="page-break-after: always;"></div>

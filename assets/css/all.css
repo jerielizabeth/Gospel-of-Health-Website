@@ -736,6 +736,19 @@ body{
     background-color: #F5F5F5;
     font-family: 'Source Sans Pro', Ariel, 'sans-serif';
     font-size: 18px;
+    padding-top: 70px;
+}
+
+.navbar {
+    top: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.jumbotron {
+    text-align: center;
 }
 
 .post-text  {
@@ -794,10 +807,10 @@ iframe {
     -moz-transform-origin: 0 0; 
 }
 iframe.large {
-    height: 1000px;
+    height: 1200px;
 }
 iframe.xlarge {
-    height: 1000px;
+    height: 1500px;
     width: 1350px;
     margin-left: -150px;
 }

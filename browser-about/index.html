@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Adapting the DfR Browser | A Gospel of Health and Salvation</title>
+<title>About the DfR Browser | A Gospel of Health and Salvation</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link href="../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
 <link href="../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
@@ -12,11 +12,12 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
 <link rel="canonical" href=".">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="../assets/css/bigfoot-number.css">
-<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-<meta name="author" content="Jeri E. Wieringa">
-<link rel="prev" href="../essays/chapter-3/" title="Anticipating the End of Time" type="text/html">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.8.3.min.js"></script><script type="text/javascript" src="https://use.fontawesome.com/a543f940ee.js"></script><script type="text/javascript" src="../assets/js/bigfoot.js"></script><script type="text/javascript">$.bigfoot();</script><meta name="author" content="Jeri E. Wieringa">
+<link rel="prev" href="../essays/chapter-4/" title="The Gendered Work of Salvation at the End of Time" type="text/html">
+<link rel="next" href="../conclusion/" title="Of Time and Topics" type="text/html">
 <meta property="og:site_name" content="A Gospel of Health and Salvation">
-<meta property="og:title" content="Adapting the DfR Browser">
+<meta property="og:title" content="About the DfR Browser">
 <meta property="og:url" content="/browser-about/">
 <meta property="og:description" content="At the core of the dissertation is a 250 topic model of the periodical literature of the denomination. As I discuss throughout the dissertation, topic modeling is a form of unsupervised machine learni">
 <meta property="og:type" content="article">
@@ -45,7 +46,7 @@
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="../overview/">Project Introduction</a>
+<a href="../introduction/">Project Introduction</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Model Browser <b class="caret"></b></a>
@@ -69,6 +70,9 @@
                     </li>
 <li>
 <a href="../essays/chapter-3/">3. Anticipating the End of Time</a>
+                    </li>
+<li>
+<a href="../essays/chapter-4/">4. The Gendered Work of Salvation</a>
             </li>
 </ul>
 </li>
@@ -114,7 +118,7 @@
 <a href="../bibliography/biblio-main">Bibliography</a>
                     </li>
 <li>
-<a href="../about/">Project Documentation</a>
+<a href="../about/">Process Statement</a>
                     </li>
 <li>
 <a href="../author/">About the Author</a>
@@ -139,7 +143,7 @@
         <div class="row">
             
             
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Adapting the DfR Browser</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">About the DfR Browser</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
@@ -173,17 +177,23 @@
 <p>My dissertation project has also brought to light some additional features that would enhance the browser for model exploration and interpretation. The default set up for the browser enables exploration of the topic model, but not further manipulation of the model data. While the algorithm currently clusters topics based on time, enabling further grouping of documents and topics based on other metadata variables at the level of the user interface would enable additional exploration into the ways particular topics, or discourses are distributed by things such as publication type or geographic region.<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> Additional, the inclusion of the document text within the document view, with the topic assignment of the words indicated in some way, would provide further useful information on how the model has characterized the language of the document. Finally, a reporting mechanism that would enable returning a collections of documents that fit a particularly set of parameters would expand the usefulness of the browser from the exploration of a model to leveraging the clustering work of the algorithm to identify related documents on a given topic.</p>
 <p>A number of these changes push the interface beyond what can be achieved within a static site, as the memory load on the browser becomes difficult to support. As such, it is also worth considering an adaptation of the browser that relies on a database for serving the corpus and model data. This modification would remove some of the advantages of the static-site approach, but would make the browser a more robust tool for research.</p>
 <p>Leveraging a topic model for historical research is a multifaceted problem, extending from the work of the selection and preparation of a set of literature to the interfaces for interpreting and utilizing the resulting data. While experimental work in the digital humanities has focused largely on the process of running the topic modeling algorithm on a set of documents, there is significant research to be done on the pre-processing and post-processing steps that make the running of the algorithm possible and legible. As both of these greatly shape the results of the computational analysis and its usefulness in historical research, they are vital areas for further scholarly attention from scholars working at the intersection of computation and the humanities.</p>
+<div style="page-break-after: always;">
+
+</div>
 <section class="footnotes"><hr>
 <ol>
 <li id="fn1"><p>I provide details on the construction and computational use of the topic model within the dissertation and the dissertation notebooks.<a href="#fnref1" class="footnote-back">↩</a></p></li>
 <li id="fn2"><p>This suggests a future change to the browser view, where topic assignments of under some threshold are dropped from the data prior to the steps of aggregating, smoothing, and normalizing the topic assignment data. In testing for the threshold, I would begin around 5% of the words in the document.<a href="#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3"><p>For a technical introduction to the various parameters involved in creating and optimizing a topic model, see <span class="citation" data-cites="Wallach2009"><span class="citeproc-not-found" data-reference-id="Wallach2009"><strong>??</strong></span></span>. See also the Appendix of Andrew Goldstone and Ted Underwood’s essay in the <em>Journal of Digital Humanities</em>. <span class="citation" data-cites="Goldstone2013">Andrew Goldstone and Ted Underwood, ‘What Can Topic Models of Pmla Teach Us About the History of Literary Scholarship?’, <em>Journal of Digital Humanities</em> 2, no. 1 (2013)</span>.<a href="#fnref3" class="footnote-back">↩</a></p></li>
+<li id="fn3"><p>For a technical introduction to the various parameters involved in creating and optimizing a topic model, see <span class="citation" data-cites="Wallach2009">Hanna M. Wallach, David M. Mimno, and Andrew McCallum, <em>Rethinking Lda: Why Priors Matter</em>, vol. 22 (Curran Associates, Inc., 2009)</span>. See also the Appendix of Andrew Goldstone and Ted Underwood’s essay in the <em>Journal of Digital Humanities</em>. <span class="citation" data-cites="Goldstone2013">Andrew Goldstone and Ted Underwood, ‘What Can Topic Models of Pmla Teach Us About the History of Literary Scholarship?’, <em>Journal of Digital Humanities</em> 2, no. 1 (2013)</span>.<a href="#fnref3" class="footnote-back">↩</a></p></li>
 <li id="fn4"><p>The current version of the browser does enable some customization on this front during setup, but not such fluid manipulation on the user end.<a href="#fnref4" class="footnote-back">↩</a></p></li>
 </ol></section>
 </div>
     <aside class="postpromonav"><nav><ul class="pager hidden-print">
 <li class="previous">
-                <a href="../essays/chapter-3/" rel="prev" title="Anticipating the End of Time">Previous post</a>
+                <a href="../essays/chapter-4/" rel="prev" title="The Gendered Work of Salvation at the End of Time">Previous post</a>
+            </li>
+            <li class="next">
+                <a href="../conclusion/" rel="next" title="Of Time and Topics">Next post</a>
             </li>
         </ul></nav></aside></article>
 </div>
