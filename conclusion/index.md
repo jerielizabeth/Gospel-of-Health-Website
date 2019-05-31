@@ -5,9 +5,9 @@ slug: conclusion
 suppress-bibliography: true
 ---
 
+*In Progress*
 
-
-While economic realities ... looking across time [] to "take seriously" the role of beliefs in the formation of religious culture. 
+<!-- While economic realities ... looking across time [] to "take seriously" the role of beliefs in the formation of religious culture. 
 
 This 
 
@@ -34,6 +34,6 @@ However, methodologically there is little consensus around how such models can b
 
 While the limitations of topic models must be considered, it is important to also consider those limitations within the context of historical research. Historical research frequently requires sifting through large collections of documents to explore themes or unpack the lives of individuals and organizations. The size of these collections is growing with the proliferation of digital records, such that identifying and aggregating relevant content to tell ^[These collections are also more fragile than the physical records of the past, as technological obsolescence and decay threatens our ability to access the digital records of the past. See ] The challenge of these situations is the need for some mechanism to begin to make sense of the chaos of the historical record, and preferably in ways that enable researchers to move beyond those persons and institutions powerful enough to leave behind well-curated archives. This means being able to work with data that is messy and disorganized - a challenge that topic model provides an initial solution to.
 
-The value of the topic model is in opening questions, not in solving them.
+The value of the topic model is in opening questions, not in solving them. -->
 
 <div style="page-break-after: always;"></div>
