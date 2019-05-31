@@ -5,7 +5,11 @@ slug: conclusion
 suppress-bibliography: true
 ---
 
-# Conclusion: Of Time and Topics
+
+
+While economic realities ... looking across time [] to "take seriously" the role of beliefs in the formation of religious culture. 
+
+This 
 
 ... For historians working on late 20th and 21st-century history, digital sources and, assuming the records survive, a problem of abundance will necessitate some amount of computational work for accessing and parsing the available historical record.^[Cite Ian Milligan here.] At this level, computational methods will become a necessity rather than optional, and their use will need to be standardize in order that such research can be reliably conducted and evaluated. 
 

@@ -12,6 +12,11 @@ body{
     left: 0;
     z-index: 1030;
 }
+
+.jumbotron {
+    text-align: center;
+}
+
 .post-text  {
     max-width: 800px;
     margin-left: 8%;

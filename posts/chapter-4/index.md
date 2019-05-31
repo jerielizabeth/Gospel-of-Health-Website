@@ -1,12 +1,10 @@
 <!-- 
 .. date: 2019-01-15
-.. title: The Gendered Work of Salvation
+.. title: The Gendered Work of Salvation at the End of Time
 .. slug: chapter-4
 .. suppress-bibliography: true
 .. tag: draft
  -->
-
-# Chapter 4: The Gendered Work of Salvation
 
 >As a people who claim to have advanced light, we are to devise ways and means by which to bring forth a corps of educated workmen for the various departments of the work of God. We need a well-disci­plined, cultivated class of young men and women in the Sanitarium, in the medical missionary work, in the office of publica­tion, in the conferences of different states, and in the field at large.^[ADV19030201-V05-02, p. 3. Attributed to EGW]
 

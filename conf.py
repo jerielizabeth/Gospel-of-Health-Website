@@ -134,7 +134,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/overview/", "Project Introduction"),
+        ("/introduction/", "Project Introduction"),
         (
             (
                 ("/browser-about/", "About the Browser"),
@@ -148,7 +148,6 @@ NAVIGATION_LINKS = {
                 ("/essays/chapter-2/", "2. Constructing Computational Models"),
                 ("/essays/chapter-3/", "3. Anticipating the End of Time"),
                 ("/essays/chapter-4/", "4. The Gendered Work of Salvation"),
-                # ("/essays/chapter-5/", "5. "),
             ),
             "Essays"
         ),
@@ -174,7 +173,7 @@ NAVIGATION_LINKS = {
             (
                 # ("/acknowledgments/", "Acknowledgments"),
                 ("/bibliography/biblio-main", "Bibliography"),
-                ("/about/", "Project Documentation"),
+                ("/about/", "Process Statement"),
                 ("/author/", "About the Author"),
             ),
             "About"
@@ -224,7 +223,7 @@ THEME_COLOR = '#5670d4'
 #     )
 
 POSTS = (
-    ("posts/overview.md", "", "post.tmpl"),
+    ("posts/introduction.md", "", "post.tmpl"),
     ("posts/about.md", "", "post.tmpl"),
     ("posts/browser-about.md", "", "post.tmpl"),
     ("posts/conclusion.md", "", "post.tmpl"),
