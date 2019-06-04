@@ -1,6 +1,6 @@
 <!-- 
 .. title: A Gospel of Health and Salvation
-.. slug: home
+.. slug: index
 .. date: 2017-08-07
 .. description: 
 .. type: text
@@ -21,12 +21,15 @@ By Jeri E. Wieringa
 
 ## Abstract
 
+<!-- Note on Formats
+Due to constraints in the processes around dissertations, the "official" version of the dissertation, according to George Mason University, is a PDF document which contains the introduction, chapter abstracts, and the bibliography. 
+ -->
 ## Structure of the Dissertation
 
 The dissertation is designed so that readers can focus on areas of interest, while interlinking between the pages connects the different components of the project. The opening navigation outlines the two tracks through the dissertation. Additionally, the top navigation provides access to each of the different components of the dissertation. 
  
 + The [model browser](link://slug/browser-about) provides access to the topic model at the center of this project.
-+ The essays, along with the [introduction](link://slug/introduction) and [conclusion](link://slug/conclusions), contain the main written components of the project.
++ The essays, along with the [introduction](link://slug/introduction) and [conclusion](link://slug/conclusion), contain the main written components of the project.
 + The [notebooks](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
 + The [about](link://slug/about) pages includes the project bibliography and process statement.
 
