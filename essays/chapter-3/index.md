@@ -2,7 +2,7 @@
 date: 2018-04-15 00:00:00 UTC
 title: Anticipating the End of Time
 slug: chapter-3
-suppress-bibliography: true
+# suppress-bibliography: true
 # tag: toggle
 ---
 

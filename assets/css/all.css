@@ -865,3 +865,7 @@ article {
 .entry-content .embedded-left.image p:before {
     content:unset;
 }
+
+.entry-content .embedded-left p:before {
+    content:unset;
+}

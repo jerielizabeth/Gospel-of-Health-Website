@@ -73,8 +73,8 @@ Periodicals in Study
 :doc:`Youth's Instructor, The <YI>`. 1852-1920. Office of Archives, Statistics, and Research, Seventh-day Adventist Church. http://documents.adventistarchives.org/Periodicals/YI.
 
 
-Additional Digital Resources
-============================
+Additional Digital Collections
+==============================
 
 *Adventist Digital Library*. https://adventistdigitallibrary.org/
 
@@ -137,7 +137,6 @@ Goldstone, Andrew. *DfR Browser*, 2017, https://agoldst.github.io/dfr-browser/.
 
 Pérez, Fernando, and Brian E. Granger. “IPython: A System for Interactive Scientific Computing.” *Computing in Science and Engineering* 9, no. 3 (June 2007): 21–29. https://doi.org/10.1109/MCSE.2007.53. (Jupyter)
 
-*Read the Docs*. Portland, OR: Read the Docs, Inc., 2018. https://readthedocs.org/.
 
 Visualization
 =============

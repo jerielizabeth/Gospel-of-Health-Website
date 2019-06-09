@@ -1,8 +1,8 @@
-<!-- 
-.. title: Creating a Digital Dissertation
-.. date: 2017-11-07
-.. slug: about 
--->
+--- 
+title: Creating a Digital Dissertation
+date: 2017-11-07 00:00:00 UTC
+slug: about 
+---
 
 The process for creating a narrative dissertation in history is, on the whole, well established. A researchers chooses a topic of study, a theoretical framework (or two), identifies the relevant archives, spends years in those archives reading and analyzing the materials, and then uses that evidence to construct an account of a particular time, place, person, or event that had some influence on the development of culture, of politics, or of institutions. Because this process has been well defined over the last hundred years of academic scholarship, there is generally little attention payed to the process, beyond the traditional acknowledgment in introductions and footnotes of the relevant theoretical frameworks and the consulted archival sources.
 
