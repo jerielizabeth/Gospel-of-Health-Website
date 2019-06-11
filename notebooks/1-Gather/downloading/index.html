@@ -196,7 +196,7 @@
 </pre></div>
 <p>I ran this process for each of the periodical titles included in this study. It took approximately a week to download all 13,000 files to my local machine. The resulting corpus takes up 27.19 GB of space.</p>
 <p>This notebook reflects a more automated version of that process, created in 2017 to download missing documents. The example recorded here is for downloading the <a href="http://documents.adventistarchives.org/SSQ/">Sabbath School Quarterly</a> collection, which I missed during my initial collection phase.</p>
-<p>In these scripts I use the <a href="http://docs.python-requests.org/en/master/"><code>requests</code></a> library to retrieve the HTML from the document directory pages and <a href="https://www.crummy.com/software/BeautifulSoup/"><code>BeautifulSoup4</code></a> to locate the filenames. I use <a href="https://pypi.python.org/pypi/wget"><code>wget</code></a> to download the files.</p>
+<p>In these scripts I use the <a href="http://docs.python-requests.org/en/master/"><code>requests</code></a> library to retrieve the HTML from the document directory pages and <a href="https://www.crummy.com/software/BeautifulSoup/"><code>BeautifulSoup4</code></a> to locate the filenames. Finally, I use <code>requests</code> to download the files.</p>
 
 </div>
 </div>
@@ -210,7 +210,6 @@
 <span class="kn">from</span> <span class="nn">os.path</span> <span class="k">import</span> <span class="n">join</span>
 <span class="kn">import</span> <span class="nn">re</span>
 <span class="kn">import</span> <span class="nn">requests</span>
-<span class="c1"># import urllib</span>
 </pre></div>
 
 </div>
@@ -508,7 +507,7 @@ Adding SS19201001-04 to download list
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Finally, I loop through all of the filenames, create the URL to the PDF, and use <code>wget</code> to download a copy of the document into my directory for processing.</p>
+<p>Finally, I loop through all of the filenames, create the URL to the PDF, and use <code>requests</code> to download a copy of the document into my directory for processing.</p>
 
 </div>
 </div>

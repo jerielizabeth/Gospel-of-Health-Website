@@ -37,12 +37,12 @@ In order to make this multilayered argument, I created the dissertation as a web
 
 The dissertation is designed so that readers can focus on areas of interest, while interlinking between the pages connects the different components of the project. The opening navigation outlines the two tracks through the dissertation. Additionally, the top navigation provides access to each of the different components of the dissertation. 
  
-+ The [model browser](link://slug/browser-about) provides access to the topic model at the center of this project.
-+ The essays, along with the [introduction](link://slug/introduction) and [conclusion](link://slug/conclusion), contain the main written components of the project.
-+ The [notebooks](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
-+ The [about](link://slug/about) pages includes the project bibliography and process statement.
++ The [**Model Browser**](link://slug/browser-about) provides access to the topic model at the center of this project.
++ The **Essays**, along with the [Introduction](link://slug/introduction) and [Conclusion](link://slug/conclusion), contain the main written components of the project.
++ The [**Notebooks**](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
++ The **About** pages includes the [Bibliography](link://slug/biblio-main) and [Process Statement](link://slug/about).
 
-The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](), as well as in the [WayBack Machine](). Additionally, the source code for the components is available on [Github]().
+The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](), as well as in the [internet archive](https://web.archive.org/web/*/dissertation.jeriwieringa.com). Additionally, the source code for the components is available on [Github](https://github.com/search?q=user%3Ajerielizabeth+dissertation).
 
 ## Track 1: Ellen White and Gender in Seventh-day Adventism
 
