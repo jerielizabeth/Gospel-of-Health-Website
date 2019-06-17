@@ -22,7 +22,7 @@
     
 import os
 import pandas as pd
-from topictools import prepare_mallet_data
+from text2topics import models
 
 
 
@@ -49,9 +49,9 @@ In [2]:
 In [3]:
 
     
-data_dir = "/Users/jeriwieringa/'>
+data_dir = "/Users/jeriwieringa/Dissertation'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2019-04-01T21:03:59-07:00">
+<meta property="article:published_time" content="2019-06-14T22:40:00-07:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -139,7 +139,7 @@ data_dir = "/Users/jeriwieringa/'>
 </ul>
 </li>
 <li>
-<a href="../../../conclusion/">Conclusions</a>
+<a href="../../../conclusion/">Conclusion</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -149,6 +149,9 @@ data_dir = "/Users/jeriwieringa/'>
                     </li>
 <li>
 <a href="../../../about/">Process Statement</a>
+                    </li>
+<li>
+<a href="../../../structure/">Project Structure</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -188,7 +191,7 @@ data_dir = "/Users/jeriwieringa/'>
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">from</span> <span class="nn">topictools</span> <span class="k">import</span> <span class="n">prepare_mallet_data</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">models</span>
 </pre></div>
 
 </div>
@@ -228,7 +231,7 @@ data_dir = "/Users/jeriwieringa/'>
 <div class="prompt input_prompt">In [4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">model</span> <span class="o">=</span> <span class="n">prepare_mallet_data</span><span class="o">.</span><span class="n">MalletModel</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">data_dir</span><span class="p">,</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">model</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">MalletModel</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">data_dir</span><span class="p">,</span> 
                                                      <span class="s1">'model_outputs'</span><span class="p">,</span> 
                                                      <span class="s1">'target_300_10.18497.state.gz'</span>
                                                     <span class="p">))</span>
@@ -309,10 +312,34 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt"></div>
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">ImportError</span>                               Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-8-3622090f9c16&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-intense-fg ansi-bold">      2</span> 
+<span class="ansi-green-intense-fg ansi-bold">      3</span> <span class="ansi-green-fg">import</span> gspread
+<span class="ansi-green-fg">----&gt; 4</span><span class="ansi-red-fg"> </span><span class="ansi-green-fg">from</span> oauth2client<span class="ansi-blue-fg">.</span>service_account <span class="ansi-green-fg">import</span> ServiceAccountCredentials
+<span class="ansi-green-intense-fg ansi-bold">      5</span> 
+<span class="ansi-green-intense-fg ansi-bold">      6</span> <span class="ansi-red-fg"># Load data from Google Doc</span>
+
+<span class="ansi-red-fg">ImportError</span>: No module named 'oauth2client'</pre>
+</div>
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [9]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">doc_topic</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'#doc'</span><span class="p">,</span> <span class="s1">'topic'</span><span class="p">])[</span><span class="s1">'type'</span><span class="p">]</span><span class="o">.</span><span class="n">count</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s2">"token_count"</span><span class="p">)</span>
@@ -325,7 +352,7 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [10]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">dt</span> <span class="o">=</span> <span class="n">doc_topic</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">metadata</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">'left'</span><span class="p">,</span> <span class="n">left_on</span><span class="o">=</span><span class="s2">"#doc"</span><span class="p">,</span> <span class="n">right_on</span><span class="o">=</span><span class="s2">"doc_id"</span><span class="p">)</span>
@@ -338,7 +365,7 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [11]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_dt</span> <span class="o">=</span> <span class="n">dt</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="n">dt</span><span class="o">.</span><span class="n">date_formatted</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">year</span><span class="p">,</span> <span class="s2">"topic"</span><span class="p">])[</span><span class="s1">'token_count'</span><span class="p">]</span>\
@@ -353,7 +380,7 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [12]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_m</span> <span class="o">=</span> <span class="n">prepare_mallet_data</span><span class="o">.</span><span class="n">pivot_smooth_norm</span><span class="p">(</span><span class="n">y_dt</span><span class="p">,</span> <span class="n">params</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span>
@@ -367,7 +394,7 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [13]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_m</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>
@@ -377,130 +404,10 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt output_prompt">Out[13]:</div>
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<div>
-<table border="1" class="dataframe">
-<thead>
-<tr style="text-align: right;">
-<th>topic</th>
-      <th>0</th>
-      <th>1</th>
-      <th>2</th>
-      <th>3</th>
-      <th>4</th>
-      <th>5</th>
-      <th>6</th>
-      <th>7</th>
-      <th>8</th>
-      <th>9</th>
-      <th>...</th>
-      <th>240</th>
-      <th>241</th>
-      <th>242</th>
-      <th>243</th>
-      <th>244</th>
-      <th>245</th>
-      <th>246</th>
-      <th>247</th>
-      <th>248</th>
-      <th>249</th>
-    </tr>
-<tr>
-<th>date_formatted</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-</thead>
-<tbody>
-<tr>
-<th>1849</th>
-      <td>0.000466</td>
-      <td>0.002586</td>
-      <td>0.001395</td>
-      <td>0.003516</td>
-      <td>0.010145</td>
-      <td>0.004582</td>
-      <td>0.001459</td>
-      <td>0.007097</td>
-      <td>0.000664</td>
-      <td>6.630487e-07</td>
-      <td>...</td>
-      <td>0.000995</td>
-      <td>0.000532</td>
-      <td>0.000067</td>
-      <td>0.000334</td>
-      <td>7.931035e-07</td>
-      <td>8.578557e-07</td>
-      <td>0.000001</td>
-      <td>0.000001</td>
-      <td>0.000200</td>
-      <td>7.317510e-07</td>
-    </tr>
-<tr>
-<th>1850</th>
-      <td>0.000748</td>
-      <td>0.000168</td>
-      <td>0.017215</td>
-      <td>0.002281</td>
-      <td>0.017356</td>
-      <td>0.010193</td>
-      <td>0.004587</td>
-      <td>0.017163</td>
-      <td>0.001495</td>
-      <td>1.032088e-04</td>
-      <td>...</td>
-      <td>0.004613</td>
-      <td>0.002564</td>
-      <td>0.001134</td>
-      <td>0.000954</td>
-      <td>5.169408e-05</td>
-      <td>6.459166e-05</td>
-      <td>0.000142</td>
-      <td>0.000155</td>
-      <td>0.000116</td>
-      <td>3.093819e-04</td>
-    </tr>
-</tbody>
-</table>
-<p>2 rows × 250 columns</p>
-</div>
-</div>
-
-</div>
-
-</div>
-</div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [14]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_topics</span> <span class="o">=</span> <span class="n">y_m</span><span class="o">.</span><span class="n">unstack</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">'t_proportion'</span><span class="p">)</span>
@@ -523,7 +430,7 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [15]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">category_df</span> <span class="o">=</span> <span class="n">y_topics</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">labels</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s2">"left"</span><span class="p">,</span> <span class="n">left_on</span><span class="o">=</span><span class="s2">"topic"</span><span class="p">,</span> <span class="n">right_on</span><span class="o">=</span><span class="s2">"mallet_topic_id"</span><span class="p">)</span>\
@@ -539,250 +446,13 @@ data_dir = "/Users/jeriwieringa/'>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In [16]:</div>
+<div class="prompt input_prompt">In [ ]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">category_df</span><span class="p">[:</span><span class="mi">35</span><span class="p">]</span>
 </pre></div>
 
 </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt output_prompt">Out[16]:</div>
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<div>
-<table border="1" class="dataframe">
-<thead><tr style="text-align: right;">
-<th></th>
-      <th>date_formatted</th>
-      <th>topic_category</th>
-      <th>category_prevalence</th>
-    </tr></thead>
-<tbody>
-<tr>
-<th>0</th>
-      <td>1849</td>
-      <td>advertisements</td>
-      <td>0.006380</td>
-    </tr>
-<tr>
-<th>1</th>
-      <td>1849</td>
-      <td>apologetics</td>
-      <td>0.025667</td>
-    </tr>
-<tr>
-<th>2</th>
-      <td>1849</td>
-      <td>bible</td>
-      <td>0.145878</td>
-    </tr>
-<tr>
-<th>3</th>
-      <td>1849</td>
-      <td>church_and_state</td>
-      <td>0.002725</td>
-    </tr>
-<tr>
-<th>4</th>
-      <td>1849</td>
-      <td>community_news</td>
-      <td>0.000069</td>
-    </tr>
-<tr>
-<th>5</th>
-      <td>1849</td>
-      <td>conference_proceedings</td>
-      <td>0.000665</td>
-    </tr>
-<tr>
-<th>6</th>
-      <td>1849</td>
-      <td>correspondence</td>
-      <td>0.050922</td>
-    </tr>
-<tr>
-<th>7</th>
-      <td>1849</td>
-      <td>education</td>
-      <td>0.005384</td>
-    </tr>
-<tr>
-<th>8</th>
-      <td>1849</td>
-      <td>eschatology</td>
-      <td>0.129428</td>
-    </tr>
-<tr>
-<th>9</th>
-      <td>1849</td>
-      <td>general_interest</td>
-      <td>0.000670</td>
-    </tr>
-<tr>
-<th>10</th>
-      <td>1849</td>
-      <td>health</td>
-      <td>0.003933</td>
-    </tr>
-<tr>
-<th>11</th>
-      <td>1849</td>
-      <td>history</td>
-      <td>0.017441</td>
-    </tr>
-<tr>
-<th>12</th>
-      <td>1849</td>
-      <td>meeting_reports</td>
-      <td>0.001668</td>
-    </tr>
-<tr>
-<th>13</th>
-      <td>1849</td>
-      <td>missions</td>
-      <td>0.010301</td>
-    </tr>
-<tr>
-<th>14</th>
-      <td>1849</td>
-      <td>nature</td>
-      <td>0.004182</td>
-    </tr>
-<tr>
-<th>15</th>
-      <td>1849</td>
-      <td>nutrition</td>
-      <td>0.007234</td>
-    </tr>
-<tr>
-<th>16</th>
-      <td>1849</td>
-      <td>obituaries</td>
-      <td>0.000001</td>
-    </tr>
-<tr>
-<th>17</th>
-      <td>1849</td>
-      <td>organization</td>
-      <td>0.003995</td>
-    </tr>
-<tr>
-<th>18</th>
-      <td>1849</td>
-      <td>periodicals</td>
-      <td>0.010147</td>
-    </tr>
-<tr>
-<th>19</th>
-      <td>1849</td>
-      <td>piety</td>
-      <td>0.019305</td>
-    </tr>
-<tr>
-<th>20</th>
-      <td>1849</td>
-      <td>politics</td>
-      <td>0.000534</td>
-    </tr>
-<tr>
-<th>21</th>
-      <td>1849</td>
-      <td>prophecy</td>
-      <td>0.003118</td>
-    </tr>
-<tr>
-<th>22</th>
-      <td>1849</td>
-      <td>religious_commentary</td>
-      <td>0.017840</td>
-    </tr>
-<tr>
-<th>23</th>
-      <td>1849</td>
-      <td>reports_on_the_cause</td>
-      <td>0.032896</td>
-    </tr>
-<tr>
-<th>24</th>
-      <td>1849</td>
-      <td>scan_errors</td>
-      <td>0.008492</td>
-    </tr>
-<tr>
-<th>25</th>
-      <td>1849</td>
-      <td>sermons</td>
-      <td>0.008428</td>
-    </tr>
-<tr>
-<th>26</th>
-      <td>1849</td>
-      <td>signs_of_the_times</td>
-      <td>0.014663</td>
-    </tr>
-<tr>
-<th>27</th>
-      <td>1849</td>
-      <td>social_commentary</td>
-      <td>0.029118</td>
-    </tr>
-<tr>
-<th>28</th>
-      <td>1849</td>
-      <td>spiritual_growth</td>
-      <td>0.035099</td>
-    </tr>
-<tr>
-<th>29</th>
-      <td>1849</td>
-      <td>stories</td>
-      <td>0.028924</td>
-    </tr>
-<tr>
-<th>30</th>
-      <td>1849</td>
-      <td>theology</td>
-      <td>0.123143</td>
-    </tr>
-<tr>
-<th>31</th>
-      <td>1849</td>
-      <td>theology_sabbath</td>
-      <td>0.250820</td>
-    </tr>
-<tr>
-<th>32</th>
-      <td>1849</td>
-      <td>transportation</td>
-      <td>0.000932</td>
-    </tr>
-<tr>
-<th>33</th>
-      <td>1850</td>
-      <td>advertisements</td>
-      <td>0.006922</td>
-    </tr>
-<tr>
-<th>34</th>
-      <td>1850</td>
-      <td>apologetics</td>
-      <td>0.052418</td>
-    </tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</div>
-
 </div>
 </div>
 

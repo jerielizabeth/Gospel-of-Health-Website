@@ -35,23 +35,13 @@ In [2]:
 
     
 import csv
-import GoH.reports
-import GoH.utilities
+from text2topics import reports
+from text2topics import utilities
 import os
 from os import listdir
-from os.path import isfile, join
-
-
-
-
-
-
-
-
-
-In">
+from os.path impor">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2018-10-27T14:29:59-07:00">
+<meta property="article:published_time" content="2019-06-14T21:32:59-07:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -139,7 +129,7 @@ In">
 </ul>
 </li>
 <li>
-<a href="../../../conclusion/">Conclusions</a>
+<a href="../../../conclusion/">Conclusion</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -149,6 +139,9 @@ In">
                     </li>
 <li>
 <a href="../../../about/">Process Statement</a>
+                    </li>
+<li>
+<a href="../../../structure/">Project Structure</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -201,8 +194,8 @@ In">
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">csv</span>
-<span class="kn">import</span> <span class="nn">GoH.reports</span>
-<span class="kn">import</span> <span class="nn">GoH.utilities</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">reports</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">utilities</span>
 <span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">from</span> <span class="nn">os</span> <span class="k">import</span> <span class="n">listdir</span>
 <span class="kn">from</span> <span class="nn">os.path</span> <span class="k">import</span> <span class="n">isfile</span><span class="p">,</span> <span class="n">join</span>
@@ -251,7 +244,7 @@ In">
 <div class="prompt input_prompt">In [5]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">spelling_dictionary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="n">wordlist_dir</span><span class="p">,</span> <span class="n">wordlists</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">spelling_dictionary</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="n">wordlist_dir</span><span class="p">,</span> <span class="n">wordlists</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -317,8 +310,8 @@ In">
     <span class="k">for</span> <span class="n">title</span><span class="p">,</span> <span class="n">final_dir</span> <span class="ow">in</span> <span class="n">pairs</span><span class="p">:</span>
         <span class="nb">print</span><span class="p">(</span><span class="n">final_dir</span><span class="p">)</span>
         <span class="n">base_dir</span> <span class="o">=</span> <span class="s2">"/Users/jeriwieringa/Dissertation/text/text/2017-01-31-corpus-with-utf8-split-into-titles-cleaning"</span>
-        <span class="n">stats</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_statistics</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">base_dir</span><span class="p">,</span> <span class="n">final_dir</span><span class="p">),</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
-        <span class="n">verified_rate</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">average_verified_rate</span><span class="p">(</span><span class="n">stats</span><span class="p">)</span>
+        <span class="n">stats</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_statistics</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">base_dir</span><span class="p">,</span> <span class="n">final_dir</span><span class="p">),</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+        <span class="n">verified_rate</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">average_verified_rate</span><span class="p">(</span><span class="n">stats</span><span class="p">)</span>
         <span class="n">csv_writer</span><span class="o">.</span><span class="n">writerow</span><span class="p">([</span><span class="n">title</span><span class="p">,</span> <span class="n">verified_rate</span><span class="p">])</span>
 </pre></div>
 

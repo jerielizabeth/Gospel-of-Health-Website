@@ -12,12 +12,13 @@ Notebook Files
 ==============
 
 + :doc:`Explore Top Topics by Year <2018-10-17-yearly-top-topics>`
-+ :doc:`Aggregated End-times Topics <aggregated-end-times-topics>`
++ :doc:`Explore Top Yearly Topic Categories <2019-01-17-yearly-top-labels>`
+
 
 Investigate Cycles
 ------------------
 
-+ :doc:`Explore Top Yearly Topic Categories <2019-01-17-Yearly-Top-Labels.ipynb>`
++ :doc:`Aggregated End-times Topics <aggregated-end-times-topics>`
 
 
 AntConc

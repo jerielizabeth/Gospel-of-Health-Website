@@ -46,15 +46,12 @@ In [2]:
 In [3]:
 
     
-import GoH.reports
-import GoH.utilities
-import GoH.clean
-import GoH.normalize
-import re
-import os
-from os">
+from text2topics import reports
+from text2topics import utilities
+from text2topics import clean
+import re">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2018-10-27T15:14:32-07:00">
+<meta property="article:published_time" content="2019-06-14T21:12:01-07:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -142,7 +139,7 @@ from os">
 </ul>
 </li>
 <li>
-<a href="../../../conclusion/">Conclusions</a>
+<a href="../../../conclusion/">Conclusion</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -152,6 +149,9 @@ from os">
                     </li>
 <li>
 <a href="../../../about/">Process Statement</a>
+                    </li>
+<li>
+<a href="../../../structure/">Project Structure</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -215,10 +215,9 @@ from os">
 <div class="prompt input_prompt">In [3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">GoH.reports</span>
-<span class="kn">import</span> <span class="nn">GoH.utilities</span>
-<span class="kn">import</span> <span class="nn">GoH.clean</span>
-<span class="kn">import</span> <span class="nn">GoH.normalize</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">reports</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">utilities</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">clean</span>
 <span class="kn">import</span> <span class="nn">re</span>
 <span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">from</span> <span class="nn">os</span> <span class="k">import</span> <span class="n">listdir</span>
@@ -270,7 +269,7 @@ from os">
 <div class="prompt input_prompt">In [6]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">spelling_dictionary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="n">wordlists</span><span class="p">,</span> <span class="n">wordlist_dir</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">spelling_dictionary</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">create_spelling_dictionary</span><span class="p">(</span><span class="n">wordlist_dir</span><span class="p">,</span> <span class="n">wordlists</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -332,7 +331,7 @@ from os">
 <div class="prompt input_prompt">In [10]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">stats</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">base_dir</span><span class="p">,</span> <span class="n">cycle</span><span class="p">),</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">stats</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">base_dir</span><span class="p">,</span> <span class="n">cycle</span><span class="p">),</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -377,8 +376,8 @@ Total token count: 1803211
 <div class="prompt input_prompt">In [11]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">stats</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">50</span> <span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">stats</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">50</span> <span class="p">)</span>
 </pre></div>
 
 </div>
@@ -525,7 +524,7 @@ Total token count: 1803211
 <div class="prompt input_prompt">In [12]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">tokens_with_special_characters</span><span class="p">(</span><span class="n">errors_summary</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">reports</span><span class="o">.</span><span class="n">tokens_with_special_characters</span><span class="p">(</span><span class="n">errors_summary</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -1569,14 +1568,14 @@ Total token count: 1803211
 <span class="n">prev</span> <span class="o">=</span> <span class="s2">"baseline"</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction1"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
 
     <span class="c1"># Substitute for all other dashes</span>
     <span class="n">content</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"—-—–‑"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"-"</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
@@ -1603,7 +1602,7 @@ Total token count: 1803211
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -1649,8 +1648,8 @@ Total token count: 1798072
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -1743,14 +1742,14 @@ Total token count: 1798072
 <span class="n">prev</span> <span class="o">=</span> <span class="n">cycle</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction2"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
 
     <span class="n">content</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"(\w+)(\-\s{1,})([a-z]+)"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"\1\3"</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
 
@@ -1770,7 +1769,7 @@ Total token count: 1798072
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -1816,8 +1815,8 @@ Total token count: 1779991
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -1910,17 +1909,17 @@ Total token count: 1779991
 <span class="n">prev</span> <span class="o">=</span> <span class="n">cycle</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction3"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
     
     <span class="n">text</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"[0-9,!?$:;&amp;]"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
-    <span class="n">tokens</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
     
     <span class="n">replacements</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="k">for</span> <span class="n">token</span> <span class="ow">in</span> <span class="n">tokens</span><span class="p">:</span>
@@ -1936,7 +1935,7 @@ Total token count: 1779991
         <span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="si">{}</span><span class="s2">: </span><span class="si">{}</span><span class="s2">"</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">replacements</span><span class="p">))</span>
         
         <span class="k">for</span> <span class="n">replacement</span> <span class="ow">in</span> <span class="n">replacements</span><span class="p">:</span>
-            <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">replace_pair</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
+            <span class="n">content</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">replace_pair</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="k">pass</span>
 
@@ -3044,7 +3043,7 @@ TCOG19201201-V07-12-page9.txt: [('Decem-', 'Decem'), ('-', ''), ('--', '-')]
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -3090,8 +3089,8 @@ Total token count: 1780311
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -3184,17 +3183,17 @@ Total token count: 1780311
 <span class="n">prev</span> <span class="o">=</span> <span class="n">cycle</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction4"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
     
     <span class="n">text</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"[0-9,!?$:;&amp;]"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
-    <span class="n">tokens</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
     
     <span class="n">corrections</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="k">for</span> <span class="n">token</span> <span class="ow">in</span> <span class="n">tokens</span><span class="p">:</span>
@@ -3218,7 +3217,7 @@ Total token count: 1780311
         <span class="nb">print</span><span class="p">(</span><span class="s1">'</span><span class="si">{}</span><span class="s1">: </span><span class="si">{}</span><span class="s1">'</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">corrections</span><span class="p">))</span>
 
         <span class="k">for</span> <span class="n">correction</span> <span class="ow">in</span> <span class="n">corrections</span><span class="p">:</span>
-            <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">replace_pair</span><span class="p">(</span><span class="n">correction</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
+            <span class="n">content</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">replace_pair</span><span class="p">(</span><span class="n">correction</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="k">pass</span>
 
@@ -4205,7 +4204,7 @@ TCOG19201201-V07-12-page9.txt: [("'ter", 'ter'), ("'Webster.", 'Webster.')]
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -4251,8 +4250,8 @@ Total token count: 1780311
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -4345,26 +4344,26 @@ Total token count: 1780311
 <span class="n">prev</span> <span class="o">=</span> <span class="n">cycle</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction5"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
     
     <span class="n">text</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"[0-9,!?$:;&amp;]"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
-    <span class="n">tokens</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
-    <span class="n">errors</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">identify_errors</span><span class="p">(</span><span class="n">tokens</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">)</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">errors</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">identify_errors</span><span class="p">(</span><span class="n">tokens</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">)</span>
 
-    <span class="n">replacements</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">check_if_stem</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">tokens</span><span class="p">,</span> <span class="n">get_prior</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+    <span class="n">replacements</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">check_if_stem</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">tokens</span><span class="p">,</span> <span class="n">get_prior</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
     
     <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">replacements</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
         <span class="nb">print</span><span class="p">(</span><span class="s1">'</span><span class="si">{}</span><span class="s1">: </span><span class="si">{}</span><span class="s1">'</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">replacements</span><span class="p">))</span>
 
         <span class="k">for</span> <span class="n">replacement</span> <span class="ow">in</span> <span class="n">replacements</span><span class="p">:</span>
-            <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">replace_split_words</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
+            <span class="n">content</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">replace_split_words</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="k">pass</span>
 
@@ -4571,7 +4570,7 @@ TCOG19201201-V07-12-page2.txt: [('co', 'operation'), ('testi', 'MOnY')]
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -4617,8 +4616,8 @@ Total token count: 1780131
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -4711,26 +4710,26 @@ Total token count: 1780131
 <span class="n">prev</span> <span class="o">=</span> <span class="n">cycle</span>
 <span class="n">cycle</span> <span class="o">=</span> <span class="s2">"correction6"</span>
 
-<span class="n">directories</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
+<span class="n">directories</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">define_directories</span><span class="p">(</span><span class="n">prev</span><span class="p">,</span> <span class="n">cycle</span><span class="p">,</span> <span class="n">base_dir</span><span class="p">)</span>
 <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">]):</span>
     <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">])</span>
 
 <span class="n">corpus</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">listdir</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">])</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">f</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)</span> <span class="ow">and</span> <span class="n">isfile</span><span class="p">(</span><span class="n">join</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">f</span><span class="p">)))</span>
 
 <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">corpus</span><span class="p">:</span>
-    <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">readfile</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'prev'</span><span class="p">],</span> <span class="n">filename</span><span class="p">)</span>
     
     <span class="n">text</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s2">"[0-9,!?$:;&amp;]"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
-    <span class="n">tokens</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
-    <span class="n">errors</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">identify_errors</span><span class="p">(</span><span class="n">tokens</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">)</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">utilities</span><span class="o">.</span><span class="n">tokenize_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">errors</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">identify_errors</span><span class="p">(</span><span class="n">tokens</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">)</span>
 
-    <span class="n">replacements</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">check_if_stem</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">tokens</span><span class="p">,</span> <span class="n">get_prior</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="n">replacements</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">check_if_stem</span><span class="p">(</span><span class="n">errors</span><span class="p">,</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">tokens</span><span class="p">,</span> <span class="n">get_prior</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
     
     <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">replacements</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
         <span class="nb">print</span><span class="p">(</span><span class="s1">'</span><span class="si">{}</span><span class="s1">: </span><span class="si">{}</span><span class="s1">'</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">replacements</span><span class="p">))</span>
 
         <span class="k">for</span> <span class="n">replacement</span> <span class="ow">in</span> <span class="n">replacements</span><span class="p">:</span>
-            <span class="n">content</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">clean</span><span class="o">.</span><span class="n">replace_split_words</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
+            <span class="n">content</span> <span class="o">=</span> <span class="n">clean</span><span class="o">.</span><span class="n">replace_split_words</span><span class="p">(</span><span class="n">replacement</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="k">pass</span>
 
@@ -4911,7 +4910,7 @@ TCOG19201201-V07-12-page9.txt: [('B', 'eing'), ('E', 'xceptionally'), ('M', 'iss
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/summary.py</span>
-<span class="n">summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+<span class="n">summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">overview_report</span><span class="p">(</span><span class="n">directories</span><span class="p">[</span><span class="s1">'cycle'</span><span class="p">],</span> <span class="n">spelling_dictionary</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -4957,8 +4956,8 @@ Total token count: 1779943
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># %load shared_elements/top_errors.py</span>
-<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
-<span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
+<span class="n">errors_summary</span> <span class="o">=</span> <span class="n">reports</span><span class="o">.</span><span class="n">get_errors_summary</span><span class="p">(</span> <span class="n">summary</span> <span class="p">)</span>
+<span class="n">reports</span><span class="o">.</span><span class="n">top_errors</span><span class="p">(</span> <span class="n">errors_summary</span><span class="p">,</span> <span class="mi">10</span> <span class="p">)[:</span><span class="mi">50</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -5047,7 +5046,7 @@ Total token count: 1779943
 <div class="prompt input_prompt">In [49]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">GoH</span><span class="o">.</span><span class="n">reports</span><span class="o">.</span><span class="n">docs_with_high_error_rate</span><span class="p">(</span><span class="n">summary</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">reports</span><span class="o">.</span><span class="n">docs_with_high_error_rate</span><span class="p">(</span><span class="n">summary</span><span class="p">)</span>
 </pre></div>
 
 </div>

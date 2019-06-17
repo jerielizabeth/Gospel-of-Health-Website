@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/</loc>
-  <lastmod>2019-05-31T21:54:00Z</lastmod>
+  <lastmod>2019-06-17T21:00:00Z</lastmod>
  </url>
  <url>
   <loc>/2017/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2019-05-31T21:21:00Z</lastmod>
+  <lastmod>2019-06-17T20:57:00Z</lastmod>
  </url>
  <url>
   <loc>/author/</loc>
@@ -207,7 +207,7 @@
  </url>
  <url>
   <loc>/full-text/index-1.html</loc>
-  <lastmod>2019-06-11T20:03:00Z</lastmod>
+  <lastmod>2019-06-17T21:03:00Z</lastmod>
  </url>
  <url>
   <loc>/introduction/</loc>
@@ -236,6 +236,10 @@
  <url>
   <loc>/notebooks/2-Clean/arai-ocr-evaluation-and-correction/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/2-Clean/calculate-error-rates-round-4/</loc>
+  <lastmod>2019-06-15T21:27:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/2-Clean/ce-ocr-evaluation-and-correction/</loc>
@@ -499,11 +503,15 @@
  </url>
  <url>
   <loc>/notebooks/data/</loc>
-  <lastmod>2019-01-24T06:26:00Z</lastmod>
+  <lastmod>2019-06-17T20:31:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/data/Analyze/readme/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/notebooks/data/data/</loc>
+  <lastmod>2019-06-17T20:31:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/license/</loc>
@@ -512,6 +520,14 @@
  <url>
   <loc>/notebooks/notebooks-overview/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/project-structure/</loc>
+  <lastmod>2019-06-17T20:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/structure/</loc>
+  <lastmod>2019-06-17T21:00:00Z</lastmod>
  </url>
  <url>
   <loc>/topics/</loc>

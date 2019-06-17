@@ -108,7 +108,7 @@
 </ul>
 </li>
 <li>
-<a href="../conclusion/">Conclusions</a>
+<a href="../conclusion/">Conclusion</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -118,6 +118,9 @@
                     </li>
 <li class="active">
 <a href=".">Process Statement <span class="sr-only">(active)</span></a>
+                    </li>
+<li>
+<a href="../structure/">Project Structure</a>
                     </li>
 <li>
 <a href="../author/">About the Author</a>
@@ -164,7 +167,7 @@
 <h2 id="data-for-historical-analysis">Data for Historical Analysis</h2>
 <p>As with any digital project, <em>A Gospel of Health and Salvation</em> is dependent on the availability of digital sources upon which to operate. Due to the denomination’s commitment to making their historical materials as widely available as possible, a large percentage of the periodical literature of the denomination has been digitized and is available through the church’s websites. At the time of writing, the periodical scans were hosted at <a href="http://documents.adventistarchives.org/Periodicals/Forms/AllFolders.aspx">the Online Archive</a> of the denomination’s Office of Archives, Statistics, and Research. The files are also increasingly available through the <a href="https://www.adventistdigitallibrary.org/">Adventist Digital Library</a>, a compilation archive for a range of historic SDA materials. A full listing of the included periodicals, with links to the original PDF files, is included in the <a href="../bibliography/biblio-main">bibliography</a>.</p>
 <p>In <a href="../essays/chapter-2">Chapter Two</a> of the dissertation I describe the processes by which I selected, evaluated, and cleaned the textual data from the digital files. That work is also documented in the <a href="../notebooks/1-Gather/readme-1">Gather</a>, <a href="../notebooks/2-Clean/readme-2">Clean</a>, and <a href="../notebooks/4-Preprocess/readme-4">Preprocess</a> Notebooks. I do not offer my own interface for accessing the digital files as part of this project, recommending instead that they be accessed and viewed through the infrastructure of the SDA. I can make the processed text that was used for topic modeling phase available on request. However, that text should also be recreatable using the original scans and the associated notebook files.</p>
-<p>I used additional data sources to support the analysis of the periodicals. This included place and people names from the denomination’s Yearbooks, place names from USGS, and third-party spelling lists. The data that I compiled or generated are <a href="../">available for download</a> through the site, while external data sources are provided via links to the original sources.</p>
+<p>I used additional data sources to support the analysis of the periodicals. This included place and people names from the denomination’s Yearbooks, place names from USGS, and third-party spelling lists. The data that I compiled or generated are <a href="../notebooks/data/data">available for download</a> through the site, while external data sources are provided via links to the original sources.</p>
 <h2 id="computational-analysis">Computational Analysis</h2>
 <p>From automating the download of the denominational periodicals to visualizing the topic model, this project has relied on computational methods at each stage of the project. The primary coding language for the project is Python, as documented in the included <a href="../notebooks/notebooks-overview">Notebooks</a> section of the dissertation. Additionally, I used <a href="https://www.laurenceanthony.net/software/antconc/">AntConc</a> for computing keyness values as part of my evaluation of the strength of the topic model, as I discuss in <a href="../essays/chapter-3">Chapter 3</a>. Other than the work in AntConc and my initial pass at downloading the PDF documents and extracting the text, all the computational pieces of the dissertation were done using Python libraries rather than software libraries so that the work could be easily documented and reproduced.</p>
 <p>The final topic models were created using <a href="http://mallet.cs.umass.edu/">Mallet</a> through the command-line interface, as documented in the <a href="../notebooks/5-Model/readme-5">Model</a> notebook. Some preprocessing steps, such as connecting of noun phrases and the creation of the stopword list were completed using <a href="https://radimrehurek.com/gensim/">Gensim</a>. Analysis of the model done using Python, using the <a href="https://pandas.pydata.org/">Pandas</a>, <a href="https://plot.ly/python/">Plotly</a>, and <a href="https://github.com/bmabey/pyLDAvis">pyLDAviz</a> libraries for data analysis and visualization.</p>

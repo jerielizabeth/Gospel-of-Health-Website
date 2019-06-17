@@ -118,7 +118,7 @@ In [1]:
 </ul>
 </li>
 <li>
-<a href="../../../conclusion/">Conclusions</a>
+<a href="../../../conclusion/">Conclusion</a>
             </li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <b class="caret"></b></a>
@@ -128,6 +128,9 @@ In [1]:
                     </li>
 <li>
 <a href="../../../about/">Process Statement</a>
+                    </li>
+<li>
+<a href="../../../structure/">Project Structure</a>
                     </li>
 <li>
 <a href="../../../author/">About the Author</a>
@@ -191,7 +194,7 @@ In [1]:
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">gensim</span>
 <span class="kn">import</span> <span class="nn">glob</span>
-<span class="kn">import</span> <span class="nn">GoH.corpora</span>
+<span class="kn">from</span> <span class="nn">text2topics</span> <span class="k">import</span> <span class="n">preprocess</span>
 <span class="kn">import</span> <span class="nn">logging</span>
 <span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">import</span> <span class="nn">sys</span>
@@ -298,7 +301,7 @@ In [1]:
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">corpus</span> <span class="ow">in</span> <span class="n">corpora</span><span class="p">:</span>
-    <span class="n">processed_corpus</span> <span class="o">=</span> <span class="n">GoH</span><span class="o">.</span><span class="n">corpora</span><span class="o">.</span><span class="n">Lemma_Corpus</span><span class="p">(</span><span class="n">corpus</span><span class="p">)</span>
+    <span class="n">processed_corpus</span> <span class="o">=</span> <span class="n">preprocess</span><span class="o">.</span><span class="n">Lemma_Corpus</span><span class="p">(</span><span class="n">corpus</span><span class="p">)</span>
     <span class="n">subset_id</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">corpus</span><span class="p">)</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'.'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
 
     <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">corpusDir</span><span class="p">,</span> <span class="s2">"</span><span class="si">{}</span><span class="s2">.txt"</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">subset_id</span><span class="p">)),</span> <span class="s2">"w"</span><span class="p">)</span> <span class="k">as</span> <span class="n">o</span><span class="p">:</span>
