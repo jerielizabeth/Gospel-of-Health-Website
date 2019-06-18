@@ -26,8 +26,12 @@
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
  <url>
+  <loc>/acknowledgments/</loc>
+  <lastmod>2019-06-17T23:55:00Z</lastmod>
+ </url>
+ <url>
   <loc>/archive.html</loc>
-  <lastmod>2019-06-17T20:57:00Z</lastmod>
+  <lastmod>2019-06-17T23:55:00Z</lastmod>
  </url>
  <url>
   <loc>/author/</loc>
@@ -207,7 +211,7 @@
  </url>
  <url>
   <loc>/full-text/index-1.html</loc>
-  <lastmod>2019-06-17T21:03:00Z</lastmod>
+  <lastmod>2019-06-18T02:23:00Z</lastmod>
  </url>
  <url>
   <loc>/introduction/</loc>
@@ -486,24 +490,12 @@
   <lastmod>2019-02-07T23:50:00Z</lastmod>
  </url>
  <url>
-  <loc>/notebooks/7-Analyze/2019-02-explore-doc-by-year/</loc>
-  <lastmod>2019-04-02T04:04:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/7-Analyze/2019-03-docs-for-ch-4-v1/</loc>
-  <lastmod>2019-04-02T04:04:00Z</lastmod>
- </url>
- <url>
   <loc>/notebooks/7-Analyze/aggregated-end-times-topics/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/7-Analyze/readme-7/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
- </url>
- <url>
-  <loc>/notebooks/data/</loc>
-  <lastmod>2019-06-17T20:31:00Z</lastmod>
  </url>
  <url>
   <loc>/notebooks/data/Analyze/readme/</loc>
@@ -520,10 +512,6 @@
  <url>
   <loc>/notebooks/notebooks-overview/</loc>
   <lastmod>2019-01-24T06:26:00Z</lastmod>
- </url>
- <url>
-  <loc>/project-structure/</loc>
-  <lastmod>2019-06-17T20:58:00Z</lastmod>
  </url>
  <url>
   <loc>/structure/</loc>

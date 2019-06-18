@@ -2,7 +2,7 @@
 title: About the DfR Browser 
 date: 2019-01-24 00:00:00 UTC
 slug: browser-about
-# suppress-bibliography: true
+suppress-bibliography: true
 ---
 
 At the core of the dissertation is a 250 topic model of the periodical literature of the denomination. As I discuss throughout the dissertation, topic modeling is a form of unsupervised machine learning that enables the exploration of a corpus of literature based on the co-occurrence of words, clustered into units called "topics." While for the computer, the topics represent the likelihood of word occurrences in different contexts, for the human reader the topic can be used to track different themes or discourses within a corpus. And although the model tends to be unstable, in that as a probabilistic representation of the words in a corpus, it will represent the text differently each time the algorithm is run, it provides a useful abstraction of a corpus of literature, a possible interpretation that highlights different features of the collection of texts.
