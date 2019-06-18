@@ -28,6 +28,8 @@ Despite publishing, traveling, and preaching widely, Miller's teachings would ha
 
 It is clear that Himes had an excellent sense of "marketing" - he knew how to engage people in a cause and how to gain, if not converts, at least attention. He worked to ensure the widest possible reach for Miller's teachings, establishing periodicals in the key cities of Boston, New York, Philadelphia, and Cincinnati. He also understood the value of "showmanship," acting quickly on a decision to build a "great tent," one that seated 4,000 people and was one of the largest to be seen in America; publishing and selling colorful charts to illustrate the intricate (and obtuse) details of Miller's interpretation; and convincing Miller to offer a more definitive date. He also began holding regular conference meetings for those convinced by Miller's teachings. These gatherings provided a forum for the dispersed community to come together, to work to reach consensus on some of the contested details of Miller's teaching, and to agree on a strategy for spreading the word.^[@Judd1987, pp. 39-48.]
 
+<div class="embedded-left">
+<fig>
 [![Miller's chart of the world and Daniel's visions.](/images/Chronological_Chart_of_the_World.png)](/images/Chronological_Chart_of_the_World.png)
 
 <figcaption>**Figure 1.1**: William Miller's "Chronological Chart of the World to which
@@ -35,13 +37,17 @@ is added, a Chart of Daniel's Visions" (1842). From the Adventist
 Digital Library.
 https://adventistdigitallibrary.org/adl-421835/chronological-chart-world.
 Accessed 6 September 2017.</figcaption>
+</fig>
 
+<fig>
 [![Fitch's chart of the visions of Daniel and John.](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
 
 <figcaption>**Figure 1.2**: Charles Fitch's "A Chronological Chart of the Visions of
 Daniel and John." (1843). From the Adventist Digital Library.
 https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john.
 Accessed 6 September 2017.</figcaption>
+</fig>
+</div>
 
 The efforts of Himes launched Miller and his teachings into the public consciousness and created a community around the belief that the second coming would occur between March 21, 1843, and March 21, 1844. In 1842, just two years after he joined the cause, Himes claimed fifty-thousand readers for *Signs of the Times* and between three and four hundred ministers distributing the materials.^[@Dick1998, p. 6; @Arthur1987, p. 46] By 1844, Himes had overseen the foundation of a number of serial publications, tracts, and pamphlets and had organized, attended, and spoken at conferences around the United States and Canada. This scale of publication and organization is notable. While most evangelical movements of the time utilized the press to spread their message and unite believers, under the leadership of Himes, the Millerites "published tracts, memoirs, and newspapers on a scale never before imagined."^[@Brekus1998, p. 323] As a result of the successful publishing campaigns, Miller became a highly sought-after speaker, claiming to have given about 4000 lectures in five hundred towns between 1840 and 1844. In addition to Miller and Himes, by Miller's calculations some 200 ministers in the United States and Canada had embraced his interpretation, and an additional 500 public lecturers circulated his views.^[@Miller1845, p. 4]
 

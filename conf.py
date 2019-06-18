@@ -166,14 +166,15 @@ NAVIGATION_LINKS = {
 
             "Notebooks"
         ),
-        ("/conclusion/", "Conclusions"),
+        ("/conclusion/", "Conclusion"),
         # ("/topics/", "Topics"),
         # ("http://goh.readthedocs.io/en/latest/", "Code Documentation"),
         (
             (
-                # ("/acknowledgments/", "Acknowledgments"),
+                ("/acknowledgments/", "Acknowledgments"),
                 ("/bibliography/biblio-main", "Bibliography"),
                 ("/about/", "Process Statement"),
+                ("/structure/", "Project Structure"),
                 ("/author/", "About the Author"),
             ),
             "About"
@@ -227,6 +228,7 @@ POSTS = (
     ("posts/about.md", "", "post.tmpl"),
     ("posts/browser-about.md", "", "post.tmpl"),
     ("posts/conclusion.md", "", "post.tmpl"),
+    ("posts/structure.md", "", "post.tmpl"),
     ("posts/chapter-1/*.md", "essays/", "post.tmpl"),
     ("posts/chapter-1/*.rst", "essays/", "post.tmpl"),
     # ("posts/chapter-1/*.html", "essays/", "post.tmpl"),

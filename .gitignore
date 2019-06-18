@@ -4,6 +4,7 @@ __pycache__/
 cache/
 output/
 pages/notebooks
+chapter_docs/
 
 # Hide doc files
 *.docx

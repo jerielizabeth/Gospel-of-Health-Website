@@ -4,6 +4,8 @@
 .. date: 2017-08-07
 .. description: 
 .. type: text
+.. suppress-bibliography: true
+
 -->
 
 
@@ -21,19 +23,22 @@ By Jeri E. Wieringa
 
 ## Abstract
 
-<!-- Note on Formats
-Due to constraints in the processes around dissertations, the "official" version of the dissertation, according to George Mason University, is a PDF document which contains the introduction, chapter abstracts, and the bibliography. 
- -->
+*A Gospel of Health and Salvation* is a work of digital history &mdash; defined as the critical application of computational technologies to the study of the past &mdash; focused on the relationship between time and gender in Seventh-day Adventism. In it, I explore the puzzle of the denomination's prophet and religious leader, Ellen White, and her varied and seemingly contradictory writings on gender. One of few women religious leaders in nineteenth-century America, White is difficult to place within the history of American religion. Rising to prominance at the end of the Second Great Awakening, White promoted a vision of gender and women's participation in the work of salvation that fails to fit neatly into either histories of American feminism or histories of domesticity. Discussing White and her place in American religious history requires a different approach. 
+
+Using computational text analysis to find broad patterns in the denomination's periodical record, I highlight three cycles of end-times expectation that shaped the complex vision of gender articulated by White and other denomination leaders during the first seventy years of the denomination. These cycles enable me to bring together two theoretical frameworks often used to analyze the development of religious movements. Rather than a linear trajectory from religious sect to denomination, and concurrently from expansive understandings of gender to restrictive ones, the waves of end-times expectation opened space for alternative and expansive visions of gender at a number of points in the denomination's early history.
+
+Additionally, I argue for the "scholarliness" of the computational work that grounds my historical analysis. Rather than neutral, the work of selecting the corpus, preparing the text for analysis, selecting a modeling algorithms, visualizing the resulting model, and interpreting the results represents the first phase of interpretation and shapes the possibilities of the overall project. To make this multilayered argument, I created the dissertation as a website, rather than a traditional document. Hosted at [http://dissertation.jeriwieringa.com](http://dissertation.jeriwieringa.com), the web interface interweaves the technical, visual, and narrative aspects of the dissertation arguments. This site brings together the topic model of the denomination's periodical literature, the code used to create and analyze the mode, and four interpretive essays. Together these constitute the body of work that is *A Gospel of Health and Salvation*.
+
 ## Structure of the Dissertation
 
 The dissertation is designed so that readers can focus on areas of interest, while interlinking between the pages connects the different components of the project. The opening navigation outlines the two tracks through the dissertation. Additionally, the top navigation provides access to each of the different components of the dissertation. 
  
-+ The [model browser](link://slug/browser-about) provides access to the topic model at the center of this project.
-+ The essays, along with the [introduction](link://slug/introduction) and [conclusion](link://slug/conclusion), contain the main written components of the project.
-+ The [notebooks](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
-+ The [about](link://slug/about) pages includes the project bibliography and process statement.
++ The [**Model Browser**](link://slug/browser-about) provides access to the topic model at the center of this project.
++ The **Essays**, along with the [Introduction](link://slug/introduction) and [Conclusion](link://slug/conclusion), contain the main written components of the project.
++ The [**Notebooks**](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
++ The **About** pages includes the [Bibliography](link://slug/biblio-main), [an account of the structure of the dissertation](link://slug/structure), and the [Process Statement](link://slug/about).
 
-The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](), as well as in the [WayBack Machine](). Additionally, the source code for the components is available on [Github]().
+The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](), as well as in the [internet archive](https://web.archive.org/web/*/dissertation.jeriwieringa.com). Additionally, the source code for the components is available on [Github](https://github.com/search?q=user%3Ajerielizabeth+dissertation).
 
 ## Track 1: Ellen White and Gender in Seventh-day Adventism
 
@@ -77,21 +82,9 @@ For readers interested in my methodological argument regarding the use of comput
 - [Topic Model Browser](link://slug/browser-about)
 - [Code Notebooks](link://slug/notebooks-overview) 
 - [Process Statement](link://slug/about)
-<!-- - [Python Library]() -->
-<!-- - [Code Documentation]() -->
+- [Python Library](https://github.com/jerielizabeth/text2topics)
 
 </div>
 </div>
-
-
-<!-- Born out of the religious and cultural upheavals of the early and mid-nineteenth century, the culture of Seventh-day Adventism stood in productive tension with that of the major Protestant denominations of the time. A prolific community, the early SDA community used print as a primary mechanism to bring together like-minded individuals and to develop distinctive religious beliefs and culture. 
-
-Their extensive print record, a large portion of which has been digitized and made available by the denomination, provides a unique opportunity to explore the historical development of the religious movement as well as to interrogate the use of computational tools in historical analysis.  -->
-
-<!-- In this dissertation I use text mining and historical analysis to explore the relationship between beliefs about the end of time and the development of the religious culture of Seventh-day Adventism. I argue that there were three cycles of rising and falling end-times expectation during the first seventy years of the denominations history. *These periods of increasing and decreasing expectation of shaped the development of Seventh-day Adventism's religious culture in ways that can be seen particularly in gender norms around the process and work of salvation.*
-
-Using computational techniques to identify and explore this pattern of cultural development also raises questions of how to bridge the methods and epistemologies of history and data science. I argue that the relationship between these two approaches to knowledge is not straightforward. Combining computational methods and historical analysis requires attention to such details as corpus composition, data quality, code reproducibility, and methodology. 
-
-Computational work in the humanities occupies the intersection of multiple methods of exploration and meaning-making, including statistical analysis, historical narrative, visual rhetoric, and computer programming. One consequence of that intersection is that for such works to be understood and evaluated, the various forms of meaning-making and their interrelations must be documented and published as part of the scholarly product. In this project, I do that work through the form and content of the project, which argues for and models bringing together digital sources, computational methods, and historical analysis, or code, documentation, and narrative, to explore the religious culture of Seventh-day Adventism in the nineteenth-century United States. -->
 
 <div style="page-break-after: always;"></div>
