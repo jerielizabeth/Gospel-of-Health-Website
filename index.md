@@ -38,7 +38,7 @@ The dissertation is designed so that readers can focus on areas of interest, whi
 + The [**Notebooks**](link://slug/notebooks-overview) provide access to the code and data used in my analysis.
 + The **About** pages includes the [Bibliography](link://slug/biblio-main), [an account of the structure of the dissertation](link://slug/structure), and the [Process Statement](link://slug/about).
 
-The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](), as well as in the [internet archive](https://web.archive.org/web/*/dissertation.jeriwieringa.com). Additionally, the source code for the components is available on [Github](https://github.com/search?q=user%3Ajerielizabeth+dissertation).
+The project site and component elements are archived in the [George Mason University Libraries' Archival Repository](http://mars.gmu.edu/handle/1920/11437), as well as in the [internet archive](https://web.archive.org/web/*/dissertation.jeriwieringa.com). Additionally, the source code for the components is available on [Github](https://github.com/search?q=user%3Ajerielizabeth+dissertation).
 
 ## Track 1: Ellen White and Gender in Seventh-day Adventism
 

@@ -7,9 +7,7 @@ type: text
 suppress-bibliography: true
 ---
 
-> "The coming of Christ is nearer than when we first believed. The great controversy is nearing its end. The judgments of God are in the land. They speak in solemn warning, saying, "Be ye also ready; for in such an hour as ye think not the Son of man cometh." Matt. 24:44"
-
-> Ellen White, 1904^[@White1904, p. 252]
+> "The coming of Christ is nearer than when we first believed. The great controversy is nearing its end. The judgments of God are in the land. They speak in solemn warning, saying, "Be ye also ready; for in such an hour as ye think not the Son of man cometh." Matt. 24:44" <br /><span style="float:right">Ellen White, 1904^[@White1904, p. 252]</span>
 
 *A Gospel of Health and Salvation* is a work of digital history, defined as the self-reflective application of computational and web technologies to the study of the past. In it, I examine the role of Ellen White in the development of Seventh-day Adventism using computational text analysis of the periodicals produced by the denomination between 1849 and 1920. This introduction establishes the two foci of the dissertation: 
 
