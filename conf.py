@@ -161,7 +161,7 @@ NAVIGATION_LINKS = {
                 ("/notebooks/5-Model/readme-5/", "5. Model"),
                 ("/notebooks/6-Evaluate/readme-6/", "6. Evaluate"),
                 ("/notebooks/7-Analyze/readme-7/", "7. Analyze"),
-                ("/notebooks/data/", "Data"),
+                ("/notebooks/data/data", "Data"),
             ),
 
             "Notebooks"
