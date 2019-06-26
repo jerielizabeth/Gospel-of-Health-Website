@@ -5,11 +5,9 @@ slug: chapter-4
 suppress-bibliography: true
 ---
 
->As a people who claim to have advanced light, we are to devise ways and means by which to bring forth a corps of educated workmen for the various departments of the work of God. We need a well-disci­plined, cultivated class of young men and women in the Sanitarium, in the medical missionary work, in the office of publica­tion, in the conferences of different states, and in the field at large.
->Attributed to Ellen G. White. Published 1904.^[@Sutherland1903, p. 33.]
+>As a people who claim to have advanced light, we are to devise ways and means by which to bring forth a corps of educated workmen for the various departments of the work of God. We need a well-disci­plined, cultivated class of young men and women in the Sanitarium, in the medical missionary work, in the office of publica­tion, in the conferences of different states, and in the field at large. <br /> <span style="float:right">Attributed to Ellen G. White. Published 1904.^[@Sutherland1903, p. 33.]</span>
 
-> Woman, especially the woman of to-day, is too apt to become discontented with the quiet of home life and home-making. There is danger that the sentiment which is encouraging women to enter the professions and take a place in business life, will engender distaste for the nobler profession of home and character-building.
->Emma Sanderson, 1899.^[@Sanderson1899, p. 122.]
+> Woman, especially the woman of to-day, is too apt to become discontented with the quiet of home life and home-making. There is danger that the sentiment which is encouraging women to enter the professions and take a place in business life, will engender distaste for the nobler profession of home and character-building. <br /> <span style="float:right">Emma Sanderson, 1899.^[@Sanderson1899, p. 122.]</span>
 
 The role of women in Seventh-day Adventism, and the gender dynamics within the denomination more broadly, pose a curious puzzle. On the one hand, the leadership of Ellen White and the emphasis on health, with the concurrent need for women nurses and physicians to share the faith through health care, provided a robust framework for women to take an active role in the religious life of the denomination. At the same time, a focus on family and the home as the primary site of women's labor and the exclusion of women from ordained ministry reflected and reinforced more patriarchal power structures and a "separate sphere" for women's religious practice. As a result, church members heard multiple and often conflicting messages about the labor they were called to undertake in seeking their own salvation and that of those around them.
 
