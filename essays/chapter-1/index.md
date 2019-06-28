@@ -3,7 +3,7 @@ date: 2018-02-01 00:00:00 UTC
 title: The Emergence of Seventh-day Adventism
 slug: chapter-1
 suppress-bibliography: true
-tag: toggle
+# tag: toggle
 ---
 
 >I told the view to our little band in Portland, who then fully believed it to be of God. It was a powerful time. The solemnity of eternity rested upon us. About one week after this the Lord gave me another view, and shewed me the trials I must pass through, and that I must go and relate to others what he had revealed to me, and that I should meet with great opposition, and suffer anguish of spirit by going. But said the angel “The grace of God is sufficient for you: he will hold you up.” <br /> <span style="float:right">Ellen White, 1851^[@White1851, pp. 5-6.]</span>
