@@ -8,13 +8,12 @@ suppress-bibliography: true
 
 In order to identify periods of millennial expectation in the development of
 Seventh-day Adventism and show the effects of those periods on the culture of
-the religious movement, I use the computational method of topic modeling to
-identify patterns in the language of the denomination over time. That choice was
-made in consideration of the quality of the available data, the assumptions
+the religious movement, I used the computational method of topic modeling to
+identify patterns in the language of the denomination over time. I chose this method in consideration of the quality of the available data, the assumptions
 regarding time embedded in existing algorithms, and the research questions of
-the dissertation. Foundational to my research and shaping the interpretative
+the dissertation. Foundational to my research and shaping the interpretive
 possibilities of the project as a whole, there are three methodological aspects
-of this project that require a more detailed discussion. 
+that require a more detailed discussion. 
 
 + The [first is my selection of a
   corpus](#developing-a-corpus-for-a-gospel-of-health-and-salvation) for
@@ -24,13 +23,12 @@ of this project that require a more detailed discussion.
   analysis, and the ways my choices during text preparation shaped the analysis.
 + And the [third is my selection and use of a topic modeling
   algorithm](#creating-models-of-religious-language) that both fit the textual
-  data at hand and helped illuminate overall patterns in language and concerns
-  of the denomination. 
+  data at hand and helped illuminate overall patterns in the language of the denomination. 
 
 Discussions of methods, such as what follows here, and a commitment to
 reproducible code provide the information necessary to evaluate research based
 on computational analysis. One persistent critique of arguments based on
-computational analysis is that it is difficult to assess the soundness of
+computational analysis is that it is difficult to assess the soundness of the
 arguments.^[For example, see @Burton2015; @Da2019.] Even between projects that
 use similar modes of computational analysis, variations in corpus selection and
 processing can lead to conclusions that are difficult to compare. Some of that
@@ -38,7 +36,7 @@ difficulty can be addressed by discussing the methodological aspects of the
 project, such as the match between sources and question, the applicability of
 algorithms to the questions at hand, the process of applying the algorithm to
 the data, and the evaluation of the resulting model. Additionally, executing and
-documenting code in ways that can be reproduced by others makes the implicit and
+documenting code in ways that can be reproduced by others makes visible the implicit and
 explicit assumptions enacted in the code, opening it to evaluation and critique.
 By describing my sources, computational approach, and methods of interpretation,
 I am providing the means by which the project can be verified and assessed,
@@ -50,8 +48,8 @@ verification and assessment of historical research presented in monograph form.
 To identify significant and meaningful patterns in the development of the
 religious culture of Seventh-day Adventism, this project requires an appropriate
 set of sources to abstract from, both in terms of content and format. As I
-discuss in the [introduction](link://slug/introduction) and [chapter
-one](link://slug/chapter-1), periodicals played a key role in the development of
+discuss in the [introduction](link://slug/introduction) and [Chapter
+1](link://slug/chapter-1), periodicals played a key role in the development of
 the religious culture of early Seventh-day Adventism, and as such provide
 content well-suited to the intellectual question at hand. While most
 nineteenth-century religious denominations utilized print to connect their
@@ -62,8 +60,8 @@ that while "earlier evangelicals had realized the potential of the press, the
 Millerites published tracts, memoirs, and newspapers on a scale never before
 imagined." @Brekus1998, p. 323.] It was to periodicals that Ellen and James
 White first turned in their work to unite the adventists in the years after
-Miller's failed millennial prediction of October 21, 1844.^[@White1849, p. 6.]
-The choice of medium was defended in 1850, when Ellen reported that she was
+Miller's failed prediction of the second coming on October 21, 1844.^[@White1849, p. 6.]
+Ellen White defended the use of periodicals in 1850, reporting that she was
 shown in a vision that God was seeking to bring his people together around the
 truth of the seventh-day message, an effort that required "that the truth be
 published in a paper, as preached."^[@White1850, pp. 86-87. In subsequent
@@ -95,7 +93,7 @@ the bureaucratic documents of the denomination, including statistical documents,
 minutes and reports, and the major periodical titles of the denomination.
 Despite this institutional focus, the collection provides access to a wide
 variety of periodical literature produced by the denomination, including the
-central organs of the denomination to small regional and college publications.
+central organs of the denomination as well as regional and college publications.
 
 <div class="embedded-left">
 
@@ -184,8 +182,8 @@ and Herald), ST (Signs of the Times), YI
 The largest periodicals in my study are the four centrally produced
 denominational titles — the *Review and Herald* (RH), the *Youth's Instructor*
 (YI), *Signs of the Times* (ST), and the *Health Reformer* (HR). In these
-titles, the leaders of the denomination sought to guide the beliefs and
-practices of the denomination, publishing pieces on theology, health, and the
+titles, the leaders of the denomination sought to guide beliefs and
+practices, publishing pieces on theology, health, and the
 everyday life of Seventh-day Adventists. Also through these publications,
 community members responded back to the leadership through letters and
 submissions of their own. The corpus contains twice as many pages of the largest
@@ -195,9 +193,9 @@ and *Signs of the Times*, plus the *General Conference Bulletin*, *The Present
 Truth* and *Advent Review* constitute half of the entire corpus, weighting the
 dataset heavily toward the centrally produced publications of the denomination.
 
-However, relying on the central publications of the denomination would provide
+However, relying on the central publications would provide
 only a partial picture of the diversity of thought and practice within the
-denomination. While vital to understanding development of the institution over
+denomination. While vital to understanding the development of the institution over
 time, the viewpoints expressed in these publications privilege the official
 position of the denomination. Covering a number of topical and regional focuses,
 including education, health, missions, and “religious liberty,” the other half
@@ -225,15 +223,15 @@ example of this can be seen in the digitization and distribution of the
 denomination’s health periodicals. The *Health Reformer* was one of the early
 publications started by James and Ellen White, and was the first new publication
 launched after the denomination organized in 1863. By 1875, John Harvey Kellogg
-had taken the lead as the principal editor of the publication and his control
-over the publication was such that the publication closely mirrors the
-developments of Kellogg’s own understanding of health as it changed over time.
+had taken the lead as the principal editor and his control
+over the publication was such that the content of the periodical reflects the
+development of Kellogg’s own understanding of health as it changed over time.
 In 1907, Kellogg was disfellowshipped by the denomination, though he retained
 control over the publication of the *Health Reformer* and continued its
 publication well into the 20th century. The archivists and digitization teams at
 the Seventh-day Adventist church, however, did not include any issues of the
 *Health Reformer* (later known as *Good Health*) after 1907, an archival
-enactment of denominational politics and reflective of the fact after 1907,
+enactment of denominational politics and reflective of the fact that after 1907,
 Kellogg was no longer considered to be a voice of the denomination. Rather,
 *Life and Health,* which was published out of Washington, D.C., became the
 central publication for the denomination’s health message, one that was under
@@ -242,8 +240,8 @@ ever was.
 
 <iframe src="/interact/tokens_title_year.html"></iframe>
 
-<figcaption>**Figure 2.2**: Total tokens in the corpus per year, with
-color designating the periodical title. The total number of pages increases each year as the publishing work of the denomination expanded over time. [Created with the Plot.ly library](link://slug/charts-of-corpus-statistics).</figcaption>
+<figcaption>**Figure 2.2**: Total words in the corpus per year, with
+color designating the periodical title. The total number of words increases each year as the publishing work of the denomination expanded over time. [Created with the Plot.ly library](link://slug/charts-of-corpus-statistics).</figcaption>
 
 Beginning in 1883, twenty years after they formally organized, the SDA began
 publishing yearbooks to record and disseminate information about the
@@ -282,11 +280,11 @@ These were: *The Southern Watchman*, *Bible Students’ Library*, *Apples of Gol
 Library*, *Our Little Friend*, *East Michigan Banner*, *The Haskell Home
 Appeal*, *The Illinois Recorder*, *Southern Illinois Herald*, *The Wisconsin
 Reporter*, *Signs of the Times Magazine*, *The Present Truth*, *The Medical
-Evangelist*, *Field Tidings*. In addition, of the eight college publications,
+Evangelist*, and *Field Tidings*. In addition, of the eight college publications,
 only the *The Sligonian* has been digitized by the denomination.^[@YB1905, pp.
 100-105; @YB1921, pp. 183-186.] Although it has also been digitized, I did not
 locate the *Sabbath School Quarterly* in time for inclusion in this study. In
-total, out of the 52 title produced by the denomination between 1849 and 1920,
+total, out of the 52 titles produced by the denomination between 1849 and 1920,
 29 of the titles, or 55%, were available in digital formats and included in my
 study. If the college publications are excluded, 28 of the 44 main
 denominational periodicals, or 63%, were available digitally.^[See [Table
@@ -303,7 +301,7 @@ especially for the 19th-century, with holes in coverage between 1856-1859;
 denominational title produced by James White, contained material aimed at
 educating children in the Seventh-day Adventist faith. This is also a title that
 was frequently written for and edited by the women leaders of the denomination.
-Additional title with significant gaps in coverage are *The Welcome Visitor*
+Additional titles with significant gaps in coverage are *The Welcome Visitor*
 (later retitled the *Columbia Union Visitor*) and *The Indiana Reporter*. The
 gaps in the digital materials from the publication require creative strategies
 to use the limited issues available to reveal the distinctive voice these
@@ -349,10 +347,10 @@ information retrieval, as well as across the digital humanities, have developed
 a number of strategies for identifying and correcting regularly occurring
 errors. Much of this work has focused on texts produced before the 19th-century,
 as the difference in typographical conventions, such as the long s (ſ), create
-known challenges for modern OCR engines. In additional to developing a series of
+known challenges for modern OCR engines. In addition to developing a series of
 regular corrections to received textual data, current work in information
 retrieval is focused on using probability and machine learning to estimate the
-most likely correct substitution for errors given the corpus and general
+most likely correct substitution for errors using general
 language patterns.^[For example, see @Evershed2014, @Lasko2001, and
 @Underwood2011.] The work of computationally correcting the errors generated
 during character recognition is an important step in developing a source base
@@ -363,14 +361,14 @@ documents.
 ### Optical Character Recognition and the Creation of Digital Texts
 
 Institutional investment in the creation of digitized historical documents has
-reached the "pay-off" point where there is a sufficient amount of materials
-available to start to engage with questions of how digital and digitized
+reached the point where there is a sufficient amount of materials
+available to begin to engage questions of how digital and digitized
 resources might be used in computational historical studies. In addition to the
 resources of [Google Books](https://books.google.com/),
 [HathiTrust](https://www.hathitrust.org/), the [Internet
 Archive](https://archive.org/index.php), and [Project
 Gutenberg](https://www.gutenberg.org/), historians looking at the United States
-have the resources of the collections of the [Library of
+have the collections of the [Library of
 Congress](https://www.loc.gov/collections), the [National
 Archives](https://www.archives.gov/), and the [Digital Public Library of
 America](https://dp.la/), along with a multitude of state, local, and
@@ -435,7 +433,7 @@ and layout to spelling decreases. Because OCR engines were created for (and
 trained on) printed text from second half of the 20th century, the error rates
 for materials published earlier tend to be higher. Differences in typography, in
 layout conventions, and lack of standardized spelling all contribute to the
-"errors" that OCR engines are likely to make when processing historic document.
+errors that OCR engines are likely to make when processing historic document.
 In addition, physical blemishes, such as tears, stains, and discoloration in the
 case of the material objects, low image quality, and previous scanning errors
 introduce additional challenges for the OCR engine. It is this textual layer,
@@ -467,11 +465,11 @@ regardless of method, tackling questions of data transparency and accuracy is of
 increasing importance as part of documenting the process of historical research.
 
 These data challenges are not limited to large subscription sources, as
-documented by the *[Mapping Texts](http://mappingtexts.org/)* project from
+documented by the *[Mapping Texts](http://mappingtexts.org/)* project from the 
 University of North Texas and the Bill Lane Center for the American West at
 Stanford University, and supported by the National Endowment for the Humanities.
 Originally conceived with the goal of developing tools and strategies for
-identifying meaningful patterns with the millions of newspaper pages of the
+identifying meaningful patterns within the millions of newspaper pages of the
 *[Chronicling America](https://chroniclingamerica.loc.gov/)* project, the teams
 quickly realized that their ability to ask research questions of the data was
 dependent upon understanding which questions "*could* be answered with the
@@ -550,7 +548,7 @@ Hemy Ros in their evaluation of the OCR quality of the British Library's
 pages digitized by the British Library, the team sought to calculate the highest
 areas of OCR accuracy achieved by comparing the generated XML text to a sample
 that had been "double re-keyed".^[@Tanner2009, §5.] While providing very
-accurate results about the quality of generated texts, this approach is highly
+accurate results about the quality of the generated texts, this approach is highly
 labor intensive. For my much smaller corpus of 197,000 documents, creating a
 ground truth  dataset of 1% represents nearly 1,000 hours of work, assuming that
 each document could be transcribed with 100% accuracy in 30 minutes. The second
@@ -563,7 +561,7 @@ in the wordlist, does not match the text on the page or where spelling
 variations that occur on the page are flagged as OCR errors because they are not
 included in the wordlist.
 
-Weighing the disadvantages of both approaches, I choose to use the second
+Weighing the disadvantages of both approaches, I chose to use the second
 method, comparing the generated OCR to an authoritative wordlist. The creation
 of a source specific wordlist also opens up possibilities for error correction
 using a probabilistic approach, such as that used by Lasko and
@@ -651,7 +649,7 @@ For the documents scanned and OCRed by the Seventh-day Adventist church, such
 problems of layout recognition are a recurring feature within the textual data.
 To highlight the challenge that layout recognition causes for the OCR of
 historic newspapers, I used Adobe Acrobat Pro to reanalyze one of the early
-*Review and Herald* PDF files, which identifing and highlighting the different
+*Review and Herald* PDF files, which identified and highlighted the different
 sections of text that the program recognizes on the page (see Figures 2.4 and
 2.5). While sometimes successful, often times the peculiarities of
 nineteenth-century documents, including the narrow columns and the small font
@@ -678,7 +676,7 @@ document processing and, as such, require time. Databases that organize content
 based on the article (rather than the issue), such as those produced by the
 *American Antiquarian Society*, are incentivized to ensure that the boundaries
 of each article are correctly detected. However, for large scale digitization
-projects, particularly those with limited budgts, often few resources are
+projects, particularly those with limited budgets, often few resources are
 devoted to training the OCR engine. For many of these projects, such as the
 digital archive of the SDA, the primary "reader" of the document is assumed to
 be human and the primary object is the image file of the original document. The
@@ -857,7 +855,7 @@ character recognition, it is difficult to address one of the most common errors,
 words that have been split due to line endings. While it might be possible to
 use the average line length to identify and remedy some of the errors, it is
 difficult to do at scale due to the multiple variations in layout across years
-and periodical title. 
+and periodical titles. 
 
 In working through my corpus for *A Gospel of Health and Salvation,* [I
 processed each title separately in order to account for the peculiarities of
@@ -919,29 +917,29 @@ computational methods for history to continue to mature as a form of analysis,
 the limitations of the available data needs to become a research question to be
 address head-on. With a clear understanding of the data and the types of
 analysis it reliably supports, the academic community can begin to improve the
-available data and develop algorithms designed to support on the complex,
+available data and develop algorithms designed to support the complex,
 interpretive forms of analysis of the humanities.
 
 ## Creating Models of Religious Language
 
 Computational text analysis spans a wide range of different strategies for
 working with textual data, such as computing word frequencies and the
-correlation between words, identifing and extracting key features such as
-personal and place names, predicting sentiment, identifing text reuse,
+correlation between words, identifying and extracting key features such as
+person and place names, predicting sentiment, identifying text reuse,
 categorizing texts, and clustering textual features. These techniques can be
 used as a way to develop data for use as evidence within a larger algorithm or
 as the core for arguments about the relationship between different aspects of a
 text or among different factors across an entire corpus. Increasingly of
 interest in the computational social sciences, textual analysis is used in
 fields from political science to history to explore legal, political, and
-cultural language over time as a window into questions of social and cultural
+cultural language over time as a window onto questions of social and cultural
 change.^[For a list of projects using computational text analysis in various
 fields, see @OConnor2011, pp. 1-2.]
 
 In a 2014 talk about machine learning and the social sciences, Hanna Wallach
 described three major categories of modeling tasks: "prediction" of new or
 missing information based on what is known, which is often the primary concern
-of computer scientists; "explanation" of the observed patterns, which is concern
+of computer scientists; "explanation" of the observed patterns, which is the concern
 of social scientists; and "exploration" of unknown patterns in observed data,
 which is done by both, and I would add is one of the primary areas of interest
 for computational humanities scholars.^[@Wallach2014] While some scholars within
@@ -993,7 +991,7 @@ probability of their co-occurrence within documents. This method is an example
 of an “unsupervised”algorithm, as I passed all the documents to the algorithm
 with no contextual or category information other than the number of topics to
 divide the words into and some additional parameters controlling the way the
-algorithm processed the data. The main alternative to unsupervised is supervised
+algorithm processes the data. The main alternative to unsupervised is supervised
 learning, where a researcher identifies pages as containing, say, “domestic”
 content, “health”content, or “theological” content, uses an algorithm to
 identify the features that distinguished those categories from one another, and
@@ -1003,7 +1001,7 @@ analysis, they require the use of a "labeled" dataset, where the documents have
 already been assigned to different categories, often by content experts. With
 the scale of the periodical literature of the denomination and the constraints
 of the single-author dissertation, this type of analysis is a future goal for
-the project, but not one that could reasonable form the basis of the
+the project, but not one that could reasonably form the basis of the
 dissertation research. Unsupervised learning, by contrast, does not require such
 up front categorization work on the part of the researcher, and provides a way
 to view broad patterns across large bodies of texts, patterns which could be
@@ -1037,14 +1035,14 @@ effect of news sources on the frequency and type of coverage for a topic.^[For
 an example of this type of research, see @Roberts2016a.]
 
 My choice of topic modeling as my primary exploratory method was informed by the
-research questions I was pursing and the quality of the data available. While
+research questions I was pursuing and the quality of the data available. While
 there are many forms of computational text analysis that the periodical data of
 the SDA might support, not all of those methods were clearly appropriate either
-to the questions at hand or to still messy data extracted from the scanned
+to the questions at hand or to the still messy data extracted from the scanned
 periodicals. Examining the role of time in the development of the culture of
 Seventh-day Adventism is a question that requires the exploration of language
 use as well as development of "latent" or implicit patterns in discourse over
-time. This work lends itself to an exploratory approach, where computation
+time. This work lends itself to an exploratory approach, where computational
 methods are used to surface broad patterns in the textual data and to identify
 places for further close reading. While topic modeling has its disadvantages, in
 that as a probabilistic model it is not repeatable in ways required by more
@@ -1090,7 +1088,7 @@ application of computational algorithms to the materials and questions of the
 past, but is shaped by the processing steps both before and after the creation
 of the computational model. While this work is often ignored or only obliquely
 referenced as part of the processes that led to the more interesting final
-model, as Rhody and Burton have argued, the work of text preparation and post
+model, as Rhody and Burton have argued the work of text preparation and post
 analysis greatly shapes the resultant model and the shape of developing
 analysis.^[@Rhody2013 and @Burton2015.] Particularly as one moves toward
 analysis based on computational analysis, details such as tokenization,
@@ -1165,17 +1163,15 @@ included what would otherwise be considered meaningful nouns, such as "god."
 Scholars such as Rhody have raised concerns regarding the practice of relying on
 standard stopword lists when processing texts for humanities research.^[cite]
 This approach provides an alternative to relying on standard lists or manually
-curating a subject-specific list, one that builds on the particularity of a
-given text and uses that to automate the identification of words to remove.
+curating a subject-specific list, building on the particularity of a
+given text and using that to automate the identification of words to remove.
 Secondly, while I took a good deal of care in the identification and removal of
-OCR errors, the methods I pursued are far from comprehensive, resulting a no
-small number of remaining "words" that were generated through failed character
+OCR errors, the methods I pursued are far from comprehensive, resulting in a high number of remaining errors that were generated through failed character
 recognition. Rather than attempting to identify all of the permutations of
 errors in recognition, I set the cut off of fewer than twenty documents as a way
 of identifying those words that are too unique to be useful at the abstract
-level of a model, including the range of generated OCR errors. By providing a
-mechanism to address both high frequency words and errors that appears in few
-remaining documents, the Gensim library provided a way to reduce the words for
+level of a model, including the generated OCR errors. By providing a
+mechanism to address both high frequency words and errors that appears in few documents, the Gensim library provided a way to reduce the words for
 analysis while following the contours of the historical text. Through this
 process, I generated a stopword list particular to the specialized language of
 the SDA and the eccentricities of my data.
@@ -1194,8 +1190,8 @@ error rates under ten percent. Once I had generated the model, I went through
 and classified these "hold-out" documents, so that they too were visible to my
 analysis, but the model itself is only based on those high quality documents.
 
-These process of moving from text to data is one that can be done in multiple
-ways depending on research questions, features of text, and the link. All of
+This process of moving from text to data is one that can be done in multiple
+ways depending on research questions, features of the text, and the like. All of
 these decisions effect the patterns that can be seen in standard machine
 learning algorithms, and yet rarely are these steps carefully documented in
 research in the digital humanities.^[Matt Burton makes a similar argument in his
@@ -1204,16 +1200,12 @@ document. @Burton2018. Reproducible research is a problem outside of the digital
 humanities as well, as computational methods are increasingly relied upon in the
 sciences and social sciences. Movements such as Open Science, supported by the
 [Center for Open Science](https://cos.io/), are working to encourage scientists
-to make the data and code available as part of standard scientific practice.] In
-emphasizing the initial digital materials and the resultant model, both of which
-are useful in making the case to non-technical readers for the potential for
-scholars to use computational methods to contribute to research in the
-humanities. However, for these the use of these methods to continue to develop
+to make the data and code available as part of standard scientific practice.] However, for these methods to continue to develop
 within the humanities, they must be documented, examined, and engaged.
 Preprocessing methods such as these change the shape of the final models and the
 research cannot be reproduced without including these seemingly mundane steps to
 shape the data into its form for analysis. My inclusion of this discussion,
-together with the code notebooks, is part of an explicit and implicit argument
+together with [code examples](link://slug/notebooks-overview), is part of an explicit and implicit argument
 that this intellectual work is as much part of the *A Gospel of Health and
 Salvation* as the prose and visualizations to follow. 
 
@@ -1225,18 +1217,18 @@ deterministic. If you were to run a model on the same corpus multiple times, the
 results will vary in the words that constitute a topic and the weights assigned
 to topics within documents. And as the method is unsupervised, there is no
 "ground truth" against which to evaluate the results. These aspects of topic
-models have lead many researchers to be justifiably cautious about the
+models have led many researchers to be justifiably cautious about the
 usefulness of the method for generating historical and interpretive insights.
 Additionally, the human tendency to find patterns, to "read tea leaves," means
 that topic models are highly susceptible to seeming more coherent than they in
-fact are.^[@Chang2009.] These draw back are particularly significant when topic
+fact are.^[@Chang2009.] These drawbacks are particularly significant when topic
 models are used as data for calculating the relationship between variables. As a
 form of exploratory data analysis, topic modeling provides different "readings"
 of the patterns of word usage. While holding too closely to the results will
 lead to error, these readings are helpful to identifying general themes and
 overall patterns. 
 
-This is not to say that there are no mechanism for evaluating the quality and
+This is not to say that there are no mechanisms for evaluating the quality and
 stability of a given topic model. In fact, there are a growing range of
 strategies used to evaluate and improve the quality of topic models as scholars
 have worked to find ways to make the results of the model more stable and
@@ -1244,7 +1236,7 @@ coherent.^[This includes newer varieties of composite models (combining a series
 of runs into a composite model) and user mediated models, where the user makes
 corrections on the model. Experimenting with these forms of topic modeling was
 beyond the scope of what I could accomplish within the dissertation.
-@Belford2018; @Mimno2011.] These strategies provide useful mechanism for
+@Belford2018; @Mimno2011.] These strategies provide useful mechanisms for
 examining the internal structure of a model and increasing confidence that said
 model provides a useful abstraction of the underlying literature. For the
 dissertation, I pursued three general strategies for evaluating the quality and
@@ -1254,7 +1246,7 @@ was run on different permutations of the corpus, and to evaluate the legibility
 of the topics, or the ease with which they could be labeled and the match
 between the topic and the originating content. Together these methods provide a
 picture of a model with some redundancy in topics but with enough distinction to
-enable focusing in on the shifting focus on the denomination's rhetoric over
+enable focusing in on the shifting focus of the denomination's rhetoric over
 time. 
 
 Visual representations of topic models provide a useful initial mode of entry
@@ -1319,7 +1311,7 @@ The second strategy I pursued to evaluate the model generated through MALLET was
 to [measure the stability of the topical word clusterings over different
 permutations of the corpus](link://slug/measure-variation-in-topic-keys). For
 this, I used the topic keys, which consists of the top twenty words for each
-topic, for four topic models created from four different variations on the
+topic, from four topic models created from four different variations on the
 corpus: a random selection of documents within the corpus, a corpus where the
 minimum error rate was computed at twenty-five percent, a corpus where no
 minimum error rate was set, and the target configuration with an error rate set
@@ -1374,10 +1366,9 @@ use of the topic model within the realm of historical interpretation. I return
 to my process of labeling the topics in [Chapter 3](link://slug/chapter-3).
 
 By combining these three strategies, I evaluated the model with reference to
-visual, mathematical, and interpretive and came to two-hundred and fifty as a
+visual, mathematical, and interpretive frameworks and came to two-hundred and fifty as a
 workable number of topics for the final model. This scale of topic model enabled
-me to capture some of the more nuanced aspects of the periodical literature to
-be visible, while also limiting the fracturing of themes between multiple
+me to capture some of the more nuanced aspects of the periodical literature, while also limiting the fracturing of themes between multiple
 topics. The larger number of topics also provides space for topics to shift,
 with similar topics capturing different topical associations as the literature
 of the denomination developed over time. By carefully attending to the
@@ -1421,22 +1412,20 @@ including traditional archival research and narrative construction.
 Topic models provide vast amounts of information describing their respective
 corpora, information that can be used to identify patterns across the documents
 as well as to identify content on particular themes. One advantage of working in
-a digital medium is that it is becomes possible to provide an interactive
+a digital medium is that it is possible to provide an interactive
 interface for the model, one that allows the researcher to highlight particular
 aspects of the model or the corpus, but that also opens the possibility for
 readers to use the model to further explore those or other themes. For *A Gospel
-of Health and Salvation* I chose two main strategies for presenting and
-analyzing the topic model: the use and publication of a topic model browser as
-part of the dissertation and the use of interactive notebooks for quickly
-identifying content for further study. These platforms, while sufficient for the
-research of the dissertation, also serve as "rough draft" for a future interface
+of Health and Salvation* I used a topic model browser as
+part of the dissertation to enable topic exploration. This platform, while sufficient for the
+research of the dissertation, also serves as a "rough draft" for a future interface
 for the periodical literature of the denomination, one that supports the
 integration of the research and scholarly presentation.
 
 The topic model browser I am using for the dissertation, hosted at
 [http://browser.dissertation.jeriwieringa.com/](http://browser.dissertation.jeriwieringa.com/),
 is an adaptation of Andrew Goldstone's
-[dfr-browser](https://agoldst.github.io/dfr-browser/). The browser is built
+[DfR browser](https://agoldst.github.io/dfr-browser/). The browser is built
 using the [D3 Javascript library](https://d3js.org/) and works from model data
 generated using the MALLET library.^[The default topic modeler for the browser
 is the R wrapper for MALLET, but Goldstone also provides a script to transform
@@ -1447,8 +1436,8 @@ between words and topics. These different views enable the reader to explore
 when a topic was predominant in the corpus, examine the other topics associated
 with the documents where the topic is prevalent, and inspect the words that
 compose the topic, to see in which other topics those words are prevalent. To
-compute topics over time, data processing function aggregates the topic
-assignments by year, smooths those values by the "alpha" used in MALLET and
+compute topics over time, the data processing function aggregates the topic
+assignments by year, smooths those values by the "alpha" hyperparameter used in MALLET and
 displays the percentage of tokens that constitutes each topic per year. This
 method of computing topics over time is one that I continue within the other
 interfaces of the dissertation. I discuss the different views of the browser in
