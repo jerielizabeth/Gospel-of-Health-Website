@@ -73,7 +73,7 @@ publishing efforts of both William Miller and James White as examples of the use
 of print by new religious movements, with White picking up where Miller left off
 after the Great Disappointment. @Brekus1998, pp. 333-334. @Butler1987, p. 190.
 @Brown2007, pp. 271-272.] Looking beyond their roots in Miller's millennial
-teaching, the study of Seventh-day Adventism offers lens on the relationship
+teaching, the study of Seventh-day Adventism offers a lens on the relationship
 between religion and gender within nineteenth-century America, and particularly
 on the role of end-times expectation in the cultural development of religious
 movements. 
@@ -137,7 +137,7 @@ citizen of Poultney, Vermont and later the nearby border town of Low Hampton,
 New York, began his study of the Bible shortly after his conversion from deism
 following his military service. His goal was to prove the reliability of the
 Bible by reconciling all apparent inconsistencies he discovered, and in so
-doing, counter against religion, such as those popularized by Thomas Paine.^[The
+doing, counter arguments against religion, such as those popularized by Thomas Paine.^[The
 language of “deism” here is used by his biographer, Sylvester Bliss, as well as
 by James White in his telling of Millerite history. @Bliss1853, pp. 18-25, 31,
 63. @White1868, pp. 30-31. As Miller's response to the challenge was to prove
@@ -150,7 +150,7 @@ the book of Daniel, revealed that the second coming would take place around year
 1843. After spending five years confirming his interpretations and calculations,
 he began to share his conclusions, starting with family and friends, then
 reaching out to local ministers. Miller understood his findings as reinforcing
-the teachings of the churches and as part of the prevailing belief in the second
+the teachings of the Protestant churches and as part of the prevailing belief in the second
 coming. He slowly began to receive invitations to preach in a variety of
 settings, including Baptist, Methodist, and Congregational churches.^[@Dick1998,
 p. 4.] In 1832, he published his findings in the *Vermont Telegraph* and in
@@ -193,7 +193,7 @@ and Cincinnati. He also understood the value of showmanship, acting quickly on a
 decision to build a “great tent,” one that seated four thousand people and was
 one of the largest to be seen in America. He published and sold colorful charts
 to illustrate the intricate details of Miller's interpretation and convinced
-Miller to offer a more definitive date. And he held regular conference meetings
+Miller to offer a more definitive date. And he held regular meetings
 for those convinced by Miller's teachings. These gatherings provided a forum for
 the dispersed community to come together, to work to reach consensus on some of
 the contested details of Miller's teaching, and to agree on a strategy for
@@ -352,7 +352,7 @@ mechanism for salvation.^[@Butler1990, p. 172.] For the Bible alone to serve as
 the central guide of Christian life, however, it needed to be a reliable and
 clear source for religious truth. Religious leaders such as Alexander Campbell
 (Disciples of Christ) preached the Bible as “a book of 'plain facts’ to be read
-and apprehended by all,” with careful and engaged study the solution to all
+and apprehended by all,” with careful and engaged study as the solution to all
 differences of interpretation.^[Quoted in @Hatch1989, p. 163.] By the nineteenth
 century, believers had come to embrace the Bible, and individual interpretation
 thereof, as the final authority in matters of religious truth.^[See @Hatch1989,
@@ -525,20 +525,14 @@ data or regional, such as New York State. See @Rowe1987, p. 9.] Most
 significantly, Miller himself was affiliated with the Baptist church, joining
 the denomination during the period of his conversion back to Christianity, and
 receiving a preaching license from the Hampton, New York, Baptist Church in
-1833.^[@Judd1987, p. 25.] His Baptist tendencies can be seen in his approach to
-interpreting Scripture, from insisting on the Bible as the only guide to
-embracing a literal interpretation of its content, including the prophetic
-texts.^[@Judd1987, p. 19-20.] That ongoing commitment to Biblical interpretation
-through identifying the clear and literal meaning would continue to the shape
-the theological development of Seventh-day Adventism.
+1833.^[@Judd1987, p. 25.]
 
 While Miller and the Adventists followed more traditional Baptists beliefs and
 practices, one Baptist sect, the Seventh Day Baptists, had a particular
 influence on the development of Seventh-day Adventism. The Seventh Day Baptist
 tradition also dates back to seventeenth century England. While similar in
 practices to Baptists, Seventh Day Baptists interpreted elements of the Old
-Testament law to apply to the current time, particularly the need to honor the
-particular day of the Sabbath (Saturday) as well as some of the dietary
+Testament law to apply to the current time, particularly the need to honor the Sabbath (Saturday) as well as some of the dietary
 laws.^[@Leonard2005, p. 10.] Early Seventh Day Baptists were among the first to
 establish churches in the American colonies, with communities in Rhode Island,
 New Jersey, and Pennsylvania.^[@Leonard2005, p. 97.] The traditions of the
@@ -645,7 +639,7 @@ the major figures in the adventist movement met in Albany to formalize an
 official interpretation of the events of 1843-1844 and to clarify acceptable and
 unacceptable theology and religious practices. Led by Joshua Himes, and
 supported by William Miller, the Albany Conference marked the beginning of the
-Adventist Christian Church and the formalization of a more “traditional”
+Adventist Christian Church and the formation of a more “traditional”
 religious structure, one that “discouraged visionary enthusiasm, established a
 professional clergy, and forbade women to serve as evangelists.”^[@Brekus1998,
 p. 332.]
@@ -653,7 +647,7 @@ p. 332.]
 In the years following 1844, William Miller continued to believe that his
 interpretation was correct and the second coming was at hand, but he ceased to
 offer or support any date predictions after 1844 until his death in 1849. He
-never endorsed any denominational response to his teaching; instead he persisted
+never endorsed any of the denominations formed in response to his teaching; instead he persisted
 in his belief that the truth of his message was one that would bring an end to
 religious sects.^[Although Miller never endorsed any of the groups that
 developed after 1844, each group was keenly interested claiming the legacy of
@@ -668,7 +662,7 @@ like Miller, backed away from additional date setting and worked with the
 Evangelical Adventists and the Advent Christians for many years after 1844. He
 was critical of the more theologically radical groups within adventism,
 including the Whites and the developing Seventh-day Adventist Church. Eventually
-Himes become ordained in the Episcopal Church in 1878 and served in South Dakota
+Himes became ordained in the Episcopal Church in 1878 and served in South Dakota
 until his death in 1895.^[@Arthur1987, p. 56.]
 
 Those who would come to form Seventh-day Adventism were part of the second group
@@ -808,18 +802,18 @@ in the publication grew, it became clear that this would be a longer endeavor.
 While the initial issues were overall uni-directional, offering arguments for
 the Sabbath and accounts of Ellen's visions, by the third and fourth issue of
 *The Present Truth*, the publication began to take on a community building
-function. In Volume 1.3, published August 1849, James printed a notice about
+function. In Volume 1, No. 3, published August 1849, James printed a notice about
 upcoming conference meetings to be held in Vermont and Maine by Joseph Bates. In
-Volume 1.4, published September 1849, he included a letter from “J. C. Bowles”
+Volume 1, No. 4, published September 1849, he included a letter from “J. C. Bowles”
 who wrote from Jackson, Michigan to send word that they had received *The
 Present Truth,* report on the success of Bates’ trip west, and suggest that
 James “insert extracts of the letters you may receive from the brethren” as it
 would be “comforting ... to hear from others” and “may induce some to examine
-the subject, that would not otherwise.”^[@Bowles1849.] While James notes that he
+the subject, that would not otherwise.”^[@Bowles1849.] While James noted that he
 did not intend initially to publish letters from the “brethren,” such quickly
 became a regular feature of *The Present Truth*  and its successor, *The Second
 Advent Review and Sabbath Herald* (generally referred to as *The Review and
-Herald*). By the last issue of *The Present Truth* -- Volume 1.11, published
+Herald*). By the last issue of *The Present Truth* -- Volume 1, No. 11, published
 November 1850 -- over half of the publication was devoted to letters from
 readers and fellow seventh-day proponents, responses to controversies within the
 community (such as the eating of pork), news about recent and upcoming meetings,
@@ -879,7 +873,7 @@ the *Advent Review and Sabbath Herald* for October 1860. For more on this, see
 Association was legally incorporated in Battle Creek Michigan.^[@Smith1861.] In
 May 1863, during the annual meeting in Battle Creek, delegates voted to create
 the General Conference of Seventh-day Adventists to formally organize the
-political structure of the denomination and outline the relationship between the
+structure of the denomination and outline the relationship between the
 smaller state conferences and the larger national organization. This structure
 enabled them to coordinate efforts for the ordination of ministers and the
 sharing of the Seventh-day Adventist message, including the distribution of
@@ -923,13 +917,12 @@ The doctrine of conditional immortality was also a prominent theme in the early
 periodicals. Rather than viewing humans as composed of a physical body and a
 separate immortal soul, early Seventh-day Adventists viewed humans as
 “indivisible beings who did not possess natural immortality.”^[@Bull2006, p.
-89.] Immortality was a gift that would be granted or denied at the Second Coming
-and at the resurrection and judgment.^[Additionally, those saved, “the saints,”
+89.] Immortality was a gift that would be granted or denied at the Second Coming.^[Additionally, those saved, “the saints,”
 would receive immortality at the Second Coming (process described as
 translation) and would reign with Christ during the millennium. Only after this
 period would all the dead be raised, judged, and destroyed. See @Bull2006, pp.
 89-90.] This view of human beings as unitary and material beings and of
-immortality as a gift to be granted or denied at the final judgment was one of
+immortality as a gift to be granted or denied was one of
 the emerging denomination's more significant points of departure from standard
 Protestant theology. It also set the intellectual stage for the development of
 their emphasis on health as part of the religious life of believers.
@@ -967,8 +960,8 @@ is credited with first acknowledging the slow shifts in Seventh-day Adventist
 theology and attributing them to “progressive revelation,” the framework for
 expecting understanding to change over time had deep roots.^[@Bull2006, p. 103.]
 Writing in the third issue of the *Present Truth*, Ellen White laid out the
-beginning of this framework when she notes that those who passed away before the
-1844 and the revelation of the true Sabbath “for they had not the light, and the
+beginning of this framework when she notes that those who passed away before 
+1844 and the revelation of the true Sabbath would not be judged for the failure to keep the Sabbath, “for they had not the light, and the
 test on the Sabbath, which we now have ...”^[@White1849c, p. 21.] While
 believers would now be judged on their keeping of the commandments, specifically
 the seventh-day sabbath, that requirement did not apply to those who had died
@@ -1012,7 +1005,7 @@ proof that they were indeed on the narrow road to the kingdom of heaven. Over
 time, however, those tensions lessened, particularly in the years after the
 death of Ellen White in 1915. While more recent theologians such as Froom
 attribute these shifts to progressive revelation moving the SDA closer to
-evangelical Protestantism, others have seen this shift as a sign of declension,
+evangelical Protestantism, others have seen these shifts as a signs of declension,
 of the falling away of the SDA from its initial “purity” through a process of
 accommodation and secularization (or modernization).^[@Bull2006, p. 103.] Even
 as the denomination has found common ground with evangelical and fundamentalist
@@ -1048,11 +1041,11 @@ revival methods within Methodism.^[@Bratt2004, p. 90.] Miller's teaching that
 the second coming was not just close but to be anticipated at a close-at-hand
 date was linked to a wave of revivals between 1843 and 1844, as “the promise and
 threat of meeting the Lord at any moment brought audiences to a pitch of
-excitement.”^[@Doan1987a, p. 122.] Miller functioned, in this interpretation, as
+excitement.”^[@Doan1987a, p. 122.] Miller functions, in this interpretation, as
 the logical conclusion of the revivalism of the early republic period.
 
 The pervasiveness of Miller's teachings raised an instructive challenge for the
-established Protestant denominations of the early republic, and served pushed
+established Protestant denominations of the early republic, and pushed
 many Protestant groups to their breaking point, articulating a vision too
 dissonant with the prevailing norms to be embraced. In response to Miller, the
 emphasis within the established churches shifted from individuals back to
@@ -1101,18 +1094,5 @@ themselves needing to reexamine their understanding of their faith and their
 position in divine history. In doing so, they drew from prevailing cultural
 norms, using a framework of progressive revelation to interpret God's truth as
 unchanging but human understanding to be partial and progressive. 
-
-As a result, the culture of Seventh-day Adventism is a reflection of neither
-Second Great Awakening revivalism nor of mid and late nineteenth-century pietism
-and social activism. Instead, it sits between these two and provides an
-instructive example of how these general trends in religious culture were
-experienced not as a sudden shift, but as a slow process of renegotiation and
-reinterpretation. Guided by their beliefs about and experiences of time, they
-were neither separate from their surrounding culture, nor determined by it.
-Rather, they gradually and creatively incorporated new cultural norms into their
-religious system, embracing some, reinterpreting some, and defining themselves
-in opposition to others. Although a minority religious denomination, as a result
-of this ongoing process, the development of Seventh-day Adventist culture
-provides a window onto a more general experience of religion during this period.
 
 <div style="page-break-after: always;"></div>
