@@ -27,7 +27,7 @@ to spread the gospel within the home and the world.
 In this dissertation I focused on time in the formation of Seventh-day
 Adventism. Using topic modeling to surface patterns across seventy years of the
 denomination's periodical literature, I examined the yearly prevalence of the
-language of end-times expection, found in interpretations of prophecy,
+language of end-times expectation, found in interpretations of prophecy,
 descriptions of the second coming, interpretations of current and historical
 events in light of prophecy, and concerns about religious liberty. This approach
 enabled me to examine the denomination's development over the long life of its
@@ -73,8 +73,8 @@ computational technology in humanities research.
 Engaging these questions of computational methodology for historical research
 are increasingly important as the historical record becomes digital, both
 through digitization and as the percentage of "born digital" material increases.
-For historians of the late twentieth and twenty-first century, digital materials
-will be a necessary source of historical research, as cultural artifacts and
+For historians of the late twentieth and twenty-first centuries, digital materials
+will be a necessary source for historical research, as cultural artifacts and
 institutional records are created, interacted with, and archived in exclusively
 digital forms. From problems of scale to issues of access, technical literacy is
 quickly becoming a required skill for working with the digital historical
@@ -158,7 +158,7 @@ traditional monographs, such as *Cartographies of Time*, or through experiments
 with visual interfaces for time, such as *The Shape of History* and "The
 Temporal Modelling Project." @Rosenberg2012; @Klein2016; Drucker2003.] Using
 computational methods requires a careful consideration of the assumptions about
-the world that are built into the model and whether those assumptions illuminate
+the world that are built into the models and whether those assumptions illuminate
 or conceal what is being studied. The humanities offer strategies for examining
 the ways beliefs shape knowledge formation, whether within religious movements
 or within the scientific and technical community. Importantly, humanities
@@ -168,11 +168,11 @@ as time has a history. In bringing together historical scholarship and
 computational methods, scholars have the opportunity to contribute to both our
 understanding of the past and our understanding of the present, making apparent
 the assumptions embedded in our technological infrastructure and offering a
-different vision of what that infrastucture could be.
+different vision of what that infrastructure could be.
 
 ## Digital Dissertations in History
 
-Despite the Internet and the World Wide Web being part of the modern information
+Despite the Internet being part of the modern information
 infrastructure for nearly thirty years, dissertations in history that leverage
 digital interfaces are still rare. This is in part because the place of digital
 scholarship in the larger ecosystem of scholarly publishing is unclear. In her
@@ -202,8 +202,7 @@ most expansive vision of digital scholarship, though until the software is
 released it is hard to determine how well the final platform supports that
 vision.] While such a vision captures much of the work being done, these
 environments also constrain the possibilities for innovative work that pushes
-beyond multimedia enriched text. As survival in the academic environment depends
-in no small part on ones ability to secure publication for their scholarly work,
+beyond multimedia enriched text. As survival in the academic environment depends on the ability to secure publication for scholarly work,
 finding ways to publish and archive a wider variety of digital work is necessary
 for this form of scholarship to thrive.
 
@@ -225,7 +224,7 @@ historical analysis in history through a historical study of Seventh-day
 Adventism, while productive, has been a challenge. The range of questions and
 problems involved in creating a digital dissertation such as this pushes the
 boundaries of what can, or should, be tackled within the scope of a
-dissertation, a credentialing work within academics. This is in large part
+dissertation, a credentialing work. This is in large part
 because working in digital mediums and using computational algorithms blurs the
 boundaries between existing disciplinary areas. As a result, the criteria for
 what constitutes a scholarly production are unclear, as is the academic home for
@@ -248,29 +247,28 @@ the lab and the elements of the project form the basis for multiple dissertation
 projects. Such a model would improve the overall quality of the final projects,
 would increase the opportunities for mentorship, and would provide training in
 the collaborative work that takes place for professional academics, public
-scholarship, and "alt ac" jobs.
+scholarship, and in "alt-ac" jobs.
 
-Additionally, a full embrace of "digital humanities" research in history would
-require supporting a wider range of research agendas than is currently the case.
-While useful, the requirements for digital dissertation at George Mason require
-first and foremost the construction of a **historical** argument, an
+Additionally, a full embrace of "digital humanities" research in history should involve supporting a wider range of research agendas than is currently the case.
+The requirements for digital dissertation at George Mason require
+first and foremost the construction of a historical argument, an
 intervention within the existing historical literature. It is worth considering
 whether this requirement unduly constrains the types of scholarship that can,
-and need to be, productively undertaken within the discipline, especially in
-terms of methods. There is a range of research needed investigating the
+and need to be, productively undertaken within the discipline of history, especially in
+terms of the study and development of methods. There is a range of research needed investigating the
 methodological and epistemological consequences of digital technology for
 historical knowledge production, including considerations of sources, the
 consequences of adopting the methods of data science for historical inquiry, and
-the relationship between interface and argument. To also require such work make
-a substantive intervention into a particular historical debate is to overtask,
+the relationship between interface and argument. To also require such work to make
+a substantive intervention into a particular historical debate is to over-task,
 and thereby limit, the work that can be done by any individual researcher. One
 reason for this dual approach is the realities of the academic job market, where
 content area jobs dominate. Looking ahead, however, there is potential for
 "digital history" jobs to become more prevalent, especially with growing
 institutional support for data science initiatives. Expanding the model of
 historical scholarship to include multi-authored and methodology-focused work is
-the first step to making the complex research that should be done under the
-umbrella of "digital history" possible.
+the first step to making the complex research that could be done under the
+umbrella of "digital history" possible. This would also reflect a return to older, more expansive, models of the "historical enterprise," where the boundaries between scholars, public historians, librarians, and archivists were less clearly defined.^[@Townsend2012, p. 3.]
 
 These shifts would require even more institutional and cultural change than that
 needed for allowing multimedia dissertations. There are real questions, however,
@@ -287,7 +285,7 @@ attempting to engage the epistemological shifts embedded within computational
 technologies and methods, as well as to make an intervention into the existing
 literature in religious history. My hope, however, is that the field continues
 to expand in the future and takes on the challenge of supporting historical
-research focused primarily on the questions of methods and methodology made
+research focused on the questions of methods and methodology made
 pressing in the digital age.
 
 <div style="page-break-after: always;"></div>
