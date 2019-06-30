@@ -119,11 +119,11 @@ definition. For this study, I use “Millerite” to refer to those Protestant
 Christians who embraced William Miller's interpretation of the Bible and
 expected the second coming (or second advent) during the period from 1843 to
 1844. In the years following, a number of religious groups formed out of the
-Great Disappointment, and I use “adventist” to refer to religious groups with
-roots in the Millerite cause. Finally, Seventh-day Adventist or SDA refers to
-those believers who, after 1844, embraced the combination of adventist beliefs
-about end-times with Seventh day Baptist teachings on Saturday as the day set
-aside for Christian worship. 
+      Great Disappointment, and I use “adventist” to refer to religious groups
+      with roots in the Millerite cause. Finally, Seventh-day Adventist or SDA
+      refers to those believers who, after 1844, embraced the combination of
+      adventist beliefs about end-times with Seventh day Baptist teachings on
+      Saturday as the day set aside for Christian worship. 
 
 ## William Miller and the Rise of Adventism
 
@@ -137,31 +137,35 @@ citizen of Poultney, Vermont and later the nearby border town of Low Hampton,
 New York, began his study of the Bible shortly after his conversion from deism
 following his military service. His goal was to prove the reliability of the
 Bible by reconciling all apparent inconsistencies he discovered, and in so
-doing, counter arguments against religion, such as those popularized by Thomas Paine.^[The
-language of “deism” here is used by his biographer, Sylvester Bliss, as well as
-by James White in his telling of Millerite history. @Bliss1853, pp. 18-25, 31,
+doing, counter arguments against religion, such as those popularized by Thomas
+Paine.^[The language of “deism” here is used by his biographer, Sylvester Bliss,
+as well as by James White in his telling of Millerite history. @Bliss1853,
+pp. 18-25, 31,
 63. @White1868, pp. 30-31. As Miller's response to the challenge was to prove
-the rationality of the Bible and by extension the Christian faith, it is likely
-“deism” refers to a Thomas Paine style celebration of reason and skepticism of
-the authority of the Bible. See @Porterfield2012, particularly pp. 14-47, for a
-history of Paine and the skeptical tradition in early America.] In 1818, he
-first came to the conclusion that the biblical prophecies, particularly those in
-the book of Daniel, revealed that the second coming would take place around year
+    the rationality of the Bible and by extension the Christian faith, it is
+    likely“deism” refers to a Thomas Paine style celebration of reason and
+    skepticism of the authority of the Bible. See @Porterfield2012, particularly
+    pp. 14-47, for a history of Paine and the skeptical tradition in early
+    America.] In 1818, he first came to the conclusion that the biblical
+    prophecies, particularly those in the book of Daniel, revealed that the
+    second coming would take place around year
 1843. After spending five years confirming his interpretations and calculations,
-he began to share his conclusions, starting with family and friends, then
-reaching out to local ministers. Miller understood his findings as reinforcing
-the teachings of the Protestant churches and as part of the prevailing belief in the second
-coming. He slowly began to receive invitations to preach in a variety of
-settings, including Baptist, Methodist, and Congregational churches.^[@Dick1998,
-p. 4.] In 1832, he published his findings in the *Vermont Telegraph* and in
-1833, he was granted a preaching license from the Baptist church in Hampton, New
-York.^[@Judd1987, pp. 22, 25; Miller gives the date of his being granted a
-license as 1834 in Mr. Miller's Apology and Defense.] He began preaching and
-lecturing in churches throughout New England during the 1830s and into the
-1840s, published a 64-page pamphlet of his interpretation in 1834 and a series
-of sixteen lectures in 1836. Between 1834 and 1839, Miller recorded that he had
-given about 800 lectures on his interpretation of prophecy and his belief that
-the time of the second coming was at hand.^[@Miller1845, p. 3.]
+      he began to share his conclusions, starting with family and friends, then
+      reaching out to local ministers. Miller understood his findings as
+      reinforcing the teachings of the Protestant churches and as part of the
+      prevailing belief in the second coming. He slowly began to receive
+      invitations to preach in a variety of settings, including Baptist,
+      Methodist, and Congregational churches.^[@Dick1998, p. 4.] In 1832, he
+      published his findings in the *Vermont Telegraph* and in 1833, he was
+      granted a preaching license from the Baptist church in Hampton, New
+      York.^[@Judd1987, pp. 22, 25; Miller gives the date of his being granted a
+      license as 1834 in Mr. Miller's Apology and Defense.] He began preaching
+      and lecturing in churches throughout New England during the 1830s and into
+      the 1840s, published a 64-page pamphlet of his interpretation in 1834 and
+      a series of sixteen lectures in 1836. Between 1834 and 1839, Miller
+      recorded that he had given about 800 lectures on his interpretation of
+      prophecy and his belief that the time of the second coming was at
+      hand.^[@Miller1845, p. 3.]
 
 Despite publishing, traveling, and preaching widely, Miller would have remained
 one of many little known local religious teachers of the nineteenth century if
@@ -193,11 +197,11 @@ and Cincinnati. He also understood the value of showmanship, acting quickly on a
 decision to build a “great tent,” one that seated four thousand people and was
 one of the largest to be seen in America. He published and sold colorful charts
 to illustrate the intricate details of Miller's interpretation and convinced
-Miller to offer a more definitive date. And he held regular meetings
-for those convinced by Miller's teachings. These gatherings provided a forum for
-the dispersed community to come together, to work to reach consensus on some of
-the contested details of Miller's teaching, and to agree on a strategy for
-spreading the word.^[@Judd1987, pp. 39-48.]
+Miller to offer a more definitive date. And he held regular meetings for those
+convinced by Miller's teachings. These gatherings provided a forum for the
+dispersed community to come together, to work to reach consensus on some of the
+contested details of Miller's teaching, and to agree on a strategy for spreading
+the word.^[@Judd1987, pp. 39-48.]
 
 <div class="embedded-left">
 <fig>
@@ -532,24 +536,24 @@ practices, one Baptist sect, the Seventh Day Baptists, had a particular
 influence on the development of Seventh-day Adventism. The Seventh Day Baptist
 tradition also dates back to seventeenth century England. While similar in
 practices to Baptists, Seventh Day Baptists interpreted elements of the Old
-Testament law to apply to the current time, particularly the need to honor the Sabbath (Saturday) as well as some of the dietary
-laws.^[@Leonard2005, p. 10.] Early Seventh Day Baptists were among the first to
-establish churches in the American colonies, with communities in Rhode Island,
-New Jersey, and Pennsylvania.^[@Leonard2005, p. 97.] The traditions of the
-Seventh Day Baptists and the Millerites began to intersect as Baptist members
-embraced the interpretations of Miller and began to advocate for a Seventh Day
-understanding of the Sabbath within adventist communities. A small subset of
-adventists began to observe Saturday Sabbath and to publish on the issue, which
-in turn converted one of the prominent preachers within the Millerite movement,
-Joseph Bates. It is Bates who is credited with introducing Ellen and James White
-to the arguments for Sabbatarianism, which they adopted in 1846, and was also an
-early adopter of hygienic principles, having given up meats and stimulating
-foods already in 1843.^[@Anderson1998, p. 31; @Bates1877, p. 314. For a
-denominational history of Bates and his adoption of Sabbatarian principles, see
-@Knight2004, pp. 93-111.] While the Seventh Day Baptist tradition continues to
-the present, the Seventh-day Adventist church has become one of the largest
-proponents of the Saturday Sabbath interpretation within the modern Protestant
-churches. 
+Testament law to apply to the current time, particularly the need to honor the
+Sabbath (Saturday) as well as some of the dietary laws.^[@Leonard2005, p. 10.]
+Early Seventh Day Baptists were among the first to establish churches in the
+American colonies, with communities in Rhode Island, New Jersey, and
+Pennsylvania.^[@Leonard2005, p. 97.] The traditions of the Seventh Day Baptists
+and the Millerites began to intersect as Baptist members embraced the
+interpretations of Miller and began to advocate for a Seventh Day understanding
+of the Sabbath within adventist communities. A small subset of adventists began
+to observe Saturday Sabbath and to publish on the issue, which in turn converted
+one of the prominent preachers within the Millerite movement, Joseph Bates. It
+is Bates who is credited with introducing Ellen and James White to the arguments
+for Sabbatarianism, which they adopted in 1846, and was also an early adopter of
+hygienic principles, having given up meats and stimulating foods already in
+1843.^[@Anderson1998, p. 31; @Bates1877, p. 314. For a denominational history of
+Bates and his adoption of Sabbatarian principles, see @Knight2004, pp. 93-111.]
+While the Seventh Day Baptist tradition continues to the present, the
+Seventh-day Adventist church has become one of the largest proponents of the
+Saturday Sabbath interpretation within the modern Protestant churches. 
 
 ### Converts from the Christian Church
 
@@ -639,28 +643,28 @@ the major figures in the adventist movement met in Albany to formalize an
 official interpretation of the events of 1843-1844 and to clarify acceptable and
 unacceptable theology and religious practices. Led by Joshua Himes, and
 supported by William Miller, the Albany Conference marked the beginning of the
-Adventist Christian Church and the formation of a more “traditional”
-religious structure, one that “discouraged visionary enthusiasm, established a
+Adventist Christian Church and the formation of a more “traditional”religious
+structure, one that “discouraged visionary enthusiasm, established a
 professional clergy, and forbade women to serve as evangelists.”^[@Brekus1998,
 p. 332.]
 
 In the years following 1844, William Miller continued to believe that his
 interpretation was correct and the second coming was at hand, but he ceased to
 offer or support any date predictions after 1844 until his death in 1849. He
-never endorsed any of the denominations formed in response to his teaching; instead he persisted
-in his belief that the truth of his message was one that would bring an end to
-religious sects.^[Although Miller never endorsed any of the groups that
-developed after 1844, each group was keenly interested claiming the legacy of
-Miller. Framing themselves as descendants of Miller was one of the primary goals
-of the White's early publishing work, so much so that Miller's home in New York
-is included among the “Adventist Heritage Sites” maintained by the SDA.
-@Judd1987, pp. 30-33; @Bliss1853, p. 383; @Ministry2018.] While Miller remained
-outside of the denominational disputes that unfolded in the 1840s, Joshua Himes
-continued the work of publishing adventist materials and traveling around the
-disbursed community. One of the leading figures in the Albany Conference, he,
-like Miller, backed away from additional date setting and worked with the
-Evangelical Adventists and the Advent Christians for many years after 1844. He
-was critical of the more theologically radical groups within adventism,
+never endorsed any of the denominations formed in response to his teaching;
+instead he persisted in his belief that the truth of his message was one that
+would bring an end to religious sects.^[Although Miller never endorsed any of
+the groups that developed after 1844, each group was keenly interested claiming
+the legacy of Miller. Framing themselves as descendants of Miller was one of the
+primary goals of the White's early publishing work, so much so that Miller's
+home in New York is included among the “Adventist Heritage Sites” maintained by
+the SDA. @Judd1987, pp. 30-33; @Bliss1853, p. 383; @Ministry2018.] While Miller
+remained outside of the denominational disputes that unfolded in the 1840s,
+Joshua Himes continued the work of publishing adventist materials and traveling
+around the disbursed community. One of the leading figures in the Albany
+Conference, he, like Miller, backed away from additional date setting and worked
+with the Evangelical Adventists and the Advent Christians for many years after
+1844. He was critical of the more theologically radical groups within adventism,
 including the Whites and the developing Seventh-day Adventist Church. Eventually
 Himes became ordained in the Episcopal Church in 1878 and served in South Dakota
 until his death in 1895.^[@Arthur1987, p. 56.]
@@ -687,8 +691,8 @@ more radical theological positions discussed in the wake of 1844.
   prophecies that Miller interpreted spoke of the “sanctuary” being cleansed at
   the end of 2300 days. This sanctuary was assumed by the adventist believers to
   be the earth, which needed to be cleansed of sin for the millennium to begin.
-  When October 22, 1844, passed with no second coming and dramatic “cleansing”
-  of the earth, those who embraced the Sanctuary Doctrine posited that the
+  When October 22, 1844, passed with no second coming and dramatic “cleansing”of
+  the earth, those who embraced the Sanctuary Doctrine posited that the
   sanctuary was instead in heaven, and that starting October 22, 1844, Jesus was
   undertaking the work of “blotting out sins” ahead of his second coming. 
 + Fourth, they embraced the existence of prophetic gifts, the belief that God
@@ -802,29 +806,30 @@ in the publication grew, it became clear that this would be a longer endeavor.
 While the initial issues were overall uni-directional, offering arguments for
 the Sabbath and accounts of Ellen's visions, by the third and fourth issue of
 *The Present Truth*, the publication began to take on a community building
-function. In Volume 1, No. 3, published August 1849, James printed a notice about
-upcoming conference meetings to be held in Vermont and Maine by Joseph Bates. In
-Volume 1, No. 4, published September 1849, he included a letter from “J. C. Bowles”
-who wrote from Jackson, Michigan to send word that they had received *The
-Present Truth,* report on the success of Bates’ trip west, and suggest that
-James “insert extracts of the letters you may receive from the brethren” as it
-would be “comforting ... to hear from others” and “may induce some to examine
-the subject, that would not otherwise.”^[@Bowles1849.] While James noted that he
-did not intend initially to publish letters from the “brethren,” such quickly
-became a regular feature of *The Present Truth*  and its successor, *The Second
-Advent Review and Sabbath Herald* (generally referred to as *The Review and
-Herald*). By the last issue of *The Present Truth* -- Volume 1, No. 11, published
-November 1850 -- over half of the publication was devoted to letters from
-readers and fellow seventh-day proponents, responses to controversies within the
-community (such as the eating of pork), news about recent and upcoming meetings,
-and the sale of other literature, including hymnals and prophetic charts.^[In
-addition to publishing *The Present Truth*, James White published a five issue
-series called *The Advent Review*, which featured pieces originally published by
-Millerite leaders in the years surrounding the end-times anticipation of 1843
-and 1844. Through this publication, James White and the rest of the editorial
-committee connected the teaching of the seventh-day adventists to the early
-leaders of the adventist movement, position their interpretation as an (if not
-“the”) authentic inheritors of the adventist tradition.]
+function. In Volume 1, No. 3, published August 1849, James printed a notice
+about upcoming conference meetings to be held in Vermont and Maine by Joseph
+Bates. In Volume 1, No. 4, published September 1849, he included a letter from
+“J. C. Bowles”who wrote from Jackson, Michigan to send word that they had
+received *The Present Truth,* report on the success of Bates’ trip west, and
+suggest that James “insert extracts of the letters you may receive from the
+brethren” as it would be “comforting ... to hear from others” and “may induce
+some to examine the subject, that would not otherwise.”^[@Bowles1849.] While
+James noted that he did not intend initially to publish letters from the
+“brethren,” such quickly became a regular feature of *The Present Truth*  and
+its successor, *The Second Advent Review and Sabbath Herald* (generally referred
+to as *The Review and Herald*). By the last issue of *The Present Truth* --
+Volume 1, No. 11, published November 1850 -- over half of the publication was
+devoted to letters from readers and fellow seventh-day proponents, responses to
+controversies within the community (such as the eating of pork), news about
+recent and upcoming meetings, and the sale of other literature, including
+hymnals and prophetic charts.^[In addition to publishing *The Present Truth*,
+James White published a five issue series called *The Advent Review*, which
+featured pieces originally published by Millerite leaders in the years
+surrounding the end-times anticipation of 1843 and 1844. Through this
+publication, James White and the rest of the editorial committee connected the
+teaching of the seventh-day adventists to the early leaders of the adventist
+movement, position their interpretation as an (if not“the”) authentic inheritors
+of the adventist tradition.]
 
 The publishing locations of the White's initial periodicals reflect the
 family's, and the religious community's, movement from upper New England toward
@@ -873,11 +878,11 @@ the *Advent Review and Sabbath Herald* for October 1860. For more on this, see
 Association was legally incorporated in Battle Creek Michigan.^[@Smith1861.] In
 May 1863, during the annual meeting in Battle Creek, delegates voted to create
 the General Conference of Seventh-day Adventists to formally organize the
-structure of the denomination and outline the relationship between the
-smaller state conferences and the larger national organization. This structure
-enabled them to coordinate efforts for the ordination of ministers and the
-sharing of the Seventh-day Adventist message, including the distribution of
-denominational literature.^[@Byington1863.]
+structure of the denomination and outline the relationship between the smaller
+state conferences and the larger national organization. This structure enabled
+them to coordinate efforts for the ordination of ministers and the sharing of
+the Seventh-day Adventist message, including the distribution of denominational
+literature.^[@Byington1863.]
 
 ### Developing a Distinctive Theology
 
@@ -917,15 +922,16 @@ The doctrine of conditional immortality was also a prominent theme in the early
 periodicals. Rather than viewing humans as composed of a physical body and a
 separate immortal soul, early Seventh-day Adventists viewed humans as
 “indivisible beings who did not possess natural immortality.”^[@Bull2006, p.
-89.] Immortality was a gift that would be granted or denied at the Second Coming.^[Additionally, those saved, “the saints,”
-would receive immortality at the Second Coming (process described as
-translation) and would reign with Christ during the millennium. Only after this
-period would all the dead be raised, judged, and destroyed. See @Bull2006, pp.
-89-90.] This view of human beings as unitary and material beings and of
-immortality as a gift to be granted or denied was one of
-the emerging denomination's more significant points of departure from standard
-Protestant theology. It also set the intellectual stage for the development of
-their emphasis on health as part of the religious life of believers.
+89.] Immortality was a gift that would be granted or denied at the Second
+Coming.^[Additionally, those saved, “the saints,”would receive immortality at
+the Second Coming (process described as translation) and would reign with Christ
+during the millennium. Only after this period would all the dead be raised,
+judged, and destroyed. See @Bull2006, pp. 89-90.] This view of human beings as
+unitary and material beings and of immortality as a gift to be granted or denied
+was one of the emerging denomination's more significant points of departure from
+standard Protestant theology. It also set the intellectual stage for the
+development of their emphasis on health as part of the religious life of
+believers.
 
 As time continued, the Seventh-day Adventist theological literature began to
 consider the nature of revelation, the ways by which God communicated with his
@@ -960,18 +966,18 @@ is credited with first acknowledging the slow shifts in Seventh-day Adventist
 theology and attributing them to “progressive revelation,” the framework for
 expecting understanding to change over time had deep roots.^[@Bull2006, p. 103.]
 Writing in the third issue of the *Present Truth*, Ellen White laid out the
-beginning of this framework when she notes that those who passed away before 
-1844 and the revelation of the true Sabbath would not be judged for the failure to keep the Sabbath, “for they had not the light, and the
-test on the Sabbath, which we now have ...”^[@White1849c, p. 21.] While
-believers would now be judged on their keeping of the commandments, specifically
-the seventh-day sabbath, that requirement did not apply to those who had died
-before hearing the message, for it had not yet been revealed. While God and the
-Bible were consistent, human understanding was limited and error prone;
-eventually, all would become clear. This framework provided the theological
-flexibility needed for the community to continue to cope with the delay of the
-second coming, as well as reinforced the need for and value of Ellen White's
-prophetic ministry as a source of additional light to gradually clarify the
-group's role in the unfolding of sacred history.
+beginning of this framework when she notes that those who passed away before
+1844 and the revelation of the true Sabbath would not be judged for the failure
+to keep the Sabbath, “for they had not the light, and the test on the Sabbath,
+which we now have ...”^[@White1849c, p. 21.] While believers would now be judged
+on their keeping of the commandments, specifically the seventh-day sabbath, that
+requirement did not apply to those who had died before hearing the message, for
+it had not yet been revealed. While God and the Bible were consistent, human
+understanding was limited and error prone; eventually, all would become clear.
+This framework provided the theological flexibility needed for the community to
+continue to cope with the delay of the second coming, as well as reinforced the
+need for and value of Ellen White's prophetic ministry as a source of additional
+light to gradually clarify the group's role in the unfolding of sacred history.
 
 One final distinctive element of early Seventh-day Adventist theology was their
 understanding of the role of the United States government in the unfolding of
@@ -983,8 +989,8 @@ States still featured as a key player in the events of the last day, the role of
 the nation was as a persecutor of the saints, rather than as a positive force
 bringing about the millennium. Interpreting the creatures described in the book
 of Revelation, SDA theologians identified the Roman Catholic Church as “the
-first beast ... The United States, in this view, is the second beast and has
-“two horns like a lamb” but speaks “as a dragon,” and Babylon is composed of the
+first beast ... The United States, in this view, is the second beast and has“two
+horns like a lamb” but speaks “as a dragon,” and Babylon is composed of the
 papacy, Protestantism, and spiritualism.”^[@Bull2006, p. 54.] As with many
 emerging religious traditions, early Seventh-day Adventists saw themselves
 rather than the nation as “God's chosen people” and so their theology reframed
@@ -1005,13 +1011,14 @@ proof that they were indeed on the narrow road to the kingdom of heaven. Over
 time, however, those tensions lessened, particularly in the years after the
 death of Ellen White in 1915. While more recent theologians such as Froom
 attribute these shifts to progressive revelation moving the SDA closer to
-evangelical Protestantism, others have seen these shifts as a signs of declension,
-of the falling away of the SDA from its initial “purity” through a process of
-accommodation and secularization (or modernization).^[@Bull2006, p. 103.] Even
-as the denomination has found common ground with evangelical and fundamentalist
-forms of Protestantism, particularly on issues of Biblical literalism and
-conservative gender roles, they have also retained these distinctive aspects of
-their theology as well as their particular emphasis on health.
+evangelical Protestantism, others have seen these shifts as a signs of
+declension, of the falling away of the SDA from its initial “purity” through a
+process of accommodation and secularization (or modernization).^[@Bull2006, p.
+103.] Even as the denomination has found common ground with evangelical and
+fundamentalist forms of Protestantism, particularly on issues of Biblical
+literalism and conservative gender roles, they have also retained these
+distinctive aspects of their theology as well as their particular emphasis on
+health.
 
 ## Conclusion: Living at the End of Time
 
@@ -1045,11 +1052,11 @@ excitement.”^[@Doan1987a, p. 122.] Miller functions, in this interpretation, a
 the logical conclusion of the revivalism of the early republic period.
 
 The pervasiveness of Miller's teachings raised an instructive challenge for the
-established Protestant denominations of the early republic, and pushed
-many Protestant groups to their breaking point, articulating a vision too
-dissonant with the prevailing norms to be embraced. In response to Miller, the
-emphasis within the established churches shifted from individuals back to
-institutions, and from sudden transformations to the slow process of character
+established Protestant denominations of the early republic, and pushed many
+Protestant groups to their breaking point, articulating a vision too dissonant
+with the prevailing norms to be embraced. In response to Miller, the emphasis
+within the established churches shifted from individuals back to institutions,
+and from sudden transformations to the slow process of character
 development.^[@Bratt2004, p. 102; @Doan1987, p. 29.] While expectations for a
 sudden return of Jesus continued among many Protestant believers, overall the
 culture of millennial expectation shifted to one of a “millennium of the heart”
