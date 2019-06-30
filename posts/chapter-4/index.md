@@ -441,7 +441,7 @@ of slow accommodation to the surrounding culture, where Seventh-day Adventism
 progressed from a group at the edges of the Millerite movement to an established
 denomination, and one that was increasingly inscribing a gendered hierarchy
 based on "separate spheres" and female domesticity by the 1920s.^[@Vance1999,
-pp. 112-115.] These general patterns of accommodation and secularization - in
+pp. 112-115. The concept of "separate spheres" as the defining characteristic of the gender organization of the nineteenth-century as a long and somewhat contested history, described by Linda Kerber in @Kerber1988.] These general patterns of accommodation and secularization - in
 the sense of becoming "like the world" - help explain the overall structural
 shifts in the Seventh-day Adventist theology and religious culture, but also
 obscure the ways that culture was negotiated at multiple point along the way.
@@ -553,13 +553,14 @@ others, the editors note,
 
 In claiming the Millerite tradition as their own, they sought common ground with
 those they were seeking to convert by establishing a common history in Miller's
-cause. These, the scattered flock of Miller's followers, were the primary
-audience for the paper and the primary targets for evangelism, as there was
-question as to whether those who had rejected Miller's teaching could be
-saved.^[@White1849b] Motivated by the belief that once the message had been
-presented to the scattered Millerite community, the second coming would take
-place, the early Seventh-day Adventist believers prioritized establishing the
-truth of their message and sharing it with others as their primary calling.
+cause. These, the approximately fifty-thousand members of the scattered flock of
+Miller's followers, were the primary audience for the paper and the primary
+targets for evangelism, as there was question as to whether those who had
+rejected Miller's teaching could be saved.^[@White1849b] Motivated by the belief
+that once the message had been presented to the scattered Millerite community,
+the second coming would take place, the early Seventh-day Adventist believers
+prioritized establishing the truth of their message and sharing it with others
+as their primary calling.
 
 In this period of expectation both men and women prioritized the spreading of
 the "third angel's message" through preaching or teaching, distributing
@@ -1061,15 +1062,14 @@ perceived threat to religious liberty during the early 20th century. The spike
 in immigration during the 1890s and 1900s had resulted in a significant increase
 in the Catholic populations in the United States.^[In their study of religion in
 American history, Finke and Stark argue that it wasn't until the 1890s that
-Catholicism became the largest Christian church in the United States, rather
-than the 1850s as is commonly claimed. That shift lends additional context to
-the concern among Seventh-day Adventists about the Catholic "threat."
-@Finke1992, pp. 110-115.] The appointment of American cardinals in 1911 to serve
-the growing Catholic community was interpreted as proof of the growing power of
-"Rome."^[@Land1998a, p. 131.] If the power and influence of the Catholic Church
-was on the rise, SDA authors argued, so too was the likelihood of the erosion
-"religious liberty."^[This discourse is captured in [topic 158 - Signs of the
-Times ("Catholic
+Catholicism became the largest Christian church in the United States. That shift
+lends additional context to the concern among Seventh-day Adventists about the
+Catholic "threat." @Finke1992, pp. 110-115.] The appointment of American
+cardinals in 1911 to serve the growing Catholic community was interpreted as
+proof of the growing power of "Rome."^[@Land1998a, p. 131.] If the power and
+influence of the Catholic Church was on the rise, SDA authors argued, so too was
+the likelihood of the erosion "religious liberty."^[This discourse is captured
+in [topic 158 - Signs of the Times ("Catholic
 Threat")](http://browser.dissertation.jeriwieringa.com/#/topic/159/).] 
 
 Additionally, world events during the 1910s fed the growing sense that the
@@ -1249,18 +1249,19 @@ help to increase women's participation in the mission of the church.
 While Ellen White repeatedly called for women to participate in the missions
 work of the denomination, other voices within the denomination began to
 emphasize the home as the particular domain of women's work, religious or
-otherwise. Authors in the denominational periodicals increasingly identified
-"home" as a haven from the external world, one created and maintained by women.
-Homemaking increasingly was advanced as the primary "mission" field for women,
-and their labor as mothers particularly linked to the success and future
-development of their children. Concurrently, the discussion of men's roles began
-to shift away from that of parent and the maintenance a well-functioning home,
-and began to stress "evangelical and wage labor efforts that required
-participation in the world."^[@Vance1999, p. 114.] By the 1920s, the language of
-domesticity and a separation between men and women's "spheres" was taking hold
-within Seventh-day Adventistism, just as feminism was challenging these norms
-within the broader cultural sphere.^[Vance lays out this shift broad toward
-domesticity in @Vance1999, pp. 112-115. See also @Epstein1981.]
+otherwise. Male and female authors in the denominational periodicals
+increasingly identified "home" as a haven from the external world, one created
+and maintained by women. Homemaking increasingly was advanced as the primary
+"mission" field for women, and their labor as mothers particularly linked to the
+success and future development of their children. Concurrently, the discussion
+of men's roles began to shift away from that of parent and the maintenance a
+well-functioning home, and began to stress "evangelical and wage labor efforts
+that required participation in the world."^[@Vance1999, p. 114.] By the 1920s,
+the language of domesticity and a separation between men and women's "spheres"
+was taking hold within Seventh-day Adventistism, just as feminism was
+challenging these norms within the broader cultural sphere.^[Vance lays out this
+shift broad toward domesticity in @Vance1999, pp. 112-115. See also
+@Epstein1981.]
 
 The movement toward masculinization of the church leadership and the decline in
 opportunities for women can also be seen in the makeup of the church leadership,
