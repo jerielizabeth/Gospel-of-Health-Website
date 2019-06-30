@@ -1021,19 +1021,20 @@ newspapers, and diaries.^[Some high-profile projects in the digital humanities
 that use topic modeling on a range of different types of content include Ted
 Underwood and Andrew Goldstone’s exploration of the archives of the PMLA
 journal, Lisa Rhody’s study of ekphrasis poetry, Robert Nelson’s work with the
-Richmond Daily Dispatch and Sharon Block’s work with the Pennsylvania Gazette,
-and Cameron Blevins’s explorations of Martha Ballard’s diary. @Goldstone2013;
-@Rhody2013; @Nelson; @Block2006; @Blevins2010] As researchers have experimented
-with topic models for modeling relationships between textual features and
-variables such as the gender of an author, the time of publication, and other
-metadata aspects, new and more complex versions of the algorithm have been
-released. These libraries, such as Structural Topic Model (STM) and Dynamic
-Topic Model (DTM), factor in these different relationships as part of the model,
-and provide tools for computing the effect of the different variables on the
-topic distribution.^[@Roberts2013; @Blei2006] This enables a statistical
-calculation of the effect of different variables on structure of the model, such
-as the effect of news sources on the frequency and type of coverage for a
-topic.^[For an example of this type of research, see @Roberts2016a.]
+Richmond Daily Dispatch, Sharon Block’s work with the Pennsylvania Gazette,
+Cameron Blevins’s explorations of Martha Ballard’s diary, and Micki Kaufman's
+exploration of the Kissinger Collection. @Goldstone2013; @Rhody2013; @Nelson;
+@Block2006; @Blevins2010, @Kaufman2018.] As researchers have experimented with
+topic models for modeling relationships between textual features and variables
+such as the gender of an author, the time of publication, and other metadata
+aspects, new and more complex versions of the algorithm have been released.
+These libraries, such as Structural Topic Model (STM) and Dynamic Topic Model
+(DTM), factor in these different relationships as part of the model, and provide
+tools for computing the effect of the different variables on the topic
+distribution.^[@Roberts2013; @Blei2006] This enables a statistical calculation
+of the effect of different variables on structure of the model, such as the
+effect of news sources on the frequency and type of coverage for a topic.^[For
+an example of this type of research, see @Roberts2016a.]
 
 My choice of topic modeling as my primary exploratory method was informed by the
 research questions I was pursing and the quality of the data available. While
@@ -1216,7 +1217,7 @@ together with the code notebooks, is part of an explicit and implicit argument
 that this intellectual work is as much part of the *A Gospel of Health and
 Salvation* as the prose and visualizations to follow. 
 
-### Evaluating and Analyzing the Topic Models
+### Evaluating and Analyzing the Topic Model
 
 Of the methods for statistical analysis of a corpus, topic modeling presents
 some unique challenges in that the algorithm is probabilistic, not
