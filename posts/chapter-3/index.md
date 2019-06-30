@@ -45,7 +45,7 @@ offered an instructive alternative.
 While still shaped by religiously-informed patriarchal understandings of
 authority, their concurrent embrace of "natural" (or "Biblical") organizations
 of time, as well as of the physical health and salvation of embodied humans as
-the crux of the Christian message, created space for more "feminine" cultural
+the heart of the Christian message, created space for more "feminine" cultural
 features. This included an emphasis on community health over personal gain
 and the importance of human development as part of Christian discipline,
 including parenting as well as care for neighbors.^[See @Bull2006, pp. 259-265.]
@@ -53,14 +53,14 @@ As a result, while explicit support for women in leadership positions varied
 over the early years of denomination, on the whole the religious life encouraged
 by the denomination provided space for and recognition of the contribution of
 women to the religious and cultural goals of the denomination, particularly
-while it was guided by the leadership of Ellen G. White.
+while it was guided by the leadership of Ellen White.
 
 The development of this unique religious culture was shaped in large part by the
 shifting sense of urgency regarding the end of times. While formal predictions
 of the second coming were relatively rare and not encouraged after 1844, events
 both internal and external to the denomination sparked periods of heightened
 end-times expectation during the first seventy years of their history. Using
-computational methods described in [Chapter two](link://slug/chapter-2), I
+computational the methods described in [Chapter 2](link://slug/chapter-2), I
 identify and discuss the cycles of expectation that mark the early development
 of the Seventh-day Adventist denomination. Using topics that capture Seventh-day
 Adventist language about end times as indicators of high periods of expectation,
@@ -103,7 +103,7 @@ words that tend to co-occur on the pages of my collection of periodical
 literature.^[See [Chapter 2](link://slug/chapter-2) for a discussion of the
 selection and preparation of the corpus of literature.] 
 
-Topic modeling, as I discuss in [Chapter two](link://slug/chapter-2), is a form
+Topic modeling, as I discuss in [Chapter 2](link://slug/chapter-2), is a form
 of computational analysis that has been used in humanities context for
 descriptions of a collection of documents and for document discovery, but of
 which are few clear examples of use in historical analysis. Although tools like
@@ -115,7 +115,7 @@ literature, following the suggestion of Sharon Block and David Newman's topic
 model explorations of the Pennsylvania Gazette, to highlight "topic trends over
 time and at different resolutions" and for gaining insight on "entire
 publications."^[@Block2006; @Newman2006, p. 766.] With this approach, I am
-focusing on using the model to gain a broad pictures of the patterns across the
+focusing on using the model to gain a broad picture of the patterns across the
 periodical literature of the Seventh-day Adventist denomination and to identify
 those texts that can shed light on different aspects of the developing culture
 of the denomination. 
@@ -135,7 +135,7 @@ for each topic I read the ten to fifteen documents with the highest
 concentration of words assigned to that topic, and used that contextual
 information, together with the words of the topic, to construct the label. This
 method of close reading the topic results provided a more nuanced view of the
-pattern of word use the model had detected and helped me parse instances where
+patterns of word use the model had detected and helped me parse instances where
 similar words in the topic captured very different sets of documents. For
 example, [topic 6](http://browser.dissertation.jeriwieringa.com/#/topic/7)
 (*king daniel babylon jerusalem lord kingdom nebuchadnezzar city temple men
@@ -145,7 +145,7 @@ such as the high prevalence of "daniel" and "babylon." However, in reading the
 documents associated with the topic, it was apparent that the words captured by
 this topic were most often found in pages that contained Old Testament stories,
 particularly those from the historical and prophetic books such as Daniel in the
-Lion's Den and the story of Esther. 
+Lion's Den and the story of Esther, rather than accounts of prophecy and its interpretation. 
 
 Through the process of labeling the generated topics, I as the reader and
 interpreter bridged the gap between the model of the denomination's periodicals
@@ -162,7 +162,7 @@ strikes a compromise between a generalized and a detailed view of the language
 of the denomination. As a result, there is some overlap between the various
 topics. This provides the advantage of nuance and increases the opportunity to
 see shifts in language over time. However, it also makes the model more
-difficult to read and understand, as the fragmentation of theme over multiple
+difficult to read and understand, as the fragmentation of themes over multiple
 topics makes it difficult to grasp broader trends. By using the labels to group
 topics together, I added yet another lens through which to view the corpus
 literature.
@@ -195,9 +195,9 @@ probabilistic aspect of topic modeling. By grouping similar topics together,
 words that may have received multiple (related) topic assignments can be viewed
 together, making the results both clearer and more reliable.
 
-The labels enable readers navigate the model and provide the foundation for the
-work that follows in which I trace the broader picture of the prevalence of
-particular subjects at different times. By moving back and forth between close
+The labels enable readers to navigate the model and provide the foundation for the
+work that follows in which I trace the prevalence of
+end-times topics over time. By moving back and forth between close
 readings of the text and the more abstract and distant reading of the model, the
 reader can begin to understand and explore the overall patterns in the
 literature and use those patterns to identify areas for closer analysis.
@@ -217,7 +217,7 @@ speaking of the second coming and the end of time.
   coming](#eschatology---describing-the-second-coming), where adventist writers
   worked to explain the events they anticipated occuring as part of the second
   coming and to encourage believers to strive for the goal of heaven. 
-+ The [third is the parsing current and historical
++ The [third is the parsing of current and historical
   events](#interpreting-the-signs-of-the-times) in terms of their fulfillment of
   prophecy, or analyzing the "signs of the times." 
 + The [fourth theme captures the SDA's concern with the union of civic and
@@ -261,23 +261,7 @@ rules, which he derived from biblical proof texts, he developed an
 interpretation of the Bible, and particularly the prophetic texts, that resolved
 its apparent contradictions and that also revealed the approximate date of the
 looked-for second coming: 1843.^[Judd provides a list of Miller's fourteen rules
-of interpretation in @Judd1987, pp. 20-21 These were: 
-
-1. "Every word must have its proper bearing on the subject presented in the Bible. 
-2. All scripture is necessary, and may be understood by a diligent application and study. 
-3. Nothing revealed in the scripture can or will be hid from those who ask in faith, not wavering. 
-4. To understand doctrine, bring all the scripture together on the subject you wish to know; then let every word have its proper influence, and if you can form your theory without contradiction, you cannot be in error. 
-5. Scripture must be its own expositor, since it is a rule of itself. ... 
-6. God has revealed things to come, by visions, in figures and parables, and in this way the same things are oftentimes revealed again and again, by different visions, or in different figures, and parables. If you wish to understand them, you must combine them all in one. 
-7. Visions are always mentioned as such. 
-8. Figures always have a figurative meaning, and are used much in prophecy, to represent future things, times and events; such as *mountains*, meaning *governments*; *beasts*, meaning *kingdoms*; *waters*, meaning *people*; *lamp*, meaning *Word of God*; *day*, meaning *year*. 
-9. Parables are used as comparisons to illustrate subjects, and must be explained in the same ways as figures by the subject and Bible. 
-10. Figures sometimes have two or more significations, as day is used in a figurative senses to represent three different periods of time ... if you put on the right construction it will harmonize with the Bible and make good sense, otherwise it will not. 
-11. How to know when a word is used figuratively. If it makes good sense as it stands, and does no violence to the simple laws of nature, then it must be understood literally, if not, figuratively. 
-12. To learn the true meaning of figures, trace your figurative word through your Bible, and where you find it explained, put it on your finger, and if it makes good sense you need look no further, if not, look again. 
-13. To know whether we have the true historical event for the fulfillment of a prophecy. If you find every word of prophecy (after the figures are understood) is literally fulfilled, then you may now that your history is the true event. But if one word lacks fulfillment, then you must look for another event, or wait its future development ... 
-14. The most important rule of all is, that you must have *faith*. It must be a faith that requires a sacrifice, and, if tried would give up the dearest object on earth, the world and all its desires, character, living, occupation, friends, home, comforts, and worldly honors."
-] 
+of interpretation in @Judd1987, pp. 20-21 These were: 1. "Every word must have its proper bearing on the subject presented in the Bible. 2. All scripture is necessary, and may be understood by a diligent application and study. 3. Nothing revealed in the scripture can or will be hid from those who ask in faith, not wavering. 4. To understand doctrine, bring all the scripture together on the subject you wish to know; then let every word have its proper influence, and if you can form your theory without contradiction, you cannot be in error. 5. Scripture must be its own expositor, since it is a rule of itself. ... 6. God has revealed things to come, by visions, in figures and parables, and in this way the same things are oftentimes revealed again and again, by different visions, or in different figures, and parables. If you wish to understand them, you must combine them all in one. 7. Visions are always mentioned as such. 8. Figures always have a figurative meaning, and are used much in prophecy, to represent future things, times and events; such as *mountains*, meaning *governments*; *beasts*, meaning *kingdoms*; *waters*, meaning *people*; *lamp*, meaning *Word of God*; *day*, meaning *year*. 9. Parables are used as comparisons to illustrate subjects, and must be explained in the same ways as figures by the subject and Bible. 10. Figures sometimes have two or more significations, as day is used in a figurative senses to represent three different periods of time ... if you put on the right construction it will harmonize with the Bible and make good sense, otherwise it will not. 11. How to know when a word is used figuratively. If it makes good sense as it stands, and does no violence to the simple laws of nature, then it must be understood literally, if not, figuratively. 12. To learn the true meaning of figures, trace your figurative word through your Bible, and where you find it explained, put it on your finger, and if it makes good sense you need look no further, if not, look again. 13. To know whether we have the true historical event for the fulfillment of a prophecy. If you find every word of prophecy (after the figures are understood) is literally fulfilled, then you may now that your history is the true event. But if one word lacks fulfillment, then you must look for another event, or wait its future development ... 14. The most important rule of all is, that you must have *faith*. It must be a faith that requires a sacrifice, and, if tried would give up the dearest object on earth, the world and all its desires, character, living, occupation, friends, home, comforts, and worldly honors."] 
 
 <div class="embedded-left">
 [![**Figure 3.1:** Charles Fitch, *Chart of the Visions of Daniel and John.* Poster. Boston: 1843. From the [Adventist Digital Library](https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)](/images/A_Chronological_Chart_of_the_Visions_of_Daniel_and_John.png)
@@ -530,7 +514,7 @@ resist those efforts.
 | [166](http://browser.dissertation.jeriwieringa.com/#/topic/167) | Church & State (Sabbath Laws) |  sunday fair sabbath church world closing christian congress union rev chicago exposition law said association city american convention national open |
 | [210](http://browser.dissertation.jeriwieringa.com/#/topic/211) | Church & State (Religion Legislation and the Courts)  |  law shall state court act decision person case constitution judge supreme_court united section statute labor provision public said sunday justice |
 | [221](http://browser.dissertation.jeriwieringa.com/#/topic/222) | Church & State (Religion in Public Education) |  church state catholic religion protestant school religious public_school public roman government christian denomination country american baptist united mormon methodist presbyterian |
-: **Table 3.4** Topics Corresponding to Concerns Regarding Union of Church and
+: **Table 3.4** Topics Corresponding to Concerns Regarding the Union of Church and
 State. Model Generated with Mallet, using 250 topics and random seed of 18497.
 
 <iframe class="large" src="/interact/Church-and-State-Topics-Full-Corpus.html"></iframe>
@@ -605,7 +589,7 @@ Examining the prevalence of all of these topics across the first seventy years
 of the denomination, two general features emerge. First, over time the
 prevalence of these topics decreases, as denominational members settle into the
 realization that the work of redemption was going to require much more time than
-had been anticipated by early church leaders in 1850. The reflects on the one
+had been anticipated by early church leaders in 1850. This reflects on the one
 hand a "naturalizing" of the discourses of end times, as the understanding of
 end times events and the role of the Seventh-day Adventist people in preparing
 for Jesus' second coming entered into the realm of the "known" or the imaginary
@@ -626,13 +610,8 @@ first, and the clearest, wave of expectation stretches from the start of the
 Seventh-day Adventist publishing endeavors in 1849 and reaches until
 approximately 1860. From 1860 to 1885, the discussions of end times remain
 relatively low, with the exception of two large spikes in "Eschatology" and
-"Signs of the Times" topics in 1869-1871 and 1874. After 1885, concerns
-regarding the passage of Sabbath (Saturday observance) laws become a major
-concern when looking across all denominational titles, particularly due to the
-creation of new titles devoted particularly to the topic. In looking at the
-major denominational titles, this topic is balanced by a spike in concerns
-regarding the "Signs of the Times," indicating two main spikes, one around 1890
-and one after 1905.   
+"Signs of the Times" topics in 1869-1871 and 1874. The third and final wave of expectation occurs after 1885, as the passage of Sabbath (Saturday observance) laws become a major
+concern across all denominational titles, one of a number of "Signs of the Times" tracked by religious commentators. With two main spikes, one in 1890 and one after 1905, community members focused outward to the government of the United States and to world events for evidence of the second coming and their role therein.   
 
 This pattern fits with, while also expands, the secondary literature on the
 development of the denomination. In *Seeking a Sanctuary*, authors Bull and
@@ -704,21 +683,10 @@ the year of the denomination's incorporation and provide a window onto the slow
 expansion of their concerns, both internal and in relation to external groups
 and movements. 
 
-<!-- As noted by Bull and Lockhart, energy directed toward the second coming tended
-to occur among Seventh-day Adventists not during periods of general national
-crisis, but in the periods before and after. The Civil War was one such example.
-For many members, while they viewed slavery as the original sin of the United
-States, they took a conscientious objector stance against being drafted in the
-military, willing only to take non-combatant roles.^[This pattern repeats around
-the First World War, as members of the SDA who did enlist did so primarily as
-medical staff, with implication for the development of their health practices.] -->
-
-
-
 The first spikes in end-times topics seen in the early 1870s corresponds with an
 increase in outreach or evangelistic activity within the denomination following
 the American Civil War. As the war came to a close, denominational leaders
-celebrated by the end of hostilities and noted that this marked the "opening the
+celebrated the end of hostilities and noted that this marked the "opening the
 way for the progress of the message, we solemnly consecrate ourselves anew to
 this great work to which God has called us," with particular mention that the
 South "is now opened ... for labor among the colored people and should be
@@ -726,7 +694,7 @@ entered upon according to our ability."^[@GC2007, pp. 13-14] For the early SDA
 church, while they applauded the Northern victory in the Civil War, the war
 itself marked an interruption in the progress of the cause, making it difficult
 to bring their message to those who needed to hear. Additionally, world events
-of the period earned special mention as part evidence that the time to complete
+of the period earned special mention as part of the evidence that the time to complete
 that missionary work was short. In 1871, the General Conference sessions
 included calls for increased engagement with the work of spreading the message,
 with particular concern that all engage in missionary activity, particularly
@@ -740,28 +708,31 @@ conversion was seen as the responsibility for all members of the denomination.
 With such calls for increased engagement, denominational leaders also paid
 increased attention, particularly in 1871, to world events as indications of the
 need for focus and rapid action in spreading their message. In sessions held in
-February and December of 1871, the resolutions committee officially noted "the
-present condition of the Pope of Rome and the Sultan of Turkey, unmistakable
-evidence that we have reached the very conclusion of the great lines of
-prophecy, and that our confidence in the speedy advent of our Lord is
-unwavering" and "the events of the past year are peculiarly impressive; among
-which we enumerate the prostration of the papal civil power; the condition of
-the kingdoms of Europe, especially the humbling of those which have been
-supporters of the papacy; the present relation which Russia and Turkey sustain
-to each other; the work of spiritualism; the preparation for the formation of
-the image of Revelation 13:14, 15, in the Sunday movement; the terrible storms
-by sea and by land; the alarming increase of earthquakes; the fearful tidal
-waves; the wonderful "flame of devouring fire;" the likeness of our days, in
-point of crime, to those of Noah and of Lot; and finally the more extensive
-proclamation of the three predicted messages of warning of Revelation 14. And we
-express our deep conviction that all these things indicate the speedy approach
-of the final day ..."^[@GC2007, p. 54; 60] While not setting a date, the
+February and December of 1871, the resolutions committee officially noted 
+
+> the present condition of the Pope of Rome and the Sultan of Turkey, unmistakable
+> evidence that we have reached the very conclusion of the great lines of
+> prophecy, and that our confidence in the speedy advent of our Lord is
+> unwavering" and "the events of the past year are peculiarly impressive; among
+> which we enumerate the prostration of the papal civil power; the condition of
+> the kingdoms of Europe, especially the humbling of those which have been
+> supporters of the papacy; the present relation which Russia and Turkey sustain
+> to each other; the work of spiritualism; the preparation for the formation of
+> the image of Revelation 13:14, 15, in the Sunday movement; the terrible storms
+> by sea and by land; the alarming increase of earthquakes; the fearful tidal
+> waves; the wonderful "flame of devouring fire;" the likeness of our days, in
+> point of crime, to those of Noah and of Lot; and finally the more extensive
+> proclamation of the three predicted messages of warning of Revelation 14. And we
+> express our deep conviction that all these things indicate the speedy approach
+> of the final day ...^[@GC2007, p. 54; 60] 
+
+While not setting a date, the
 leadership of the denomination reinforced a clear belief that these were
 auspicious days, pointing to various signs and indications of the end of time to
 remind themselves of where they stood in time and the need for action to show
 themselves as faithful to their calling in such last days.
 
-A closer reading of the periodical literature of 1870 corroberates the pattern
+Additionally, I turned to a closer reading of the periodical literature of 1870 to corroberate the pattern
 identified through the topic model, that the events of the last days were
 prevalent in the minds of community members during this period. To do this, I
 used two additional strategies for looking at the content of the periodical
@@ -831,7 +802,7 @@ corpus.^[@Anthony2018. For documentation, see the [data files]. Within AntConc,
 I used the default values for p (p<0.05 (+Bonferroni)) and the default
 algorithm, (log-likelihood) to compute the keywords for the corpus.] The top ten
 results from this calculation are recorded in Table 3.5 below. The "keyness"
-score is a measure of statistical significance
+score is a measure of statistical significance, measuring the probability that a word is distinctive to the test corpus.
 
 | Rank | Frequency        | Keyness       | Effect        | Keyword        |
 | -----| ---------------- | ------------- | ------------- | -------------- |
@@ -909,10 +880,10 @@ and "heavenly" are all connected to discussion around theology, and particularly
 discussions of Jesus's ongoing work prior to the second coming. These topics
 correlate to those identifed in the topic model, which associated a third of the
 words in the 1870 documents with "health," "reports on the cause," "theology,"
-or "eschatology" topics. 
+and "eschatology" topics. 
 
 Additionally, although "goat" appears at first glance to be an outlier in this
-data, an examination of the word in context reveals that it also also fits
+data, an examination of the word in context reveals that it also fits
 within the general conversation around end times. A goat appears primarily in
 two discussions within the early literature: that around Jesus work in the
 Sanctuary as foreshadowed in Old Testament practices and the interpretation of
@@ -940,9 +911,9 @@ position in its unfolding. Although not a word one might initially identify as
 linked to discussion of "time," the goat functions as an important symbolic
 figure in determining the sequence of events leading up to the second coming.
 
-This method of keyword identification provides an additional way to identifying
+This method of keyword identification provides an additional way to identify
 patterns across a large scale of documents by comparing word use within one set
-of documents to that of another, reference, set. Looking within the narrow
+of documents to that of a reference set. Looking within the narrow
 window of the decade surrounding 1870, this measure suggests that what stood out
 in that year, what was particularly salient to readers, was discussions of
 heaven, Jesus's work there, and the approaching second coming. While there may
@@ -958,7 +929,7 @@ distinctive elements of the Seventh-day Adventist faith, the book of Daniel, and
 the anticipated events of the second coming.^[The titles for there were "Our
 Faith and Hope; Or, Reasons Why We Believe as We Do", "Thoughts on the Book of
 Daniel", and "Order of Events in the Judgment."] In these series, the authors
-including James White, revisited key themes of the Seventh-day Adventism to
+including James White, revisited key themes of Seventh-day Adventism to
 remind readers of the two distinctive elements of their faith, that "As
 Adventists we are looking for the personal appearing and reign of Jesus Christ.
 And in seeking for that readiness necessary to meet our soon-coming Lord with
@@ -980,10 +951,10 @@ denominational members, these serials suggest a reintroduction of the core
 elements of the Seventh-day Adventist faith and a reaffirming of the time in
 which they understood themselves to inhabit at a point of increasing missionary
 activity. While the second coming might still be seen as a far off event,
-anticipation thereof was a reinforced as a central component of the Seventh-day
+anticipation thereof was reinforced as a central component of the Seventh-day
 Adventist faith, along with "time" as a significant part of God's revelation to
 his people.^[For example, @White1870a.] While the primary focus of these
-particular articles is on the existence and signficance of the heavenly
+particular articles is on the existence and significance of the heavenly
 sanctuary, they serve to ground the faith back to Miller's interpretations of
 Daniel and their belief that the "2300 days" of Daniel ended in 1844 and in
 Christ ongoing ministry on behalf of the saved in heaven.
@@ -1093,7 +1064,7 @@ to pass Sabbath-keeping legislation.^[@Smith1874] Finally keywords such as
 "Satan" appear as Ellen White began to publish a series on "Redemption," which
 lays out both the Biblical narratives and western history in terms of the
 ongoing struggle between Satan and Christ, a theme that she developed in her
-*Conflict of the Ages* series, which were one of her most enduring contributions
+*Conflict of the Ages* series, which was one of her most enduring contributions
 to the denominational literature. 
 
 While the articles produced in 1874 do not suggest that Seventh-day Adventist
@@ -1109,7 +1080,7 @@ and seeking to be faithful through the final days of human history. This
 suggests that, although as Paulien has documented, there were no formal
 predictions of the second coming during the 1870s, the expansion of the
 denomination and its missionary efforts after the Civil War and the growing
-concern regarding Sabbath reform lead to the second coming and the fulfillment
+concern regarding Sabbath reform led to the second coming and the fulfillment
 of prophecy being at the forefront of the minds of readers and denominational
 leaders.  
 
@@ -1117,7 +1088,7 @@ Identifying keywords using AntConc provides another lens onto the words of the
 texts and provides evidence that collaborates the topic model's suggestion that
 the language produced during 1870 and 1874 was strongly marked by concern with
 end times and the second coming. But what if that that correspondence is merely
-a matter of chance or not unique to those year? An examination of keywords
+a matter of chance or not unique to those years? An examination of keywords
 during a period of reported low interest in end-times topics provides one
 additional mechanism to evaluate the reliability of the model for guiding our
 exploration of cycles of expectation during the development of the denomination.
@@ -1129,7 +1100,7 @@ According to the aggregated topic model, shown below, the major topic categories
 for the year were "reports on the cause," "theology," "spiritual growth,"
 "advertisements," and "bible" (or biblical citations). Of these,
 "advertisements" is the most notable introduction, with "bible" references a
-close second, having reappeared from an earlier spike in 1878, but still
+close second, having reappeared in an earlier spike in 1878, but still
 relatively new to the major discourses of the periodical literature.
 
 <iframe class="xlarge" src="/interact/Yearly_Aggreg_Categories_1879_to_1884.html"></iframe>
@@ -1227,21 +1198,6 @@ literature as time continued and the publishing activities of the denomination
 expanded. The overall pattern of decline was coupled with periodic increases in
 end-times concern, tied to shifts in the understanding of the denomination's
 role in the unfolding of the final days and world events. 
-
-To verify this pattern, I used two strategies: comparison to the existing
-secondary literature and other primary sources, as well as corroboration of the
-pattern through other computational strategies. The pattern generally matches
-what has been described in the secondary literature, both historical surveys of
-the denomination and works of historical theology, with a few exceptions. To
-examine these exceptions, particularly the spikes in 1870 and 1874, I turned to
-the meeting notes of the General Conference for additional context, noting a
-rising interest in the outreach mission of the denomination and attention to
-prophetically significant world events in the years surrounding. Additionally,
-drawing on the technique of keyword measures from corpus linguistics enabled me
-to identify statistically significant words for those years in comparison to
-their surrounding decade. These words, and the contexts in which they appeared
-in the journal articles, reinforced the claim that Seventh-day Adventist authors
-were focused on the second coming to a significant degree in those years. 
 
 These methods provide a reasonable, interpretative case for the usefulness of
 the model and the patterns it highlights. They also highlight the constraints of
