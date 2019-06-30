@@ -1,6 +1,8 @@
 --- 
-date: 2019-01-15 00:00:00 UTC title: The Gendered Work of Salvation at the End
-of Time slug: chapter-4 suppress-bibliography: true
+date: 2019-01-15 00:00:00 UTC 
+title: The Gendered Work of Salvation at the End of Time 
+slug: chapter-4 
+suppress-bibliography: true
 ---
 
 >As a people who claim to have advanced light, we are to devise ways and means
@@ -50,23 +52,6 @@ religious culture of Seventh-day Adventism as a lens onto broader dynamics of
 gender and belief in nineteenth-century America. Building on the cycles of
 end-times expectation identified in [Chapter 3](link:slug//chapter-3), I explore
 the implications of the temporal imaginary on the culture of the denomination.
-Time during the nineteenth century was undergoing fundamental shifts due to the
-increasing standardization and mechanization, as well as due to scientific
-discoveries regarding the age of the earth and the processes of evolution.
-Concurrently, notions of masculinity and femininity were shifting as scientific
-and technical mastery of time was coded in terms of masculinity, and the older,
-"natural" but also irregular organization of time as "feminine."^[The
-interaction between gender and time in nineteenth-century America is analyzed in
-@Murphy2001.] In the face of these changes, Seventh-day Adventists embraced
-their own reorganizations of time, holding Saturday as the day of rest that
-began not with the striking of the clock but with the setting of the sun on
-Friday. They also rejected the emerging scientific consensus from fields such as
-geology and biology that the earth was billions of years old, rather than the
-thousands of years typically held to be indicated by Scripture. This
-organization of time was motivated by their belief that they were living in the
-last days of human history, as indicated in prophecy, and that the second coming
-would occur very soon.
-
 Religion in the nineteenth-century has been studied in terms of the
 opportunities for power disruption made possible during periods of revival or
 radical expression, as well as in terms of the sequestering of women's influence
@@ -81,17 +66,13 @@ the reestablishment of more traditional hierarchies, albeit changed by the
 experience. @Smith-Rosenberg1986, pp. 140ff. Ann Douglas, by contrast, analyzes
 the ways religion contributed to the codification of separate spheres for men
 and women, and the costs of women assuming the mantle of moral authority being
-the loss of their social and political power. @Douglas1977.] Within Seventh-day
-Adventism, we see  both. Inhabiting an alternative temporal imaginary and
-repeatedly anticipating the second coming, they maintained a level of disruption
+the loss of their social and political power. @Douglas1977.] By inhabiting an alternative temporal imaginary and
+repeatedly anticipating the second coming, early Seventh-day Adventists maintained a level of disruption
 that created space for the development of alternative gender constructions. At
 the same time, as time continued and pressures for respectability pushed against
-the radical impulses necessitated by the second coming, more separated and
-patriarchal gender constructions were advocated. This tension has resulted in a
-contested legacy around gender within the denomination. Additionally, this
-dynamic between beliefs and gender, particularly visible within Seventh-day
-Adventism, sheds light on tangible effects of beliefs on the culture of a
-particular community. The second coming and the surrounding events were not
+the radical impulses necessitated by the second coming, denominational leaders advocated more 
+patriarchal gender norms. This tension created a
+contested legacy around gender within the denomination. The second coming and the surrounding events were not
 abstract theological concepts for early Seventh-day Adventists but foundational
 realities with implications for how they inhabited the world with regard to
 time, how they structured their community, and how they developed culturally.
@@ -110,7 +91,7 @@ experience and one that is profoundly shaped by the conceptual and narrative
 frameworks through which one interprets the world. While debates regarding the
 organization of time were not unique to the nineteenth century, the century was
 one of particular upheaval in terms of standard assumptions about time, as
-understandings of history, of progress, of government, and of Christianity all
+understandings of history, progress, government, and Christianity all
 underwent significant revision in the face of political revolutions and advances
 in science and technology. Older assumptions of time as cyclical, already under
 stress from the changes of the Reformation and the Enlightenment, gave way to a
@@ -135,8 +116,8 @@ the second coming is near.]
 
 Within the realm of religion, standard practices and assumptions of
 Christianity, which had historically contained both cyclical and linear patterns
-of time, shifted to privileging the linear. Emphasizing Genesis to Revelations
-as a describing the start and end of historical time, nineteenth-century
+of time, shifted to privileging the linear. Emphasizing Genesis to Revelation
+as describing the start and end of historical time, nineteenth-century
 Protestant Christians were primed to interpret their lives and world events as
 part of a divine historical drama moving quickly toward its completion.^[One of
 Ellen White's most enduring contributions to the literature of the denomination
@@ -170,7 +151,7 @@ pieces is traced in @OMalley1990, particularly chapters 1 and 4.]
 While technology in the form of clocks and railroads reshaped the daily
 experience of time, the broader understanding of historical time, of the extent
 of the past, was also coming under revision with advances in science,
-particularly with the development of the publication of Darwin's *On the Origin
+particularly with the publication of Darwin's *On the Origin
 of Species* in 1859. Previously the sense of cosmic time was guided by the
 Genesis story, where the world came into being through divine command less than
 ten-thousand years ago and was established for the dominion of "man." Darwin's
@@ -201,7 +182,7 @@ with progressive civilization and the female with stultifying primitivism; or
 the male with Christianity and the female with paganism."^[@Murphy2001, p. 24]
 While the social and political world was organized along a vision of linear and
 progressive time, as determined by the "objective" arbiters of science and
-technology, "women's time" was different and was composed of "the cyclical time
+technology, "women's time" was different, composed of "the cyclical time
 that conforms to nature through gestation, regularity, and biological rhythms,
 and the monumental time that evokes infinity through its affiliation with myth,
 mysticism, and the cosmos."^[@Murphy2001, p. 26] Bound to monthly cycles as well
@@ -220,12 +201,12 @@ a literal interpretation of the Bible, while also enabling believers to inhabit
 the increasingly mechanistic world of the late nineteenth and early twentieth
 centuries. Their conception of time developed along a number of different lines,
 seen in their organization of the week around Saturday, the day around the sun,
-and historical time on a literal creationism. Uniting these approaches, their
+and historical time on literal creationism. Uniting these approaches, their
 orientation toward standard time and toward historical time was informed by
 their beliefs about the second coming and eschatological time, and their belief
 that history was moving rapidly toward its completion, marked not by gradual
 progress but by the persecution of Seventh-day Adventists and their salvation
-through the Second Coming of Jesus. 
+at the second coming of Jesus. 
 
 While all those who followed Miller shared the the belief that they were living
 during the last moments of human history, Seventh-day Adventism expanded their
@@ -237,7 +218,7 @@ interpret the events surrounding 1844. As summarized by George Holt,
 > voice. Fear God and give glory to him; for the hour of his judgement is come,"
 > &c. This angel proclaimed the vision as it was written on the chart, and
 > brought us to the tarrying time. "And there followed another angel saying,
-> Babylon is fallen is fallen." "Come out of her, my people." This second
+> Babylon is fallen, is fallen." "Come out of her, my people." This second
 > message brought us out from the different churches to which we belonged, or
 > from Babylon. These two angels brought us to the tenth day of the seventh
 > month, 1844, where the 2300 days ended. ... Now we have the message of the
@@ -272,7 +253,7 @@ natural rhythms to structure their religious practice, using the sun rather than
 the clock to mark the start of the Sabbath on Friday evening. In 1855, James
 White commissioned a study by J.N. Andrews, a fellow SDA "pioneer" and
 theologian, on the proper method for marking the start of the Sabbath, published
-in the *The Advent Review and Sabbath Herald*. While there had been some debate
+in *The Advent Review and Sabbath Herald*. While there had been some debate
 up to this point regarding what marked the start of the Sabbath -- with options
 including 6 p.m. local time, sunrise, and  sundown -- both Andrews and White
 came to the conclusion that following the natural rhythm of the sun was more in
@@ -292,8 +273,8 @@ regular hours and minutes, to the heathen or the ungodly. While the conclusion
 by Andrews guided the religious practice for the denomination going forward, the
 tension between these different modes of keeping time resurfaced over the early
 years of the denomination. As the faith spread beyond the United States, the
-logistics of marking time by the sunset received renewed consideration in the
-context of the northern altitudes. Discussing the case of Norway in response to
+logistics of marking time by the sun received renewed consideration in the
+context of churches in northern latitudes. Discussing the case of Norway in response to
 a church-member's inquiry, the editors note, "Now the query sometimes arises, As
 the Sabbath is to begin at sunset, and the sun here does not set at all, where
 is the end or the beginning of the day ? But the sun does virtually set. It
@@ -305,11 +286,11 @@ sun-based system of marking time, for the day, defined as the rotation of the
 earth on its axis, was still discernible. 
 
 In addition to re-ordering the week and the day around what they understood to
-be a biblical vision of historical time, early Seventh-day Adventists also
+be a biblical vision of time, early Seventh-day Adventists also
 advocated for an alternative sense of historical time. They rejected the
 evidence of geology for the length of history and the evidence of evolutionary
 sciences regarding the development of life, with its concurrent reorganization
-of historical time, and insisted instead on the creation narrative understood in
+of historical time. They insisted instead on the creation narrative understood in
 terms of literal days, with nature created as complete at the time of creation,
 and on a temporally short period of the history of the world.^[This discourse is
 captured in [topic 119 - Apologetics (Geology and
@@ -349,7 +330,7 @@ the second coming.^[Robert Abzug traces the shift from Puritan exceptionalism to
 a progressive and triumphant religion in the writing of leading Protestant
 ministers such as Lyman Beecher and Charles Finney in @Abzug1994, pp. 30-75.] By
 contrast, Seventh-day Adventists anticipated increasing corruption and their
-persecution at the hands of state due to their alternative temporal framework.
+persecution at the hands of the state due to their alternative temporal framework.
 
 >But the prophecy indicates a change....
     
@@ -441,14 +422,14 @@ of slow accommodation to the surrounding culture, where Seventh-day Adventism
 progressed from a group at the edges of the Millerite movement to an established
 denomination, and one that was increasingly inscribing a gendered hierarchy
 based on "separate spheres" and female domesticity by the 1920s.^[@Vance1999,
-pp. 112-115. The concept of "separate spheres" as the defining characteristic of the gender organization of the nineteenth-century as a long and somewhat contested history, described by Linda Kerber in @Kerber1988.] These general patterns of accommodation and secularization - in
-the sense of becoming "like the world" - help explain the overall structural
+pp. 112-115. The concept of "separate spheres" as the defining characteristic of the gender organization of the nineteenth-century as a long and somewhat contested history, described by Linda Kerber in @Kerber1988.] These general patterns of accommodation and secularization &mdash; in
+the sense of becoming "like the world" &mdash; help explain the overall structural
 shifts in the Seventh-day Adventist theology and religious culture, but also
-obscure the ways that culture was negotiated at multiple point along the way.
+obscure the ways that culture was negotiated at multiple points along the way.
 While scholars such as Laura Vance convincingly argue that the trajectory of the
 Seventh-day Adventist denomination has historically been toward accommodation to
-prevailing cultural norms and toward increased affiliation with the traditional
-Protestant denomination, the early years of the sect indicate that this
+prevailing cultural norms and toward increased affiliation with traditional
+Protestant denominations, the early years of the sect indicate that this
 progression was complex and contested. As Vance notes with regard to Ellen
 White's positions on female leadership in the denomination, "the seeming
 contradictions of White's admonitions, life, and advice are not easily
@@ -458,7 +439,7 @@ Additionally, other scholars have commented on the ways the culture of
 Seventh-day Adventism is gendered in ways at odds with their surrounding
 culture. In their chapter on "Gender," Bull and Lockhart link "feminine"
 characteristics of the denomination to the shared experience of Seventh-day
-Adventists and women in finding themselves on the outside of American power
+Adventists and women in finding themselves outside of American power
 structures.^[@Bull2006, p. 259.] The authors note that "time" functioned as a
 defining characteristic for SDA members, who organized their lives around
 Saturday Sabbath-keeping, and open the door for further study into the gender
@@ -489,7 +470,7 @@ from the intensity of 1844, we assume a cyclical pattern to the Seventh-day
 Adventist sense of time with the second coming seeming more or less imminent at
 different points throughout their history, as evidenced through text analysis in
 [Chapter 3](link://slug/chapter-3), we can begin to explore the relationship
-between those periods of intensity and "boredom" with shifts in the locus on
+between those periods of intensity and "boredom" with shifts in the locus of
 salvation and the ways the work to bring about salvation were gendered.
 
 ### A Community of Belief: 1849-1860
@@ -590,7 +571,7 @@ important point for the writers and the editors was to speak to their experience
 with the Seventh-day Adventist message, and in so doing reaffirming their shared
 beliefs. These letters reveal a community of believers united around the message
 and focused on sharing it with others, in full anticipation that the day of
-reckoning is quickly approaching.
+reckoning was quickly approaching.
 
 Ellen White herself embodied the prioritization of the truth of Seventh-day
 Adventist beliefs over all other responsibilities, including those of
@@ -632,7 +613,7 @@ importance of the prophetic gift of Ellen White and noting that, while they were
 not to be exalted "above the Bible," they were authoritative, in that the church
 community was "under obligation to abide by their teachings, and be corrected by
 their admonition."^[@Bates1855, p. 79. This event is discussed in @Anderson1998,
-pp. 35-36.] For church members and leaders, Ellen's visions served as powerful
+pp. 35-36.] For church members and leaders, Ellen's visions served as a powerful
 reminder and sign: prophecy, and particularly prophecy communicated through a
 woman, was itself powerful evidence of the truth of their fundamental claim that
 the second coming was at hand.
@@ -640,7 +621,7 @@ the second coming was at hand.
 The first decade of Seventh-day Adventist publishing points to a community
 convinced of the truth of its beliefs and the necessity of reaching those marked
 with salvation prior to the second coming. The editors and readers saw
-themselves as participants in the the unfolding of divine history, called to
+themselves as participants in the unfolding of divine history, called to
 reach the "scattered flock" with the message of the "third angel." To that end,
 they focused in these early writings on that message and its truth. Expecting a
 quickly arriving close to history, typical gender norms were suspended, with men
@@ -667,13 +648,12 @@ work. Facing a longer period of waiting than originally anticipated, belief in
 Adventist doctrines and Sabbath-keeping no longer seemed sufficient for the
 mission of Seventh-day believers. Instead, longer stretches of time called for
 the creation of institutions to provide stability to the cause and motivated
-broader concern with health and the process of preparing oneself for salvation. 
+broader concerns with health and the process of preparing oneself for salvation. 
 
 The legal formation of the denomination during this period provides an
 instructive example of the changing sense of time among denominational leaders.
 Having heeded the "second angel's message" to leave their home churches ahead of
-the second coming, many in the adventist community were skeptical of any form of
-formal organization. However, a number of factors pushed the community toward
+the second coming, many in the adventist community were skeptical of any formal organization. However, a number of factors pushed the community toward
 the adoption of a denominational structure. For one, the denomination had begun
 to accumulate assets, including church buildings, tents for camp meetings, and
 equipment for publishing. In his arguments for the establishment of a
@@ -722,7 +702,7 @@ Additionally, the continuation of time raised questions as to whether they had
 fully understood the requirements of salvation. Health had long been a concern
 of Ellen and James White. Ellen White began the 1860 edition of her
 autobiography with the story of her childhood "misfortune," where she was
-rendered unconscious and suffered a broken nose at the hand of rock thrown by a
+rendered unconscious and suffered a broken nose at the hand of a rock thrown by a
 neighborhood girl. Slow to recover from the event, she framed her narrative in
 terms of the weakness of her body and her difficulties in
 recovering.^[@White1860b, p. 7-12. It should be noted that this is also a trope
@@ -793,7 +773,7 @@ create "a home for the afflicted, and those who wish to learn how to take care
 of their bodies that they may prevent sickness."^[@White1871, p. 528.] This home
 was also to serve as an opportunity for missions, where those who came seeking
 relief from disease would be "brought directly under the influence of the truth"
-through their treatment under "Sabbath-keeping physician."^[@White1871, p. 532.]
+through their treatment under a "Sabbath-keeping physician."^[@White1871, p. 532.]
 This vision quickly became a reality. Ellen shared her vision at the General
 Conference in May, 1866 and on September 5th of the same year, the Western
 Health Reform Institute opened in Battle Creek Michigan.^[@Numbers2008, pp.
@@ -835,14 +815,14 @@ develop the habits necessary in order to live healthfully and to be receptive to
 the gospel message. Mothers as models also extended to general productivity and
 attitudes toward "fashion." Writing in the *Health Reformer* in 1871, White
 warned mothers not to waste time on fashionable dress and on decorative
-embroidery, for doing so produces adults who "minds are frivolous and absorbed
+embroidery, for doing so produces adults whose "minds are frivolous and absorbed
 in their pleasures, in fashionable dress, and outward display ..."^[@White1871a,
 p. 59. White's attitude toward "fashion" reflects a resistance to the growing
 middle class adoption of "theatricality" and artifice of the mid-nineteenth
 century. Her calls for simplicity in fashion and a focus on self-control and
 refinement of the mind align with the cultural critiques of the 1830s and 1840s.
 See @Halttunen1982, p. 156-7.] For White, the consequences of failing to raise
-children who have the necessary habits of self-control and health are dire.
+children who have the necessary habits of self-control and health were dire.
 "They should understand that their lives cannot be useful, if they are crippled
 by disease. Neither can they please God if they bring sickness upon themselves
 by the disregard of nature's laws."^[@White1871a, p. 59. This did not mean,
@@ -914,7 +894,7 @@ all parties, not just women. Her writings regarding health and family were
 frequently directed toward "parents," and while they frequently included
 additional adjunctions to "mothers," their overall focus was on the work of both
 sexes in raising children. The home was one of the central foci of health reform
-work and the family its primary participants and beneficiary. For White and the
+work and the family its primary participants and beneficiaries. For White and the
 early Seventh-day Adventist, this work was the responsibility of both men and
 women who together sought to live lives in keeping with God's law.
 
@@ -1068,11 +1048,11 @@ Catholic "threat." @Finke1992, pp. 110-115.] The appointment of American
 cardinals in 1911 to serve the growing Catholic community was interpreted as
 proof of the growing power of "Rome."^[@Land1998a, p. 131.] If the power and
 influence of the Catholic Church was on the rise, SDA authors argued, so too was
-the likelihood of the erosion "religious liberty."^[This discourse is captured
+the likelihood of the erosion of "religious liberty."^[This discourse is captured
 in [topic 158 - Signs of the Times ("Catholic
 Threat")](http://browser.dissertation.jeriwieringa.com/#/topic/159/).] 
 
-Additionally, world events during the 1910s fed the growing sense that the
+Additionally, world events during the 1910s leading up to the first World War fed the growing sense that the
 "signs of the times" were on the rise. Events in Turkey and the Baltic region
 had long been of interest to Seventh-day Adventists, as the Ottoman Empire was
 frequently linked to end-times prophecies. While cautious about making strong
@@ -1100,7 +1080,7 @@ suggest a community wrestling with their position in time and their role in
 God's plan. In 1881, James White died from malaria, after years of ill health
 and hard work on behalf of the denomination. Although increasingly a contentious
 figure, James had set the course for the denomination and ensured its
-persistence. While he had successfully transfered much of that leadership to
+persistence. While he had successfully transferred much of his leadership to
 church institutions, enabling the denomination to continue after his passing,
 his death was a significant shock to the community.^[@Vandevere1998, p. 65.] In
 the years following his death, the denomination underwent a series of crises
@@ -1118,8 +1098,8 @@ known as the "Battle Creek pattern" &mdash; and supporting financially and
 bureaucratically the growing global network of Seventh-day Adventist
 institutions required a more robust church organization.^[@Vandevere1998, p. 57;
 @Schwarz1998, pp. 100-104.] Under the leadership of Arthur G. Daniells, who had
-been active in mission in Australia with Ellen White and who, with her support,
-was appointed chair (retitled "President") of the newly formed executive
+been active in the Australia mission with Ellen White and who, with her support,
+was appointed chair (later retitled "President") of the newly formed executive
 committee of the denomination's General Conference, the denomination reorganized
 to bring all of the activities of the denomination under the control of the
 General Conference as departments.^[@Schwarz1998, p. 104-5.] As part of this
@@ -1148,7 +1128,7 @@ an alternative social and cultural structure, focused on cooperation between the
 various branches and institutions of the denomination and encouraging
 participation in missions regardless of gender, the growth of the denominations
 bureaucratic structure, the types of intervention required by the political
-threats Sabbath laws, and the increasing professionalization of their medical
+threats of Sabbath laws, and the increasing professionalization of their medical
 work weakened the alternative gender constructions that had defined the early
 denomination. Although Ellen White herself continued to push for the role of
 women in the mission of the Seventh-day Adventist church, the roles available to
@@ -1254,11 +1234,11 @@ increasingly identified "home" as a haven from the external world, one created
 and maintained by women. Homemaking increasingly was advanced as the primary
 "mission" field for women, and their labor as mothers particularly linked to the
 success and future development of their children. Concurrently, the discussion
-of men's roles began to shift away from that of parent and the maintenance a
+of men's roles began to shift away from that of parent and the maintenance of a
 well-functioning home, and began to stress "evangelical and wage labor efforts
 that required participation in the world."^[@Vance1999, p. 114.] By the 1920s,
 the language of domesticity and a separation between men and women's "spheres"
-was taking hold within Seventh-day Adventistism, just as feminism was
+was taking hold within Seventh-day Adventism, just as feminism was
 challenging these norms within the broader cultural sphere.^[Vance lays out this
 shift broad toward domesticity in @Vance1999, pp. 112-115. See also
 @Epstein1981.]
@@ -1268,8 +1248,8 @@ opportunities for women can also be seen in the makeup of the church leadership,
 recorded in the yearbooks published by the denomination starting in 1883. While
 it was not uncommon to see women named as committee secretary and treasurer of
 the various societies and associations of the denomination during the 1880s and
-1890s, by 1920 the women listed were primary in teaching roles. Though there
-were fewer overall positions within the church leadership even in the 1880s,
+1890s, by 1920 the women listed were primarily in teaching roles. Though there
+were fewer overall positions held by women within the church leadership even in the 1880s,
 those positions were more open to women than after the reorganization of the
 denomination in 1904. By 1915, the few North American secretary positions still
 held by women were primarily for Sabbath-School and Young People's departments,
@@ -1352,7 +1332,7 @@ While still small &mdash; at the time of White's death, the denomination had a
 recorded 136,879 members and operated approximately 32 sanitariums, 38
 publishing houses, and 71 schools around the world^[@Rogers1915, p. 2;
 @Rogers1916, p. 3.] &mdash; they were no longer a revival sect marked by
-"anti-ritualism," where weakened social structure enabled re-envisioning gender
+"anti-ritualism," where weakened social structures enabled re-envisioning gender
 and other social hierarchies.^[@Smith-Rosenberg1986, p. 140.] Though still
 inhabiting a divergent temporal framework, keeping Saturday Sabbath, marking the
 start of the day with the setting of the sun, and rejecting evolutionary claims
@@ -1362,8 +1342,8 @@ second coming began to diminish. The work remaining was too great.
 The shift toward more restrictive understandings of gender and the work of
 salvation continued through the 20th century. During the 1920s and 30s, women
 were encouraged to focus on the home as the primary locus of their labor and
-child raising as their primary religious calling. While the second world war
-created need and opportunity for women to work outside of the home in both the
+child-raising as their primary religious calling. While the second World War
+created the need and opportunity for women to work outside of the home in both the
 broader American culture and in Seventh-day Adventism, those opportunities
 constricted again at the close of the war. By the 1950s and 60s, Seventh-day
 Adventist women were encouraged to focus on "personal sacrifice" and on making
@@ -1425,8 +1405,8 @@ religious feminism that insisted on the full participation of women in God's
 plan of salvation. Although a proponent of domesticity, of home and family, and
 resistant to formal feminist calls for political participation, hers was not a
 world of "separate spheres." Rather, White articulated a vision of cooperation
-in the work of salvation, whether that work take place within the family, the
-missions field, or the health institutes, motivated by the belief that the second
+in the work of salvation, whether that work take place within the family or the
+missions field, motivated by the belief that the second
 coming was at hand.
 
 <div style="page-break-after: always;"></div>
