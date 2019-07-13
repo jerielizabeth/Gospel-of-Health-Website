@@ -2,6 +2,10 @@
 D.C.: Review; Herald Publishing Association, 1905.
 <http://documents.adventistarchives.org/Yearbooks/YB1905.pdf>.
 
+“‘A Review of Wellcome and Goud’s…’.” *The Advent Review and Sabbath
+Herald* 35, no. 26 (1870): 8.
+<http://documents.adventistarchives.org/Periodicals/RH/RH18700614-V35-26.pdf>.
+
 Andrews, J.N. “Time for Commencing the Sabbath.” *The Advent Review, and
 Sabbath Herald* 7, no. 10 (1855): 76–78.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18551204-V07-10.pdf>.
@@ -133,6 +137,9 @@ The Fifty-Third Annual Statistical Report Year Ending December 31,
 Adventists, 1915.
 <http://documents.adventistarchives.org/Statistics/ASR/ASR1915.pdf>.
 
+———, ed. *Year Book of the Seventh-Day Adventist Denomination*. Takoma
+Park, Washington, D.C.: Review & Herald Publishing Association, 1921.
+
 Sanderson, Emma G. “The Nobler Profession.” *Pacific Health Journal* 14,
 no. 7 (1899): 122–23.
 <http://documents.adventistarchives.org/Periodicals/PHJ/PHJ18990701-V14-07.pdf>.
@@ -145,6 +152,11 @@ Snow, C.M. “Is This Armagedon? What Is the Battle of Armageddon and
 Where Will It Be Fought?” *Liberty: A Magazine of Religious Freedom* 9,
 no. 4 (1914): 149–53.
 <http://documents.adventistarchives.org/Periodicals/LibM/LibM19141001-V09-04.pdf>.
+
+“Standard Books Issued by the S.d.a. Publishing Association and for Sale
+at This Office.” *The Advent Review and Sabbath Herald* 55, no. 04
+(1880): 63.
+<http://documents.adventistarchives.org/Periodicals/RH/RH18800122-V55-04.pdf>.
 
 Stevens, Sister A.S. “Letter from Sister A.s. Stevens.” *Second Advent
 Review and Sabbath Herald* 1, no. 3 (1850): 16.
@@ -178,6 +190,10 @@ Sabbath Herald* 2, no. 13 (1852): 104.
 Sabbath Herald* 17, no. 25 (1861): 200.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18610507-V17-25.pdf>.
 
+*The Seventh-Day Adventist Year Book, 1883*. Battle Creek, MI:
+Seventh-day Adventist Publishing Association, 1883.
+<http://documents.adventistarchives.org/Yearbooks/YB1883.pdf>.
+
 “The Third Angel’s Message: What Is It, as to the Beast and His Image.”
 *The Review and Herald* 77, no. 12 (1900): 184–5 (8.
 <http://documents.adventistarchives.org/Periodicals/RH/RH19000320-V77-12.pdf>.
@@ -194,6 +210,10 @@ no. 02 (1869): 12.
 25.).” *Advent Review and Sabbath Herald* 36, no. 01 (1870): 4.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18700621-V36-01.pdf>.
 
+“Thoughts on the Book of Daniel. Chapter Viii. (Continued.).” *Advent
+Review and Sabbath Herald* 36, no. 2 (1870): 12–13.
+<http://documents.adventistarchives.org/Periodicals/RH/RH18700628-V36-02.pdf>.
+
 “\[Title Page\].” *The Present Truth* 1, no. 1 (1849): 1.
 <http://documents.adventistarchives.org/Periodicals/PT-AR/PT-AR-Part1-01.pdf>.
 
@@ -205,11 +225,13 @@ Tocqueville, Alexis de. *Democracy in America: Part the Second : The
 Social Influence of Democracy*. New York: J. & H. G. Langley, 1840.
 <https://catalog.hathitrust.org/Record/009778942>.
 
-“Transcription of Minutes of Gc Sessions from 1863 to 1888,” 2007.
+*Transcription of Minutes of Gc Sessions from 1863 to 1888*. Office of
+Archives  Statistics  Research General Conference of the Seventh-day
+Adventist Church, 2007.
 <http://documents.adventistarchives.org/Minutes/GCSM/GCB1863-88.pdf>.
 
 Trim, D.J.B., Kathleen Jones, and Lisa Rasmussen. *2017 Annual
-Statistical Report*. Office of Archives, Statistics,; Research, 2018.
+Statistical Report*. Office of Archives  Statistics  Research, 2018.
 <http://documents.adventistarchives.org/Statistics/ASR/ASR2017.pdf>.
 
 Waggoner, J.H. “The Kingdom of God. No. 1.” *Advent Review and Herald of
@@ -263,8 +285,8 @@ Adventist Publishing Association, 1865.
 ———. “Fashionable Life.” *The Health Reformer* 6, no. 2 (1871): 58–60.
 <http://documents.adventistarchives.org/Periodicals/HR/HR18710801-V06-02.pdf>.
 
-———. *Gospel Workers*. Washington, D.C.: Review; Herald Publishing
-Association, 1915.
+———. *Gospel Workers*. Revised and Enlarged. Washington, D.C.: Review;
+Herald Publishing Association, 1915.
 <https://archive.org/details/gospelworkersins00whit/page/n6>.
 
 ———. *Health, or, How to Live - Number One*. Battle Creek, Michigan:
@@ -279,8 +301,8 @@ James White, 1860.
 1885.
 [https://www.adventistdigitallibrary.org/islandora/object/adl\\%3A22251694?solr\_nav\\%5Bid\\%5D=a3ff196b654b2f03784b\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=2](https://www.adventistdigitallibrary.org/islandora/object/adl\%3A22251694?solr_nav\%5Bid\%5D=a3ff196b654b2f03784b\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2).
 
-———. *Testimonies for the Church*. Vol. 3. Mountain View, CA: Pacific
-Press Publishing Association, 1887.
+———. *Testimonies for the Church*. 1948th ed. Vol. 3. Mountain View, CA:
+Pacific Press Publishing Association, 1887.
 <https://archive.org/details/testimoniesforch03whit/page/80>.
 
 ———. *Testimonies for the Church*. Vol. 8 (No. 36). Kansas City, MO;
@@ -299,6 +321,16 @@ White, Ellen Gould Harmon, and Joseph Bates. *A Vision*. Vol. 1 (1).
 Topsham, ME: Benjamin Lindsey, 1847.
 [http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=51451409\\&site=ehost-live\\&kw=true\\&acc=false\\&lpId=divl1\\&ppId=divp1\\&twPV=null\\&xOff=0\\&yOff=0\\&zm=fit\\&fs=null\\&rot=0\\&docMapOpen=true\\&pageMapOpen=true](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=51451409\&site=ehost-live\&kw=true\&acc=false\&lpId=divl1\&ppId=divp1\&twPV=null\&xOff=0\&yOff=0\&zm=fit\&fs=null\&rot=0\&docMapOpen=true\&pageMapOpen=true).
 
+White, J.S. “Definite Time.” *Advent Herald*, 1846, 150.
+[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=44791883\\&site=ehost-live](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=44791883\&site=ehost-live).
+
+———. “Letter from Bro. J.S. White.” *Advent Herald*, 1846.
+[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=45049284\\&site=ehost-live\\&kw=true\\&acc=false\\&lpId=divl21\\&ppId=divp1\\&twPV=null\\&xOff=0\\&yOff=0\\&zm=2\\&fs=null\\&rot=0\\&docMapOpen=true\\&pageMapOpen=true](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=45049284\&site=ehost-live\&kw=true\&acc=false\&lpId=divl21\&ppId=divp1\&twPV=null\&xOff=0\&yOff=0\&zm=2\&fs=null\&rot=0\&docMapOpen=true\&pageMapOpen=true).
+
+———. “The Times of Restitution.” *Second Advent Watchman* 3, no. 23
+(1852): 180.
+[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=60417598\\&site=ehost-live](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=60417598\&site=ehost-live).
+
 White, James. “Battle Creek Conference.” *Advent Review and Sabbath
 Herald* 16, no. 17 (1860): 136.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18600911-V16-17.pdf>.
@@ -315,6 +347,8 @@ Herald* 16, no. 17 (1860): 136.
 Herald* 16, no. 19 (1860): 148.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18600925-V16-19.pdf>.
 
+———. “Letter from Bro. White.” *The Day-Star* 9.7, 8 (1846).
+
 ———. *Life Incidents : In Connection with the Great Advent Movement as
 Illustrated by the Three Angels of Revelation Xiv*. Battle Creek, Mich.:
 Steam Press of the Seventh-day Adventists Pub. Association, 1868.
@@ -328,10 +362,20 @@ Steam Press of the Seventh-day Adventists Pub. Association, 1868.
 (1862): 44.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18620107-V19-06.pdf>.
 
+———. “Our Faith and Hope; or, Reasons Why We Believe as We Do. Number 15
+- the Heavenly Sanctuary.” *The Advent Review and Sabbath Herald* 35,
+no. 12 (1870): 89–90.
+<http://documents.adventistarchives.org/Periodicals/RH/RH18700308-V35-12.pdf>.
+
 ———. “Our Faith and Hope; or, Reasons Why We Believe as We Do. Number
 One - Introduction.” *Advent Review and Sabbath Herald* 34, no. 21
 (1869): 161.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18691116-V34-21.pdf>.
+
+———. “Our Faith and Hope; or, Reasons Why We Believe as We Do. Number
+Twelve. - the Time.” *The Advent Review and Sabbath Herald* 35, nos. 8,
+9 (1870): 57–59.
+<http://documents.adventistarchives.org/Periodicals/RH/RH18700215-V35-08,09.pdf>.
 
 ———. “Time of the Sabbath.” *The Advent Review, and Sabbath Herald* 7,
 no. 10 (1855): 78.

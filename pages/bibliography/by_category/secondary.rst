@@ -1,15 +1,19 @@
 Abzug, Robert H. *Cosmos Crumbling: American Reform and the Religious
-Imagination*. New York; Oxford: Oxford University Press, 1994.
+Imagination*. 1st ed. New York; Oxford: Oxford University Press, 1994.
 
 Ahlstrom, Sydney E. *A Religious History of the American People*. New
 Haven; London: Yale University Press, 1972.
 
 Anderson, Benedict. *Imagined Communities: Reflections on the Origin and
-Spread of Nationalism*. London; New York: Verso, 2006.
+Spread of Nationalism*. Revised Edition. London; New York: Verso, 2006.
 
 Anderson, Godfrey T. “Sectarianism and Organization: 1846-1864.” In
 *Adventism in America: A History*, edited by Gary Land, 29–52. Berrien
 Springs, MI: Andrews University Press, 1998.
+
+Archives  Statistics  Research, Office of. “Seventh-Day Adventist World
+Church Statistics,” 2018.
+<http://documents.adventistarchives.org/Statistics/Other/SDAWorldChurchStatistics2016-2017.pdf>.
 
 Arthur, David T. “Joshua V. Himes and the Cause of Adventism.” In *The
 Disappointed: Millerism and Millenarianism in the Nineteenth Century*,
@@ -22,6 +26,15 @@ Rochester, 1970.
 
 Baker, Paul. *Using Corpora in Discourse Analysis*. London ; New York:
 Continuum, 2006.
+
+Bamman, David, Ted Underwood, and Noah A. Smith. “A Bayesian Mixed
+Effects Model of Literary Character.” *Proceedings of the 52nd Annual
+Meeting of the Association for Computational Linguistics*, 2014, 370–79.
+
+Belford, Mark, Brian Mac Namee, and Derek Greene. “Stability of Topic
+Modeling via Matrix Factorization.” *Expert Systems with Applications:
+An International Journal* 91, no. C (2018): 159–69.
+<https://dl.acm.org/citation.cfm?id=3170753>.
 
 Blei, David M. “Probabilistic Topic Models.” *Communications of the ACM*
 55, no. 4 (2012): 77–84.
@@ -40,7 +53,7 @@ Interactive Journal of Early American Life* 6, no. 2 (2006).
 
 Boydston, Jeanne, Mary Kelley, and Anne Margolis. *The Limits of
 Sisterhood: The Beecher Sisters on Women’s Rights and Woman’s Sphere*.
-Chapel Hill: The University of North Carolina Press, 1988.
+1st ed. Chapel Hill: The University of North Carolina Press, 1988.
 
 Bratt, James D. “Religious Anti-Revivalism in Antebellum America.”
 *Journal of the Early Republic* 24, no. 1 (2004): 65–106.
@@ -51,21 +64,30 @@ Religious History*, edited by Thomas A. Tweed. Berkeley: University of
 California Press, 1997.
 
 Brekus, Catherine A. *Strangers and Pilgrims: Female Preaching in
-America, 1740-1845 (Gender and American Culture)*. Chapel Hill: The
-University of North Carolina Press, 1998.
+America, 1740-1845 (Gender and American Culture)*. 1st New edition.
+Chapel Hill: The University of North Carolina Press, 1998.
 
-Brown, Candy Gunther. *Word in the World : Evangelical Writing,
-Publishing, and Reading in America, 1789-1880*. Chapel Hill: University
-of North Carolina Press, 2004.
+Brown, Candy Gunther. “Religious Periodicals and Their Textual
+Communities.” In *History of the Book in America, Vol 2*, edited by
+Scott E. Casper, Stephen W. Nissenbaum, and Jeffrey D. Groves, 270–78.
+University of North Carolina Press, 2007.
+[http://site.ebrary.com/lib/georgemason/reader.action?docID=10460908\\&ppg=270](http://site.ebrary.com/lib/georgemason/reader.action?docID=10460908\&ppg=270).
+
+———. *Word in the World : Evangelical Writing, Publishing, and Reading
+in America, 1789-1880*. Chapel Hill: University of North Carolina Press,
+2004.
 <http://site.ebrary.com/lib/georgemason/detail.action?docID=10075642>.
 
 Bull, Malcolm, and Keith Lockhart. *Seeking a Sanctuary: Seventh-Day
-Adventism and the American Dream*. Bloomington: Indiana University
-Press, 2006.
+Adventism and the American Dream*. 2nd ed. Bloomington: Indiana
+University Press, 2006.
 <http://mutex.gmu.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1b349jq>.
 
 Burton, Matt. “Blogs as Infrastructure for Scholarly Communication.”
 PhD thesis, University of Michigan, 2015.
+
+———. “Defactoring ‘Pace of Change’,” 2018.
+<https://github.com/interedition/paceofchange/blob/c86e25eb1849d2b02677f82f0198cfd6f567ceb8/defactoring-pace-of-change.ipynb>.
 
 Butler, Jon. *Awash in a Sea of Faith: Christianizing the American
 People*. Cambridge: Harvard University Press, 1990.
@@ -100,6 +122,12 @@ Clement, Tanya A. “Where Is Methodology in Digital Humanities?” In
 *Debates in the Digital Humanities*. University of Minnesota Press,
 2016. <http://dhdebates.gc.cuny.edu/debates/text/65>.
 
+Collins, John J. *The Apocalyptic Imagination*. Second Edition. Grand
+Rapids, MI: William B. Eerdman’s Publishing Company, 1984.
+
+Cross, F.L., ed. *The Oxford Dictionary of the Christian Church*. Second
+Edition. Oxford: Oxford University Press, 1990.
+
 Da, Nan Z. “The Computational Case Against Computational Literary
 Studies.” *Critical Inquiry* 45, no. 3 (2019): 601–39.
 <https://www.journals.uchicago.edu/doi/10.1086/702594>.
@@ -123,9 +151,9 @@ Drucker, Johanna, and Bethany Nowviskie. “The Temporal Modelling
 Project,” 2003. <http://www2.iath.virginia.edu/time/project/>.
 
 Epstein, Barbara Leslie. *The Politics of Domesticity: Women,
-Evangelism, and Temperance in Nineteenth-Century America*. Middletown,
-Conn.: Irvington, N.Y: Wesleyan University Press ; distributed by
-Columbia University Press, 1981.
+Evangelism, and Temperance in Nineteenth-Century America*. 1st ed.
+Middletown, Conn.: Irvington, N.Y: Wesleyan University Press ;
+distributed by Columbia University Press, 1981.
 
 Evershed, John, and Kent Fitch. *Correcting Noisy Ocr*. Edited by
 Apostolos Antonacopoulos and Klaus U. Schulz. New York: ACM Press, 2014.
@@ -164,6 +192,10 @@ Greenleaf, Floyd, and Jerry Moon. “Builder.” In *Ellen Harmon White:
 American Prophet*, edited by Terrie Dopp Aamodt, Gary Land, and Ronald
 L. Numbers. New York: Oxford University Press, 2014.
 
+Guy, Fritz. “Theology.” In *Ellen Harmon White: American Prophet*,
+edited by Terrie Dopp Aamodt, Gary Land, and Ronald L. Numbers. New
+York: Oxford University Press, 2014.
+
 Halttunen, Karen. *Confidence Men and Painted Women: A Study of
 Middle-Class Culture in America, 1830-1870*. New Haven: Yale University
 Press, 1982.
@@ -188,19 +220,36 @@ Writing Lost the Plot.” *Cultural and Social History* 10, no. 1 (2015):
 <http://www.tandfonline.com/doi/full/10.2752/147800413X13515292098070>.
 
 Howe, Daniel Walker. *What Hath God Wrought: The Transformation of
-America, 1815-1848*. New York: Oxford University Press, 2007.
+America, 1815-1848*. Kindle. New York: Oxford University Press, 2007.
 
 “Items in Egw’s Libraries.” *Southwestern Adventist University, Chan
 Shun Centennial Library*, 2019.
 <https://library.swau.edu/adventist_heritage/ellen_white/egw_personal_libraries.php>.
 
 Johnson, Paul E. *A Shopkeeper’s Millennium: Society and Revivals in
-Rochester, New York, 1815-1837*. New York: Hill; Wang, 2004.
+Rochester, New York, 1815-1837*. 25th Anniversary. New York: Hill; Wang,
+2004.
 
 Judd, Wayne R. “William Miller: Disappointed Prophet.” In *The
 Disappointed: Millerism and Millenarianism in the Nineteenth Century*,
 edited by Ronald L. Numbers and Jonathan M. Butler. Bloomington: Indiana
 University Press, 1987.
+
+Kaufman, Micki. “‘Everything on Paper Will Be Used Against Me’:
+Quantifying Kissinger. A Computational Analysis of the National Security
+Archive’s Kissinger Collection Memcons and Telcons,” 2018.
+<http://blog.quantifyingkissinger.com/>.
+
+Kerber, Linda K. “Separate Spheres, Female Worlds, Woman’s Place: The
+Rhetoric of Women’s History.” *The Journal of American History* 75, no.
+1 (1988): 9–39. <https://www-jstor-org.mutex.gmu.edu/stable/1889653>.
+
+Kirilloff, Gabi, Peter J Capuano, Julius Fredrick, and Matthew L
+Jockers. “From a Distance ‘You Might Mistake Her for a Man’: A Closer
+Reading of Gender and Character Action in Jane Eyre, the Law and the
+Lady, and a Brilliant Woman.” *Digital Scholarship in the Humanities*
+33, no. 4 (2018).
+<https://academic.oup.com/dsh/article-abstract/33/4/821/5004302?redirectedFrom=fulltext>.
 
 Klein, Lauren F. “The Shape of History: Reimagining Elizabeth Palmer
 Peabody’s Historical Visualization Work,” 2016.
@@ -233,7 +282,7 @@ American Prophet*, edited by Terrie Dopp Aamodt, Gary Land, and Ronald
 L. Numbers. New York: Oxford University Press, 2014.
 
 McLoughlin, William G. *Revivals, Awakening and Reform: An Essay on
-Religious and Social Change in America, 1607-1977*. University of
+Religious and Social Change in America, 1607-1977*. Ebook. University of
 Chicago Press, 2013.
 [Revivals, Awakening and Reform: An Essay on Religious and Social Change in America, 1607-1977](Revivals, Awakening and Reform: An Essay on Religious and Social Change in America, 1607-1977).
 
@@ -249,6 +298,15 @@ Niels Brügger and Ralph Schroder, 137–58. London: UCL Press, 2017.
 
 Mimno, David. “Using Phrases in Mallet Topic Models,” 2015.
 <http://www.mimno.org/articles/phrases/>.
+
+Mimno, David, Hanna Wallach, Edmund Talley, Miriam Leenders, and Andrew
+McCallum. “Optimizing Semantic Coherence in Topic Models.” *Proceedings
+of the Conference on Empirical Methods in Natural Language Processing*,
+2011, 262–72. <https://dl.acm.org/citation.cfm?id=2145462>.
+
+Moravec, Michelle. “Network Analysis and Feminist Artists.” *Artl@s
+Bulletin* 6, no. 3 (2017): Article 5.
+[https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=\\&httpsredir=1\\&article=1124\\&context=artlas](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=\&httpsredir=1\&article=1124\&context=artlas).
 
 Moshi, Gudila Paul, Lazaro S. P. Busagala, Wataru Ohyama, Tetsushi
 Wakabayashi, and Fumitaka Kimura. *An Impact of Linguistic Features on
@@ -277,16 +335,12 @@ Sylvester Graham and Health Reform*. Westport, Conn.: Greenwood Press,
 1980.
 
 Numbers, Ronald L. *Prophetess of Health: A Study of Ellen G. White*.
-Grand Rapids, MI: Wm. B. Eerdmans Publishing Co., 2008.
+3rd ed. Grand Rapids, MI: Wm. B. Eerdmans Publishing Co., 2008.
 
 Numbers, Ronald L., and Rennie B. Schoepflin. “Science and Medicine.” In
 *Ellen Harmon White: American Prophet*, edited by Terrie Dopp Aamodt,
 Gary Land, and Ronald L. Numbers. New York: Oxford University Press,
 2014.
-
-Office of Archives, Statistics, and Research. “Seventh-Day Adventist
-World Church Statistics,” 2018.
-<http://documents.adventistarchives.org/Statistics/Other/SDAWorldChurchStatistics2016-2017.pdf>.
 
 O’Connor, Brendan, David Bamman, and Noah A. Smith. *Computational Text
 Analysis for Social Science: Model Assumptions and Complexity*, 2011.
@@ -309,8 +363,18 @@ Pascoe, Peggy. *Relations of Rescue: The Search for Female Moral
 Authority in the American West, 1874-1939*. New York: Oxford University
 Press, 1990.
 
+Patrick, Arthur. “Author.” In *Ellen Harmon White: American Prophet*,
+edited by Terrie Dopp Aamodt, Gary Land, and Ronald L. Numbers. New
+York: Oxford University Press, 2014.
+
 Paulien, Jon. *What the Bible Says About the End Time*. Hagerstown, MD:
 Review; Herald Publishing Association, 1994.
+
+Piper, Andrew. *Enumerations: Data and Literary Study*. Chicago:
+University of Chicago Press, 2018.
+
+Porterfield, Amanda. *Conceived in Doubt: Religion and Politics in the
+New American Nation*. Chicago: University of Chicago Press, 2012.
 
 Rhody, Lisa M. “Topic Modeling and Figurative Language.” *Journal of
 Digital Humanities* 2, no. 1 (2013).
@@ -354,8 +418,14 @@ Judgment Day: A Content Analysis of Harold Camping’s Open Forum
 Program.” *Sociology of Religion* 76, no. 2 (2015): 199–221.
 <https://academic.oup.com/socrel/article-lookup/doi/10.1093/socrel/srv012>.
 
-Schmidt, Benjamin M. “Words Alone: Dismantling Topic Models in the
-Humanities.” *Journal of Digital Humanities*, 2013.
+Schmidt, Benjamin M. “Interactive Visual Bibliography: Describing
+Corpora,” 2018. <http://creatingdata.us/techne/bibliographies/>.
+
+———. “Word Embeddings for the Digital Humanities,” 2015.
+<http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html>.
+
+———. “Words Alone: Dismantling Topic Models in the Humanities.” *Journal
+of Digital Humanities*, 2013.
 [http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ internal-pdf://7981/words-alone-by-benjamin-m-schmidt.html](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ internal-pdf://7981/words-alone-by-benjamin-m-schmidt.html).
 
 Schoepflin, Rennie B. “Review: “Seventh-Day Adventism in Crisis: Gender
@@ -369,6 +439,14 @@ Springs, MI: Andrews University Press, 1998.
 
 Sharpe, Celeste. “They Need You! Disability, Visual Culture, and the
 Poster Child, 1945-1980.” PhD thesis, George Mason University, 2016.
+
+Sievert, Carson, and Kenneth E. Shirley. *LDAvis: A Method for
+Visualizing and Interpreting Topics*. Baltimore, Maryland: Association
+for Computational Linguistics, 2014.
+
+Smith, David A., and Ryan Cordell. “A Research Agenda for Historical and
+Multilingual Optical Character Recognition,” 2018.
+<https://ocr.northeastern.edu/report/>.
 
 Smith-Rosenberg, Carroll. “The Cross and the Pedestal: Women,
 Anti-Ritualism, and the Emergence of the American Bourgeoisie.” In
@@ -408,6 +486,10 @@ Torget, Andrew J., Rada Mihalcea, Jon Christensen, and Geoff McGhee.
 the Research Potential of Historical Newspapers.” *Mapping Texts*, 2011.
 <http://mappingtexts.org/whitepaper/MappingTexts_WhitePaper.pdf>.
 
+Townsend, Robert B. *History’s Babel : Scholarship, Professionalization,
+and the Historical Enterprise in the United States, 1880 - 1940*.
+Chicago: University of Chicago Press, 2012.
+
 Turner, John G. *Bill Bright and Campus Crusade for Christ: The Renewal
 of Evangelicalism in Postwar America*. Chapel Hill: The University of
 North Carolina Press, 2008.
@@ -415,6 +497,10 @@ North Carolina Press, 2008.
 Turner, Victor. “Betwixt and Between: The Liminal Period in *Rites de
 Passage*.” In *The Forest of Symbols: Aspects of Ndembu Ritual*, 93–111.
 Ithaca: Cornell University Press, 1967.
+
+Ueda, Akemi. “Stanford Literary Lab Uses Digital Humanities to Study Why
+We Feel Suspense,” 2016.
+<https://news.stanford.edu/2016/02/18/literary-lab-suspense-021816/>.
 
 Underwood, Ted. “The Challenges of Digital Work on Early-19c
 Collections.” *The Stone and the Shell*, 2011.
@@ -436,8 +522,16 @@ American Nationalism, 1776-1820*. Chapel Hill; London: Omohundro
 Institute for Early American History; Culture by the University of North
 Carolina Press, 1997.
 
+Walker, Daniel, William Lund, and Eric Ringger. “Evaluating Models of
+Latent Document Semantics in the Presence of Ocr Errors.” *All Faculty
+Publications*, 2010. <http://scholarsarchive.byu.edu/facpub/1648>.
+
 Wallach, Hanna M., David M. Mimno, and Andrew McCallum. *Rethinking Lda:
 Why Priors Matter*. Vol. 22. Curran Associates, Inc., 2009.
+
+Welter, Barbara. “The Cult of True Womanhood: 1820-1860.” *American
+Quarterly* 18, no. 2 (1966): 151–74.
+<https://www.jstor.org/stable/2711179>.
 
 Wharton, James. *Nature Cures: The History of Alternative Medicine in
 America*. New York: Oxford University Press, 2002.
@@ -449,6 +543,12 @@ Reality.” *Critical Inquiry* 7, no. 1 (1980): 5–27.
 Willey, T. Joe. “Death and Burial.” In *Ellen Harmon White: American
 Prophet*, edited by Terrie Dopp Aamodt, Gary Land, and Ronald L.
 Numbers. New York: Oxford University Press, 2014.
+
+Wu, Yonghui, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi,
+Wolfgang Macherey, Maxim Krikun, et al. “Google’s Neural Machine
+Translation System: Bridging the Gap Between Human and Machine
+Translation.” *CoRR* abs/1609.08144 (2016).
+<http://arxiv.org/abs/1609.08144>.
 
 Zerubavel, Eviatar. *The Seven Day Circle: The History and Meaning of
 the Week*. Chicago: University of Chicago Press, 1985.
