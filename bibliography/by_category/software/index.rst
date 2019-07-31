@@ -6,7 +6,7 @@ Anthony, Laurence. “AntConc (3.5.7).” Tokyo, Japan, 2018.
 
 “Conda.” Austin, TX, 2016. <http://conda.pydata.org/docs/>.
 
-Fenniak, Mathieu, and Inc. Phaseit. “PyPDF2 (1.25.1),” 2016.
+Fenniak, Mathieu, and Phaseit, Inc. “PyPDF2 (1.25.1),” 2016.
 <https://pythonhosted.org/PyPDF2/>.
 
 “GitHub.” San Francisco, CA, 2016. <https://github.com/>.
@@ -31,9 +31,14 @@ McKinney, Wes. “Data Structures for Statistical Computing in Python
 (Pandas 0.23.4).” *Proceedings of the 9th Python in Science Conference*,
 2010, 51–56. <https://pandas.pydata.org/>.
 
+NLTK Project. “Natural Language Toolkit (3.2.1),” 2019.
+<https://www.nltk.org/>.
+
 Pedregosa, Fabian, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel,
-Bertrand Thirion, Olivier Grisel, Mathieu Blondel, et al. *Scikit-Learn:
-Machine Learning in Python (0.18.1)*. Vol. 12, 2011.
+Bertrand Thirion, Olivier Grisel, Mathieu Blondel, et al. “Scikit-Learn:
+Machine Learning in Python (0.18.1).” *Journal of Machine Learning
+Research* 12 (2011): 2825–30.
+<http://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf>.
 
 Pérez, Fernando, and Brian E. Granger. “IPython: A System for
 Interactive Scientific Computing (4.3.0).” *Computing in Science and
@@ -42,9 +47,6 @@ Engineering* 9, no. 3 (2007): 21–29.
 
 “Plotly: Collaborative Data Science (3.2.1).” Montréal, QC, 2015.
 <https://plot.ly>.
-
-Project, NLTK. “Natural Language Toolkit (3.2.1),” 2019.
-<https://www.nltk.org/>.
 
 Reitz, Kenneth, Ian Cordasco, and Nate Prewitt. “Requests: HTTP for
 Humans (2.12.3),” 2019. <https://2.python-requests.org/en/master/>.
@@ -57,6 +59,7 @@ Rossum, Guido van. “Python (3.5.2),” 2019. <https://www.python.org/>.
 Řehůřek, Radim, and Petr Sojka. “Software Framework for Topic Modelling
 with Large Corpora (3.1.0).” *Proceedings of the LREC 2010 Workshop on
 New Challenges for NLP Frameworks*, 2010, 45–50.
+<https://is.muni.cz/publication/884893/en>.
 
 Schettino, Eduardo. “DoIt Automation Tool (0.31.1),” 2018.
 <https://pydoit.org/>.

@@ -41,10 +41,10 @@ understanding of salvation and an expansive understanding of those called to
 share the message. Throughout these cycles, Ellen White repeatedly articulated a
 vision of the religious life that situated women's labor at the heart of the
 work of salvation, whether that was in giving testimony to the truth of the
-sabbath message, in creating healthy homes and habits for children, or in
-sharing the adventist message through selling denominational literature or
+sabbath message, creating healthy homes and habits for children, 
+sharing the adventist message through selling denominational literature, or
 working in the health institutions. However, as the prominence of end-times
-expectation waned over time, the language of domesticity and more male-centric
+expectation waned, the language of domesticity and more male-centric
 understandings of the work of salvation came to dominate the denominational
 literature.
 
@@ -220,9 +220,9 @@ the scholarly object. This also is a format of scholarship that does not fit
 well into a text-first publishing framework but instead exist independently,
 raising questions of how to determine "publication" for academic settings.] 
 
-That said, the experience of attempting to re-examine the format and methods of
-historical analysis in history through a historical study of Seventh-day
-Adventism, while productive, has been a challenge. The range of questions and
+That said, the experience of re-examining the format and methods of
+historical analysis through a study of Seventh-day
+Adventism, while productive, has been challenging. The range of questions and
 problems involved in creating a digital dissertation such as this pushes the
 boundaries of what can, or should, be tackled within the scope of a
 dissertation, a credentialing work. This is in large part because working in

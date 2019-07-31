@@ -27,7 +27,7 @@ that require a more detailed discussion.
   data at hand and helped illuminate overall patterns in the language of the
   denomination. 
 
-Discussions of methods, such as what follows here, and a commitment to
+Discussion of methods, such as what follows here, and a commitment to
 reproducible code provide the information necessary to evaluate research based
 on computational analysis. One persistent critique of arguments based on
 computational analysis is that it is difficult to assess the soundness of the
@@ -178,7 +178,7 @@ data and the methods.
 
 <iframe src="/interact/tokens-per-title.html"></iframe>
 
-<figcaption>**Figure 2.1**: Total number of tokens from each
+<figcaption>**Figure 2.1**: Total number of tokens (words) from each
 periodical title in the corpus. The four largest titles are RH (Review
 and Herald), ST (Signs of the Times), YI
 (Youth’s Instructor), and HR (Health Reformer). [Graph generated with the Plot.ly library](link://slug/charts-of-corpus-statistics).</figcaption>
@@ -200,7 +200,7 @@ publications of the denomination.
 However, relying on the central publications would provide only a partial
 picture of the diversity of thought and practice within the denomination. While
 vital to understanding the development of the institution over time, the
-viewpoints expressed in these publications privilege the official position of
+viewpoints expressed in these publications privilege the official positions of
 the denomination. Covering a number of topical and regional focuses, including
 education, health, missions, and “religious liberty,” the other half of my
 corpus offers a different range of voices.^[“Religious liberty” for Seventh-day
@@ -294,7 +294,7 @@ excluded, 28 of the 44 main denominational periodicals, or 63%, were available
 digitally.^[See [Table 2.1](link://slug/corpus-details) for a full listing of
 the periodicals I identified and their digitization status.]
 
-In addition to these missing titles, there are number of holes to note in the
+In addition to these missing titles, there are a number of holes to note in the
 digitized record as it stood at the time of this study. Whether because the
 original materials have been lost or due to digitization priorities, the
 denomination does not have full runs available for all of its digital titles.
@@ -306,7 +306,7 @@ educating children in the Seventh-day Adventist faith. This is also a title that
 was frequently written for and edited by the women leaders of the denomination.
 Additional titles with significant gaps in coverage are *The Welcome Visitor*
 (later retitled the *Columbia Union Visitor*) and *The Indiana Reporter*. The
-gaps in the digital materials from the publication require creative strategies
+gaps in digital materials from these publications require creative strategies
 to use the limited issues available to reveal the distinctive voice these
 editors provided to the developing community.
 
@@ -323,7 +323,7 @@ Australia. For those interested in the religious culture within other regions of
 the U.S., the regional titles from those areas could be added. An analysis of
 the non-English titles could be added to explore how the denomination shifted
 their message when addressing European immigrant groups in the United States.
-And additional work could be done comparing the health literature of the
+Additional work could be done comparing the health literature of the
 denomination to that produced by other health reformers of the day.
 
 ## Preparing Text for Analysis
@@ -332,7 +332,7 @@ For scholars working with digital sources, particularly for computational
 analysis such as text mining and natural language processing, there is much to
 be gained by attending to the quality of the data and, where possible, improving
 that quality. The strength of computational algorithms is that they perform
-consistently and logically upon whatever data they are given. The trouble is
+consistently and logically upon whatever data they are given. The weakness is
 that, unlike a human reader who will generally infer that the "IN S TRUCT OR"
 they encounter in a periodical entitled "*Youth's Instructor*" most likely
 should be read as "INSTRUCTOR," the computer, unless trained to do so, will make
@@ -388,9 +388,9 @@ of scarcity to a culture of abundance," though shifting political realities
 raise concerns regarding the fragility of the digital record.^[@Rosenzweig2003,
 739.] The digital record presents a wide range of challenges for current
 archival and research practices. On the one hand, questions of the stability of
-digital objects and the media upon which they depend require engagement with the
+digital objects and the media upon which they depend requires engagement with the
 technical work of migration, emulation, and digital forensics as part of
-archival practice as ways to mitigate the problems of bit rot and technological
+archival practice to mitigate the problems of bit rot and technological
 obsolescence that threatens digital records. At the same time, an abundance of
 digital materials does not necessarily equate to the quality of those materials
 or their usefulness for computational analysis. The apparent abundance of the
@@ -422,7 +422,7 @@ text. In most cases, however, researchers rely on [Optical Character Recognition
 text from image files. OCR uses various algorithms to match patterns in an image
 file to the most likely corresponding letter, and the error rate for a
 recognition task reflects the percentage of characters that are correctly
-identify. The advantage of OCR is that it can be used to process a large number
+identified. The advantage of OCR is that it can be used to process a large number
 of image files quickly and, on the whole, accurately, enabling computational
 access to written words that were previously only interpretable by a human
 reader. 
@@ -435,7 +435,7 @@ and layout to spelling decreases. Because OCR engines were created for (and
 trained on) printed text from second half of the 20th century, the error rates
 for materials published earlier tend to be higher. Differences in typography, in
 layout conventions, and lack of standardized spelling all contribute to the
-errors that OCR engines are likely to make when processing historic document. In
+errors that OCR engines are likely to make when processing historic documents. In
 addition, physical blemishes, such as tears, stains, and discoloration in the
 case of the material objects, low image quality, and previous scanning errors
 introduce additional challenges for the OCR engine. It is this textual layer,
@@ -483,7 +483,7 @@ the quality of the data.
 [![Screenshot of Mapping Texts
 website.](/images/mapping-texts-quality.png)](/images/mapping-texts-quality.png)
 
-<figcaption>**Figure 2.3**: Map of Texas creating by the Mapping Text teams. Size of the circle indicates the number of words associated with the newspapers from a particular city, while color of the circle indicates the quality of those words as evaluated by the Mapping Texts team.</figcaption>
+<figcaption>**Figure 2.3**: Map of Texas created by the Mapping Text teams. Size of the circle indicates the number of words associated with the newspapers from a particular city, while color of the circle indicates the quality of those words as evaluated by the Mapping Texts team.</figcaption>
 
 The resulting interface shows an overall low "good word" rate across the Texas
 newspapers in *Chronicling America*, with most of the best performing areas
@@ -506,7 +506,7 @@ data, it is safe to assume that their data suffers similar error rates. This is
 also true for other third-party data sources, such as the online archives of the
 Seventh-day Adventist church. 
 
-In my preparing my corpus for analysis, I considered two of the challenges that
+In preparing my corpus for analysis, I considered two of the challenges that
 historical documents raise for OCR and automated text extraction: errors in
 character identification and errors in layout recognition. Of these, I found
 that character recognition errors are the primary error discussed in the
@@ -601,7 +601,7 @@ characters in the original type — "c" in place of "e"s, for example, or regula
 'misspellings' of particular words — errors that the human reader easily
 "corrects" for but that the machine readers does not (nor would we necessarily
 want it to). These regular errors, which are due not to OCR transcription
-failures but the historical realities of a limited supply of letters and
+failures but due to the historical realities of a limited supply of letters and
 editorial license with spelling, raise questions of normalization when working
 with historical materials.
 
@@ -665,12 +665,12 @@ parsed.](/images/layoutExample_goodRecognition.gif)](/images/layoutExample_goodR
 <figcaption>**Figure 2.4**: Layout of page 7 from *The Advent Review and Sabbath Herald*, volume 5(5) as analyzed by Adobe Acrobat Pro. Note that, although articles are split into multiple sections, overall the columns have been correctly parsed.</figcaption>
 
 [![**Figure 2.5**: Layout of page 6 from The Advent Review and Sabbath Herald,
-volume 5(5) as analyzed by Adobe Acrobat Pro. Note that the columns have been
+volume 5(5) as analyzed by Adobe Acrobat Pro. Note that the columns have
 not been correctly parsed, with most lines spanning two columns, and some
 spanning
 three.](/images/layoutExample_poorRecognition.gif)](/images/layoutExample_poorRecognition.gif)
 
-<figcaption>**Figure 2.5**: Layout of page 6 from *The Advent Review and Sabbath Herald*, volume 5(5) as analyzed by Adobe Acrobat Pro. Note that the columns have been not been correctly parsed, with most lines spanning two columns, and some spanning three.</figcaption>
+<figcaption>**Figure 2.5**: Layout of page 6 from *The Advent Review and Sabbath Herald*, volume 5(5) as analyzed by Adobe Acrobat Pro. Note that the columns have not been correctly parsed, with most lines spanning two columns, and some spanning three.</figcaption>
 
 Errors in layout recognition are harder to correct than mistakes in character
 recognition, in that they are best addressed during the recognition stage of the
@@ -726,7 +726,7 @@ They should be practical physiologists, that they may know what are and what are
 ```
 
 To verify that the content generally matches the original document, let's
-compare this text the PDF scan of the original
+compare this text to the PDF scan of the original
 document.^[[http://documents.adventistarchives.org/Periodicals/HR/HR18660801-V01-01.pdf#page=3](http://documents.adventistarchives.org/Periodicals/HR/HR18660801-V01-01.pdf#page=3)]
 
 <iframe src="http://documents.adventistarchives.org/Periodicals/HR/HR18660801-V01-01.pdf#page=3"></iframe>
@@ -896,12 +896,12 @@ into OCR quality for the purpose of improving information retrieval for large
 scale digitized collections. This absence is both curious and not unexpected. On
 the one hand, the quality of the data is critically linked to the potential
 success of experiments using machine learning algorithms with historical data, a
-connection that it seems should weigh heavily on researchers minds. However, the
+connection that it seems should weigh heavily on researchers' minds. However, the
 work involved in diagnosing and addressing errors in character recognition is
 not trivial and has few rewards within the current academic structure. As a
 result, researchers interested in the intersection of computational text
 analysis and historical sources have tended to pursue one of two tracks:
-experiment with high quality data sets, such in the cases of [Martha Ballards
+experiment with high quality data sets, such as in the cases of [Martha Ballards
 Diary](https://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)
 or the [Mining the Richmond Dispatch](https://dsl.richmond.edu/dispatch/), or to
 pursue modes of analysis considered more resilient to data errors, such as the
@@ -917,7 +917,7 @@ in historical research and provides the necessary first steps in the effort to
 bring these two methodological approaches together. However, in order for
 computational methods for history to continue to mature as a form of analysis,
 the limitations of the available data needs to become a research question to be
-address head-on. With a clear understanding of the data and the types of
+addressed head-on. With a clear understanding of the data and the types of
 analysis it reliably supports, the academic community can begin to improve the
 available data and develop algorithms designed to support the complex,
 interpretive forms of analysis of the humanities.
@@ -965,7 +965,7 @@ techniques in order to surface, describe, and present aspects of the communities
 or events of the past, rather than to model or statistically correlate features.
 Using data analysis to develop an understanding of a larger whole, such projects
 bridge traditional methods for humanities research and scholarship with the
-affordances of digital data and computational algorithms. And in so doing, they
+affordances of digital data and computational algorithms. In so doing, they
 also start the process of identifying the key features within that historical
 data for further analysis, as well as surfacing the limitation of the data
 within the much larger context of historical research.
@@ -978,12 +978,12 @@ developing a broad view of overall patterns in the language of the denomination,
 as I demonstrate in [Chapter 3](link://slug/chapter-3), as well as using those
 patterns to explore the relationship between gender and the perceived nearness
 of the second coming in their cultural development, seen in [Chapter
-4](link://slug/chapter-4). Bringing together of computational and historical
+4](link://slug/chapter-4). The bringing together of computational and historical
 methodologies is still rare in historical and digital humanities scholarship,
-and those projects that utilize both often obscure the contributions for the
+and those projects that utilize both often obscure the contributions of the
 computational methods, for reasons ranging from institutional norms to
 constraints of the current publishing model. However, there are productive
-models for this joining on computational and theoretical approaches.^[For
+models for this joining of computational and theoretical approaches.^[For
 example, in his dissertation on the Digital Humanities community, Matt Burton
 uses topic modeling along with digital ethnography to explore the character and
 development of digital humanities blogs. @Burton2015]
@@ -1112,7 +1112,7 @@ Determining where words begin and end is a significant first step in preparing a
 text for computational analysis. By default, MALLET parses each word of a text
 as as separate entity, on the assumption that each individual word carries a
 unique semantic value. While a useful rubric, however, this approach has its
-limitation. The most apparent limitation is the disconnect between the use of
+limitations. The most apparent limitation is the disconnect between the use of
 individual words and the common use of "noun phrases" to refer to particular
 people or concepts. For example, the concept of "old" is included in but is
 different from the concept of "old age," a separate referent used to discuss the
@@ -1157,7 +1157,7 @@ periodical literature. Rather than use an existing list, which is the default
 MALLET process for removing high-frequency but low-meaning words, I used another
 topic modeling library, Gensim, to identify those words that occurred in more
 than sixty percent of documents (high frequency words) and those that occurred
-in fewer than twenty documents (low frequency words) and used that list as my
+in fewer than twenty total documents (low frequency words) and used that list as my
 stopwords list. This approach had two advantages for the particularities of this
 corpus. First, the language of the denominational periodicals is unusual by
 twentieth century standards, and very repetitive. While standard wordlists focus
@@ -1172,10 +1172,10 @@ while I took a good deal of care in the identification and removal of OCR
 errors, the methods I pursued are far from comprehensive, resulting in a high
 number of remaining errors that were generated through failed character
 recognition. Rather than attempting to identify all of the permutations of
-errors in recognition, I set the cut off of fewer than twenty documents as a way
+errors in recognition, I set the cut off at fewer than twenty documents as a way
 of identifying those words that are too unique to be useful at the abstract
 level of a model, including the generated OCR errors. By providing a mechanism
-to address both high frequency words and errors that appears in few documents,
+to address both high frequency words and errors that appear in few documents,
 the Gensim library provided a way to reduce the words for analysis while
 following the contours of the historical text. Through this process, I generated
 a stopword list particular to the specialized language of the SDA and the
@@ -1186,7 +1186,7 @@ the context of the Seventh-day Adventist literature and which of those words
 were most likely to carry the distinctive meaning within the body of the text.
 My final preprocessing step was to narrow the corpus for model creation to those
 documents with sufficient words and low error rates. As a form of probabilistic
-textual analysis, topic modeling is sensitive to OCR errors, particular errors
+textual analysis, topic modeling is sensitive to OCR errors, particularly errors
 that inflate the number of words in the documents, as they skew the "weights"
 assigned to the words.^[@Taghva2004.] To counter-balance this problem,
 particularly as the documents in my study while clean were not error free, I
@@ -1231,7 +1231,7 @@ are.^[@Chang2009.] These drawbacks are particularly significant when topic
 models are used as data for calculating the relationship between variables. As a
 form of exploratory data analysis, topic modeling provides different "readings"
 of the patterns of word usage. While holding too closely to the results will
-lead to error, these readings are helpful to identifying general themes and
+lead to error, these readings are helpful in identifying general themes and
 overall patterns. 
 
 This is not to say that there are no mechanisms for evaluating the quality and
@@ -1249,7 +1249,7 @@ dissertation, I pursued three general strategies for evaluating the quality and
 stability of the topic model. These were to visualize the relationship between
 topics within the model, to measure the overlap between topics when the model
 was run on different permutations of the corpus, and to evaluate the legibility
-of the topics, or the ease with which they could be labeled and the match
+of the topics, or the ease with which they could be labeled, and the match
 between the topic and the originating content. Together these methods provide a
 picture of a model with some redundancy in topics but with enough distinction to
 enable focusing in on the shifting focus of the denomination's rhetoric over
@@ -1276,12 +1276,12 @@ the corpus.
 
 <iframe style="height:1150px" src="/interact/pyLDAviz.html" ></iframe>
 
-<figcaption>**Figure 2.6: Visualization of the 250 topic model** ([view full version](/interact/pyLDAviz.html)). Note that the topic numbers in this visualization are in descending order of overall prominence, and not related to the topic assignment used throughout the rest of the site. The interface enables the viewer to modify which words are displayed, defaulting to the most frequent words assigned to the topic with lambda equal to one, or the most unique words for each topic with lambda equal to 0. This provides a means of distinguishing between similar topics. [Visualization created with the pyLDAviz library](link://slug/pyldavis_and_mallet).</figcaption>
+<figcaption>**Figure 2.6: Visualization of the 250 topic model** ([view full version](/interact/pyLDAviz.html)). Note that the topic numbers in this visualization are in descending order of overall prominence, and not related to the topic assignment used throughout the rest of the site. The interface enables the viewer to modify which words are displayed, defaulting to the most frequent words assigned to the topic with lambda equal to 1, or the most unique words for each topic with lambda equal to 0. This provides a means of distinguishing between similar topics. [Visualization created with the pyLDAviz library](link://slug/pyldavis_and_mallet).</figcaption>
 
 The visualization generated with PyLDAviz depicts a model with no clear
 predominant topic, and a number of topical clusters. For example, the top center
 of the graph shows a closely grouped cluster of topics related to issues of food
-and diet, topics derived from the health reform literature of the denomination.
+and diet, derived from the health reform literature of the denomination.
 The bottom left corner of the graph shows a clustering of topics around issues
 of faith, including theology and biblical quotations. The bottom right corner,
 in contrast, clusters topics around more bureaucratic aspects of the
@@ -1289,7 +1289,7 @@ denomination, including conference reports and missions. Finally, at the near
 center of the graph is the (here labeled) topic 22 which includes "study,"
 "instruction," "plan." The position of this cluster of verbs at the center of
 the graph suggests that these words appear across all of the different
-discursive areas of the denominational literature. As a people of the book
+discursive areas of the denominational literature. As a people of the book,
 deeply committed to studying the divine law in both scripture and in nature, the
 centrality of that concept to all of their discourse would be appropriate.
 
@@ -1394,7 +1394,7 @@ discussed project. For classification problems, where a researcher uses the
 model to generate and assign topical categories to different documents, outputs
 such as the breakdown of topic percentages for each document allow the
 researcher to identify the most prevalent topics in each document, and use the
-associated label as a descriptive tag or category. Topic models also provides an
+associated label as a descriptive tag or category. Topic models also provide an
 overview of topic distributions across the entire set of documents, providing a
 snapshot of the major and minor themes in a corpus. As a form of machine
 learning, topic models can be used to classify new content, enabling researchers
@@ -1475,7 +1475,7 @@ presentation, the incorporation of computational methods into that process is
 not a simple addition. Rather, the complexity of the analysis increases
 exponentially, as the layers of code and algorithms enact and embed interpretive
 and analytical assumption throughout the seemingly neutral processes of
-preparing and parsing the data. These processes can be undertaking in multiple
+preparing and parsing the data. These processes can be undertaken in multiple
 ways and their documentation is necessary for that work to be inspected,
 reproduced, and evaluated. As a result, the computational work involved in
 digital scholarship expands the prevailing model of scholarship in ways that do
@@ -1484,7 +1484,7 @@ selection to preprocessing to choice of algorithm and modes of interaction, the
 technical work of computational analysis is all part of the scholarly work that
 constitutes a digital humanities project, intertwined with the interpretive
 questions and constraining the very contours of what can be seen through the
-resultant model. And, as a result, that work is properly part of the scholarly
+resultant model. As a result, that work is properly part of the scholarly
 output of computational research in history.
 
 <div style="page-break-after: always;"></div>

@@ -45,7 +45,7 @@ revival traditions of the First and Second Great Awakenings. @Hatch1989, pp.
 145; 159; 167. @Brekus1998, p. 309.] Coming at the end of the period known as
 the Second Great Awakening, Miller's predictions and the responses to them
 shaped American Protestantism, encouraging conversions and revivals in the years
-leading up to 1844, while also reinforcing a cultural push back toward more
+leading up to 1844, while also reinforcing a cultural shift back toward more
 structured and respectable expressions of religion as time continued.
 
 Miller's teachings also gave rise to new religious denominations, as during the
@@ -78,7 +78,7 @@ between religion and gender within nineteenth-century America, and particularly
 on the role of end-times expectation in the cultural development of religious
 movements. 
 
-The development of Seventh-day Adventism offers a unique opportunity to examine
+The development of Seventh-day Adventism presents a unique opportunity to examine
 the relationship between end-times beliefs and religious culture in American
 history, particularly as seen in ideas about gender, health, and salvation. On
 the one hand, Seventh-day Adventism fits many of the patterns that marked
@@ -119,16 +119,16 @@ definition. For this study, I use “Millerite” to refer to those Protestant
 Christians who embraced William Miller's interpretation of the Bible and
 expected the second coming (or second advent) during the period from 1843 to
 1844. In the years following, a number of religious groups formed out of the
-      Great Disappointment, and I use “adventist” to refer to religious groups
-      with roots in the Millerite cause. Finally, Seventh-day Adventist or SDA
-      refers to those believers who, after 1844, embraced the combination of
-      adventist beliefs about end-times with Seventh day Baptist teachings on
-      Saturday as the day set aside for Christian worship. 
+Great Disappointment, and I use “adventist” to refer to religious groups
+with roots in the Millerite cause. Finally, Seventh-day Adventist or SDA
+refers to those believers who, after 1844, embraced the combination of
+adventist beliefs about end-times with Seventh Day Baptist teachings on
+Saturday as the day set aside for Christian worship. 
 
 ## William Miller and the Rise of Adventism
 
 Of the variety of religious movements that developed during the
-nineteenth-century, one of the more notable were the Millerites. These were
+nineteenth-century, one of the more notable was the Millerites. These were
 American Protestants drawn largely from Baptist and Methodist congregations who
 believed that the Bible revealed the date of the second coming, or second
 advent, to be around the year 1843. Miller, a commissioned militia officer
@@ -140,32 +140,30 @@ Bible by reconciling all apparent inconsistencies he discovered, and in so
 doing, counter arguments against religion, such as those popularized by Thomas
 Paine.^[The language of “deism” here is used by his biographer, Sylvester Bliss,
 as well as by James White in his telling of Millerite history. @Bliss1853,
-pp. 18-25, 31,
-63. @White1868, pp. 30-31. As Miller's response to the challenge was to prove
-    the rationality of the Bible and by extension the Christian faith, it is
-    likely“deism” refers to a Thomas Paine style celebration of reason and
-    skepticism of the authority of the Bible. See @Porterfield2012, particularly
-    pp. 14-47, for a history of Paine and the skeptical tradition in early
-    America.] In 1818, he first came to the conclusion that the biblical
-    prophecies, particularly those in the book of Daniel, revealed that the
-    second coming would take place around year
-1843. After spending five years confirming his interpretations and calculations,
-      he began to share his conclusions, starting with family and friends, then
-      reaching out to local ministers. Miller understood his findings as
-      reinforcing the teachings of the Protestant churches and as part of the
-      prevailing belief in the second coming. He slowly began to receive
-      invitations to preach in a variety of settings, including Baptist,
-      Methodist, and Congregational churches.^[@Dick1998, p. 4.] In 1832, he
-      published his findings in the *Vermont Telegraph* and in 1833, he was
-      granted a preaching license from the Baptist church in Hampton, New
-      York.^[@Judd1987, pp. 22, 25; Miller gives the date of his being granted a
-      license as 1834 in Mr. Miller's Apology and Defense.] He began preaching
-      and lecturing in churches throughout New England during the 1830s and into
-      the 1840s, published a 64-page pamphlet of his interpretation in 1834 and
-      a series of sixteen lectures in 1836. Between 1834 and 1839, Miller
-      recorded that he had given about 800 lectures on his interpretation of
-      prophecy and his belief that the time of the second coming was at
-      hand.^[@Miller1845, p. 3.]
+pp. 18-25, 31, 63. @White1868, pp. 30-31. As Miller's response to the challenge was to prove
+the rationality of the Bible and by extension the Christian faith, it is
+likely“deism” refers to a Thomas Paine style celebration of reason and
+skepticism of the authority of the Bible. See @Porterfield2012, particularly
+pp. 14-47, for a history of Paine and the skeptical tradition in early
+America.] In 1818, he first came to the conclusion that the biblical
+prophecies, particularly those in the book of Daniel, revealed that the
+second coming would take place around year 1843. After spending five years confirming his interpretations and calculations,
+he began to share his conclusions, starting with family and friends, then
+reaching out to local ministers. Miller understood his findings as
+reinforcing the teachings of the Protestant churches and as part of the
+prevailing belief in the second coming. He slowly began to receive
+invitations to preach in a variety of settings, including Baptist,
+Methodist, and Congregational churches.^[@Dick1998, p. 4.] In 1832, he
+published his findings in the *Vermont Telegraph* and in 1833, he was
+granted a preaching license from the Baptist church in Hampton, New
+York.^[@Judd1987, pp. 22, 25; Miller gives the date of his being granted a
+license as 1834 in Mr. Miller's Apology and Defense.] He began preaching
+and lecturing in churches throughout New England during the 1830s and into
+the 1840s, published a 64-page pamphlet of his interpretation in 1834 and
+a series of sixteen lectures in 1836. Between 1834 and 1839, Miller
+recorded that he had given about 800 lectures on his interpretation of
+prophecy and his belief that the time of the second coming was at
+hand.^[@Miller1845, p. 3.]
 
 Despite publishing, traveling, and preaching widely, Miller would have remained
 one of many little known local religious teachers of the nineteenth century if
@@ -254,7 +252,7 @@ coming to be a truth of general interest for all denominations, and one that
 should be embraced regardless of denominational affiliation.^[@Judd1987,
 p. 30-31.]
 
-Local communities of Millerites emphasized regular attendance at the local
+Local communities of Millerites emphasized regular attendance at local
 Protestant Sunday services, but also attended interdenominational Millerite
 meetings for those who believed the second coming was at hand. Dedicated to
 sharing the news of the second coming with their neighbors and religious
@@ -434,7 +432,7 @@ the unfolding of human history is discussed in @Abzug1994, pp. 4-8 and 30-35.]
 These themes were prevalent throughout the revival movements of the nineteenth
 century, though emphasized differently among different denominations and
 religious groups. Those who were attracted to Miller's teaching, and later to
-Seventh-day Adventism, came from variety of denominational backgrounds, and
+Seventh-day Adventism, came from a variety of denominational backgrounds, and
 brought with them elements of their home traditions, all of which contributed to
 shaping the distinctive approach and theology of the SDA. As a result,
 understanding the eventual development of Seventh-day Adventism requires a brief
@@ -460,7 +458,7 @@ denomination.^[@Ahlstrom1972, pp. 234-237.] The early Methodist community was
 organized in a hierarchical structure, with the local “bands” or “class
 meetings” organized into “societies,” which in turn reported to an itinerant
 preacher assigned to the area. That itinerant preacher reported to the annual
-conference, and specifically to the general superintendent &mdash; Francis
+conference, and specifically to the general superintendents &mdash; Francis
 Asbury and Thomas Coke &mdash; who reported to John Wesley.^[See Ann Taves’
 account of Methodism in @Taves1999, p. 84.] This structure enabled local
 communities to develop even when there were few ordained ministers, with those
@@ -490,7 +488,7 @@ Maine and it was into that tradition that White was converted and baptized when
 she was eleven and twelve years of age. In her early memoir, White recounts how
 she experienced an outpouring of grace &mdash; a sought-after experience within
 the Methodist tradition &mdash; upon embracing and speaking publicly regarding
-the Milerite message. White's emphasis on religious experience, her visions, and
+the Millerite message. White's emphasis on religious experience, her visions, and
 her embrace of such practices as foot-washing in the years after 1844 have led
 scholars such as Ann Taves to identify her with the Shouting Methodist
 tradition.^[Taves argues that one of the sources of tension between White and
@@ -569,16 +567,16 @@ Christian movement was the rejection of formal ministerial training and of
 denominations in general, and instead focusing on the “priesthood of all
 believers” and the need to return to the purity of the early
 church.^[@Hatch1989, p. 69.] For those who converted to the Christian churches,
-one central theme was that of liberty, both political and religious, and the
-sovereignty of “the people” in contrast to the tyranny of elites, the clergy,
+of central concern were liberty, both political and religious, and the
+sovereignty of “the people” in contrast to the "tyranny" of elites, the clergy,
 and institutions.^[@Hatch1989, pp. 76-77.] They advocated a complete break with
 the recent past in order to return to the Christianity of the early church. One
 key element of the success of the Christians was their embrace of print. Leaders
 such as Smith and Campbell early on identified the advantages of print for
 spreading their teachings, and put it to use in promoting their cause. From
 starting the first religious newspaper in the U.S. to producing pamphlets and
-papers designed for circulation and mass readership, the Christian leaders
-sought to disrupt the existing denominations by bringing their ideas to lay
+papers designed for circulation and mass readership, Christian leaders
+sought to disrupt existing denominations by bringing their ideas to lay
 readers directly.^[@Hatch1989, pp. 73-74.] This focus on liberty, on the Bible
 and its plain meaning, as well as the use of print, shaped the religious
 intuitions of future Seventh-day Adventist leaders such as James White and
@@ -663,10 +661,10 @@ remained outside of the denominational disputes that unfolded in the 1840s,
 Joshua Himes continued the work of publishing adventist materials and traveling
 around the disbursed community. One of the leading figures in the Albany
 Conference, he, like Miller, backed away from additional date setting and worked
-with the Evangelical Adventists and the Advent Christians for many years after
-1844. He was critical of the more theologically radical groups within adventism,
+with the Evangelical Adventists and the Advent Christians for many years after 1844. 
+He was critical of the more theologically radical groups within adventism,
 including the Whites and the developing Seventh-day Adventist Church. Eventually
-Himes became ordained in the Episcopal Church in 1878 and served in South Dakota
+Himes was ordained in the Episcopal Church in 1878 and served in South Dakota
 until his death in 1895.^[@Arthur1987, p. 56.]
 
 Those who would come to form Seventh-day Adventism were part of the second group
@@ -722,7 +720,7 @@ efforts of the nascent Seventh-day Adventist community to articulate and share
 their views. While there were a number of figures who contributed to what would
 become the main points of Seventh-day Adventist theology, the key figures for
 understanding the development of the denomination and the use of print to unite
-and grow the community of believers were James and Ellen White. White
+and grow its community of believers were James and Ellen White. White
 established herself early on as an authoritative prophetic voice for the
 adventist community struggling to understand how to reconcile their
 interpretation of the Bible and the events they experienced. James White, who
@@ -732,13 +730,13 @@ that the Seventh-day Adventist church coalesced and grew in the years after
 1844.
 
 Both James and Ellen White were familiar with the adventist strategies for
-evangelism, which combined print, itinerant lecturing and testimony sharing, and
+evangelism, which combined print; itinerant lecturing and testimony sharing; and
 periodic tent meetings and local conferences. James White continued as an active
 correspondent with adventist periodicals in the years after the Great
 Disappointment, including the *Advent Herald,* the *Advent Herald and Bible
 Advocate,* and *The Second Advent Watchman,* papers that represented three of
 the major groups that developed out of adventism.^[For example, @White1846;
-White1846a; White1846b; White1852b.] In these he reported back to the community
+@White1846a; @White1846b; @White1852b.] In these, he reported back to the community
 about camp-meetings held and argued for theological positions, such as
 conditional immortality. Ellen had also been active in the local Millerite
 community, speaking at local churches and class meetings prior to the events of
@@ -756,10 +754,10 @@ p. 31.] As noted in the issue of *The Day Star*, and a subsequent letter by
 White, this letter was purportedly not intended for publication. However, White
 quickly followed up with a second publication to further clarify her message and
 affirm that the church had now entered a waiting period before Christ's second
-coming. In 1846, Ellen met Joseph Bates, a leader among the Millerites and a
+coming. In 1846, White met Joseph Bates, a leader among the Millerites and a
 proponent of “Seventh-day” sabbatarianism, or the belief that Saturday, rather
 than Sunday, was the commanded day of Christian observance. While initially
-skeptical of Ellen's visions, Bates was eventually convinced, and published an
+skeptical of White's visions, Bates was eventually convinced, and published an
 account of them in 1847 with his own introduction of her as a prophet to the
 adventist community.^[@White1847.]
 
@@ -778,7 +776,7 @@ speaking to reach a wider audience with their good news.^[In this, I suggest
 more intentionality in the White's use of publishing than Arthur Patrick
 suggests in his account of Ellen White. See @Patrick2014, p. 91.]
 
-While the early publishing efforts of the White's took the form of singular
+While the Whites' early publishing efforts took the form of singular
 publications, or relied on existing adventist outlets, in 1849 James White began
 to produce his own title, *The Present Truth.* His goal for the title, as
 described in its initial issue, was to reach the “scattered flock” with the
@@ -789,16 +787,16 @@ the commandment to “honor the Sabbath day,” understood as requiring Christia
 observance on Saturday rather than Sunday.^[In Seventh-day Adventist
 terminology, the Sabbath and the requirements for Sabbath observance in
 separating the saved from the lost is known as *the third angel's message.*] In
-1850, and at least partially in response to some criticism of the White's
+1850, and at least partially in response to some criticism of the Whites'
 efforts to create a new publication, Ellen published an account of her vision on
 September 23 of that year where she was shown that they were in the “gathering
 time” where God was bringing his people together and to a shared understanding
 of the adventist message, an effort that required “that the truth be published
-in a paper, as preached.”^[White1850a. See also @Greenleaf2014, p. 126-7;
+in a paper, as preached.”^[@White1850a. See also @Greenleaf2014, p. 126-7;
 p. 140, n.2 and n.6. Subsequent versions of this history present a more direct
 link between Ellen's visions and James’ publishing.]
 
-James and Ellen saw these publications initially as a short term endeavor and
+James and Ellen initially saw these publications as a short term endeavor and
 anticipated the quick success of their mission to bring together the adventist
 community around the belief that October 22 had marked the beginning of Christ's
 “investigative judgment.”^[@Guy2014, p. 152.] But as time continued and interest
@@ -831,7 +829,7 @@ teaching of the seventh-day adventists to the early leaders of the adventist
 movement, position their interpretation as an (if not“the”) authentic inheritors
 of the adventist tradition.]
 
-The publishing locations of the White's initial periodicals reflect the
+The publishing locations of the Whites' initial periodicals reflect the
 family's, and the religious community's, movement from upper New England toward
 the West. Initially based out of Maine, where the Harmon family was located,
 their teaching had been brought as far west as Michigan as early as 1849 through
@@ -859,7 +857,7 @@ denomination. During a general conference held in Battle Creek in the fall of
 1860, called in order to discuss “the proper method of holding church property,
 the want of our Office of publication, &c.,” James White presented the case for
 incorporation.^[@White1860.] Noting that, as it stood, he was the sole owner of
-the “REVIEW office” and his desire to see the property owned instead by the
+the “REVIEW office” and his desire was to see the property owned instead by the
 church, James White led the argument for legal incorporation. However, this
 proved a culturally contentious issue for the community of adventists, many of
 whom understood separation from the state and the rejection of denominations as
@@ -900,10 +898,10 @@ sources, which requires further study, but reinforces the SDA self-perception as
 a unique religious movement, rather than a branch of an existing denomination.
 @Bull2006, p. 102.] As a result of coming into existence through a combining of
 traditions, their theological commitments were in flux in ways that differ from
-groups that split off from a home denomination.
+groups that split off from a single denomination.
 
 Some of the initial debates within the adventist community were around the
-issues of the Sabbath, and of the immortality of the soul. These were the key
+issues of the Sabbath and of the immortality of the soul. These were the key
 theological elements that distinguished Seventh-day Adventist from other
 Adventist denominations that developed after 1844. As noted earlier,
 Sabbath-keeping came into adventism through the Seventh Day Baptist tradition
@@ -935,7 +933,7 @@ believers.
 
 As time continued, the Seventh-day Adventist theological literature began to
 consider the nature of revelation, the ways by which God communicated with his
-people. This included both a defense of the particular prophetic role of Ellen
+people. This included both a defense of the prophetic role of Ellen
 White and the development of the idea of “progressive revelation” to describe
 God's incremental unveiling of his plan over time. While Ellen White's prophetic
 gifts were foundational to establishing her religious authority in the years
@@ -947,7 +945,7 @@ Ellen's visions were largely absent between 1851 and 1855 as James emphasized
 the Bible as the guide for the Christian life.^[@Anderson1998, p. 35.] By the
 1860s, however, and in part due to pressure from other leading figures in the
 movement, the newly forming denomination reached the consensus that would become
-part of their theological foundations: that “prophetic counsel” or “the spirit
+part of their theological foundation: that “prophetic counsel” or “the spirit
 of prophecy” was a “gift to the church,” one specifically delivered through the
 visions of Ellen White.^[@Anderson1998, pp. 35-36; @Bull2006, p. 44.] While
 formally always secondary to the Bible, Ellen White's writings functioned as a
@@ -955,8 +953,8 @@ secondary source of divine revelation, further distinguishing the young
 Seventh-day Adventists from their Adventist and Protestant peers.
 
 Another concern that shaped Seventh-day Adventist theology was the problem of
-incorporating shifts in their understanding of time and their understanding of
-the Christian life. The need for theological flexibility was part of the group's
+incorporating shifts in their understanding of time and 
+the Christian life. Theological flexibility was part of the group's
 basic character from early on, as believers successfully shifted from
 understanding October 22, 1844, as the date of Jesus’ physical second coming to
 understanding it as the beginning of his work of atonement within the heavenly
@@ -985,7 +983,7 @@ the divine plan. Whereas most Protestant and revivalist groups of the nineteenth
 century interpreted the American revolution and the creation of the United
 States as a key positive development in the unfolding of divine history, early
 Seventh-day Adventists adopted an opposing interpretation. While the United
-States still featured as a key player in the events of the last day, the role of
+States still featured as a key player in the events of the last days, the role of
 the nation was as a persecutor of the saints, rather than as a positive force
 bringing about the millennium. Interpreting the creatures described in the book
 of Revelation, SDA theologians identified the Roman Catholic Church as “the
@@ -1100,6 +1098,6 @@ to maintain, and as time continued Seventh-day Adventist believers found
 themselves needing to reexamine their understanding of their faith and their
 position in divine history. In doing so, they drew from prevailing cultural
 norms, using a framework of progressive revelation to interpret God's truth as
-unchanging but human understanding to be partial and progressive. 
+unchanging but human understanding as partial and progressive. 
 
 <div style="page-break-after: always;"></div>
