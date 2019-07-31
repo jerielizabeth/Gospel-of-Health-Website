@@ -156,7 +156,7 @@ of the past, was also coming under revision with advances in science,
 particularly with the publication of Darwin's *On the Origin of Species* in
 1859. Previously the sense of cosmic time was guided by the Genesis story, where
 the world came into being through divine command less than ten-thousand years
-ago and was established for the dominion of "man." Darwin's theory of evolution,
+ago and was established for the dominion of man. Darwin's theory of evolution,
 as well as other scientific developments in areas such as geology, challenged
 that religiously derived sense of time. These theories forwarded a long and
 largely impersonal historical account, one in which human beings appeared only
@@ -481,11 +481,11 @@ salvation and the ways the work to bring about salvation were gendered.
 
 The arrival of October 23, 1843, came as an unwelcome surprise to those who had
 embraced Miller's teachings and were expecting the second Advent of Jesus to
-occur, and required believers to reconsider everything they thought
+occur on the 22nd, and required believers to reconsider everything they thought
 they knew. For those who interpreted the continuation of time as a failure to
 correctly interpret the significance of the date, rather than the date itself,
-expectation of the second coming was at its peak during the years following
-\1884. Referred to as the "tarrying time," they took solace in the parable of
+expectation of the second coming was at its peak during the years following 1884. 
+Referred to as the "tarrying time," they took solace in the parable of
 the bridegroom, who did not come when expected and rewarded those who remained
 in waiting.^[@Arnold1849, p. 45.] They interpreted this parable as evidence that
 the failure of Jesus to return in 1844 was in fact not unexpected, and that
@@ -604,7 +604,7 @@ mission work, for her the clear priority in the initial years after 1844 was the
 spreading of the Seventh-day message as the second coming was expected soon.
 
 At the same time, despite a generally expansive view of gender and religious
-calling, denominational leaders still at times fell back on more traditional
+calling, denominational leaders at times fell back on more traditional
 cultural norms in their attempt to gain followers. For example, despite himself
 having been convinced by his wife's visions, James White only rarely published
 her visions in the *Review and Herald* between 1850 and 1855, instead relying on
@@ -750,7 +750,7 @@ and divinely sanctioned method of medical care.
 
 During the summer of 1863, Ellen White received a vision that linked health with
 keeping God's law and identified water as "God's great medicine" for the
-treatment of disease.^[@Numbers2008, p. 132] The Whites', as well as others in
+treatment of disease.^[@Numbers2008, p. 132] The Whites, as well as others in
 the broader Adventist community, had a long history of embracing health reform
 and "water cure" treatments.^[Numbers cites the Grahamism and temperance work of
 Joseph Bates, the prevalence of the *Water-Cure Journal* with John Loughborough
@@ -800,7 +800,7 @@ development and the longer-term processes of preparing oneself for salvation.
 Much of this work was associated with women, with a heavy emphasis on the work
 of raising children and creating an environment that fostered spiritual
 development. In her 1864 *Appeal to Mothers*, a piece focused primarily on the
-evil of the "solitary vice" of masterbation, Ellen White comments,
+evil of the "solitary vice" of masturbation, Ellen White comments,
 
 >"My sisters, as mothers we are responsible in a great degree for the physical,
 >mental, and moral health of our children. We can do much by teaching them
@@ -1158,7 +1158,7 @@ of religious expression are symptomatic of a more general breakdown in the
 authority structure of the denomination. It is interesting to note that many of
 these challenges took place during the decade that Ellen White was in Australia,
 suggesting that it was not only James' but her influence that held the
-denomination together during those early years.] These "fanatical" movements
+denomination together during those early years.] These fanatical movements
 suggest an increase in end-times expectation and the perception of insufficiency
 in the received theological frameworks.
 
@@ -1400,7 +1400,7 @@ nurturing in the forms of health care, education over conquest, and
 perseverance in the face of persecution over religious triumph.^[@Bull2006, pp.
 259-260.] 
 
-Fluxuations in the intensity of their belief that the second coming was near at
+Fluctuations in the intensity of their belief that the second coming was near at
 hand, the core of their reorganization of time, resulted in shifting emphases
 around gender and the work of salvation. Through those shifts, Ellen White was
 key in articulating roles for women that kept women's labor, whether that was
