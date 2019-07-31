@@ -41,10 +41,10 @@ understanding of salvation and an expansive understanding of those called to
 share the message. Throughout these cycles, Ellen White repeatedly articulated a
 vision of the religious life that situated women's labor at the heart of the
 work of salvation, whether that was in giving testimony to the truth of the
-sabbath message, in creating healthy homes and habits for children, or in
-sharing the adventist message through selling denominational literature or
+sabbath message, creating healthy homes and habits for children, 
+sharing the adventist message through selling denominational literature, or
 working in the health institutions. However, as the prominence of end-times
-expectation waned over time, the language of domesticity and more male-centric
+expectation waned, the language of domesticity and more male-centric
 understandings of the work of salvation came to dominate the denominational
 literature.
 
