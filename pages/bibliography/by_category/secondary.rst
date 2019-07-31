@@ -8,8 +8,8 @@ Anderson, Benedict. *Imagined Communities: Reflections on the Origin and
 Spread of Nationalism*. Revised Edition. London; New York: Verso, 2006.
 
 Anderson, Godfrey T. “Sectarianism and Organization: 1846-1864.” In
-*Adventism in America: A History*, edited by Gary Land, 29–52. Berrien
-Springs, MI: Andrews University Press, 1998.
+*Adventism in America: A History*, edited by Gary Land, Revised
+Edition., 29–52. Berrien Springs, MI: Andrews University Press, 1998.
 
 Archives  Statistics  Research, Office of. “Seventh-Day Adventist World
 Church Statistics,” 2018.
@@ -40,9 +40,9 @@ Blei, David M. “Probabilistic Topic Models.” *Communications of the ACM*
 55, no. 4 (2012): 77–84.
 <http://dl.acm.org/citation.cfm?doid=2133806.2133826>.
 
-Blei, David M., and John D. Lafferty. *Dynamic Topic Models*. Edited by
-William Cohen and Andrew Moore. Vol. Proceedings of the 23rd
-international conference on Machine learning. New York: ACM Press, 2006.
+Blei, David M., and John D. Lafferty. “Dynamic Topic Models.”
+*Proceedings of the 23rd International Conference on Machine Learning*,
+2006, 113–20. <https://doi.org/10.1145/1143844.1143859>.
 
 Blevins, Cameron. “Topic Modeling Martha Ballard’s Diary,” 2010.
 <http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/>.
@@ -71,7 +71,7 @@ Brown, Candy Gunther. “Religious Periodicals and Their Textual
 Communities.” In *History of the Book in America, Vol 2*, edited by
 Scott E. Casper, Stephen W. Nissenbaum, and Jeffrey D. Groves, 270–78.
 University of North Carolina Press, 2007.
-[http://site.ebrary.com/lib/georgemason/reader.action?docID=10460908\\&ppg=270](http://site.ebrary.com/lib/georgemason/reader.action?docID=10460908\&ppg=270).
+<http://site.ebrary.com/lib/georgemason/reader.action?docID=10460908\&ppg=270>.
 
 ———. *Word in the World : Evangelical Writing, Publishing, and Reading
 in America, 1789-1880*. Chapel Hill: University of North Carolina Press,
@@ -81,7 +81,7 @@ in America, 1789-1880*. Chapel Hill: University of North Carolina Press,
 Bull, Malcolm, and Keith Lockhart. *Seeking a Sanctuary: Seventh-Day
 Adventism and the American Dream*. 2nd ed. Bloomington: Indiana
 University Press, 2006.
-<http://mutex.gmu.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1b349jq>.
+<http://www.jstor.org/stable/10.2307/j.ctt1b349jq>.
 
 Burton, Matt. “Blogs as Infrastructure for Scholarly Communication.”
 PhD thesis, University of Michigan, 2015.
@@ -111,8 +111,8 @@ Journal of Interpretation* 1, no. 1 (1991): 3–29.
 <http://www.jstor.org.mutex.gmu.edu/stable/1123904>.
 
 Butler, Jonathan, and Ronald Numbers. “The Historian as Heretic.” In
-*Prophetess of Health: A Study of Ellen White*. Grand Rapids, MI: Wm. B.
-Eerdmans Publishing Co., 2008.
+*Prophetess of Health: A Study of Ellen White*, Third Edition. Grand
+Rapids, MI: Wm. B. Eerdmans Publishing Co., 2008.
 
 Chang, Jonathan, Jordan Boyd-Graber, Sean Gerrish, Chong Wang, and David
 M. Blei. *Reading Tea Leaves: How Humans Interpret Topic Models*. Vol.
@@ -131,6 +131,10 @@ Edition. Oxford: Oxford University Press, 1990.
 Da, Nan Z. “The Computational Case Against Computational Literary
 Studies.” *Critical Inquiry* 45, no. 3 (2019): 601–39.
 <https://www.journals.uchicago.edu/doi/10.1086/702594>.
+
+Department of History and Art History. “Digital Dissertation Guidelines,”
+2019.
+<https://historyarthistory.gmu.edu/graduate/phd-history/digital-dissertation-guidelines>.
 
 Dick, Everett N. “The Millerite Movement, 1830-1845.” In *Adventism in
 America: A History*, edited by Gary Land. Berrien Springs, MI: Andrews
@@ -155,8 +159,8 @@ Evangelism, and Temperance in Nineteenth-Century America*. 1st ed.
 Middletown, Conn.: Irvington, N.Y: Wesleyan University Press ;
 distributed by Columbia University Press, 1981.
 
-Evershed, John, and Kent Fitch. *Correcting Noisy Ocr*. Edited by
-Apostolos Antonacopoulos and Klaus U. Schulz. New York: ACM Press, 2014.
+Evershed, John, and Kent Fitch. *Correcting Noisy Ocr: Context Beats
+Confusion*. New York: ACM Press, 2014.
 
 Finke, Roger, and Rodney Stark. *The Churching of America, 1776-1990:
 Winners and Losers in Our Religious Economy*. New Brunswick, N.J.:
@@ -210,10 +214,6 @@ no. 3 (1990): 418–34. <http://www.jstor.org/stable/2563621>.
 Hatch, Nathan O. *The Democratization of American Christianity*. New
 Haven: Yale University Press, 1989.
 
-History, Department of History, and Art. “Digital Dissertation
-Guidelines,” 2019.
-<https://historyarthistory.gmu.edu/graduate/phd-history/digital-dissertation-guidelines>.
-
 Hitchcock, Tim. “Confronting the Digital: Or How Academic History
 Writing Lost the Plot.” *Cultural and Social History* 10, no. 1 (2015):
 9–23.
@@ -256,35 +256,33 @@ Peabody’s Historical Visualization Work,” 2016.
 <http://shapeofhistory.net/>.
 
 Knight, George R. *Joseph Bates, the Real Founder of Seventh-Day
-Adventism*. Hagerstown, MD: Review; Herald Pub Assoc, 2004.
+Adventism*. Hagerstown, MD: Review Herald Publishing Association, 2004.
 
 Koester, Eric. “Inquiry Regarding Data from the Adventist Digital
-Library,” 2017.
+Library.” *Email*, 2017.
 
 Land, Gary. “Shaping the Modern Church, 1906-1930.” In *Adventism in
 America: A History*, edited by Gary Land, 113–37. Berrien Springs, MI:
 Andrews University Press, 1998.
 
 Lasko, Thomas A., and Susan E. Hauser. *Approximate String Matching
-Algorithms for Limited-Vocabulary Ocr Output Correction*. Vol. 4307,
-2001.
+Algorithms for Limited-Vocabulary Ocr Output Correction*, 2000.
 
 Leonard, Bill. *Baptists in America*. New York: Columbia University
 Press, 2005.
 
-Mantyla, Mika V., Maelick Claes, and Umar Farooq. *Measuring Lda Topic
-Stability from Clusters of Replicated Runs*. Edited by Markku Oivo,
-Daniel Méndez, and Audris Mockus. Vol. the 12th ACM/IEEE International
-Symposium. New York, New York, USA: ACM Press, 2018.
+Mantyla, Mika V., Maelick Claes, and Umar Farooq. “Measuring Lda Topic
+Stability from Clusters of Replicated Runs.” *Proceedings of the 12th
+ACM/IEEE International Symposium on Empirical Software Engineering and
+Measurement*, 2018, 1–5. <https://doi.org/10.1145/3239235.3267435>.
 
 McGraw, Paul, and Gilbert Valentine. “Legacy.” In *Ellen Harmon White:
 American Prophet*, edited by Terrie Dopp Aamodt, Gary Land, and Ronald
 L. Numbers. New York: Oxford University Press, 2014.
 
 McLoughlin, William G. *Revivals, Awakening and Reform: An Essay on
-Religious and Social Change in America, 1607-1977*. Ebook. University of
-Chicago Press, 2013.
-[Revivals, Awakening and Reform: An Essay on Religious and Social Change in America, 1607-1977](Revivals, Awakening and Reform: An Essay on Religious and Social Change in America, 1607-1977).
+Religious and Social Change in America, 1607-1977*. Chicago: University
+of Chicago Press, 2013.
 
 Milligan, Ian. “Illusionary Order: Online Databases, Optical Character
 Recognition, and Canadian History, 1997–2010.” *The Canadian Historical
@@ -309,14 +307,13 @@ Bulletin* 6, no. 3 (2017): Article 5.
 [https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=\\&httpsredir=1\\&article=1124\\&context=artlas](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=\&httpsredir=1\&article=1124\&context=artlas).
 
 Moshi, Gudila Paul, Lazaro S. P. Busagala, Wataru Ohyama, Tetsushi
-Wakabayashi, and Fumitaka Kimura. *An Impact of Linguistic Features on
-Automated Classification of Ocr Texts*. Edited by David Doermann, Venu
-Govindaraju, Daniel Lopresti, and Prem Natarajan. Vol. the 8th IAPR
-International Workshop. New York, New York, USA: ACM Press, 2010.
+Wakabayashi, and Fumitaka Kimura. “An Impact of Linguistic Features on
+Automated Classification of Ocr Texts.” *Proceedings of the 9th IAPR
+International Workshop on Document Analysis Systems*, 2010, 287–92.
+<https://dl.acm.org/citation.cfm?doid=1815330.1815367>.
 
 Murphy, Patricia. *Time Is of the Essence : Temporality, Gender, and the
 New Woman*. Albany, NY: State University of New York Press, 2001.
-<http://magik.gmu.edu/cgi-bin/Pwebrecon.cgi?BBID=983921>.
 
 Nelson, Robert K. “Mining the Dispatch,” 2007.
 <http://dsl.richmond.edu/dispatch/pages/home>.
@@ -342,22 +339,25 @@ Numbers, Ronald L., and Rennie B. Schoepflin. “Science and Medicine.” In
 Gary Land, and Ronald L. Numbers. New York: Oxford University Press,
 2014.
 
-O’Connor, Brendan, David Bamman, and Noah A. Smith. *Computational Text
-Analysis for Social Science: Model Assumptions and Complexity*, 2011.
+O’Connor, Brendan, David Bamman, and Noah A. Smith. “Computational Text
+Analysis for Social Science: Model Assumptions and Complexity.” *Second
+NIPS Workshop on Computational Social Science and the Wisdom of Crowds*,
+2011.
+<https://homes.cs.washington.edu/~nasmith/papers/oconnor+bamman+smith.nips-ws11.pdf>.
 
-O’Malley, Michael. *Keeping Watch : A History of American Time*. New
+O’Malley, Michael. *Keeping Watch: A History of American Time*. New
 York: Penguin Books, 1990.
 
 Packer, Thomas L, Joshua F Lutes, Aaron P Stewart, David W Embley, Eric
 K Ringger, Kevin D Seppi, and Lee S Jensen. “Extracting Person Names
 from Diverse and Noisy Ocr Text.” *Proceedings of the Fourth Workshop on
 Analytics for Noisy Unstructured Text Data*, 2010, 19–26.
-<http://www.researchgate.net/profile/Thomas_Packer/publication/220774817_Extracting_person_names_from_diverse_and_noisy_OCR_text/links/0912f5136371c15023000000.pdf>.
+<https://doi.org/10.1145/1871840.1871845>.
 
-Packer, Thomas L. *Performing Information Extraction to Improve Ocr
-Error Detection in Semi-Structured Historical Documents*. Edited by Bill
-Barrett, Michael S. Brown, R. Manmatha, and Jake Gehring. New York: ACM
-Press, 2011.
+Packer, Thomas L. “Performing Information Extraction to Improve Ocr
+Error Detection in Semi-Structured Historical Documents.” *Proceedings
+of the 2011 Workshop on Historical Document Imaging and Processing*,
+2011, 67. <https://dl.acm.org/citation.cfm?id=2037354>.
 
 Pascoe, Peggy. *Relations of Rescue: The Search for Female Moral
 Authority in the American West, 1874-1939*. New York: Oxford University
@@ -386,7 +386,10 @@ the American Statistical Association* 111, no. 515 (2016): 988–1003.
 <https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1141684>.
 
 Roberts, Molly, Brandon Stewart, Dustin Tingley, and Edoardo M. Airoldi.
-*The Structural Topic Model and Applied Social Science*, 2013.
+“The Structural Topic Model and Applied Social Science.” *NIPS 2013
+Workshop on Topic Models: Computation, Application, and Evaluation*,
+2013.
+<https://scholar.princeton.edu/files/bstewart/files/stmnips2013.pdf>.
 
 Robertson, Stephen, and Lincoln A. Mullen, eds. “Digital History and
 Argument,” 2017.
@@ -409,7 +412,7 @@ and Society in Mid-Nineteenth-Century America*, edited by Edwin S.
 Gaustad. New York; Evanston; San Francisco; London: Harper & Row, 1974.
 
 Sarno, C., and H. Shoemaker. “Church, Sect, or Cult? The Curious Case of
-Harold Campings Family Radio and the May 21 Movement.” *Nova Religio:
+Harold Camping’s Family Radio and the May 21 Movement.” *Nova Religio:
 The Journal of Alternative and Emergent Religions* 19, no. 3 (2016):
 6–30. <http://nr.ucpress.edu/cgi/doi/10.1525/nr.2016.19.3.6>.
 
@@ -426,12 +429,12 @@ Corpora,” 2018. <http://creatingdata.us/techne/bibliographies/>.
 
 ———. “Words Alone: Dismantling Topic Models in the Humanities.” *Journal
 of Digital Humanities*, 2013.
-[http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ internal-pdf://7981/words-alone-by-benjamin-m-schmidt.html](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/ internal-pdf://7981/words-alone-by-benjamin-m-schmidt.html).
+<http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/>.
 
 Schoepflin, Rennie B. “Review: “Seventh-Day Adventism in Crisis: Gender
 and Sectarian Change in an Emerging Religion by Laura L. Vance.” *Church
 History* 72, no. 4 (2003): 908–9.
-[https://www-jstor-org.mutex.gmu.edu/stable/pdf/4146403.pdf?ab\_segments=0\\%2Fdefault-2\\%2Fcontrol\\&refreqid=search\\%3Aad3d18b548073afc100786357658159d](https://www-jstor-org.mutex.gmu.edu/stable/pdf/4146403.pdf?ab_segments=0\%2Fdefault-2\%2Fcontrol\&refreqid=search\%3Aad3d18b548073afc100786357658159d).
+<https://www.jstor.org/stable/4146403>.
 
 Schwarz, Richard William. “The Perils of Growth, 1886-1905.” In
 *Adventism in America: A History*, edited by Gary Land, 77–112. Berrien
@@ -486,7 +489,7 @@ Torget, Andrew J., Rada Mihalcea, Jon Christensen, and Geoff McGhee.
 the Research Potential of Historical Newspapers.” *Mapping Texts*, 2011.
 <http://mappingtexts.org/whitepaper/MappingTexts_WhitePaper.pdf>.
 
-Townsend, Robert B. *History’s Babel : Scholarship, Professionalization,
+Townsend, Robert B. *History’s Babel: Scholarship, Professionalization,
 and the Historical Enterprise in the United States, 1880 - 1940*.
 Chicago: University of Chicago Press, 2012.
 
@@ -523,11 +526,14 @@ Institute for Early American History; Culture by the University of North
 Carolina Press, 1997.
 
 Walker, Daniel, William Lund, and Eric Ringger. “Evaluating Models of
-Latent Document Semantics in the Presence of Ocr Errors.” *All Faculty
-Publications*, 2010. <http://scholarsarchive.byu.edu/facpub/1648>.
+Latent Document Semantics in the Presence of Ocr Errors.” *Proceedings
+of the 2010 Conference on Empirical Methods in Natural Language
+Processing*, 2010, 240–50. <http://hdl.lib.byu.edu/1877/3561>.
 
-Wallach, Hanna M., David M. Mimno, and Andrew McCallum. *Rethinking Lda:
-Why Priors Matter*. Vol. 22. Curran Associates, Inc., 2009.
+Wallach, Hanna M., David M. Mimno, and Andrew McCallum. “Rethinking Lda:
+Why Priors Matter.” *Neural Information Processing Systems 2009* 22
+(2009): 1973–81.
+<https://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter>.
 
 Welter, Barbara. “The Cult of True Womanhood: 1820-1860.” *American
 Quarterly* 18, no. 2 (1966): 151–74.

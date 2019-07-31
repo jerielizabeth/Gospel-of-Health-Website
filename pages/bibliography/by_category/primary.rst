@@ -17,7 +17,7 @@ Arnold, David. “The Shut Door Explained.” *The Present Truth* 1, no. 6
 Bates, Joseph, and James Springer White. *The Early Life and Later
 Experience and Labors of Elder Joseph Bates*. Battle Creek, MI: Steam
 Press of the Seventh-day Adventist Publishing Association, 1877.
-[https://www.adventistdigitallibrary.org/adl-366576/early-life-and-later-experience-and-labors-elder-joseph-bates?solr\_nav\\%5Bid\\%5D=c62cab1951275e32383b\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=0](https://www.adventistdigitallibrary.org/adl-366576/early-life-and-later-experience-and-labors-elder-joseph-bates?solr_nav\%5Bid\%5D=c62cab1951275e32383b\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=0).
+<https://www.adventistdigitallibrary.org/adl-366576/early-life-and-later-experience-and-labors-elder-joseph-bates?solr_nav\%5Bid\%5D=c62cab1951275e32383b\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=0>.
 
 Bates, Joseph, J.H. Waggoner, and M.E. Cornell. “Address of the
 Conference Assembled at Battle Creek, Mich., Nov. 16th, 1855.” *The
@@ -57,14 +57,14 @@ Auburn: Henry Oliphant, 1850.
 <http://documents.adventistarchives.org/Periodicals/PT-AR/PT-AR-Part4-SP.pdf>.
 
 Everitt, E. F. “Group Posing at the Eagle Lake Campmeeting,” 1875.
-[https://adventistdigitallibrary.org/adl-424027/group-posing-eagle-lake-campmeeting?solr\_nav\\%5Bid\\%5D=89ca3a39beb9026af247\\&solr\_nav\\%5Bpage\\%5D=1\\&solr\_nav\\%5Boffset\\%5D=3](https://adventistdigitallibrary.org/adl-424027/group-posing-eagle-lake-campmeeting?solr_nav\%5Bid\%5D=89ca3a39beb9026af247\&solr_nav\%5Bpage\%5D=1\&solr_nav\%5Boffset\%5D=3).
+<https://adventistdigitallibrary.org/adl-424027/group-posing-eagle-lake-campmeeting?solr_nav\%5Bid\%5D=89ca3a39beb9026af247\&solr_nav\%5Bpage\%5D=1\&solr_nav\%5Boffset\%5D=3>.
 
 Fawcett, John. “Blest Be the Tie That Binds,” 1782.
 <http://hymnary.org/text/blest_be_the_tie_that_binds>.
 
 Fitch, Charles. “A Chronological Chart of the Visions of Daniel and
 John.” Boston, Massachusetts, USA, 1843.
-[https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john?solr\_nav\\%5Bid\\%5D=a7baca194fed8926940a\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=1](https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john?solr_nav\%5Bid\%5D=a7baca194fed8926940a\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=1).
+<https://adventistdigitallibrary.org/adl-421834/chronological-chart-visions-daniel-and-john?solr_nav\%5Bid\%5D=a7baca194fed8926940a\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=1>.
 
 G. “The Blunders of Geologists.” *Advent Review and Sabbath Herald* 26,
 no. 21 (1865): 161–62.
@@ -107,7 +107,7 @@ Herald* 15, no. 16 (1860): 125.
 
 Miller, William. “Chronological Chart of the World to Which Is Added, a
 Chart of Daniel’s Visions.” Boston, Massachusetts, USA, 1842.
-[https://adventistdigitallibrary.org/adl-421835/chronological-chart-world?solr\_nav\\%5Bid\\%5D=eb026c7ac9cf30c06081\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=2](https://adventistdigitallibrary.org/adl-421835/chronological-chart-world?solr_nav\%5Bid\%5D=eb026c7ac9cf30c06081\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2).
+<https://adventistdigitallibrary.org/adl-421835/chronological-chart-world?solr_nav\%5Bid\%5D=eb026c7ac9cf30c06081\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2>.
 
 ———. “Mr. Miller’s Apology and Defense.” *The Advent Herald and Morning
 Watch* 10, no. 1 (1845): 1–6.
@@ -116,8 +116,8 @@ Watch* 10, no. 1 (1845): 1–6.
 Ministry, Adventist Heritage. “Adventist Heritage : Welcome to Adventist
 Heritage Ministry,” 2018. <http://www.adventistheritage.org/>.
 
-Palmer, D.R., Henry Lyon, and Cyrenus Smith. “General Conferences.” *The
-Advent Review and Sabbath Herald* 7, no. 8 (1855): 64.
+Palmer, D.R., Henry Lyon, and Cyrenius Smith. “General Conferences.”
+*The Advent Review and Sabbath Herald* 7, no. 8 (1855): 64.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18551016-V07-08.pdf>.
 
 “Petition to Congress.” *Liberty Magazine* 8, no. 3 (1913): 141.
@@ -138,7 +138,7 @@ Adventists, 1915.
 <http://documents.adventistarchives.org/Statistics/ASR/ASR1915.pdf>.
 
 ———, ed. *Year Book of the Seventh-Day Adventist Denomination*. Takoma
-Park, Washington, D.C.: Review & Herald Publishing Association, 1921.
+Park, Washington, D.C.: Review & Herald Publishing Association, 1921. <http://documents.adventistarchives.org/Yearbooks/YB1921.pdf>
 
 Sanderson, Emma G. “The Nobler Profession.” *Pacific Health Journal* 14,
 no. 7 (1899): 122–23.
@@ -148,7 +148,7 @@ Smith, Uriah. “The United States in Prophecy.” *Advent Review and Herald
 of the Sabbath* 43, no. 22 (1874): 172.
 <http://documents.adventistarchives.org/Periodicals/RH/RH18740512-V43-22.pdf>.
 
-Snow, C.M. “Is This Armagedon? What Is the Battle of Armageddon and
+Snow, C.M. “Is This Armageddon? What Is the Battle of Armageddon and
 Where Will It Be Fought?” *Liberty: A Magazine of Religious Freedom* 9,
 no. 4 (1914): 149–53.
 <http://documents.adventistarchives.org/Periodicals/LibM/LibM19141001-V09-04.pdf>.
@@ -253,7 +253,7 @@ Work.” *The Advent Review and Sabbath Herald* 52, no. 25 (1878): 193–94.
 ———. “An Appeal to Mothers.” In *Health, or, How to Live - Number Five*,
 11–13. Battle Creek, MI: Steam Press of the Seventh-day Adventist
 Publishing Association, 1865.
-[http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr\_nav\[id\]=35cb3a5de21b1aab3a46\\&solr\_nav\[page\]=0\\&solr\_nav\[offset\]=23](http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=23).
+<http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=23>.
 
 ———. *An Appeal to Mothers. The Great Cause of the Physical, Mental and
 Moral Ruin of Many of the Children of Our Time.* Battle Creek, MI: Steam
@@ -275,12 +275,12 @@ Press of the Seventh-day Adventist Publishing Association, 1864.
 ———. “Disease and Its Causes, Chapter Five.” In *Health, or, How to Live
 - Number Five*, 66–74. Battle Creek, MI: Steam Press of the Seventh-day
 Adventist Publishing Association, 1865.
-[http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr\_nav\[id\]=35cb3a5de21b1aab3a46\\&solr\_nav\[page\]=0\\&solr\_nav\[offset\]=23](http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=23).
+<http://adventistdigitallibrary.org/adl-422324/health-or-how-live-number-five?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=23>.
 
 ———. “Disease and Its Causes, Chapter Two.” In *Health, or, How to Live
 - Number Two*, 25–48. Battle Creek, MI: Steam Press of the Seventh-day
 Adventist Publishing Association, 1865.
-[http://adventistdigitallibrary.org/adl-422321/health-or-how-live-number-two?solr\_nav\[id\]=35cb3a5de21b1aab3a46\\&solr\_nav\[page\]=0\\&solr\_nav\[offset\]=19](http://adventistdigitallibrary.org/adl-422321/health-or-how-live-number-two?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=19).
+<http://adventistdigitallibrary.org/adl-422321/health-or-how-live-number-two?solr_nav[id]=35cb3a5de21b1aab3a46\&solr_nav[page]=0\&solr_nav[offset]=19>.
 
 ———. “Fashionable Life.” *The Health Reformer* 6, no. 2 (1871): 58–60.
 <http://documents.adventistarchives.org/Periodicals/HR/HR18710801-V06-02.pdf>.
@@ -299,7 +299,7 @@ James White, 1860.
 
 ———. *Testimonies for the Church*. Vol. 2. Oakland, CA: Pacific Press,
 1885.
-[https://www.adventistdigitallibrary.org/islandora/object/adl\\%3A22251694?solr\_nav\\%5Bid\\%5D=a3ff196b654b2f03784b\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=2](https://www.adventistdigitallibrary.org/islandora/object/adl\%3A22251694?solr_nav\%5Bid\%5D=a3ff196b654b2f03784b\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2).
+<https://www.adventistdigitallibrary.org/islandora/object/adl\%3A22251694?solr_nav\%5Bid\%5D=a3ff196b654b2f03784b\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2>.
 
 ———. *Testimonies for the Church*. 1948th ed. Vol. 3. Mountain View, CA:
 Pacific Press Publishing Association, 1887.
@@ -307,29 +307,29 @@ Pacific Press Publishing Association, 1887.
 
 ———. *Testimonies for the Church*. Vol. 8 (No. 36). Kansas City, MO;
 Oakland, CA; Portland, OR: Pacific Press Publishing Company, 1904.
-[https://books.google.com/books?id=0F5GAAAAYAAJ\\&printsec=frontcover\\&dq=inauthor:\\%22Ellen+Gould+Harmon+White\\%22+testamonies\\&hl=en\\&sa=X\\&ved=0ahUKEwji0Kj\_so3aAhWnhlQKHQnLCG0Q6AEILzAB\\\#v=onepage\\&q=inauthor\\%3A\\%22Ellen\\%20Gould\\%20Harmon\\%20White\\%22\\%20testamonies\\&f=false](https://books.google.com/books?id=0F5GAAAAYAAJ\&printsec=frontcover\&dq=inauthor:\%22Ellen+Gould+Harmon+White\%22+testamonies\&hl=en\&sa=X\&ved=0ahUKEwji0Kj_so3aAhWnhlQKHQnLCG0Q6AEILzAB\#v=onepage\&q=inauthor\%3A\%22Ellen\%20Gould\%20Harmon\%20White\%22\%20testamonies\&f=false).
+<https://books.google.com/books?id=0F5GAAAAYAAJ\&printsec=frontcover\&dq=inauthor:\%22Ellen+Gould+Harmon+White\%22+testamonies\&hl=en\&sa=X\&ved=0ahUKEwji0Kj_so3aAhWnhlQKHQnLCG0Q6AEILzAB\#v=onepage\&q=inauthor\%3A\%22Ellen\%20Gould\%20Harmon\%20White\%22\%20testamonies\&f=false>.
 
 ———. *The Testimonies for the Church Nos. 1-11*. Battle Creek, MI: Steam
 Press of the Seventh-day Adventist Publishing Association, 1871.
-[https://www.adventistdigitallibrary.org/islandora/object/adl\\%3A22251235?solr\_nav\\%5Bid\\%5D=69a4707298a970211b59\\&solr\_nav\\%5Bpage\\%5D=0\\&solr\_nav\\%5Boffset\\%5D=2](https://www.adventistdigitallibrary.org/islandora/object/adl\%3A22251235?solr_nav\%5Bid\%5D=69a4707298a970211b59\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2).
+<https://www.adventistdigitallibrary.org/islandora/object/adl\%3A22251235?solr_nav\%5Bid\%5D=69a4707298a970211b59\&solr_nav\%5Bpage\%5D=0\&solr_nav\%5Boffset\%5D=2>.
 
 ———. “Women as Missionaries.” *The Advent Review and Sabbath Herald* 91,
 no. 52 (1914): 3–4.
 <http://documents.adventistarchives.org/Periodicals/RH/RH19141210-V91-52.pdf>.
 
-White, Ellen Gould Harmon, and Joseph Bates. *A Vision*. Vol. 1 (1).
-Topsham, ME: Benjamin Lindsey, 1847.
-[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=51451409\\&site=ehost-live\\&kw=true\\&acc=false\\&lpId=divl1\\&ppId=divp1\\&twPV=null\\&xOff=0\\&yOff=0\\&zm=fit\\&fs=null\\&rot=0\\&docMapOpen=true\\&pageMapOpen=true](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=51451409\&site=ehost-live\&kw=true\&acc=false\&lpId=divl1\&ppId=divp1\&twPV=null\&xOff=0\&yOff=0\&zm=fit\&fs=null\&rot=0\&docMapOpen=true\&pageMapOpen=true).
+White, Ellen Gould Harmon, and Joseph Bates. *A Vision*. American
+Antiquarian Society (AAS) Historical Periodicals Collection: Series 3.
+Vol. 1 (1). Topsham, ME: Benjamin Lindsey, 1847.
 
 White, J.S. “Definite Time.” *Advent Herald*, 1846, 150.
-[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=44791883\\&site=ehost-live](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=44791883\&site=ehost-live).
+American Antiquarian Society (AAS) Historical Periodicals Collection: Series 3.
 
 ———. “Letter from Bro. J.S. White.” *Advent Herald*, 1846.
-[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=45049284\\&site=ehost-live\\&kw=true\\&acc=false\\&lpId=divl21\\&ppId=divp1\\&twPV=null\\&xOff=0\\&yOff=0\\&zm=2\\&fs=null\\&rot=0\\&docMapOpen=true\\&pageMapOpen=true](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=45049284\&site=ehost-live\&kw=true\&acc=false\&lpId=divl21\&ppId=divp1\&twPV=null\&xOff=0\&yOff=0\&zm=2\&fs=null\&rot=0\&docMapOpen=true\&pageMapOpen=true).
+American Antiquarian Society (AAS) Historical Periodicals Collection: Series 3.
 
 ———. “The Times of Restitution.” *Second Advent Watchman* 3, no. 23
 (1852): 180.
-[http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=h9j\\&AN=60417598\\&site=ehost-live](http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=h9j\&AN=60417598\&site=ehost-live).
+American Antiquarian Society (AAS) Historical Periodicals Collection: Series 3.
 
 White, James. “Battle Creek Conference.” *Advent Review and Sabbath
 Herald* 16, no. 17 (1860): 136.
