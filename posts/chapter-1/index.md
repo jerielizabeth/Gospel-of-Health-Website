@@ -78,7 +78,7 @@ between religion and gender within nineteenth-century America, and particularly
 on the role of end-times expectation in the cultural development of religious
 movements. 
 
-The development of Seventh-day Adventism offers a unique opportunity to examine
+The development of Seventh-day Adventism presents a unique opportunity to examine
 the relationship between end-times beliefs and religious culture in American
 history, particularly as seen in ideas about gender, health, and salvation. On
 the one hand, Seventh-day Adventism fits many of the patterns that marked
@@ -983,7 +983,7 @@ the divine plan. Whereas most Protestant and revivalist groups of the nineteenth
 century interpreted the American revolution and the creation of the United
 States as a key positive development in the unfolding of divine history, early
 Seventh-day Adventists adopted an opposing interpretation. While the United
-States still featured as a key player in the events of the last day, the role of
+States still featured as a key player in the events of the last days, the role of
 the nation was as a persecutor of the saints, rather than as a positive force
 bringing about the millennium. Interpreting the creatures described in the book
 of Revelation, SDA theologians identified the Roman Catholic Church as “the
