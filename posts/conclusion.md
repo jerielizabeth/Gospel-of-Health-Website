@@ -220,9 +220,9 @@ the scholarly object. This also is a format of scholarship that does not fit
 well into a text-first publishing framework but instead exist independently,
 raising questions of how to determine "publication" for academic settings.] 
 
-That said, the experience of attempting to re-examine the format and methods of
-historical analysis in history through a historical study of Seventh-day
-Adventism, while productive, has been a challenge. The range of questions and
+That said, the experience of re-examining the format and methods of
+historical analysis through a study of Seventh-day
+Adventism, while productive, has been challenging. The range of questions and
 problems involved in creating a digital dissertation such as this pushes the
 boundaries of what can, or should, be tackled within the scope of a
 dissertation, a credentialing work. This is in large part because working in
