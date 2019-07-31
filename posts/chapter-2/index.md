@@ -896,7 +896,7 @@ into OCR quality for the purpose of improving information retrieval for large
 scale digitized collections. This absence is both curious and not unexpected. On
 the one hand, the quality of the data is critically linked to the potential
 success of experiments using machine learning algorithms with historical data, a
-connection that it seems should weigh heavily on researchers minds. However, the
+connection that it seems should weigh heavily on researchers' minds. However, the
 work involved in diagnosing and addressing errors in character recognition is
 not trivial and has few rewards within the current academic structure. As a
 result, researchers interested in the intersection of computational text
