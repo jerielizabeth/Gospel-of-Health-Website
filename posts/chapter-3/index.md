@@ -674,7 +674,7 @@ preexisting topic models, and few historical projects currently start from such
 computational models.
 
 As a legal and religious institution, the Seventh-day Adventist church kept
-records of their formal meetings, documenting the business of the church, the
+records of its formal meetings, documenting the business of the church, the
 election of officers, and the passing of official resolutions that reflected and
 guided the positions of the denomination. These documents, which I included as
 part of the topic modeling corpus, provide a useful source for identifying the
