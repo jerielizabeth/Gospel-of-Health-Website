@@ -307,7 +307,7 @@ Pacific Press Publishing Association, 1887.
 
 ———. *Testimonies for the Church*. Vol. 8 (No. 36). Kansas City, MO;
 Oakland, CA; Portland, OR: Pacific Press Publishing Company, 1904.
-<https://books.google.com/books?id=0F5GAAAAYAAJ\&printsec=frontcover\&dq=inauthor:\%22Ellen+Gould+Harmon+White\%22+testamonies\&hl=en\&sa=X\&ved=0ahUKEwji0Kj_so3aAhWnhlQKHQnLCG0Q6AEILzAB\#v=onepage\&q=inauthor\%3A\%22Ellen\%20Gould\%20Harmon\%20White\%22\%20testamonies\&f=false>.
+<https://books.google.com/books?id=0F5GAAAAYAAJ&dq=inauthor%3A%22Ellen%20Gould%20Harmon%20White%22%20testamonies&pg=PR3#v=onepage&q&f=false>.
 
 ———. *The Testimonies for the Church Nos. 1-11*. Battle Creek, MI: Steam
 Press of the Seventh-day Adventist Publishing Association, 1871.
