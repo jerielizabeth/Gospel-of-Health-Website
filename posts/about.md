@@ -29,7 +29,7 @@ From automating the download of the denominational periodicals to visualizing th
 
 The topic model was created using [Mallet](http://mallet.cs.umass.edu/) through the command-line interface, as documented in the [Model](link://slug/readme-5) notebook. Some preprocessing steps, such as connecting noun phrases and the creation of the stopword list were completed using [Gensim](https://radimrehurek.com/gensim/). I analyzed the model with Python, using the [Pandas](https://pandas.pydata.org/), [Plotly](https://plot.ly/python/), and [pyLDAviz](https://github.com/bmabey/pyLDAvis) libraries for data analysis and visualization.
 
-A list of the major software libraries utilized in this project is available in the[bibliography](link://slug/biblio-main).
+A list of the major software libraries utilized in this project is available in the [bibliography](link://slug/biblio-main).
 
 ## Digital Interfaces
 
